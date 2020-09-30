@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,09/05/2015,18:30,Allianz Parque - Sao Paulo - SP,PAL,ATL,2,2
+1,09/05/2015,18:30,Arena Condá - Chapeco - SC,CHA,COR,2,1
+1,09/05/2015,21:00,Maracanã - Rio de Janeiro - RJ,FLU,JOI,1,0
+1,10/05/2015,11:00,Arena do Grêmio - Porto Alegre - RS,GRE,PON,3,3
+1,10/05/2015,16:00,Morumbi - Sao Paulo - SP,SAO,FLA,2,1
+1,10/05/2015,16:00,Arena Pantanal - Cuiaba - MT,CRU,COR,0,1
+1,10/05/2015,16:00,Arena da Baixada - Curitiba - PR,ATL,INT,3,0
+1,10/05/2015,16:00,Ilha do Retiro - Recife - PE,SPO,FIG,4,1
+1,10/05/2015,18:30,São Januário - Rio de Janeiro - RJ,VAS,GOI,0,0
+1,10/05/2015,18:30,Ressacada - Florianopolis - SC,AVA,SAN,1,1
+2,16/05/2015,18:30,Couto Pereira - Curitiba - PR,COR,GRE,2,0
+2,16/05/2015,18:30,Serra Dourada - Goiania - GO,GOI,ATL,2,0
+2,16/05/2015,21:00,Fonte Luminosa - Araraquara - SP,COR,CHA,1,0
+2,17/05/2015,11:00,Orlando Scarpelli - Florianopolis - SC,FIG,VAS,0,0
+2,17/05/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLA,SPO,2,2
+2,17/05/2015,16:00,Vila Belmiro - Santos - SP,SAN,CRU,1,0
+2,17/05/2015,16:00,Mané Garrincha - Brasilia - DF,ATL,FLU,4,1
+2,17/05/2015,18:30,Arena Joinville - Joinville - SC,JOI,PAL,0,0
+2,17/05/2015,18:30,Moisés Lucarelli - Campinas - SP,PON,SAO,1,0
+2,17/05/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,AVA,1,0
+3,23/05/2015,18:30,Morumbi - Sao Paulo - SP,SAO,JOI,3,0
+3,23/05/2015,18:30,São Januário - Rio de Janeiro - RJ,VAS,INT,1,1
+3,23/05/2015,21:00,Arena do Grêmio - Porto Alegre - RS,GRE,FIG,1,0
+3,24/05/2015,11:00,Allianz Parque - Sao Paulo - SP,PAL,GOI,0,1
+3,24/05/2015,16:00,Arena Condá - Chapeco - SC,CHA,SAN,1,0
+3,24/05/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLU,COR,0,0
+3,24/05/2015,16:00,Arena da Baixada - Curitiba - PR,ATL,ATL,1,0
+3,24/05/2015,16:00,Ressacada - Florianopolis - SC,AVA,FLA,2,1
+3,24/05/2015,18:30,Mineirão - Belo Horizonte - MG,CRU,PON,1,1
+3,24/05/2015,18:30,Ilha do Retiro - Recife - PE,SPO,COR,1,0
+4,30/05/2015,18:30,Moisés Lucarelli - Campinas - SP,PON,CHA,3,1
+4,30/05/2015,18:30,Couto Pereira - Curitiba - PR,COR,AVA,1,2
+4,30/05/2015,21:00,Arena Joinville - Joinville - SC,JOI,ATL,1,2
+4,31/05/2015,11:00,Vila Belmiro - Santos - SP,SAN,SPO,2,2
+4,31/05/2015,16:00,Serra Dourada - Goiania - GO,GOI,GRE,1,1
+4,31/05/2015,16:00,Independência - Belo Horizonte - MG,ATL,VAS,3,0
+4,31/05/2015,16:00,Beira-Rio - Porto Alegre - RS,INT,SAO,0,0
+4,31/05/2015,16:00,Arena Corinthians - Sao Paulo - SP,COR,PAL,0,2
+4,31/05/2015,18:30,Maracanã - Rio de Janeiro - RJ,FLA,FLU,2,3
+4,31/05/2015,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,CRU,2,1
+5,03/06/2015,19:30,São Januário - Rio de Janeiro - RJ,VAS,PON,0,3
+5,03/06/2015,19:30,Arena da Baixada - Curitiba - PR,ATL,FIG,1,0
+5,03/06/2015,19:30,Arena Condá - Chapeco - SC,CHA,JOI,2,0
+5,03/06/2015,21:00,Morumbi - Sao Paulo - SP,SAO,SAN,3,2
+5,03/06/2015,22:00,Arena do Grêmio - Porto Alegre - RS,GRE,COR,3,1
+5,03/06/2015,22:00,Mineirão - Belo Horizonte - MG,CRU,FLA,1,0
+5,03/06/2015,22:00,Ressacada - Florianopolis - SC,AVA,ATL,1,4
+5,04/06/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLU,COR,2,0
+5,04/06/2015,21:00,Ilha do Retiro - Recife - PE,SPO,GOI,1,0
+5,04/06/2015,21:00,Allianz Parque - Sao Paulo - SP,PAL,INT,1,1
+6,06/06/2015,18:30,Vila Belmiro - Santos - SP,SAN,PON,2,2
+6,06/06/2015,18:30,Maracanã - Rio de Janeiro - RJ,FLA,CHA,1,0
+6,06/06/2015,18:30,Independência - Belo Horizonte - MG,ATL,CRU,1,3
+6,06/06/2015,22:00,Morumbi - Sao Paulo - SP,SAO,GRE,2,0
+6,06/06/2015,22:00,Arena da Baixada - Curitiba - PR,ATL,VAS,2,0
+6,06/06/2015,22:00,Arena Joinville - Joinville - SC,JOI,COR,0,1
+6,07/06/2015,11:00,Beira-Rio - Porto Alegre - RS,INT,COR,2,0
+6,07/06/2015,19:30,Maracanã - Rio de Janeiro - RJ,FLU,SPO,0,0
+6,07/06/2015,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,PAL,2,1
+6,07/06/2015,19:30,Serra Dourada - Goiania - GO,GOI,AVA,0,1
+7,10/06/2015,19:30,Independência - Belo Horizonte - MG,ATL,SAN,2,2
+7,13/06/2015,16:30,Couto Pereira - Curitiba - PR,COR,FLA,0,1
+7,13/06/2015,16:30,Arena Condá - Chapeco - SC,CHA,SAO,0,1
+7,13/06/2015,16:30,Arena Corinthians - Sao Paulo - SP,COR,INT,2,1
+7,13/06/2015,21:00,São Januário - Rio de Janeiro - RJ,VAS,CRU,1,3
+7,13/06/2015,21:00,Ilha do Retiro - Recife - PE,SPO,JOI,2,1
+7,14/06/2015,11:00,Moisés Lucarelli - Campinas - SP,PON,GOI,0,0
+7,14/06/2015,16:00,Allianz Parque - Sao Paulo - SP,PAL,FLU,2,1
+7,14/06/2015,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,2,1
+7,14/06/2015,16:00,Ressacada - Florianopolis - SC,AVA,FIG,1,1
+8,18/06/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,INT,0,0
+8,20/06/2015,16:30,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,VAS,2,1
+8,20/06/2015,16:30,Vila Belmiro - Santos - SP,SAN,COR,1,0
+8,20/06/2015,16:30,Maracanã - Rio de Janeiro - RJ,FLA,ATL,0,2
+8,20/06/2015,21:00,Arena do Grêmio - Porto Alegre - RS,GRE,PAL,1,0
+8,21/06/2015,11:00,Mineirão - Belo Horizonte - MG,CRU,CHA,0,1
+8,21/06/2015,16:00,Morumbi - Sao Paulo - SP,SAO,AVA,1,1
+8,21/06/2015,16:00,Arena da Baixada - Curitiba - PR,ATL,COR,2,2
+8,21/06/2015,16:00,Arena Joinville - Joinville - SC,JOI,GOI,2,1
+8,24/06/2015,19:30,Maracanã - Rio de Janeiro - RJ,FLU,PON,2,0
+9,27/06/2015,16:00,Ressacada - Florianopolis - SC,AVA,GRE,1,2
+9,27/06/2015,16:00,Arena Condá - Chapeco - SC,CHA,SPO,1,1
+9,27/06/2015,21:00,Arena Corinthians - Sao Paulo - SP,COR,FIG,2,1
+9,28/06/2015,11:00,Mineirão - Belo Horizonte - MG,ATL,JOI,1,0
+9,28/06/2015,16:00,Serra Dourada - Goiania - GO,GOI,FLU,1,2
+9,28/06/2015,16:00,Moisés Lucarelli - Campinas - SP,PON,ATL,2,1
+9,28/06/2015,16:00,Couto Pereira - Curitiba - PR,COR,CRU,1,0
+9,28/06/2015,16:00,Allianz Parque - Sao Paulo - SP,PAL,SAO,4,0
+9,28/06/2015,18:30,Arena Pantanal - Cuiaba - MT,VAS,FLA,1,0
+9,28/06/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,SAN,1,0
+10,01/07/2015,19:30,São Januário - Rio de Janeiro - RJ,VAS,AVA,1,0
+10,01/07/2015,19:30,Ilha do Retiro - Recife - PE,SPO,INT,3,0
+10,01/07/2015,21:00,Allianz Parque - Sao Paulo - SP,PAL,CHA,2,0
+10,01/07/2015,21:00,Independência - Belo Horizonte - MG,ATL,COR,2,0
+10,01/07/2015,22:00,Arena Joinville - Joinville - SC,JOI,FLA,0,1
+10,01/07/2015,22:00,Arena da Baixada - Curitiba - PR,ATL,SAO,2,1
+10,01/07/2015,22:00,Arena do Grêmio - Porto Alegre - RS,GRE,CRU,1,0
+10,02/07/2015,19:30,Arena Corinthians - Sao Paulo - SP,COR,PON,2,0
+10,02/07/2015,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,GOI,3,1
+10,02/07/2015,21:00,Maracanã - Rio de Janeiro - RJ,FLU,SAN,2,1
+11,04/07/2015,15:00,Couto Pereira - Curitiba - PR,COR,JOI,0,0
+11,04/07/2015,21:00,Arena Condá - Chapeco - SC,CHA,VAS,1,0
+11,04/07/2015,21:00,Mineirão - Belo Horizonte - MG,CRU,ATL,2,0
+11,05/07/2015,11:00,Ressacada - Florianopolis - SC,AVA,SPO,2,2
+11,05/07/2015,16:00,Morumbi - Sao Paulo - SP,SAO,FLU,0,0
+11,05/07/2015,16:00,Vila Belmiro - Santos - SP,SAN,GRE,1,3
+11,05/07/2015,16:00,Serra Dourada - Goiania - GO,GOI,COR,0,0
+11,05/07/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,ATL,1,3
+11,05/07/2015,18:30,Maracanã - Rio de Janeiro - RJ,FLA,FIG,1,2
+11,05/07/2015,18:30,Arena Pantanal - Cuiaba - MT,PON,PAL,0,2
+12,08/07/2015,19:30,Couto Pereira - Curitiba - PR,COR,PON,0,0
+12,08/07/2015,19:30,Serra Dourada - Goiania - GO,GOI,SAN,4,1
+12,08/07/2015,19:30,Arena Condá - Chapeco - SC,CHA,GRE,1,0
+12,08/07/2015,21:00,Allianz Parque - Sao Paulo - SP,PAL,AVA,3,0
+12,08/07/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,JOI,0,2
+12,08/07/2015,22:00,Mané Garrincha - Brasilia - DF,VAS,SAO,0,4
+12,08/07/2015,22:00,Beira-Rio - Porto Alegre - RS,INT,FLA,1,2
+12,08/07/2015,22:00,Mineirão - Belo Horizonte - MG,ATL,SPO,2,1
+12,09/07/2015,19:30,Arena Corinthians - Sao Paulo - SP,COR,ATL,2,0
+12,09/07/2015,21:00,Maracanã - Rio de Janeiro - RJ,FLU,CRU,1,0
+13,11/07/2015,18:30,Arena do Grêmio - Porto Alegre - RS,GRE,VAS,2,0
+13,11/07/2015,18:30,Vila Belmiro - Santos - SP,SAN,FIG,3,0
+13,11/07/2015,21:00,Moisés Lucarelli - Campinas - SP,PON,ATL,0,2
+13,12/07/2015,11:00,Morumbi - Sao Paulo - SP,SAO,COR,3,1
+13,12/07/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLA,COR,0,3
+13,12/07/2015,16:00,Mineirão - Belo Horizonte - MG,CRU,GOI,1,0
+13,12/07/2015,16:00,Arena da Baixada - Curitiba - PR,ATL,FLU,1,2
+13,12/07/2015,16:00,Arena Joinville - Joinville - SC,JOI,INT,0,2
+13,12/07/2015,18:30,Ressacada - Florianopolis - SC,AVA,CHA,2,1
+13,12/07/2015,18:30,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,PAL,2,2
+14,18/07/2015,18:30,Maracanã - Rio de Janeiro - RJ,FLA,GRE,1,0
+14,18/07/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,GOI,2,1
+14,18/07/2015,21:00,Arena Corinthians - Sao Paulo - SP,COR,ATL,1,0
+14,19/07/2015,11:00,Arena da Baixada - Curitiba - PR,ATL,CHA,1,0
+14,19/07/2015,16:00,Allianz Parque - Sao Paulo - SP,PAL,SAN,1,0
+14,19/07/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLU,VAS,1,2
+14,19/07/2015,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,COR,0,0
+14,19/07/2015,16:00,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,SAO,2,0
+14,19/07/2015,18:30,Mineirão - Belo Horizonte - MG,CRU,AVA,1,1
+14,19/07/2015,18:30,Arena Joinville - Joinville - SC,JOI,PON,1,1
+15,25/07/2015,18:30,Ressacada - Florianopolis - SC,AVA,ATL,1,2
+15,25/07/2015,19:30,Arena do Grêmio - Porto Alegre - RS,GRE,SPO,1,1
+15,25/07/2015,21:00,Independência - Belo Horizonte - MG,ATL,FIG,1,0
+15,26/07/2015,11:00,Vila Belmiro - Santos - SP,SAN,JOI,2,0
+15,26/07/2015,11:00,Arena Condá - Chapeco - SC,CHA,FLU,2,1
+15,26/07/2015,16:00,Serra Dourada - Goiania - GO,GOI,FLA,0,1
+15,26/07/2015,16:00,Moisés Lucarelli - Campinas - SP,PON,INT,0,0
+15,26/07/2015,16:00,Couto Pereira - Curitiba - PR,COR,COR,1,1
+15,26/07/2015,16:00,Morumbi - Sao Paulo - SP,SAO,CRU,1,0
+15,26/07/2015,18:30,São Januário - Rio de Janeiro - RJ,VAS,PAL,1,4
+16,29/07/2015,22:00,Arena Corinthians - Sao Paulo - SP,COR,VAS,3,0
+16,29/07/2015,22:00,Mineirão - Belo Horizonte - MG,ATL,SAO,3,1
+16,01/08/2015,18:30,Maracanã - Rio de Janeiro - RJ,FLU,GRE,1,0
+16,02/08/2015,11:00,Allianz Parque - Sao Paulo - SP,PAL,ATL,0,1
+16,02/08/2015,11:00,Couto Pereira - Curitiba - PR,COR,GOI,1,1
+16,02/08/2015,16:00,Arena Joinville - Joinville - SC,JOI,AVA,2,0
+16,02/08/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLA,SAN,2,2
+16,02/08/2015,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,PON,3,1
+16,02/08/2015,16:00,Beira-Rio - Porto Alegre - RS,INT,CHA,0,0
+16,02/08/2015,18:30,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,CRU,0,0
+17,08/08/2015,18:30,Ressacada - Florianopolis - SC,AVA,FLU,1,0
+17,08/08/2015,21:00,Vila Belmiro - Santos - SP,SAN,COR,3,0
+17,09/08/2015,11:00,Arena da Baixada - Curitiba - PR,ATL,SPO,1,1
+17,09/08/2015,11:00,Maracanã - Rio de Janeiro - RJ,VAS,JOI,0,0
+17,09/08/2015,16:00,Serra Dourada - Goiania - GO,GOI,ATL,0,0
+17,09/08/2015,16:00,Mineirão - Belo Horizonte - MG,CRU,PAL,2,1
+17,09/08/2015,16:00,Moisés Lucarelli - Campinas - SP,PON,FLA,1,0
+17,09/08/2015,16:00,Morumbi - Sao Paulo - SP,SAO,COR,1,1
+17,09/08/2015,18:30,Arena Condá - Chapeco - SC,CHA,FIG,2,2
+17,09/08/2015,18:30,Arena do Grêmio - Porto Alegre - RS,GRE,INT,5,0
+18,12/08/2015,19:30,Maracanã - Rio de Janeiro - RJ,FLA,ATL,3,2
+18,12/08/2015,19:30,Couto Pereira - Curitiba - PR,COR,PAL,2,1
+18,12/08/2015,21:00,Serra Dourada - Goiania - GO,GOI,CHA,0,0
+18,12/08/2015,21:00,Vila Belmiro - Santos - SP,SAN,VAS,1,0
+18,12/08/2015,22:00,Arena Corinthians - Sao Paulo - SP,COR,SPO,4,3
+18,12/08/2015,22:00,Beira-Rio - Porto Alegre - RS,INT,FLU,1,0
+18,12/08/2015,22:00,Orlando Scarpelli - Florianopolis - SC,FIG,SAO,0,2
+18,13/08/2015,19:30,Moisés Lucarelli - Campinas - SP,PON,AVA,2,0
+18,13/08/2015,21:00,Arena Joinville - Joinville - SC,JOI,CRU,3,0
+18,13/08/2015,21:00,Mineirão - Belo Horizonte - MG,ATL,GRE,0,2
+19,15/08/2015,18:30,Maracanã - Rio de Janeiro - RJ,VAS,COR,0,1
+19,15/08/2015,18:30,Arena da Baixada - Curitiba - PR,ATL,SAN,0,0
+19,15/08/2015,21:00,Morumbi - Sao Paulo - SP,SAO,GOI,0,3
+19,16/08/2015,11:00,Allianz Parque - Sao Paulo - SP,PAL,FLA,4,2
+19,16/08/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLU,FIG,2,1
+19,16/08/2015,16:00,Mineirão - Belo Horizonte - MG,CRU,INT,0,0
+19,16/08/2015,16:00,Ressacada - Florianopolis - SC,AVA,COR,1,2
+19,16/08/2015,16:00,Ilha do Retiro - Recife - PE,SPO,PON,1,1
+19,16/08/2015,18:30,Arena do Grêmio - Porto Alegre - RS,GRE,JOI,2,1
+19,16/08/2015,18:30,Arena Condá - Chapeco - SC,CHA,ATL,2,1
+20,22/08/2015,18:30,Serra Dourada - Goiania - GO,GOI,VAS,3,0
+20,22/08/2015,18:30,Vila Belmiro - Santos - SP,SAN,AVA,5,2
+20,22/08/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,SPO,2,1
+20,23/08/2015,11:00,Moisés Lucarelli - Campinas - SP,PON,GRE,0,0
+20,23/08/2015,11:00,Couto Pereira - Curitiba - PR,COR,CHA,1,0
+20,23/08/2015,16:00,Arena Corinthians - Sao Paulo - SP,COR,CRU,3,0
+20,23/08/2015,16:00,Arena Joinville - Joinville - SC,JOI,FLU,2,1
+20,23/08/2015,16:00,Beira-Rio - Porto Alegre - RS,INT,ATL,2,0
+20,23/08/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLA,SAO,2,1
+20,23/08/2015,18:30,Independência - Belo Horizonte - MG,ATL,PAL,2,1
+21,29/08/2015,18:30,Maracanã - Rio de Janeiro - RJ,VAS,FIG,0,1
+21,29/08/2015,21:00,Morumbi - Sao Paulo - SP,SAO,PON,3,0
+21,30/08/2015,11:00,Ressacada - Florianopolis - SC,AVA,INT,3,0
+21,30/08/2015,11:00,Arena do Grêmio - Porto Alegre - RS,GRE,COR,0,0
+21,30/08/2015,16:00,Allianz Parque - Sao Paulo - SP,PAL,JOI,3,2
+21,30/08/2015,16:00,Arena Condá - Chapeco - SC,CHA,COR,1,3
+21,30/08/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLU,ATL,1,2
+21,30/08/2015,16:00,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,FLA,0,1
+21,30/08/2015,18:30,Mineirão - Belo Horizonte - MG,CRU,SAN,0,1
+21,30/08/2015,18:30,Arena da Baixada - Curitiba - PR,ATL,GOI,3,0
+22,02/09/2015,19:30,Moisés Lucarelli - Campinas - SP,PON,CRU,1,2
+22,02/09/2015,19:30,Beira-Rio - Porto Alegre - RS,INT,VAS,6,0
+22,02/09/2015,19:30,Arena Joinville - Joinville - SC,JOI,SAO,0,0
+22,02/09/2015,21:00,Arena das Dunas - Natal - RN,FLA,AVA,3,0
+22,02/09/2015,21:00,Independência - Belo Horizonte - MG,ATL,ATL,0,1
+22,02/09/2015,22:00,Couto Pereira - Curitiba - PR,COR,SPO,0,0
+22,02/09/2015,22:00,Serra Dourada - Goiania - GO,GOI,PAL,1,0
+22,02/09/2015,22:00,Arena Corinthians - Sao Paulo - SP,COR,FLU,2,0
+22,03/09/2015,19:30,Vila Belmiro - Santos - SP,SAN,CHA,3,1
+22,03/09/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,GRE,0,2
+23,05/09/2015,19:30,Morumbi - Sao Paulo - SP,SAO,INT,2,0
+23,05/09/2015,19:30,Maracanã - Rio de Janeiro - RJ,VAS,ATL,1,2
+23,05/09/2015,21:00,Arena da Baixada - Curitiba - PR,ATL,JOI,0,0
+23,06/09/2015,11:00,Mineirão - Belo Horizonte - MG,CRU,FIG,5,1
+23,06/09/2015,11:00,Arena Condá - Chapeco - SC,CHA,PON,0,0
+23,06/09/2015,16:00,Ressacada - Florianopolis - SC,AVA,COR,0,2
+23,06/09/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLU,FLA,1,3
+23,06/09/2015,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,GOI,2,1
+23,06/09/2015,16:00,Allianz Parque - Sao Paulo - SP,PAL,COR,3,3
+23,06/09/2015,18:30,Ilha do Retiro - Recife - PE,SPO,SAN,1,1
+24,09/09/2015,19:30,Beira-Rio - Porto Alegre - RS,INT,PAL,1,0
+24,09/09/2015,19:30,Independência - Belo Horizonte - MG,ATL,AVA,2,0
+24,09/09/2015,19:30,Moisés Lucarelli - Campinas - SP,PON,VAS,0,1
+24,09/09/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,ATL,1,1
+24,09/09/2015,22:00,Arena Corinthians - Sao Paulo - SP,COR,GRE,1,1
+24,09/09/2015,22:00,Vila Belmiro - Santos - SP,SAN,SAO,3,0
+24,09/09/2015,22:00,Couto Pereira - Curitiba - PR,COR,FLU,1,1
+24,10/09/2015,19:30,Serra Dourada - Goiania - GO,GOI,SPO,1,0
+24,10/09/2015,21:00,Maracanã - Rio de Janeiro - RJ,FLA,CRU,2,0
+24,10/09/2015,21:00,Arena Joinville - Joinville - SC,JOI,CHA,0,0
+25,12/09/2015,18:30,Couto Pereira - Curitiba - PR,COR,INT,0,1
+25,12/09/2015,21:00,Allianz Parque - Sao Paulo - SP,PAL,FIG,2,0
+25,13/09/2015,11:00,Arena Corinthians - Sao Paulo - SP,COR,JOI,3,0
+25,13/09/2015,11:00,Moisés Lucarelli - Campinas - SP,PON,SAN,3,1
+25,13/09/2015,16:00,Maracanã - Rio de Janeiro - RJ,VAS,ATL,2,0
+25,13/09/2015,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,SAO,1,2
+25,13/09/2015,16:00,Mineirão - Belo Horizonte - MG,CRU,ATL,1,1
+25,13/09/2015,16:00,Arena Condá - Chapeco - SC,CHA,FLA,1,3
+25,13/09/2015,18:30,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,FLU,1,0
+25,13/09/2015,18:30,Ressacada - Florianopolis - SC,AVA,GOI,2,1
+26,16/09/2015,19:30,Maracanã - Rio de Janeiro - RJ,FLU,PAL,1,4
+26,16/09/2015,19:30,Arena Joinville - Joinville - SC,JOI,SPO,1,1
+26,16/09/2015,19:30,Serra Dourada - Goiania - GO,GOI,PON,1,2
+26,16/09/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,AVA,0,1
+26,16/09/2015,21:00,Couto Pereira - Curitiba - PR,ATL,GRE,1,2
+26,16/09/2015,22:00,Vila Belmiro - Santos - SP,SAN,ATL,4,0
+26,16/09/2015,22:00,Beira-Rio - Porto Alegre - RS,INT,COR,2,1
+26,16/09/2015,22:00,Mineirão - Belo Horizonte - MG,CRU,VAS,2,2
+26,17/09/2015,19:30,Morumbi - Sao Paulo - SP,SAO,CHA,0,0
+26,17/09/2015,21:00,Mané Garrincha - Brasilia - DF,FLA,COR,0,2
+27,19/09/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,FIG,1,1
+27,19/09/2015,18:30,Pacaembu - Sao Paulo - SP,PAL,GRE,3,2
+27,19/09/2015,21:00,Moisés Lucarelli - Campinas - SP,PON,FLU,3,1
+27,20/09/2015,11:00,Arena Corinthians - Sao Paulo - SP,COR,SAN,2,0
+27,20/09/2015,11:00,Serra Dourada - Goiania - GO,GOI,JOI,3,0
+27,20/09/2015,16:00,Maracanã - Rio de Janeiro - RJ,VAS,SPO,2,1
+27,20/09/2015,16:00,Independência - Belo Horizonte - MG,ATL,FLA,4,1
+27,20/09/2015,16:00,Ressacada - Florianopolis - SC,AVA,SAO,2,1
+27,20/09/2015,18:30,Couto Pereira - Curitiba - PR,COR,ATL,2,0
+27,20/09/2015,18:30,Arena Condá - Chapeco - SC,CHA,CRU,0,2
+28,26/09/2015,18:30,Maracanã - Rio de Janeiro - RJ,FLU,GOI,2,0
+28,26/09/2015,21:00,Arena do Grêmio - Porto Alegre - RS,GRE,AVA,3,1
+28,27/09/2015,11:00,Arena da Baixada - Curitiba - PR,ATL,PON,1,2
+28,27/09/2015,11:00,Vila Belmiro - Santos - SP,SAN,INT,3,1
+28,27/09/2015,16:00,Morumbi - Sao Paulo - SP,SAO,PAL,1,1
+28,27/09/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLA,VAS,1,2
+28,27/09/2015,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,COR,1,3
+28,27/09/2015,16:00,Arena Joinville - Joinville - SC,JOI,ATL,2,2
+28,27/09/2015,18:30,Ilha do Retiro - Recife - PE,SPO,CHA,3,0
+28,27/09/2015,18:30,Mineirão - Belo Horizonte - MG,CRU,COR,2,0
+29,03/10/2015,18:30,Couto Pereira - Curitiba - PR,COR,ATL,0,3
+29,03/10/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,SPO,2,1
+29,03/10/2015,21:00,Morumbi - Sao Paulo - SP,SAO,ATL,1,0
+29,04/10/2015,11:00,Ressacada - Florianopolis - SC,AVA,VAS,1,1
+29,04/10/2015,11:00,Maracanã - Rio de Janeiro - RJ,FLA,JOI,2,0
+29,04/10/2015,16:00,Serra Dourada - Goiania - GO,GOI,FIG,2,3
+29,04/10/2015,16:00,Vila Belmiro - Santos - SP,SAN,FLU,3,1
+29,04/10/2015,16:00,Mineirão - Belo Horizonte - MG,CRU,GRE,0,0
+29,04/10/2015,16:00,Moisés Lucarelli - Campinas - SP,PON,COR,2,2
+29,04/10/2015,18:30,Arena Condá - Chapeco - SC,CHA,PAL,5,1
+30,14/10/2015,19:30,Ilha do Retiro - Recife - PE,SPO,AVA,3,0
+30,14/10/2015,19:30,Independência - Belo Horizonte - MG,ATL,INT,2,1
+30,14/10/2015,21:00,Allianz Parque - Sao Paulo - SP,PAL,PON,0,1
+30,14/10/2015,21:00,Arena Joinville - Joinville - SC,JOI,COR,3,1
+30,14/10/2015,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,FLA,3,0
+30,14/10/2015,22:00,Arena da Baixada - Curitiba - PR,ATL,CRU,2,2
+30,14/10/2015,22:00,Maracanã - Rio de Janeiro - RJ,FLU,SAO,2,0
+30,15/10/2015,19:30,Maracanã - Rio de Janeiro - RJ,VAS,CHA,1,1
+30,15/10/2015,19:30,Arena Corinthians - Sao Paulo - SP,COR,GOI,3,0
+30,15/10/2015,21:00,Arena do Grêmio - Porto Alegre - RS,GRE,SAN,1,0
+31,17/10/2015,18:30,Ressacada - Florianopolis - SC,AVA,PAL,1,3
+31,17/10/2015,21:00,Arena Joinville - Joinville - SC,JOI,FIG,1,0
+31,18/10/2015,11:00,Moisés Lucarelli - Campinas - SP,PON,COR,3,0
+31,18/10/2015,11:00,Mineirão - Belo Horizonte - MG,CRU,FLU,2,0
+31,18/10/2015,16:00,Maracanã - Rio de Janeiro - RJ,FLA,INT,0,1
+31,18/10/2015,16:00,Arena da Baixada - Curitiba - PR,ATL,COR,1,4
+31,18/10/2015,16:00,Morumbi - Sao Paulo - SP,SAO,VAS,2,2
+31,18/10/2015,17:00,Vila Belmiro - Santos - SP,SAN,GOI,3,1
+31,18/10/2015,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,CHA,2,3
+31,18/10/2015,18:30,Ilha do Retiro - Recife - PE,SPO,ATL,4,1
+32,24/10/2015,17:00,Maracanã - Rio de Janeiro - RJ,FLU,ATL,0,1
+32,24/10/2015,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,SAN,0,0
+32,24/10/2015,18:30,Beira-Rio - Porto Alegre - RS,INT,JOI,1,0
+32,24/10/2015,21:00,Pacaembu - Sao Paulo - SP,PAL,SPO,0,2
+32,25/10/2015,17:00,Arena Corinthians - Sao Paulo - SP,COR,FLA,1,0
+32,25/10/2015,17:00,Maracanã - Rio de Janeiro - RJ,VAS,GRE,0,0
+32,25/10/2015,17:00,Couto Pereira - Curitiba - PR,COR,SAO,1,2
+32,25/10/2015,17:00,Arena Condá - Chapeco - SC,CHA,AVA,0,0
+32,25/10/2015,18:00,Serra Dourada - Goiania - GO,GOI,CRU,0,1
+32,25/10/2015,19:30,Independência - Belo Horizonte - MG,ATL,PON,2,1
+33,31/10/2015,17:00,Morumbi - Sao Paulo - SP,SAO,SPO,3,0
+33,31/10/2015,19:30,Moisés Lucarelli - Campinas - SP,PON,JOI,1,0
+33,31/10/2015,19:30,Ressacada - Florianopolis - SC,AVA,CRU,1,1
+33,31/10/2015,21:00,Couto Pereira - Curitiba - PR,COR,FIG,1,1
+33,01/11/2015,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,FLA,2,0
+33,01/11/2015,17:00,Independência - Belo Horizonte - MG,ATL,COR,0,3
+33,01/11/2015,17:00,Vila Belmiro - Santos - SP,SAN,PAL,2,1
+33,01/11/2015,17:00,Arena Condá - Chapeco - SC,CHA,ATL,0,0
+33,01/11/2015,18:00,Nilton Santos - Rio de Janeiro - RJ,VAS,FLU,0,1
+33,01/11/2015,19:30,Serra Dourada - Goiania - GO,GOI,INT,2,1
+34,07/11/2015,17:00,Beira-Rio - Porto Alegre - RS,INT,PON,1,0
+34,07/11/2015,19:30,Arena Corinthians - Sao Paulo - SP,COR,COR,2,1
+34,07/11/2015,19:30,Arena da Baixada - Curitiba - PR,ATL,AVA,2,1
+34,07/11/2015,21:00,Maracanã - Rio de Janeiro - RJ,FLU,CHA,2,3
+34,08/11/2015,17:00,Allianz Parque - Sao Paulo - SP,PAL,VAS,0,2
+34,08/11/2015,17:00,Maracanã - Rio de Janeiro - RJ,FLA,GOI,4,1
+34,08/11/2015,17:00,Mineirão - Belo Horizonte - MG,CRU,SAO,2,1
+34,08/11/2015,17:00,Orlando Scarpelli - Florianopolis - SC,FIG,ATL,0,1
+34,08/11/2015,18:00,Arena Joinville - Joinville - SC,JOI,SAN,0,0
+34,08/11/2015,19:30,Ilha do Retiro - Recife - PE,SPO,GRE,1,0
+35,15/11/2015,17:00,Mineirão - Belo Horizonte - MG,CRU,SPO,3,0
+35,18/11/2015,19:30,Serra Dourada - Goiania - GO,GOI,COR,1,3
+35,18/11/2015,21:00,Arena da Baixada - Curitiba - PR,ATL,PAL,3,3
+35,18/11/2015,21:00,Moisés Lucarelli - Campinas - SP,PON,FIG,0,1
+35,18/11/2015,21:00,Ressacada - Florianopolis - SC,AVA,JOI,2,1
+35,19/11/2015,19:30,Arena do Grêmio - Porto Alegre - RS,GRE,FLU,1,0
+35,19/11/2015,19:30,Arena Condá - Chapeco - SC,CHA,INT,1,0
+35,19/11/2015,22:00,São Januário - Rio de Janeiro - RJ,VAS,COR,1,1
+35,19/11/2015,22:00,Morumbi - Sao Paulo - SP,SAO,ATL,4,2
+35,19/11/2015,22:00,Vila Belmiro - Santos - SP,SAN,FLA,0,0
+36,21/11/2015,19:30,Allianz Parque - Sao Paulo - SP,PAL,CRU,1,1
+36,22/11/2015,17:00,Arena Joinville - Joinville - SC,JOI,VAS,1,2
+36,22/11/2015,17:00,Arena Corinthians - Sao Paulo - SP,COR,SAO,6,1
+36,22/11/2015,17:00,Beira-Rio - Porto Alegre - RS,INT,GRE,1,0
+36,22/11/2015,17:00,Independência - Belo Horizonte - MG,ATL,GOI,2,2
+36,22/11/2015,17:00,Orlando Scarpelli - Florianopolis - SC,FIG,CHA,0,0
+36,22/11/2015,18:00,Mané Garrincha - Brasilia - DF,FLA,PON,1,1
+36,22/11/2015,19:30,Couto Pereira - Curitiba - PR,COR,SAN,1,0
+36,22/11/2015,19:30,Ilha do Retiro - Recife - PE,SPO,ATL,0,0
+36,22/11/2015,19:30,Kleber Andrade - Cariacica - ES,FLU,AVA,3,1
+37,28/11/2015,17:00,Morumbi - Sao Paulo - SP,SAO,FIG,3,2
+37,28/11/2015,19:30,Maracanã - Rio de Janeiro - RJ,FLU,INT,1,1
+37,28/11/2015,21:00,Ressacada - Florianopolis - SC,AVA,PON,1,0
+37,29/11/2015,17:00,Arena Pernambuco - Sao Lourenco da Mata - PE,SPO,COR,2,0
+37,29/11/2015,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,2,1
+37,29/11/2015,17:00,Mineirão - Belo Horizonte - MG,CRU,JOI,3,0
+37,29/11/2015,17:00,São Januário - Rio de Janeiro - RJ,VAS,SAN,1,0
+37,29/11/2015,18:00,Allianz Parque - Sao Paulo - SP,PAL,COR,0,2
+37,29/11/2015,18:00,Arena Condá - Chapeco - SC,CHA,GOI,1,3
+37,29/11/2015,19:30,Arena da Baixada - Curitiba - PR,ATL,FLA,3,0
+38,06/12/2015,17:00,Arena Corinthians - Sao Paulo - SP,COR,AVA,1,1
+38,06/12/2015,17:00,Vila Belmiro - Santos - SP,SAN,ATL,5,1
+38,06/12/2015,17:00,Moisés Lucarelli - Campinas - SP,PON,SPO,0,1
+38,06/12/2015,17:00,Maracanã - Rio de Janeiro - RJ,FLA,PAL,1,2
+38,06/12/2015,17:00,Beira-Rio - Porto Alegre - RS,INT,CRU,2,0
+38,06/12/2015,17:00,Mineirão - Belo Horizonte - MG,ATL,CHA,3,0
+38,06/12/2015,17:00,Orlando Scarpelli - Florianopolis - SC,FIG,FLU,1,0
+38,06/12/2015,17:00,Couto Pereira - Curitiba - PR,COR,VAS,0,0
+38,06/12/2015,17:00,Serra Dourada - Goiania - GO,GOI,SAO,0,1
+38,06/12/2015,17:00,Arena Joinville - Joinville - SC,JOI,GRE,0,2

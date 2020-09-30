@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,14/05/2016,16:00,Allianz Parque - Sao Paulo - SP,PAL,ATL,4,0
+1,14/05/2016,16:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,SPO,1,0
+1,14/05/2016,18:30,Independência - Belo Horizonte - MG,ATL,SAN,1,0
+1,14/05/2016,21:00,Couto Pereira - Curitiba - PR,COR,CRU,1,0
+1,15/05/2016,11:00,Raulino de Oliveira - Volta Redonda - RJ,BOT,SAO,0,1
+1,15/05/2016,11:00,Arruda - Recife - PE,SAN,VIT,4,1
+1,15/05/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,GRE,0,0
+1,15/05/2016,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,PON,0,0
+1,15/05/2016,16:00,Independência - Belo Horizonte - MG,AME,FLU,0,1
+1,15/05/2016,18:30,Beira Rio - Porto Alegre - RS,INT,CHA,0,0
+2,21/05/2016,16:00,Moisés Lucarelli - Campinas - SP,PON,PAL,2,1
+2,21/05/2016,18:30,Raulino de Oliveira - Volta Redonda - RJ,FLU,SAN,2,2
+2,21/05/2016,21:00,Mineirão - Belo Horizonte - MG,CRU,FIG,2,2
+2,22/05/2016,11:00,Arena da Baixada - Curitiba - PR,ATL,ATL,1,1
+2,22/05/2016,11:00,Vila Belmiro - Santos - SP,SAN,COR,2,1
+2,22/05/2016,16:00,Arena Condá - Chapeco - SC,CHA,AME,3,1
+2,22/05/2016,16:00,Morumbi - Sao Paulo - SP,SAO,INT,1,2
+2,22/05/2016,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,FLA,1,0
+2,22/05/2016,16:00,Manoel Barradas - Salvador - BA,VIT,COR,3,2
+2,22/05/2016,18:30,Ilha do Retiro - Recife - PE,SPO,BOT,1,1
+3,25/05/2016,19:30,Mário Helênio - Juiz de Fora - MG,BOT,ATL,2,1
+3,25/05/2016,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,SAN,2,2
+3,25/05/2016,21:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,CHA,2,2
+3,25/05/2016,21:00,Independência - Belo Horizonte - MG,AME,VIT,1,1
+3,25/05/2016,21:45,Couto Pereira - Curitiba - PR,COR,SAO,1,1
+3,25/05/2016,21:45,Arruda - Recife - PE,SAN,CRU,4,1
+3,25/05/2016,21:45,Allianz Parque - Sao Paulo - SP,PAL,FLU,2,0
+3,26/05/2016,11:00,Arena Corinthians - Sao Paulo - SP,COR,PON,3,0
+3,26/05/2016,16:00,Beira Rio - Porto Alegre - RS,INT,SPO,1,0
+3,26/05/2016,21:00,Independência - Belo Horizonte - MG,ATL,GRE,0,3
+4,28/05/2016,16:00,Mineirão - Belo Horizonte - MG,CRU,AME,1,1
+4,28/05/2016,18:30,Arena da Baixada - Curitiba - PR,ATL,FIG,2,1
+4,28/05/2016,21:00,Arena Condá - Chapeco - SC,CHA,SAN,1,1
+4,29/05/2016,11:00,Moisés Lucarelli - Campinas - SP,PON,FLA,1,2
+4,29/05/2016,11:00,Ilha do Retiro - Recife - PE,SPO,COR,0,2
+4,29/05/2016,16:00,Morumbi - Sao Paulo - SP,SAO,PAL,1,0
+4,29/05/2016,16:00,Raulino de Oliveira - Volta Redonda - RJ,FLU,BOT,1,0
+4,29/05/2016,16:00,Arena Fonte Nova - Salvador - BA,VIT,ATL,1,1
+4,29/05/2016,18:30,Arena do Grêmio - Porto Alegre - RS,GRE,COR,2,0
+4,29/05/2016,18:30,Vila Belmiro - Santos - SP,SAN,INT,0,1
+5,01/06/2016,19:30,Beira Rio - Porto Alegre - RS,INT,ATL,1,0
+5,01/06/2016,21:00,Durival Britto - Curitiba - PR,COR,CHA,3,4
+5,01/06/2016,21:00,Arruda - Recife - PE,SAN,SPO,0,1
+5,01/06/2016,21:00,Arena Corinthians - Sao Paulo - SP,COR,SAN,1,0
+5,01/06/2016,21:45,Mané Garrincha - Brasilia - DF,BOT,CRU,0,1
+5,01/06/2016,21:45,Orlando Scarpelli - Florianopolis - SC,FIG,SAO,1,0
+5,01/06/2016,21:45,Independência - Belo Horizonte - MG,ATL,FLU,1,1
+5,02/06/2016,19:30,Independência - Belo Horizonte - MG,AME,PON,1,2
+5,02/06/2016,21:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,VIT,1,0
+5,02/06/2016,21:00,Pacaembu - Sao Paulo - SP,PAL,GRE,4,3
+6,04/06/2016,16:00,Arena da Baixada - Curitiba - PR,ATL,SAN,1,0
+6,04/06/2016,20:30,Arena Condá - Chapeco - SC,CHA,FLU,0,0
+6,04/06/2016,20:30,Arena Corinthians - Sao Paulo - SP,COR,COR,2,1
+6,05/06/2016,11:00,Independência - Belo Horizonte - MG,AME,FIG,1,0
+6,05/06/2016,11:00,Pacaembu - Sao Paulo - SP,SAN,BOT,3,0
+6,05/06/2016,16:00,Mané Garrincha - Brasilia - DF,FLA,PAL,1,2
+6,05/06/2016,16:00,Manoel Barradas - Salvador - BA,VIT,INT,1,0
+6,05/06/2016,16:00,Ilha do Retiro - Recife - PE,SPO,ATL,4,4
+6,05/06/2016,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,PON,1,0
+6,05/06/2016,18:30,Mineirão - Belo Horizonte - MG,CRU,SAO,0,1
+7,11/06/2016,16:00,Beira Rio - Porto Alegre - RS,INT,AME,3,1
+7,11/06/2016,16:00,Moisés Lucarelli - Campinas - SP,PON,CHA,2,1
+7,11/06/2016,18:30,Raulino de Oliveira - Volta Redonda - RJ,FLU,GRE,1,1
+7,11/06/2016,21:00,Morumbi - Sao Paulo - SP,SAO,ATL,1,2
+7,12/06/2016,11:00,Couto Pereira - Curitiba - PR,COR,SPO,3,2
+7,12/06/2016,11:00,Raulino de Oliveira - Volta Redonda - RJ,BOT,VIT,1,1
+7,12/06/2016,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,FLA,1,0
+7,12/06/2016,16:00,Independência - Belo Horizonte - MG,ATL,CRU,2,3
+7,12/06/2016,16:00,Allianz Parque - Sao Paulo - SP,PAL,COR,1,0
+7,12/06/2016,19:00,Arruda - Recife - PE,SAN,SAN,0,2
+8,15/06/2016,19:30,Arena Condá - Chapeco - SC,CHA,GRE,3,3
+8,15/06/2016,19:30,Moisés Lucarelli - Campinas - SP,PON,ATL,3,2
+8,15/06/2016,19:30,Morumbi - Sao Paulo - SP,SAO,VIT,2,0
+8,15/06/2016,21:00,Vila Belmiro - Santos - SP,SAN,SPO,2,0
+8,15/06/2016,21:00,Arruda - Recife - PE,SAN,FIG,1,0
+8,15/06/2016,21:00,Raulino de Oliveira - Volta Redonda - RJ,BOT,AME,3,1
+8,15/06/2016,21:45,Mineirão - Belo Horizonte - MG,CRU,FLA,0,1
+8,15/06/2016,21:45,Couto Pereira - Curitiba - PR,COR,PAL,2,2
+8,16/06/2016,19:30,Beira Rio - Porto Alegre - RS,INT,ATL,2,0
+8,16/06/2016,20:00,Mané Garrincha - Brasilia - DF,FLU,COR,1,0
+9,18/06/2016,16:00,Allianz Parque - Sao Paulo - SP,PAL,SAN,3,1
+9,18/06/2016,18:00,Arena da Baixada - Curitiba - PR,ATL,SAN,1,0
+9,18/06/2016,21:00,Independência - Belo Horizonte - MG,AME,COR,2,1
+9,19/06/2016,11:00,Manoel Barradas - Salvador - BA,VIT,CHA,1,2
+9,19/06/2016,11:00,Independência - Belo Horizonte - MG,ATL,PON,3,0
+9,19/06/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,BOT,3,1
+9,19/06/2016,16:00,Mané Garrincha - Brasilia - DF,FLA,SAO,2,2
+9,19/06/2016,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,INT,3,2
+9,19/06/2016,16:00,Ilha do Retiro - Recife - PE,SPO,FLU,2,1
+9,19/06/2016,19:00,Arena do Grêmio - Porto Alegre - RS,GRE,CRU,2,0
+10,21/06/2016,21:30,Allianz Parque - Sao Paulo - SP,PAL,AME,2,0
+10,22/06/2016,19:30,Arena Condá - Chapeco - SC,CHA,ATL,0,0
+10,22/06/2016,19:30,Moisés Lucarelli - Campinas - SP,PON,CRU,0,4
+10,22/06/2016,21:00,Mário Helênio - Juiz de Fora - MG,BOT,FIG,0,0
+10,22/06/2016,21:00,Arruda - Recife - PE,SAN,FLA,0,1
+10,22/06/2016,21:45,Kleber Andrade - Cariacica - ES,FLU,SAN,2,4
+10,22/06/2016,21:45,Mineirão - Belo Horizonte - MG,ATL,COR,2,1
+10,23/06/2016,19:15,Arena do Grêmio - Porto Alegre - RS,GRE,VIT,1,2
+10,23/06/2016,21:00,Morumbi - Sao Paulo - SP,SAO,SPO,0,0
+10,23/06/2016,21:30,Couto Pereira - Curitiba - PR,COR,INT,1,1
+11,25/06/2016,19:00,Mineirão - Belo Horizonte - MG,CRU,PAL,2,1
+11,25/06/2016,21:00,Arena Corinthians - Sao Paulo - SP,COR,SAN,2,1
+11,26/06/2016,11:00,Independência - Belo Horizonte - MG,AME,ATL,0,1
+11,26/06/2016,16:00,Manoel Barradas - Salvador - BA,VIT,PON,1,1
+11,26/06/2016,16:00,Arena das Dunas  - Natal - RN,FLA,FLU,1,2
+11,26/06/2016,16:00,Pacaembu - Sao Paulo - SP,SAN,SAO,3,0
+11,26/06/2016,16:00,Beira Rio - Porto Alegre - RS,INT,BOT,2,3
+11,26/06/2016,16:00,Arena da Baixada - Curitiba - PR,ATL,GRE,2,0
+11,26/06/2016,18:30,Ilha do Retiro - Recife - PE,SPO,CHA,5,1
+11,26/06/2016,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,COR,0,0
+12,29/06/2016,19:30,Manoel Barradas - Salvador - BA,VIT,SPO,3,2
+12,29/06/2016,19:30,Arena do Grêmio - Porto Alegre - RS,GRE,SAN,3,2
+12,29/06/2016,19:30,Kleber Andrade - Cariacica - ES,FLA,INT,1,0
+12,29/06/2016,21:00,Arena Condá - Chapeco - SC,CHA,CRU,3,2
+12,29/06/2016,21:00,Couto Pereira - Curitiba - PR,COR,ATL,1,0
+12,29/06/2016,21:45,Morumbi - Sao Paulo - SP,SAO,FLU,2,1
+12,29/06/2016,21:45,Independência - Belo Horizonte - MG,AME,COR,0,2
+12,30/06/2016,19:30,Arruda - Recife - PE,SAN,PON,0,3
+12,30/06/2016,19:30,Allianz Parque - Sao Paulo - SP,PAL,FIG,4,0
+12,30/06/2016,21:00,Mineirão - Belo Horizonte - MG,ATL,BOT,5,3
+13,02/07/2016,16:00,Raulino de Oliveira - Volta Redonda - RJ,FLU,COR,0,0
+13,02/07/2016,18:30,Arena da Baixada - Curitiba - PR,ATL,AME,1,0
+13,03/07/2016,11:00,Mineirão - Belo Horizonte - MG,CRU,VIT,2,2
+13,03/07/2016,11:00,Beira Rio - Porto Alegre - RS,INT,GRE,0,1
+13,03/07/2016,16:00,Vila Belmiro - Santos - SP,SAN,CHA,3,0
+13,03/07/2016,16:00,Mário Helênio - Juiz de Fora - MG,BOT,SAN,2,1
+13,03/07/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,FLA,4,0
+13,03/07/2016,16:00,Moisés Lucarelli - Campinas - SP,PON,SAO,1,0
+13,03/07/2016,19:00,Orlando Scarpelli - Florianopolis - SC,FIG,ATL,1,1
+13,04/07/2016,20:00,Ilha do Retiro - Recife - PE,SPO,PAL,1,3
+14,09/07/2016,16:30,Couto Pereira - Curitiba - PR,COR,BOT,0,0
+14,09/07/2016,16:30,Arena Condá - Chapeco - SC,CHA,COR,0,2
+14,09/07/2016,21:00,Moisés Lucarelli - Campinas - SP,PON,SPO,2,1
+14,10/07/2016,11:00,Mané Garrincha - Brasilia - DF,FLA,ATL,2,0
+14,10/07/2016,11:00,Arena do Grêmio - Porto Alegre - RS,GRE,FIG,2,1
+14,10/07/2016,16:00,Morumbi - Sao Paulo - SP,SAO,AME,3,0
+14,10/07/2016,16:00,Arruda - Recife - PE,SAN,INT,1,0
+14,10/07/2016,19:30,Manoel Barradas - Salvador - BA,VIT,FLU,0,0
+14,11/07/2016,20:00,Mineirão - Belo Horizonte - MG,CRU,ATL,0,3
+14,12/07/2016,20:30,Allianz Parque - Sao Paulo - SP,PAL,SAN,1,1
+15,16/07/2016,16:00,Luso Brasileiro - Rio de Janeiro - RJ,BOT,FLA,3,3
+15,16/07/2016,18:30,Vila Belmiro - Santos - SP,SAN,PON,3,1
+15,17/07/2016,11:00,Independência - Belo Horizonte - MG,AME,SAN,0,3
+15,17/07/2016,16:00,Giulite Coutinho - Mesquita - RJ,FLU,CRU,2,0
+15,17/07/2016,16:00,Beira Rio - Porto Alegre - RS,INT,PAL,0,1
+15,17/07/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,SAO,1,1
+15,17/07/2016,16:00,Arena da Baixada - Curitiba - PR,ATL,VIT,1,1
+15,17/07/2016,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,CHA,1,1
+15,17/07/2016,18:30,Ilha do Retiro - Recife - PE,SPO,GRE,4,2
+15,18/07/2016,20:00,Independência - Belo Horizonte - MG,ATL,COR,2,1
+16,23/07/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,FIG,1,1
+16,23/07/2016,18:30,Arruda - Recife - PE,SAN,COR,0,1
+16,24/07/2016,11:00,Allianz Parque - Sao Paulo - SP,PAL,ATL,0,1
+16,24/07/2016,11:00,Moisés Lucarelli - Campinas - SP,PON,INT,2,2
+16,24/07/2016,16:00,Arena Condá - Chapeco - SC,CHA,BOT,2,1
+16,24/07/2016,16:00,Arena da Baixada - Curitiba - PR,ATL,FLU,1,0
+16,24/07/2016,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,SAO,1,0
+16,24/07/2016,16:00,Mineirão - Belo Horizonte - MG,CRU,SPO,1,2
+16,24/07/2016,18:30,Manoel Barradas - Salvador - BA,VIT,SAN,2,3
+16,25/07/2016,20:00,Kleber Andrade - Cariacica - ES,FLA,AME,2,1
+17,30/07/2016,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,VIT,1,0
+17,30/07/2016,18:30,Ilha do Retiro - Recife - PE,SPO,ATL,2,0
+17,30/07/2016,21:00,Independência - Belo Horizonte - MG,ATL,SAN,3,0
+17,31/07/2016,11:00,Giulite Coutinho - Mesquita - RJ,FLU,PON,3,0
+17,31/07/2016,11:00,Morumbi - Sao Paulo - SP,SAO,CHA,2,2
+17,31/07/2016,16:00,Vila Belmiro - Santos - SP,SAN,CRU,2,0
+17,31/07/2016,16:00,Beira Rio - Porto Alegre - RS,INT,COR,0,1
+17,31/07/2016,16:00,Couto Pereira - Curitiba - PR,COR,FLA,0,2
+17,31/07/2016,18:30,Luso Brasileiro - Rio de Janeiro - RJ,BOT,PAL,3,1
+17,31/07/2016,18:30,Independência - Belo Horizonte - MG,AME,GRE,0,0
+18,03/08/2016,19:30,Jóia da Princesa - Feira de Santana - BA,VIT,COR,3,1
+18,03/08/2016,19:30,Ilha do Retiro - Recife - PE,SPO,AME,1,1
+18,03/08/2016,21:45,Arena Pantanal - Cuiaba - MT,SAN,FLA,0,0
+18,03/08/2016,21:45,Arena da Baixada - Curitiba - PR,ATL,COR,2,0
+18,04/08/2016,19:15,Moisés Lucarelli - Campinas - SP,PON,BOT,2,0
+18,04/08/2016,19:30,Morumbi - Sao Paulo - SP,SAO,ATL,1,2
+18,04/08/2016,19:30,Arena do Grêmio - Porto Alegre - RS,GRE,SAN,0,0
+18,04/08/2016,21:00,Independência - Belo Horizonte - MG,CRU,INT,4,2
+18,04/08/2016,21:30,Arena Condá - Chapeco - SC,CHA,PAL,1,1
+18,03/09/2016,16:00,Giulite Coutinho - Mesquita - RJ,FLU,FIG,3,2
+19,06/08/2016,18:30,Kleber Andrade - Cariacica - ES,FLA,ATL,1,0
+19,07/08/2016,11:00,Independência - Belo Horizonte - MG,AME,SAN,1,0
+19,07/08/2016,16:00,Allianz Parque - Sao Paulo - SP,PAL,VIT,2,1
+19,07/08/2016,16:00,Couto Pereira - Curitiba - PR,COR,PON,3,1
+19,07/08/2016,16:15,Beira Rio - Porto Alegre - RS,INT,FLU,2,2
+19,07/08/2016,16:15,Arruda - Recife - PE,SAN,SAO,1,2
+19,07/08/2016,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,SPO,1,1
+19,08/08/2016,20:00,Independência - Belo Horizonte - MG,ATL,CHA,3,1
+19,08/08/2016,21:00,Pacaembu - Sao Paulo - SP,COR,CRU,1,1
+19,04/09/2016,16:00,Luso Brasileiro - Rio de Janeiro - RJ,BOT,GRE,2,1
+20,13/08/2016,16:00,Arena Pernambuco - São Lourenço da Mata - PE,SPO,FLA,1,0
+20,13/08/2016,18:30,Moisés Lucarelli - Campinas - SP,PON,FIG,2,0
+20,14/08/2016,11:00,Arena do Grêmio - Porto Alegre - RS,GRE,COR,3,0
+20,14/08/2016,11:00,Kleber Andrade - Cariacica - ES,FLU,AME,1,0
+20,14/08/2016,16:00,Independência - Belo Horizonte - MG,CRU,COR,2,2
+20,14/08/2016,16:00,Vila Belmiro - Santos - SP,SAN,ATL,3,0
+20,14/08/2016,16:00,Manoel Barradas - Salvador - BA,VIT,SAN,2,2
+20,14/08/2016,16:15,Morumbi - Sao Paulo - SP,SAO,BOT,0,1
+20,14/08/2016,18:30,Arena da Baixada - Curitiba - PR,ATL,PAL,0,1
+20,15/08/2016,20:00,Arena Condá - Chapeco - SC,CHA,INT,1,0
+21,19/08/2016,21:30,Independência - Belo Horizonte - MG,AME,CHA,1,2
+21,20/08/2016,21:00,Mário Helênio - Juiz de Fora - MG,BOT,SPO,3,0
+21,21/08/2016,11:00,Independência - Belo Horizonte - MG,ATL,ATL,1,0
+21,21/08/2016,11:00,Mané Garrincha - Brasilia - DF,FLA,GRE,2,1
+21,21/08/2016,16:00,Arruda - Recife - PE,SAN,FLU,0,1
+21,21/08/2016,16:00,Beira Rio - Porto Alegre - RS,INT,SAO,1,1
+21,21/08/2016,16:00,Allianz Parque - Sao Paulo - SP,PAL,PON,2,2
+21,21/08/2016,18:00,Couto Pereira - Curitiba - PR,COR,SAN,2,1
+21,21/08/2016,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,CRU,1,2
+21,22/08/2016,20:00,Arena Corinthians - Sao Paulo - SP,COR,VIT,2,1
+22,27/08/2016,16:00,Moisés Lucarelli - Campinas - SP,PON,COR,2,0
+22,28/08/2016,11:00,Mineirão - Belo Horizonte - MG,CRU,SAN,2,0
+22,28/08/2016,11:00,Vila Belmiro - Santos - SP,SAN,FIG,0,1
+22,28/08/2016,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,1,1
+22,28/08/2016,16:00,Arena Condá - Chapeco - SC,CHA,FLA,1,3
+22,28/08/2016,16:00,Mané Garrincha - Brasilia - DF,FLU,PAL,0,2
+22,28/08/2016,16:00,Morumbi - Sao Paulo - SP,SAO,COR,0,0
+22,28/08/2016,18:30,Arena Fonte Nova - Salvador - BA,VIT,AME,2,1
+22,28/08/2016,18:30,Arena Pernambuco - São Lourenço da Mata - PE,SPO,INT,1,1
+22,29/08/2016,20:00,Arena da Baixada - Curitiba - PR,ATL,BOT,1,0
+23,07/09/2016,16:00,Luso Brasileiro - Rio de Janeiro - RJ,BOT,FLU,1,0
+23,07/09/2016,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,ATL,1,0
+23,07/09/2016,16:00,Arena Pernambuco - São Lourenço da Mata - PE,SAN,CHA,2,2
+23,07/09/2016,19:30,Independência - Belo Horizonte - MG,ATL,VIT,2,1
+23,07/09/2016,21:45,Kleber Andrade - Cariacica - ES,FLA,PON,2,1
+23,07/09/2016,21:45,Allianz Parque - Sao Paulo - SP,PAL,SAO,2,1
+23,07/09/2016,21:45,Couto Pereira - Curitiba - PR,COR,GRE,4,0
+23,08/09/2016,19:30,Arena Corinthians - Sao Paulo - SP,COR,SPO,3,0
+23,08/09/2016,21:00,Beira Rio - Porto Alegre - RS,INT,SAN,2,1
+23,08/09/2016,21:00,Independência - Belo Horizonte - MG,AME,CRU,0,2
+24,10/09/2016,18:30,Manoel Barradas - Salvador - BA,VIT,FLA,1,2
+24,11/09/2016,11:00,Morumbi - Sao Paulo - SP,SAO,FIG,3,1
+24,11/09/2016,11:00,Arena Condá - Chapeco - SC,CHA,COR,1,0
+24,11/09/2016,16:00,Vila Belmiro - Santos - SP,SAN,COR,2,1
+24,11/09/2016,16:00,Mineirão - Belo Horizonte - MG,CRU,BOT,0,2
+24,11/09/2016,16:00,Arena da Baixada - Curitiba - PR,ATL,INT,2,1
+24,11/09/2016,16:00,Ilha do Retiro - Recife - PE,SPO,SAN,5,3
+24,11/09/2016,18:30,Arena do Grêmio - Porto Alegre - RS,GRE,PAL,0,0
+24,11/09/2016,18:30,Moisés Lucarelli - Campinas - SP,PON,AME,1,1
+24,12/09/2016,20:00,Giulite Coutinho - Mesquita - RJ,FLU,ATL,4,2
+25,14/09/2016,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,AME,2,2
+25,14/09/2016,19:30,Luso Brasileiro - Rio de Janeiro - RJ,BOT,SAN,0,1
+25,14/09/2016,21:00,Arruda - Recife - PE,SAN,ATL,1,0
+25,14/09/2016,21:00,Moisés Lucarelli - Campinas - SP,PON,GRE,3,0
+25,14/09/2016,21:45,Allianz Parque - Sao Paulo - SP,PAL,FLA,1,1
+25,14/09/2016,21:45,Couto Pereira - Curitiba - PR,COR,COR,1,1
+25,15/09/2016,19:30,Giulite Coutinho - Mesquita - RJ,FLU,CHA,1,2
+25,15/09/2016,19:30,Independência - Belo Horizonte - MG,ATL,SPO,1,0
+25,15/09/2016,21:00,Beira Rio - Porto Alegre - RS,INT,VIT,0,1
+25,15/09/2016,21:00,Morumbi - Sao Paulo - SP,SAO,CRU,1,0
+26,17/09/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,PAL,0,2
+26,18/09/2016,11:00,Pacaembu - Sao Paulo - SP,FLA,FIG,2,0
+26,18/09/2016,16:00,Ilha do Retiro - Recife - PE,SPO,COR,0,1
+26,18/09/2016,16:00,Arena Condá - Chapeco - SC,CHA,PON,2,2
+26,18/09/2016,16:00,Mineirão - Belo Horizonte - MG,CRU,ATL,1,1
+26,18/09/2016,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,FLU,0,1
+26,18/09/2016,16:00,Arena da Baixada - Curitiba - PR,ATL,SAO,1,0
+26,18/09/2016,18:30,Pacaembu - Sao Paulo - SP,SAN,SAN,3,2
+26,18/09/2016,18:30,Manoel Barradas - Salvador - BA,VIT,BOT,0,1
+26,19/09/2016,20:00,Independência - Belo Horizonte - MG,AME,INT,1,0
+27,24/09/2016,16:00,Allianz Parque - Sao Paulo - SP,PAL,COR,2,1
+27,24/09/2016,18:30,Ilha do Retiro - Recife - PE,SPO,SAN,1,0
+27,24/09/2016,21:00,Independência - Belo Horizonte - MG,AME,BOT,1,0
+27,25/09/2016,11:00,Arena da Baixada - Curitiba - PR,ATL,PON,3,0
+27,25/09/2016,11:00,Orlando Scarpelli - Florianopolis - SC,FIG,SAN,3,1
+27,25/09/2016,16:00,Arena Corinthians - Sao Paulo - SP,COR,FLU,0,1
+27,25/09/2016,16:00,Kleber Andrade - Cariacica - ES,FLA,CRU,2,1
+27,25/09/2016,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,CHA,1,0
+27,25/09/2016,16:00,Manoel Barradas - Salvador - BA,VIT,SAO,2,0
+27,25/09/2016,18:30,Independência - Belo Horizonte - MG,ATL,INT,3,1
+28,01/10/2016,11:00,Giulite Coutinho - Mesquita - RJ,FLU,SPO,3,1
+28,01/10/2016,16:00,Vila Belmiro - Santos - SP,SAN,ATL,2,0
+28,01/10/2016,16:00,Morumbi - Sao Paulo - SP,SAO,FLA,0,0
+28,01/10/2016,16:00,Arena Condá - Chapeco - SC,CHA,VIT,1,4
+28,01/10/2016,16:30,Luso Brasileiro - Rio de Janeiro - RJ,BOT,COR,2,0
+28,01/10/2016,16:30,Moisés Lucarelli - Campinas - SP,PON,ATL,1,2
+28,01/10/2016,18:30,Mineirão - Belo Horizonte - MG,CRU,GRE,1,0
+28,01/10/2016,21:00,Beira Rio - Porto Alegre - RS,INT,FIG,1,0
+28,03/10/2016,20:00,Arruda - Recife - PE,SAN,PAL,2,3
+28,03/10/2016,21:00,Couto Pereira - Curitiba - PR,COR,AME,3,0
+29,05/10/2016,19:30,Arena da Baixada - Curitiba - PR,ATL,CHA,3,1
+29,05/10/2016,19:30,Arena Fonte Nova - Salvador - BA,VIT,GRE,0,1
+29,05/10/2016,21:00,Vila Belmiro - Santos - SP,SAN,FLU,2,1
+29,05/10/2016,21:00,Arena Corinthians - Sao Paulo - SP,COR,ATL,0,0
+29,05/10/2016,21:45,Ilha do Retiro - Recife - PE,SPO,SAO,1,1
+29,06/10/2016,19:30,Beira Rio - Porto Alegre - RS,INT,COR,1,0
+29,08/10/2016,21:00,Mineirão - Belo Horizonte - MG,CRU,PON,2,0
+29,09/10/2016,17:00,Do Café - Londrina - PR,AME,PAL,0,2
+29,09/10/2016,17:00,Pacaembu - Sao Paulo - SP,FLA,SAN,3,0
+29,09/10/2016,17:00,Orlando Scarpelli - Florianopolis - SC,FIG,BOT,0,1
+30,12/10/2016,11:00,Arena Condá - Chapeco - SC,CHA,SPO,3,0
+30,12/10/2016,19:30,Couto Pereira - Curitiba - PR,COR,FIG,0,0
+30,12/10/2016,21:45,Luso Brasileiro - Rio de Janeiro - RJ,BOT,INT,1,0
+30,12/10/2016,21:45,Arena Pantanal - Cuiaba - MT,SAN,COR,2,4
+30,13/10/2016,19:30,Mineirão - Belo Horizonte - MG,ATL,AME,3,0
+30,13/10/2016,19:30,Fonte Luminosa - Araraquara - SP,PAL,CRU,0,0
+30,13/10/2016,19:30,Moisés Lucarelli - Campinas - SP,PON,VIT,2,0
+30,13/10/2016,21:00,Pacaembu - Sao Paulo - SP,SAO,SAN,0,1
+30,13/10/2016,21:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,1,0
+30,13/10/2016,21:00,Raulino de Oliveira - Volta Redonda - RJ,FLU,FLA,1,2
+31,16/10/2016,17:00,Luso Brasileiro - Rio de Janeiro - RJ,BOT,ATL,3,2
+31,16/10/2016,17:00,Beira Rio - Porto Alegre - RS,INT,FLA,2,1
+31,16/10/2016,17:00,Orlando Scarpelli - Florianopolis - SC,FIG,PAL,1,2
+31,16/10/2016,17:00,Durival Britto - Curitiba - PR,ATL,COR,2,0
+31,16/10/2016,17:00,Mineirão - Belo Horizonte - MG,CRU,CHA,0,0
+31,16/10/2016,18:30,Arena Corinthians - Sao Paulo - SP,COR,AME,2,0
+31,16/10/2016,18:30,Moisés Lucarelli - Campinas - SP,PON,SAN,3,0
+31,16/10/2016,19:30,Vila Belmiro - Santos - SP,SAN,GRE,1,1
+31,16/10/2016,19:30,Ilha do Retiro - Recife - PE,SPO,VIT,1,0
+31,17/10/2016,20:00,Giulite Coutinho - Mesquita - RJ,FLU,SAO,1,2
+32,19/10/2016,21:45,Arruda - Recife - PE,SAN,BOT,0,1
+32,22/10/2016,17:00,Morumbi - Sao Paulo - SP,SAO,PON,2,0
+32,23/10/2016,17:00,Manoel Barradas - Salvador - BA,VIT,CRU,0,1
+32,23/10/2016,17:00,Maracanã - Rio de Janeiro - RJ,FLA,COR,2,2
+32,23/10/2016,17:00,Allianz Parque - Sao Paulo - SP,PAL,SPO,2,1
+32,23/10/2016,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,INT,0,0
+32,23/10/2016,18:30,Couto Pereira - Curitiba - PR,COR,FLU,1,1
+32,23/10/2016,19:30,Independência - Belo Horizonte - MG,ATL,FIG,3,0
+32,23/10/2016,19:30,Arena Condá - Chapeco - SC,CHA,SAN,0,1
+32,24/10/2016,20:00,Independência - Belo Horizonte - MG,AME,ATL,1,0
+33,27/10/2016,20:30,Ilha do Retiro - Recife - PE,SPO,PON,1,0
+33,28/10/2016,19:30,Maracanã - Rio de Janeiro - RJ,FLU,VIT,2,2
+33,29/10/2016,16:30,Arena Corinthians - Sao Paulo - SP,COR,CHA,1,1
+33,29/10/2016,16:30,Mineirão - Belo Horizonte - MG,ATL,FLA,2,2
+33,29/10/2016,16:30,Arena da Baixada - Curitiba - PR,ATL,CRU,1,0
+33,29/10/2016,18:30,Luso Brasileiro - Rio de Janeiro - RJ,BOT,COR,0,0
+33,29/10/2016,18:30,Beira Rio - Porto Alegre - RS,INT,SAN,1,1
+33,29/10/2016,19:30,Vila Belmiro - Santos - SP,SAN,PAL,1,0
+33,29/10/2016,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,GRE,0,0
+33,31/10/2016,20:00,Independência - Belo Horizonte - MG,AME,SAO,1,0
+34,05/11/2016,17:00,Maracanã - Rio de Janeiro - RJ,FLA,BOT,0,0
+34,05/11/2016,19:30,Morumbi - Sao Paulo - SP,SAO,COR,4,0
+34,06/11/2016,11:00,Moisés Lucarelli - Campinas - SP,PON,SAN,1,2
+34,06/11/2016,17:00,Arruda - Recife - PE,SAN,AME,1,0
+34,06/11/2016,17:00,Mineirão - Belo Horizonte - MG,CRU,FLU,4,2
+34,06/11/2016,17:00,Allianz Parque - Sao Paulo - SP,PAL,INT,1,0
+34,06/11/2016,17:00,Manoel Barradas - Salvador - BA,VIT,ATL,3,2
+34,06/11/2016,19:30,Couto Pereira - Curitiba - PR,COR,ATL,2,0
+34,06/11/2016,19:30,Arena Condá - Chapeco - SC,CHA,FIG,1,0
+34,07/11/2016,20:00,Arena do Grêmio - Porto Alegre - RS,GRE,SPO,0,3
+35,15/11/2016,17:00,Maracanã - Rio de Janeiro - RJ,FLU,ATL,1,1
+35,16/11/2016,19:30,Luso Brasileiro - Rio de Janeiro - RJ,BOT,CHA,0,2
+35,16/11/2016,21:00,Couto Pereira - Curitiba - PR,COR,SAN,1,0
+35,16/11/2016,21:45,Orlando Scarpelli - Florianopolis - SC,FIG,COR,1,1
+35,16/11/2016,21:45,Mineirão - Belo Horizonte - MG,AME,FLA,0,1
+35,16/11/2016,21:45,Ilha do Retiro - Recife - PE,SPO,CRU,0,1
+35,17/11/2016,19:30,Vila Belmiro - Santos - SP,SAN,VIT,3,2
+35,17/11/2016,19:30,Morumbi - Sao Paulo - SP,SAO,GRE,1,1
+35,17/11/2016,21:00,Independência - Belo Horizonte - MG,ATL,PAL,1,1
+35,17/11/2016,21:00,Beira Rio - Porto Alegre - RS,INT,PON,1,1
+36,20/11/2016,17:00,Arena da Baixada - Curitiba - PR,ATL,SPO,2,0
+36,20/11/2016,17:00,Manoel Barradas - Salvador - BA,VIT,FIG,4,0
+36,20/11/2016,17:00,Allianz Parque - Sao Paulo - SP,PAL,BOT,1,0
+36,20/11/2016,17:00,Mineirão - Belo Horizonte - MG,CRU,SAN,2,2
+36,20/11/2016,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,AME,3,0
+36,20/11/2016,17:00,Moisés Lucarelli - Campinas - SP,PON,FLU,1,0
+36,20/11/2016,19:30,Arruda - Recife - PE,SAN,ATL,3,3
+36,20/11/2016,19:30,Arena Condá - Chapeco - SC,CHA,SAO,2,0
+36,20/11/2016,19:30,Maracanã - Rio de Janeiro - RJ,FLA,COR,2,2
+36,21/11/2016,20:00,Arena Corinthians - Sao Paulo - SP,COR,INT,1,0
+37,26/11/2016,20:00,Luso Brasileiro - Rio de Janeiro - RJ,BOT,PON,1,1
+37,26/11/2016,20:00,Independência - Belo Horizonte - MG,AME,SPO,2,2
+37,26/11/2016,21:00,Arena Corinthians - Sao Paulo - SP,COR,ATL,0,0
+37,27/11/2016,17:00,Maracanã - Rio de Janeiro - RJ,FLA,SAN,2,0
+37,27/11/2016,17:00,Allianz Parque - Sao Paulo - SP,PAL,CHA,1,0
+37,27/11/2016,17:00,Independência - Belo Horizonte - MG,ATL,SAO,1,2
+37,27/11/2016,17:00,Beira Rio - Porto Alegre - RS,INT,CRU,1,0
+37,27/11/2016,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,FLU,1,0
+37,27/11/2016,19:30,Arruda - Recife - PE,SAN,GRE,5,1
+37,28/11/2016,20:00,Couto Pereira - Curitiba - PR,COR,VIT,0,1
+38,11/12/2016,17:00,Manoel Barradas - Salvador - BA,VIT,PAL,1,2
+38,11/12/2016,17:00,Giulite Coutinho - Mesquita - RJ,FLU,INT,1,1
+38,11/12/2016,17:00,Pacaembu - Sao Paulo - SP,SAO,SAN,5,0
+38,11/12/2016,17:00,Vila Belmiro - Santos - SP,SAN,AME,1,0
+38,11/12/2016,17:00,Mineirão - Belo Horizonte - MG,CRU,COR,3,2
+38,11/12/2016,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,BOT,0,1
+38,11/12/2016,17:00,Arena da Baixada - Curitiba - PR,ATL,FLA,0,0
+38,11/12/2016,17:00,Arena Condá - Chapeco - SC,CHA,ATL,-1,-1
+38,11/12/2016,17:00,Moisés Lucarelli - Campinas - SP,PON,COR,2,0
+38,11/12/2016,17:00,Ilha do Retiro - Recife - PE,SPO,FIG,2,0
