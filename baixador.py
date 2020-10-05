@@ -33,8 +33,8 @@ def processa_rodada(rodada, n):
         # ['Morumbi - Sao Paulo - SP', ... ]
         local = locais[i].get_text().strip().split("\n")
         partida['local'] = local[0]
-        partida['casa'] = casa[i].get_text().strip()
-        partida['fora'] = fora[i].get_text().strip()
+        partida['casa'] = casa[i].find("img").get("alt")
+        partida['fora'] = fora[i].find("img").get("alt")
         if ('x' in placar[i].get_text()):
             # ['2 ', ' 0']
             gols = placar[i].get_text().strip().split('x')

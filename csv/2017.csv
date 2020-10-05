@@ -1,381 +1,381 @@
 rodada,data,hora,local,casa,fora,gols_casa,gols_fora
-1,13/05/2017,16:00,Maracanã - Rio de Janeiro - RJ,FLA,ATL,1,1
-1,13/05/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,CHA,1,1
-1,14/05/2017,11:00,Maracanã - Rio de Janeiro - RJ,FLU,SAN,3,2
-1,14/05/2017,16:00,Allianz Parque - Sao Paulo - SP,PAL,VAS,4,0
-1,14/05/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,SAO,1,0
-1,14/05/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,ATL,6,2
-1,14/05/2017,16:00,Moisés Lucarelli - Campinas - SP,PON,SPO,4,0
-1,14/05/2017,16:00,Ressacada - Florianopolis - SC,AVA,VIT,0,0
-1,14/05/2017,19:00,Arena do Grêmio - Porto Alegre - RS,GRE,BOT,2,0
-1,15/05/2017,20:00,Couto Pereira - Curitiba - PR,COR,ATL,4,1
-2,20/05/2017,16:00,Vila Belmiro - Santos - SP,SAN,COR,1,0
-2,20/05/2017,19:00,Serra Dourada - Goiania - GO,ATL,FLA,0,3
-2,20/05/2017,19:00,Arena Condá - Chapeco - SC,CHA,PAL,1,0
-2,21/05/2017,11:00,São Januário - Rio de Janeiro - RJ,VAS,BAH,2,1
-2,21/05/2017,16:00,Independência - Belo Horizonte - MG,ATL,FLU,1,2
-2,21/05/2017,16:00,Arena da Baixada - Curitiba - PR,ATL,GRE,0,2
-2,21/05/2017,16:00,Arena Fonte Nova - Salvador - BA,VIT,COR,0,1
-2,21/05/2017,18:00,Nilton Santos - Rio de Janeiro - RJ,BOT,PON,2,0
-2,21/05/2017,19:00,Ilha do Retiro - Recife - PE,SPO,CRU,1,1
-2,22/05/2017,20:00,Morumbi - Sao Paulo - SP,SAO,AVA,2,0
-3,27/05/2017,16:00,São Januário - Rio de Janeiro - RJ,VAS,FLU,3,2
-3,27/05/2017,19:00,Morumbi - Sao Paulo - SP,SAO,PAL,2,0
-3,27/05/2017,21:00,Arena Fonte Nova - Salvador - BA,VIT,COR,0,1
-3,28/05/2017,11:00,Independência - Belo Horizonte - MG,ATL,PON,2,2
-3,28/05/2017,16:00,Arena da Baixada - Curitiba - PR,ATL,FLA,1,1
-3,28/05/2017,16:00,Vila Belmiro - Santos - SP,SAN,CRU,0,1
-3,28/05/2017,16:00,Serra Dourada - Goiania - GO,ATL,COR,0,1
-3,28/05/2017,18:00,Ilha do Retiro - Recife - PE,SPO,GRE,4,3
-3,28/05/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,BOT,BAH,1,0
-3,29/05/2017,20:00,Arena Condá - Chapeco - SC,CHA,AVA,2,0
-4,03/06/2017,16:00,Couto Pereira - Curitiba - PR,COR,ATL,1,0
-4,03/06/2017,18:00,Maracanã - Rio de Janeiro - RJ,FLU,VIT,2,1
-4,03/06/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,SAN,2,0
-4,04/06/2017,11:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,BOT,0,0
-4,04/06/2017,11:00,Ressacada - Florianopolis - SC,AVA,SPO,1,0
-4,04/06/2017,16:00,Moisés Lucarelli - Campinas - SP,PON,SAO,1,0
-4,04/06/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,VAS,2,0
-4,04/06/2017,16:00,Allianz Parque - Sao Paulo - SP,PAL,ATL,0,0
-4,04/06/2017,19:00,Mineirão - Belo Horizonte - MG,CRU,CHA,0,2
-4,05/06/2017,20:00,Arena Fonte Nova - Salvador - BA,BAH,ATL,3,0
-5,06/06/2017,20:00,Maracanã - Rio de Janeiro - RJ,FLU,ATL,1,1
-5,07/06/2017,19:30,Independência - Belo Horizonte - MG,ATL,AVA,1,0
-5,07/06/2017,19:30,Couto Pereira - Curitiba - PR,COR,PAL,1,0
-5,07/06/2017,21:00,Pacaembu - Sao Paulo - SP,SAN,BOT,1,0
-5,07/06/2017,21:45,Ilha do Retiro - Recife - PE,SPO,FLA,2,0
-5,07/06/2017,21:45,São Januário - Rio de Janeiro - RJ,VAS,COR,2,5
-5,08/06/2017,19:30,Olímpico Pedro Ludovico - Goiania - GO,ATL,PON,3,0
-5,08/06/2017,19:30,Morumbi - Sao Paulo - SP,SAO,VIT,2,0
-5,08/06/2017,20:00,Arena Condá - Chapeco - SC,CHA,GRE,3,6
-5,08/06/2017,21:00,Arena Fonte Nova - Salvador - BA,BAH,CRU,1,0
-6,10/06/2017,16:00,Allianz Parque - Sao Paulo - SP,PAL,FLU,3,1
-6,10/06/2017,19:00,São Januário - Rio de Janeiro - RJ,VAS,SPO,2,1
-6,11/06/2017,11:00,Nilton Santos - Rio de Janeiro - RJ,BOT,COR,2,2
-6,11/06/2017,16:00,Arena Corinthians - Sao Paulo - SP,COR,SAO,3,2
-6,11/06/2017,16:00,Manoel Barradas - Salvador - BA,VIT,ATL,2,0
-6,11/06/2017,16:00,Moisés Lucarelli - Campinas - SP,PON,CHA,3,2
-6,11/06/2017,16:00,Ressacada - Florianopolis - SC,AVA,FLA,1,1
-6,11/06/2017,18:30,Mineirão - Belo Horizonte - MG,CRU,ATL,2,0
-6,11/06/2017,19:00,Arena da Baixada - Curitiba - PR,ATL,SAN,0,2
-6,12/06/2017,20:00,Arena do Grêmio - Porto Alegre - RS,GRE,BAH,1,0
-7,14/06/2017,19:30,Independência - Belo Horizonte - MG,ATL,ATL,0,1
-7,14/06/2017,19:30,Olímpico Pedro Ludovico - Goiania - GO,ATL,AVA,3,1
-7,14/06/2017,19:30,Manoel Barradas - Salvador - BA,VIT,BOT,2,2
-7,14/06/2017,19:30,Ilha do Retiro - Recife - PE,SPO,SAO,0,0
-7,14/06/2017,21:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,PON,2,0
-7,14/06/2017,21:45,Arena Corinthians - Sao Paulo - SP,COR,CRU,1,0
-7,14/06/2017,21:45,Vila Belmiro - Santos - SP,SAN,PAL,1,0
-7,14/06/2017,21:45,Arena Condá - Chapeco - SC,CHA,VAS,2,1
-7,15/06/2017,16:00,Couto Pereira - Curitiba - PR,COR,BAH,0,0
-7,15/06/2017,21:00,Maracanã - Rio de Janeiro - RJ,FLU,GRE,0,2
-8,17/06/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,ATL,0,1
-8,17/06/2017,19:00,São Januário - Rio de Janeiro - RJ,VAS,AVA,1,0
-8,17/06/2017,21:00,Pacaembu - Sao Paulo - SP,SAN,PON,0,0
-8,18/06/2017,11:00,Couto Pereira - Curitiba - PR,COR,COR,0,0
-8,18/06/2017,16:00,Morumbi - Sao Paulo - SP,SAO,ATL,1,2
-8,18/06/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,PAL,2,4
-8,18/06/2017,16:00,Maracanã - Rio de Janeiro - RJ,FLU,FLA,2,2
-8,18/06/2017,16:00,Arena Condá - Chapeco - SC,CHA,BOT,0,2
-8,18/06/2017,19:00,Ilha do Retiro - Recife - PE,SPO,VIT,1,3
-8,19/06/2017,20:00,Mineirão - Belo Horizonte - MG,CRU,GRE,3,3
-9,21/06/2017,19:30,Manoel Barradas - Salvador - BA,VIT,SAN,0,2
-9,21/06/2017,21:00,Nilton Santos - Rio de Janeiro - RJ,BOT,VAS,3,1
-9,21/06/2017,21:00,Allianz Parque - Sao Paulo - SP,PAL,ATL,1,0
-9,21/06/2017,21:45,Ressacada - Florianopolis - SC,AVA,FLU,0,3
-9,21/06/2017,21:45,Independência - Belo Horizonte - MG,ATL,SPO,2,2
-9,21/06/2017,21:45,Arena da Baixada - Curitiba - PR,ATL,SAO,1,0
-9,22/06/2017,19:30,Moisés Lucarelli - Campinas - SP,PON,CRU,1,0
-9,22/06/2017,19:30,Arena Corinthians - Sao Paulo - SP,COR,BAH,3,0
-9,22/06/2017,21:00,Arena do Grêmio - Porto Alegre - RS,GRE,COR,2,0
-9,22/06/2017,21:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,CHA,5,1
-10,24/06/2017,19:00,Vila Belmiro - Santos - SP,SAN,SPO,0,1
-10,25/06/2017,11:00,São Januário - Rio de Janeiro - RJ,VAS,ATL,1,0
-10,25/06/2017,16:00,Moisés Lucarelli - Campinas - SP,PON,PAL,1,2
-10,25/06/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,COR,0,1
-10,25/06/2017,16:00,Arena da Baixada - Curitiba - PR,ATL,VIT,4,1
-10,25/06/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,COR,2,0
-10,25/06/2017,16:00,Morumbi - Sao Paulo - SP,SAO,FLU,1,1
-10,25/06/2017,18:30,Arena Fonte Nova - Salvador - BA,BAH,FLA,0,1
-10,25/06/2017,19:00,Arena Condá - Chapeco - SC,CHA,ATL,0,1
-10,26/06/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,BOT,AVA,0,2
-11,01/07/2017,16:00,Pacaembu - Sao Paulo - SP,PAL,GRE,1,0
-11,01/07/2017,19:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,SAN,1,1
-11,02/07/2017,16:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,SAO,2,0
-11,02/07/2017,16:00,Arena Corinthians - Sao Paulo - SP,COR,BOT,1,0
-11,02/07/2017,16:00,Independência - Belo Horizonte - MG,ATL,CRU,3,1
-11,02/07/2017,16:00,Ilha do Retiro - Recife - PE,SPO,ATL,1,0
-11,02/07/2017,16:00,Manoel Barradas - Salvador - BA,VIT,BAH,0,0
-11,02/07/2017,19:00,Durival Britto - Curitiba - PR,COR,VAS,2,2
-11,02/07/2017,19:00,Ressacada - Florianopolis - SC,AVA,PON,0,0
-11,03/07/2017,20:00,Giulite Coutinho - Mesquita - RJ,FLU,CHA,3,3
-12,08/07/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,VIT,1,2
-12,08/07/2017,18:00,São Januário - Rio de Janeiro - RJ,VAS,FLA,0,1
-12,08/07/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,PON,2,0
-12,09/07/2017,11:00,Arena Condá - Chapeco - SC,CHA,ATL,1,1
-12,09/07/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,PAL,3,1
-12,09/07/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,AVA,0,2
-12,09/07/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,FLU,1,1
-12,09/07/2017,19:00,Vila Belmiro - Santos - SP,SAN,SAO,3,2
-12,09/07/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,BOT,ATL,1,1
-12,10/07/2017,20:00,Couto Pereira - Curitiba - PR,COR,SPO,0,3
-13,12/07/2017,19:30,Moisés Lucarelli - Campinas - SP,PON,BAH,0,3
-13,12/07/2017,19:30,Independência - Belo Horizonte - MG,ATL,SAN,0,1
-13,12/07/2017,21:00,Maracanã - Rio de Janeiro - RJ,FLU,BOT,0,1
-13,12/07/2017,21:45,Allianz Parque - Sao Paulo - SP,PAL,COR,0,2
-13,12/07/2017,21:45,Manoel Barradas - Salvador - BA,VIT,VAS,1,4
-13,12/07/2017,21:45,Arena da Baixada - Curitiba - PR,ATL,CRU,0,2
-13,13/07/2017,19:30,Arena Pernambuco - São Lourenço da Mata - PE,SPO,CHA,3,0
-13,13/07/2017,19:30,Morumbi - Sao Paulo - SP,SAO,ATL,2,2
-13,13/07/2017,19:30,Luso Brasileiro - Rio de Janeiro - RJ,FLA,GRE,0,1
-13,13/07/2017,21:00,Ressacada - Florianopolis - SC,AVA,COR,1,4
-14,15/07/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,ATL,2,2
-14,16/07/2017,11:00,Allianz Parque - Sao Paulo - SP,PAL,VIT,4,2
-14,16/07/2017,16:00,Nilton Santos - Rio de Janeiro - RJ,VAS,SAN,0,0
-14,16/07/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,FLA,1,1
-14,16/07/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,PON,3,1
-14,16/07/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,ATL,1,2
-14,16/07/2017,16:00,Arena Condá - Chapeco - SC,CHA,SAO,2,0
-14,16/07/2017,19:00,Couto Pereira - Curitiba - PR,COR,FLU,1,2
-14,16/07/2017,19:00,Pituaçu - Salvador - BA,BAH,AVA,1,1
-14,17/07/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,BOT,SPO,2,1
-15,19/07/2017,19:30,Manoel Barradas - Salvador - BA,VIT,GRE,1,3
-15,19/07/2017,19:30,Vila Belmiro - Santos - SP,SAN,CHA,1,0
-15,19/07/2017,21:00,Moisés Lucarelli - Campinas - SP,PON,COR,4,0
-15,19/07/2017,21:00,Ressacada - Florianopolis - SC,AVA,COR,0,0
-15,19/07/2017,21:45,Luso Brasileiro - Rio de Janeiro - RJ,FLA,PAL,2,2
-15,19/07/2017,21:45,Independência - Belo Horizonte - MG,ATL,BAH,0,2
-15,19/07/2017,21:45,Morumbi - Sao Paulo - SP,SAO,VAS,1,0
-15,20/07/2017,19:30,Giulite Coutinho - Mesquita - RJ,FLU,CRU,1,1
-15,20/07/2017,20:00,Ilha do Retiro - Recife - PE,SPO,ATL,4,0
-15,20/07/2017,21:00,Arena da Baixada - Curitiba - PR,ATL,BOT,0,0
-16,22/07/2017,16:00,Manoel Barradas - Salvador - BA,VIT,CHA,1,2
-16,22/07/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,COR,2,1
-16,23/07/2017,11:00,Pacaembu - Sao Paulo - SP,SAN,BAH,3,0
-16,23/07/2017,16:00,Ressacada - Florianopolis - SC,AVA,CRU,1,0
-16,23/07/2017,16:00,Maracanã - Rio de Janeiro - RJ,FLU,COR,0,1
-16,23/07/2017,16:00,Arena Pernambuco - São Lourenço da Mata - PE,SPO,PAL,0,2
-16,23/07/2017,19:00,Independência - Belo Horizonte - MG,ATL,VAS,1,2
-16,23/07/2017,19:00,Arena da Baixada - Curitiba - PR,ATL,PON,0,2
-16,23/07/2017,19:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,BOT,1,1
-16,24/07/2017,20:00,Morumbi - Sao Paulo - SP,SAO,GRE,1,1
-17,29/07/2017,16:00,Nilton Santos - Rio de Janeiro - RJ,BOT,SAO,3,4
-17,29/07/2017,19:00,Allianz Parque - Sao Paulo - SP,PAL,AVA,2,0
-17,30/07/2017,11:00,Arena Condá - Chapeco - SC,CHA,ATL,1,2
-17,30/07/2017,16:00,Couto Pereira - Curitiba - PR,COR,ATL,0,2
-17,30/07/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,SPO,1,3
-17,30/07/2017,16:00,Arena Corinthians - Sao Paulo - SP,COR,FLA,1,1
-17,30/07/2017,19:00,Mineirão - Belo Horizonte - MG,CRU,VIT,0,0
-17,30/07/2017,19:00,Arena do Grêmio - Porto Alegre - RS,GRE,SAN,1,1
-17,31/07/2017,20:00,Raulino de Oliveira - Volta Redonda - RJ,VAS,ATL,0,1
-17,09/08/2017,20:00,Moisés Lucarelli - Campinas - SP,PON,FLU,0,0
-18,02/08/2017,19:30,Ilha do Retiro - Recife - PE,SPO,FLU,2,2
-18,02/08/2017,19:30,Arena Condá - Chapeco - SC,CHA,BAH,1,1
-18,02/08/2017,21:00,Mineirão - Belo Horizonte - MG,ATL,COR,0,2
-18,02/08/2017,21:00,Manoel Barradas - Salvador - BA,VIT,PON,3,1
-18,02/08/2017,21:45,Nilton Santos - Rio de Janeiro - RJ,BOT,PAL,1,2
-18,02/08/2017,21:45,Pacaembu - Sao Paulo - SP,SAN,FLA,3,2
-18,02/08/2017,21:45,Olímpico Pedro Ludovico - Goiania - GO,ATL,GRE,0,1
-18,03/08/2017,19:30,Arena da Baixada - Curitiba - PR,ATL,AVA,5,0
-18,03/08/2017,19:30,Morumbi - Sao Paulo - SP,SAO,COR,1,2
-18,03/08/2017,20:00,Raulino de Oliveira - Volta Redonda - RJ,VAS,CRU,0,3
-19,05/08/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,SPO,3,1
-19,05/08/2017,19:00,Maracanã - Rio de Janeiro - RJ,FLU,ATL,3,1
-19,06/08/2017,11:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,VIT,0,2
-19,06/08/2017,16:00,Allianz Parque - Sao Paulo - SP,PAL,ATL,0,1
-19,06/08/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,BOT,0,0
-19,06/08/2017,16:00,Couto Pereira - Curitiba - PR,COR,CHA,2,0
-19,06/08/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,2,0
-19,06/08/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,SAO,2,1
-19,06/08/2017,19:00,Moisés Lucarelli - Campinas - SP,PON,VAS,0,0
-19,06/08/2017,19:00,Ressacada - Florianopolis - SC,AVA,SAN,0,0
-20,12/08/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,COR,1,0
-20,12/08/2017,19:00,Manoel Barradas - Salvador - BA,VIT,AVA,0,1
-20,13/08/2017,11:00,Morumbi - Sao Paulo - SP,SAO,CRU,3,2
-20,13/08/2017,16:00,Raulino de Oliveira - Volta Redonda - RJ,VAS,PAL,1,1
-20,13/08/2017,16:00,Independência - Belo Horizonte - MG,ATL,FLA,2,0
-20,13/08/2017,16:00,Ilha do Retiro - Recife - PE,SPO,PON,0,0
-20,13/08/2017,19:00,Arena da Baixada - Curitiba - PR,ATL,BAH,4,1
-20,13/08/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,BOT,GRE,1,0
-20,14/08/2017,20:00,Pacaembu - Sao Paulo - SP,SAN,FLU,0,0
-20,23/08/2017,19:30,Arena Condá - Chapeco - SC,CHA,COR,0,1
-21,19/08/2017,16:00,Arena Corinthians - Sao Paulo - SP,COR,VIT,0,1
-21,19/08/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,ATL,2,0
-21,20/08/2017,11:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,0,0
-21,20/08/2017,16:00,Moisés Lucarelli - Campinas - SP,PON,BOT,2,1
-21,20/08/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,SPO,2,0
-21,20/08/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,VAS,3,0
-21,20/08/2017,16:00,Ressacada - Florianopolis - SC,AVA,SAO,1,1
-21,20/08/2017,19:00,Allianz Parque - Sao Paulo - SP,PAL,CHA,0,2
-21,20/08/2017,19:00,Couto Pereira - Curitiba - PR,COR,SAN,0,0
-21,21/08/2017,20:00,Maracanã - Rio de Janeiro - RJ,FLU,ATL,2,1
-22,26/08/2017,16:00,Maracanã - Rio de Janeiro - RJ,FLU,VAS,0,1
-22,26/08/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,ATL,0,1
-22,27/08/2017,16:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,ATL,2,0
-22,27/08/2017,16:00,Allianz Parque - Sao Paulo - SP,PAL,SAO,4,2
-22,27/08/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,BOT,1,2
-22,27/08/2017,16:00,Moisés Lucarelli - Campinas - SP,PON,ATL,1,2
-22,27/08/2017,19:00,Mineirão - Belo Horizonte - MG,CRU,SAN,1,1
-22,27/08/2017,19:00,Ressacada - Florianopolis - SC,AVA,CHA,1,0
-22,28/08/2017,20:00,Couto Pereira - Curitiba - PR,COR,VIT,0,1
-22,02/09/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,SPO,5,0
-23,09/09/2017,16:00,Independência - Belo Horizonte - MG,ATL,PAL,1,1
-23,09/09/2017,18:00,São Januário - Rio de Janeiro - RJ,VAS,GRE,1,0
-23,09/09/2017,19:00,Morumbi - Sao Paulo - SP,SAO,PON,2,2
-23,10/09/2017,11:00,Arena da Baixada - Curitiba - PR,ATL,COR,1,1
-23,10/09/2017,16:00,Vila Belmiro - Santos - SP,SAN,COR,2,0
-23,10/09/2017,16:00,Ilha do Retiro - Recife - PE,SPO,AVA,0,1
-23,10/09/2017,16:00,Manoel Barradas - Salvador - BA,VIT,FLU,2,2
-23,10/09/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,BOT,FLA,2,0
-23,10/09/2017,19:00,Arena Condá - Chapeco - SC,CHA,CRU,1,2
-23,11/09/2017,20:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,BAH,1,1
-24,16/09/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,BOT,SAN,2,0
-24,16/09/2017,21:00,Moisés Lucarelli - Campinas - SP,PON,ATL,1,3
-24,17/09/2017,11:00,Ressacada - Florianopolis - SC,AVA,ATL,1,1
-24,17/09/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,CHA,0,1
-24,17/09/2017,16:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,SPO,2,0
-24,17/09/2017,16:00,Arena Corinthians - Sao Paulo - SP,COR,VAS,1,0
-24,17/09/2017,16:00,Manoel Barradas - Salvador - BA,VIT,SAO,1,2
-24,17/09/2017,16:00,Arena da Baixada - Curitiba - PR,ATL,FLU,3,1
-24,17/09/2017,19:00,Mineirão - Belo Horizonte - MG,CRU,BAH,1,0
-24,18/09/2017,20:00,Pacaembu - Sao Paulo - SP,PAL,COR,1,0
-25,23/09/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,AVA,1,1
-25,23/09/2017,21:00,Vila Belmiro - Santos - SP,SAN,ATL,1,0
-25,24/09/2017,11:00,Morumbi - Sao Paulo - SP,SAO,COR,1,1
-25,24/09/2017,16:00,Arena Condá - Chapeco - SC,CHA,PON,1,0
-25,24/09/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,CRU,1,2
-25,24/09/2017,16:00,Couto Pereira - Curitiba - PR,COR,BOT,2,3
-25,24/09/2017,16:00,Maracanã - Rio de Janeiro - RJ,FLU,PAL,0,1
-25,24/09/2017,19:00,Independência - Belo Horizonte - MG,ATL,VIT,1,3
-25,24/09/2017,19:00,Arena Fonte Nova - Salvador - BA,BAH,GRE,1,0
-25,25/09/2017,20:00,Ilha do Retiro - Recife - PE,SPO,VAS,1,1
-26,30/09/2017,16:00,São Januário - Rio de Janeiro - RJ,VAS,CHA,1,1
-26,30/09/2017,16:00,Arena Fonte Nova - Salvador - BA,BAH,COR,1,1
-26,30/09/2017,19:00,Allianz Parque - Sao Paulo - SP,PAL,SAN,0,1
-26,01/10/2017,16:00,Nilton Santos - Rio de Janeiro - RJ,BOT,VIT,2,3
-26,01/10/2017,16:00,Morumbi - Sao Paulo - SP,SAO,SPO,1,0
-26,01/10/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,COR,1,1
-26,01/10/2017,16:00,Ressacada - Florianopolis - SC,AVA,ATL,0,2
-26,01/10/2017,16:00,Arena do Grêmio - Porto Alegre - RS,GRE,FLU,1,0
-26,01/10/2017,19:00,Arena da Baixada - Curitiba - PR,ATL,ATL,0,2
-26,02/10/2017,20:00,Moisés Lucarelli - Campinas - SP,PON,FLA,1,0
-27,11/10/2017,19:30,Nilton Santos - Rio de Janeiro - RJ,BOT,CHA,2,1
-27,11/10/2017,19:30,Arena da Baixada - Curitiba - PR,ATL,ATL,2,2
-27,11/10/2017,21:00,Arena Corinthians - Sao Paulo - SP,COR,COR,3,1
-27,11/10/2017,21:45,Independência - Belo Horizonte - MG,ATL,SAO,1,0
-27,11/10/2017,21:45,Arena do Grêmio - Porto Alegre - RS,GRE,CRU,0,1
-27,11/10/2017,21:45,Ressacada - Florianopolis - SC,AVA,VAS,1,2
-27,12/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,FLA,FLU,1,1
-27,12/10/2017,17:00,Manoel Barradas - Salvador - BA,VIT,SPO,1,2
-27,12/10/2017,17:00,Moisés Lucarelli - Campinas - SP,PON,SAN,1,1
-27,12/10/2017,21:00,Pacaembu - Sao Paulo - SP,PAL,BAH,2,2
-28,07/10/2017,16:00,Mineirão - Belo Horizonte - MG,CRU,PON,2,1
-28,14/10/2017,19:00,Maracanã - Rio de Janeiro - RJ,VAS,BOT,1,0
-28,14/10/2017,21:00,Pacaembu - Sao Paulo - SP,SAO,ATL,2,1
-28,15/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,FLU,AVA,1,0
-28,15/10/2017,17:00,Ilha do Retiro - Recife - PE,SPO,ATL,1,1
-28,15/10/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,PAL,1,3
-28,15/10/2017,17:00,Arena Condá - Chapeco - SC,CHA,FLA,0,1
-28,15/10/2017,19:00,Couto Pereira - Curitiba - PR,COR,GRE,0,1
-28,15/10/2017,19:00,Arena Fonte Nova - Salvador - BA,BAH,COR,2,0
-28,16/10/2017,20:00,Pacaembu - Sao Paulo - SP,SAN,VIT,2,2
-29,18/10/2017,19:30,Serra Dourada - Goiania - GO,ATL,VAS,0,1
-29,18/10/2017,19:30,Couto Pereira - Curitiba - PR,COR,CRU,1,0
-29,18/10/2017,21:00,Independência - Belo Horizonte - MG,ATL,CHA,2,3
-29,18/10/2017,21:45,Ressacada - Florianopolis - SC,AVA,BOT,1,1
-29,18/10/2017,21:45,Maracanã - Rio de Janeiro - RJ,FLU,SAO,3,1
-29,18/10/2017,21:45,Arena Corinthians - Sao Paulo - SP,COR,GRE,0,0
-29,19/10/2017,20:00,Pacaembu - Sao Paulo - SP,PAL,PON,2,0
-29,19/10/2017,20:00,Manoel Barradas - Salvador - BA,VIT,ATL,2,3
-29,19/10/2017,21:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,BAH,4,1
-29,19/10/2017,21:00,Ilha do Retiro - Recife - PE,SPO,SAN,1,1
-30,21/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,VAS,COR,1,1
-30,22/10/2017,17:00,Arena da Baixada - Curitiba - PR,ATL,SPO,2,1
-30,22/10/2017,17:00,Pacaembu - Sao Paulo - SP,SAO,FLA,2,0
-30,22/10/2017,17:00,Mineirão - Belo Horizonte - MG,CRU,ATL,1,3
-30,22/10/2017,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,PAL,1,3
-30,22/10/2017,17:00,Arena Fonte Nova - Salvador - BA,BAH,VIT,2,1
-30,22/10/2017,17:00,Vila Belmiro - Santos - SP,SAN,ATL,1,0
-30,22/10/2017,19:00,Moisés Lucarelli - Campinas - SP,PON,AVA,1,2
-30,22/10/2017,19:00,Arena Condá - Chapeco - SC,CHA,FLU,2,0
-30,23/10/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,BOT,COR,2,1
-31,28/10/2017,17:00,Pacaembu - Sao Paulo - SP,SAO,SAN,2,1
-31,28/10/2017,19:00,Maracanã - Rio de Janeiro - RJ,FLA,VAS,0,0
-31,28/10/2017,21:00,Arena da Baixada - Curitiba - PR,ATL,CHA,0,0
-31,29/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,FLU,BAH,1,1
-31,29/10/2017,17:00,Independência - Belo Horizonte - MG,ATL,BOT,0,0
-31,29/10/2017,17:00,Moisés Lucarelli - Campinas - SP,PON,COR,1,0
-31,29/10/2017,18:00,Ilha do Retiro - Recife - PE,SPO,COR,3,4
-31,29/10/2017,18:00,Manoel Barradas - Salvador - BA,VIT,ATL,1,1
-31,29/10/2017,19:00,Ressacada - Florianopolis - SC,AVA,GRE,2,2
-31,30/10/2017,20:00,Allianz Parque - Sao Paulo - SP,PAL,CRU,2,2
-32,04/11/2017,17:00,Vila Belmiro - Santos - SP,SAN,ATL,3,1
-32,04/11/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,BOT,FLU,1,2
-32,04/11/2017,19:00,Serra Dourada - Goiania - GO,ATL,SAO,0,1
-32,04/11/2017,21:00,Couto Pereira - Curitiba - PR,COR,AVA,4,0
-32,05/11/2017,17:00,Arena Corinthians - Sao Paulo - SP,COR,PAL,3,2
-32,05/11/2017,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,FLA,3,1
-32,05/11/2017,17:00,Mineirão - Belo Horizonte - MG,CRU,ATL,1,0
-32,05/11/2017,18:00,Arena Fonte Nova - Salvador - BA,BAH,PON,2,0
-32,05/11/2017,19:00,Arena Condá - Chapeco - SC,CHA,SPO,1,1
-32,05/11/2017,19:00,Maracanã - Rio de Janeiro - RJ,VAS,VIT,1,1
-33,08/11/2017,19:30,Moisés Lucarelli - Campinas - SP,PON,GRE,0,1
-33,08/11/2017,19:30,Ressacada - Florianopolis - SC,AVA,BAH,1,2
-33,08/11/2017,21:00,Ilha do Retiro - Recife - PE,SPO,BOT,1,2
-33,08/11/2017,21:00,Arena da Baixada - Curitiba - PR,ATL,COR,0,1
-33,08/11/2017,21:45,Luso Brasileiro - Rio de Janeiro - RJ,FLA,CRU,2,0
-33,08/11/2017,21:45,Vila Belmiro - Santos - SP,SAN,VAS,1,2
-33,08/11/2017,21:45,Manoel Barradas - Salvador - BA,VIT,PAL,3,1
-33,09/11/2017,20:00,Pacaembu - Sao Paulo - SP,SAO,CHA,2,2
-33,09/11/2017,20:00,Independência - Belo Horizonte - MG,ATL,ATL,3,2
-33,09/11/2017,21:00,Maracanã - Rio de Janeiro - RJ,FLU,COR,2,2
-34,11/11/2017,17:00,Nilton Santos - Rio de Janeiro - RJ,BOT,ATL,0,1
-34,11/11/2017,19:00,Arena Corinthians - Sao Paulo - SP,COR,AVA,1,0
-34,12/11/2017,17:00,Alfredo Jaconi - Caxias do Sul - RS,GRE,VIT,1,1
-34,12/11/2017,17:00,São Januário - Rio de Janeiro - RJ,VAS,SAO,1,1
-34,12/11/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,SPO,2,0
-34,12/11/2017,17:00,Allianz Parque - Sao Paulo - SP,PAL,FLA,2,0
-34,12/11/2017,18:00,Arena Fonte Nova - Salvador - BA,BAH,ATL,2,2
-34,12/11/2017,19:00,Mineirão - Belo Horizonte - MG,CRU,FLU,3,1
-34,12/11/2017,19:00,Couto Pereira - Curitiba - PR,COR,PON,1,1
-34,13/11/2017,20:00,Arena Condá - Chapeco - SC,CHA,SAN,2,0
-35,15/11/2017,17:00,Moisés Lucarelli - Campinas - SP,PON,ATL,2,1
-35,15/11/2017,19:30,Arena do Grêmio - Porto Alegre - RS,GRE,SAO,1,0
-35,15/11/2017,19:30,Mineirão - Belo Horizonte - MG,CRU,AVA,2,2
-35,15/11/2017,21:45,São Januário - Rio de Janeiro - RJ,VAS,ATL,1,1
-35,15/11/2017,21:45,Arena Corinthians - Sao Paulo - SP,COR,FLU,3,1
-35,16/11/2017,20:00,Arena Condá - Chapeco - SC,CHA,VIT,2,1
-35,16/11/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,BOT,ATL,1,2
-35,16/11/2017,20:00,Allianz Parque - Sao Paulo - SP,PAL,SPO,5,1
-35,16/11/2017,21:00,Couto Pereira - Curitiba - PR,COR,FLA,1,0
-35,16/11/2017,21:00,Arena Fonte Nova - Salvador - BA,BAH,SAN,3,1
-36,19/11/2017,17:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,COR,3,0
-36,19/11/2017,17:00,Pacaembu - Sao Paulo - SP,SAO,BOT,0,0
-36,19/11/2017,17:00,Manoel Barradas - Salvador - BA,VIT,CRU,1,1
-36,19/11/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,CHA,1,1
-36,19/11/2017,17:00,Ilha do Retiro - Recife - PE,SPO,BAH,1,0
-36,19/11/2017,19:00,Arena da Baixada - Curitiba - PR,ATL,VAS,3,1
-36,19/11/2017,19:00,Vila Belmiro - Santos - SP,SAN,GRE,1,0
-36,19/11/2017,19:00,Independência - Belo Horizonte - MG,ATL,COR,3,0
-36,20/11/2017,17:00,Maracanã - Rio de Janeiro - RJ,FLU,PON,2,0
-36,20/11/2017,20:00,Ressacada - Florianopolis - SC,AVA,PAL,2,1
-37,25/11/2017,17:00,Maracanã - Rio de Janeiro - RJ,FLU,SPO,1,2
-37,26/11/2017,17:00,Arena do Grêmio - Porto Alegre - RS,GRE,ATL,1,1
-37,26/11/2017,17:00,Ressacada - Florianopolis - SC,AVA,ATL,1,0
-37,26/11/2017,17:00,Arena Corinthians - Sao Paulo - SP,COR,ATL,2,2
-37,26/11/2017,17:00,Mineirão - Belo Horizonte - MG,CRU,VAS,0,1
-37,26/11/2017,17:00,Couto Pereira - Curitiba - PR,COR,SAO,1,2
-37,26/11/2017,17:00,Moisés Lucarelli - Campinas - SP,PON,VIT,2,3
-37,26/11/2017,19:00,Arena Fonte Nova - Salvador - BA,BAH,CHA,0,1
-37,26/11/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,FLA,SAN,1,2
-37,27/11/2017,20:00,Allianz Parque - Sao Paulo - SP,PAL,BOT,2,0
-38,03/12/2017,17:00,Nilton Santos - Rio de Janeiro - RJ,BOT,CRU,2,2
-38,03/12/2017,17:00,São Januário - Rio de Janeiro - RJ,VAS,PON,2,1
-38,03/12/2017,17:00,Vila Belmiro - Santos - SP,SAN,AVA,1,1
-38,03/12/2017,17:00,Morumbi - Sao Paulo - SP,SAO,BAH,1,1
-38,03/12/2017,17:00,Independência - Belo Horizonte - MG,ATL,GRE,4,3
-38,03/12/2017,17:00,Arena da Baixada - Curitiba - PR,ATL,PAL,3,0
-38,03/12/2017,17:00,Ilha do Retiro - Recife - PE,SPO,COR,1,0
-38,03/12/2017,17:00,Manoel Barradas - Salvador - BA,VIT,FLA,1,2
-38,03/12/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,ATL,FLU,1,1
-38,03/12/2017,17:00,Arena Condá - Chapeco - SC,CHA,COR,2,1
+1,13/05/2017,16:00,Maracanã - Rio de Janeiro - RJ,Flamengo - RJ,Atlético - MG,1,1
+1,13/05/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Chapecoense - SC,1,1
+1,14/05/2017,11:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Santos - SP,3,2
+1,14/05/2017,16:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Vasco da Gama - RJ,4,0
+1,14/05/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,São Paulo - SP,1,0
+1,14/05/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Atlético - PR,6,2
+1,14/05/2017,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Sport - PE,4,0
+1,14/05/2017,16:00,Ressacada - Florianopolis - SC,Avaí - SC,Vitória - BA,0,0
+1,14/05/2017,19:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Botafogo - RJ,2,0
+1,15/05/2017,20:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Atlético - GO,4,1
+2,20/05/2017,16:00,Vila Belmiro - Santos - SP,Santos - SP,Coritiba - PR,1,0
+2,20/05/2017,19:00,Serra Dourada - Goiania - GO,Atlético - GO,Flamengo - RJ,0,3
+2,20/05/2017,19:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Palmeiras - SP,1,0
+2,21/05/2017,11:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Bahia - BA,2,1
+2,21/05/2017,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Fluminense - RJ,1,2
+2,21/05/2017,16:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Grêmio - RS,0,2
+2,21/05/2017,16:00,Arena Fonte Nova - Salvador - BA,Vitória - BA,Corinthians - SP,0,1
+2,21/05/2017,18:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Ponte Preta - SP,2,0
+2,21/05/2017,19:00,Ilha do Retiro - Recife - PE,Sport - PE,Cruzeiro - MG,1,1
+2,22/05/2017,20:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Avaí - SC,2,0
+3,27/05/2017,16:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Fluminense - RJ,3,2
+3,27/05/2017,19:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Palmeiras - SP,2,0
+3,27/05/2017,21:00,Arena Fonte Nova - Salvador - BA,Vitória - BA,Coritiba - PR,0,1
+3,28/05/2017,11:00,Independência - Belo Horizonte - MG,Atlético - MG,Ponte Preta - SP,2,2
+3,28/05/2017,16:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Flamengo - RJ,1,1
+3,28/05/2017,16:00,Vila Belmiro - Santos - SP,Santos - SP,Cruzeiro - MG,0,1
+3,28/05/2017,16:00,Serra Dourada - Goiania - GO,Atlético - GO,Corinthians - SP,0,1
+3,28/05/2017,18:00,Ilha do Retiro - Recife - PE,Sport - PE,Grêmio - RS,4,3
+3,28/05/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Bahia - BA,1,0
+3,29/05/2017,20:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Avaí - SC,2,0
+4,03/06/2017,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Atlético - PR,1,0
+4,03/06/2017,18:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Vitória - BA,2,1
+4,03/06/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Santos - SP,2,0
+4,04/06/2017,11:00,Raulino de Oliveira - Volta Redonda - RJ,Flamengo - RJ,Botafogo - RJ,0,0
+4,04/06/2017,11:00,Ressacada - Florianopolis - SC,Avaí - SC,Sport - PE,1,0
+4,04/06/2017,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,São Paulo - SP,1,0
+4,04/06/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Vasco da Gama - RJ,2,0
+4,04/06/2017,16:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Atlético - MG,0,0
+4,04/06/2017,19:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Chapecoense - SC,0,2
+4,05/06/2017,20:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Atlético - GO,3,0
+5,06/06/2017,20:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Atlético - PR,1,1
+5,07/06/2017,19:30,Independência - Belo Horizonte - MG,Atlético - MG,Avaí - SC,1,0
+5,07/06/2017,19:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Palmeiras - SP,1,0
+5,07/06/2017,21:00,Pacaembu - Sao Paulo - SP,Santos - SP,Botafogo - RJ,1,0
+5,07/06/2017,21:45,Ilha do Retiro - Recife - PE,Sport - PE,Flamengo - RJ,2,0
+5,07/06/2017,21:45,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Corinthians - SP,2,5
+5,08/06/2017,19:30,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Ponte Preta - SP,3,0
+5,08/06/2017,19:30,Morumbi - Sao Paulo - SP,São Paulo - SP,Vitória - BA,2,0
+5,08/06/2017,20:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Grêmio - RS,3,6
+5,08/06/2017,21:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Cruzeiro - MG,1,0
+6,10/06/2017,16:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Fluminense - RJ,3,1
+6,10/06/2017,19:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Sport - PE,2,1
+6,11/06/2017,11:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Coritiba - PR,2,2
+6,11/06/2017,16:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,São Paulo - SP,3,2
+6,11/06/2017,16:00,Manoel Barradas - Salvador - BA,Vitória - BA,Atlético - MG,2,0
+6,11/06/2017,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Chapecoense - SC,3,2
+6,11/06/2017,16:00,Ressacada - Florianopolis - SC,Avaí - SC,Flamengo - RJ,1,1
+6,11/06/2017,18:30,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Atlético - GO,2,0
+6,11/06/2017,19:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Santos - SP,0,2
+6,12/06/2017,20:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Bahia - BA,1,0
+7,14/06/2017,19:30,Independência - Belo Horizonte - MG,Atlético - MG,Atlético - PR,0,1
+7,14/06/2017,19:30,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Avaí - SC,3,1
+7,14/06/2017,19:30,Manoel Barradas - Salvador - BA,Vitória - BA,Botafogo - RJ,2,2
+7,14/06/2017,19:30,Ilha do Retiro - Recife - PE,Sport - PE,São Paulo - SP,0,0
+7,14/06/2017,21:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Ponte Preta - SP,2,0
+7,14/06/2017,21:45,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Cruzeiro - MG,1,0
+7,14/06/2017,21:45,Vila Belmiro - Santos - SP,Santos - SP,Palmeiras - SP,1,0
+7,14/06/2017,21:45,Arena Condá - Chapeco - SC,Chapecoense - SC,Vasco da Gama - RJ,2,1
+7,15/06/2017,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Bahia - BA,0,0
+7,15/06/2017,21:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Grêmio - RS,0,2
+8,17/06/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Atlético - PR,0,1
+8,17/06/2017,19:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Avaí - SC,1,0
+8,17/06/2017,21:00,Pacaembu - Sao Paulo - SP,Santos - SP,Ponte Preta - SP,0,0
+8,18/06/2017,11:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Corinthians - SP,0,0
+8,18/06/2017,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Atlético - MG,1,2
+8,18/06/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Palmeiras - SP,2,4
+8,18/06/2017,16:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Flamengo - RJ,2,2
+8,18/06/2017,16:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Botafogo - RJ,0,2
+8,18/06/2017,19:00,Ilha do Retiro - Recife - PE,Sport - PE,Vitória - BA,1,3
+8,19/06/2017,20:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Grêmio - RS,3,3
+9,21/06/2017,19:30,Manoel Barradas - Salvador - BA,Vitória - BA,Santos - SP,0,2
+9,21/06/2017,21:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Vasco da Gama - RJ,3,1
+9,21/06/2017,21:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Atlético - GO,1,0
+9,21/06/2017,21:45,Ressacada - Florianopolis - SC,Avaí - SC,Fluminense - RJ,0,3
+9,21/06/2017,21:45,Independência - Belo Horizonte - MG,Atlético - MG,Sport - PE,2,2
+9,21/06/2017,21:45,Arena da Baixada - Curitiba - PR,Atlético - PR,São Paulo - SP,1,0
+9,22/06/2017,19:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Cruzeiro - MG,1,0
+9,22/06/2017,19:30,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Bahia - BA,3,0
+9,22/06/2017,21:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Coritiba - PR,2,0
+9,22/06/2017,21:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Chapecoense - SC,5,1
+10,24/06/2017,19:00,Vila Belmiro - Santos - SP,Santos - SP,Sport - PE,0,1
+10,25/06/2017,11:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Atlético - GO,1,0
+10,25/06/2017,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Palmeiras - SP,1,2
+10,25/06/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Corinthians - SP,0,1
+10,25/06/2017,16:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Vitória - BA,4,1
+10,25/06/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Coritiba - PR,2,0
+10,25/06/2017,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Fluminense - RJ,1,1
+10,25/06/2017,18:30,Arena Fonte Nova - Salvador - BA,Bahia - BA,Flamengo - RJ,0,1
+10,25/06/2017,19:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Atlético - MG,0,1
+10,26/06/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Avaí - SC,0,2
+11,01/07/2017,16:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Grêmio - RS,1,0
+11,01/07/2017,19:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Santos - SP,1,1
+11,02/07/2017,16:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,São Paulo - SP,2,0
+11,02/07/2017,16:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Botafogo - RJ,1,0
+11,02/07/2017,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Cruzeiro - MG,3,1
+11,02/07/2017,16:00,Ilha do Retiro - Recife - PE,Sport - PE,Atlético - PR,1,0
+11,02/07/2017,16:00,Manoel Barradas - Salvador - BA,Vitória - BA,Bahia - BA,0,0
+11,02/07/2017,19:00,Durival Britto - Curitiba - PR,Coritiba - PR,Vasco da Gama - RJ,2,2
+11,02/07/2017,19:00,Ressacada - Florianopolis - SC,Avaí - SC,Ponte Preta - SP,0,0
+11,03/07/2017,20:00,Giulite Coutinho - Mesquita - RJ,Fluminense - RJ,Chapecoense - SC,3,3
+12,08/07/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Vitória - BA,1,2
+12,08/07/2017,18:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Flamengo - RJ,0,1
+12,08/07/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Ponte Preta - SP,2,0
+12,09/07/2017,11:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Atlético - PR,1,1
+12,09/07/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Palmeiras - SP,3,1
+12,09/07/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Avaí - SC,0,2
+12,09/07/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Fluminense - RJ,1,1
+12,09/07/2017,19:00,Vila Belmiro - Santos - SP,Santos - SP,São Paulo - SP,3,2
+12,09/07/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Atlético - MG,1,1
+12,10/07/2017,20:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Sport - PE,0,3
+13,12/07/2017,19:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Bahia - BA,0,3
+13,12/07/2017,19:30,Independência - Belo Horizonte - MG,Atlético - MG,Santos - SP,0,1
+13,12/07/2017,21:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Botafogo - RJ,0,1
+13,12/07/2017,21:45,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Corinthians - SP,0,2
+13,12/07/2017,21:45,Manoel Barradas - Salvador - BA,Vitória - BA,Vasco da Gama - RJ,1,4
+13,12/07/2017,21:45,Arena da Baixada - Curitiba - PR,Atlético - PR,Cruzeiro - MG,0,2
+13,13/07/2017,19:30,Arena Pernambuco - São Lourenço da Mata - PE,Sport - PE,Chapecoense - SC,3,0
+13,13/07/2017,19:30,Morumbi - Sao Paulo - SP,São Paulo - SP,Atlético - GO,2,2
+13,13/07/2017,19:30,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Grêmio - RS,0,1
+13,13/07/2017,21:00,Ressacada - Florianopolis - SC,Avaí - SC,Coritiba - PR,1,4
+14,15/07/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Atlético - PR,2,2
+14,16/07/2017,11:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Vitória - BA,4,2
+14,16/07/2017,16:00,Nilton Santos - Rio de Janeiro - RJ,Vasco da Gama - RJ,Santos - SP,0,0
+14,16/07/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Flamengo - RJ,1,1
+14,16/07/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Ponte Preta - SP,3,1
+14,16/07/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Atlético - MG,1,2
+14,16/07/2017,16:00,Arena Condá - Chapeco - SC,Chapecoense - SC,São Paulo - SP,2,0
+14,16/07/2017,19:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Fluminense - RJ,1,2
+14,16/07/2017,19:00,Pituaçu - Salvador - BA,Bahia - BA,Avaí - SC,1,1
+14,17/07/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Sport - PE,2,1
+15,19/07/2017,19:30,Manoel Barradas - Salvador - BA,Vitória - BA,Grêmio - RS,1,3
+15,19/07/2017,19:30,Vila Belmiro - Santos - SP,Santos - SP,Chapecoense - SC,1,0
+15,19/07/2017,21:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Coritiba - PR,4,0
+15,19/07/2017,21:00,Ressacada - Florianopolis - SC,Avaí - SC,Corinthians - SP,0,0
+15,19/07/2017,21:45,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Palmeiras - SP,2,2
+15,19/07/2017,21:45,Independência - Belo Horizonte - MG,Atlético - MG,Bahia - BA,0,2
+15,19/07/2017,21:45,Morumbi - Sao Paulo - SP,São Paulo - SP,Vasco da Gama - RJ,1,0
+15,20/07/2017,19:30,Giulite Coutinho - Mesquita - RJ,Fluminense - RJ,Cruzeiro - MG,1,1
+15,20/07/2017,20:00,Ilha do Retiro - Recife - PE,Sport - PE,Atlético - GO,4,0
+15,20/07/2017,21:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Botafogo - RJ,0,0
+16,22/07/2017,16:00,Manoel Barradas - Salvador - BA,Vitória - BA,Chapecoense - SC,1,2
+16,22/07/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Coritiba - PR,2,1
+16,23/07/2017,11:00,Pacaembu - Sao Paulo - SP,Santos - SP,Bahia - BA,3,0
+16,23/07/2017,16:00,Ressacada - Florianopolis - SC,Avaí - SC,Cruzeiro - MG,1,0
+16,23/07/2017,16:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Corinthians - SP,0,1
+16,23/07/2017,16:00,Arena Pernambuco - São Lourenço da Mata - PE,Sport - PE,Palmeiras - SP,0,2
+16,23/07/2017,19:00,Independência - Belo Horizonte - MG,Atlético - MG,Vasco da Gama - RJ,1,2
+16,23/07/2017,19:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Ponte Preta - SP,0,2
+16,23/07/2017,19:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Botafogo - RJ,1,1
+16,24/07/2017,20:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Grêmio - RS,1,1
+17,29/07/2017,16:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,São Paulo - SP,3,4
+17,29/07/2017,19:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Avaí - SC,2,0
+17,30/07/2017,11:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Atlético - GO,1,2
+17,30/07/2017,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Atlético - MG,0,2
+17,30/07/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Sport - PE,1,3
+17,30/07/2017,16:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Flamengo - RJ,1,1
+17,30/07/2017,19:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Vitória - BA,0,0
+17,30/07/2017,19:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Santos - SP,1,1
+17,31/07/2017,20:00,Raulino de Oliveira - Volta Redonda - RJ,Vasco da Gama - RJ,Atlético - PR,0,1
+17,09/08/2017,20:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Fluminense - RJ,0,0
+18,02/08/2017,19:30,Ilha do Retiro - Recife - PE,Sport - PE,Fluminense - RJ,2,2
+18,02/08/2017,19:30,Arena Condá - Chapeco - SC,Chapecoense - SC,Bahia - BA,1,1
+18,02/08/2017,21:00,Mineirão - Belo Horizonte - MG,Atlético - MG,Corinthians - SP,0,2
+18,02/08/2017,21:00,Manoel Barradas - Salvador - BA,Vitória - BA,Ponte Preta - SP,3,1
+18,02/08/2017,21:45,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Palmeiras - SP,1,2
+18,02/08/2017,21:45,Pacaembu - Sao Paulo - SP,Santos - SP,Flamengo - RJ,3,2
+18,02/08/2017,21:45,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Grêmio - RS,0,1
+18,03/08/2017,19:30,Arena da Baixada - Curitiba - PR,Atlético - PR,Avaí - SC,5,0
+18,03/08/2017,19:30,Morumbi - Sao Paulo - SP,São Paulo - SP,Coritiba - PR,1,2
+18,03/08/2017,20:00,Raulino de Oliveira - Volta Redonda - RJ,Vasco da Gama - RJ,Cruzeiro - MG,0,3
+19,05/08/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Sport - PE,3,1
+19,05/08/2017,19:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Atlético - GO,3,1
+19,06/08/2017,11:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Vitória - BA,0,2
+19,06/08/2017,16:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Atlético - PR,0,1
+19,06/08/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Botafogo - RJ,0,0
+19,06/08/2017,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Chapecoense - SC,2,0
+19,06/08/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Atlético - MG,2,0
+19,06/08/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,São Paulo - SP,2,1
+19,06/08/2017,19:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Vasco da Gama - RJ,0,0
+19,06/08/2017,19:00,Ressacada - Florianopolis - SC,Avaí - SC,Santos - SP,0,0
+20,12/08/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Coritiba - PR,1,0
+20,12/08/2017,19:00,Manoel Barradas - Salvador - BA,Vitória - BA,Avaí - SC,0,1
+20,13/08/2017,11:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Cruzeiro - MG,3,2
+20,13/08/2017,16:00,Raulino de Oliveira - Volta Redonda - RJ,Vasco da Gama - RJ,Palmeiras - SP,1,1
+20,13/08/2017,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Flamengo - RJ,2,0
+20,13/08/2017,16:00,Ilha do Retiro - Recife - PE,Sport - PE,Ponte Preta - SP,0,0
+20,13/08/2017,19:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Bahia - BA,4,1
+20,13/08/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Grêmio - RS,1,0
+20,14/08/2017,20:00,Pacaembu - Sao Paulo - SP,Santos - SP,Fluminense - RJ,0,0
+20,23/08/2017,19:30,Arena Condá - Chapeco - SC,Chapecoense - SC,Corinthians - SP,0,1
+21,19/08/2017,16:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Vitória - BA,0,1
+21,19/08/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Atlético - GO,2,0
+21,20/08/2017,11:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Atlético - PR,0,0
+21,20/08/2017,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Botafogo - RJ,2,1
+21,20/08/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Sport - PE,2,0
+21,20/08/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Vasco da Gama - RJ,3,0
+21,20/08/2017,16:00,Ressacada - Florianopolis - SC,Avaí - SC,São Paulo - SP,1,1
+21,20/08/2017,19:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Chapecoense - SC,0,2
+21,20/08/2017,19:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Santos - SP,0,0
+21,21/08/2017,20:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Atlético - MG,2,1
+22,26/08/2017,16:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Vasco da Gama - RJ,0,1
+22,26/08/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Atlético - GO,0,1
+22,27/08/2017,16:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Atlético - PR,2,0
+22,27/08/2017,16:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,São Paulo - SP,4,2
+22,27/08/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Botafogo - RJ,1,2
+22,27/08/2017,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Atlético - MG,1,2
+22,27/08/2017,19:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Santos - SP,1,1
+22,27/08/2017,19:00,Ressacada - Florianopolis - SC,Avaí - SC,Chapecoense - SC,1,0
+22,28/08/2017,20:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Vitória - BA,0,1
+22,02/09/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Sport - PE,5,0
+23,09/09/2017,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Palmeiras - SP,1,1
+23,09/09/2017,18:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Grêmio - RS,1,0
+23,09/09/2017,19:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Ponte Preta - SP,2,2
+23,10/09/2017,11:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Coritiba - PR,1,1
+23,10/09/2017,16:00,Vila Belmiro - Santos - SP,Santos - SP,Corinthians - SP,2,0
+23,10/09/2017,16:00,Ilha do Retiro - Recife - PE,Sport - PE,Avaí - SC,0,1
+23,10/09/2017,16:00,Manoel Barradas - Salvador - BA,Vitória - BA,Fluminense - RJ,2,2
+23,10/09/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Flamengo - RJ,2,0
+23,10/09/2017,19:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Cruzeiro - MG,1,2
+23,11/09/2017,20:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Bahia - BA,1,1
+24,16/09/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Santos - SP,2,0
+24,16/09/2017,21:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Atlético - GO,1,3
+24,17/09/2017,11:00,Ressacada - Florianopolis - SC,Avaí - SC,Atlético - MG,1,1
+24,17/09/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Chapecoense - SC,0,1
+24,17/09/2017,16:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Sport - PE,2,0
+24,17/09/2017,16:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Vasco da Gama - RJ,1,0
+24,17/09/2017,16:00,Manoel Barradas - Salvador - BA,Vitória - BA,São Paulo - SP,1,2
+24,17/09/2017,16:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Fluminense - RJ,3,1
+24,17/09/2017,19:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Bahia - BA,1,0
+24,18/09/2017,20:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Coritiba - PR,1,0
+25,23/09/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Avaí - SC,1,1
+25,23/09/2017,21:00,Vila Belmiro - Santos - SP,Santos - SP,Atlético - PR,1,0
+25,24/09/2017,11:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Corinthians - SP,1,1
+25,24/09/2017,16:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Ponte Preta - SP,1,0
+25,24/09/2017,16:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Cruzeiro - MG,1,2
+25,24/09/2017,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Botafogo - RJ,2,3
+25,24/09/2017,16:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Palmeiras - SP,0,1
+25,24/09/2017,19:00,Independência - Belo Horizonte - MG,Atlético - MG,Vitória - BA,1,3
+25,24/09/2017,19:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Grêmio - RS,1,0
+25,25/09/2017,20:00,Ilha do Retiro - Recife - PE,Sport - PE,Vasco da Gama - RJ,1,1
+26,30/09/2017,16:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Chapecoense - SC,1,1
+26,30/09/2017,16:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Coritiba - PR,1,1
+26,30/09/2017,19:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Santos - SP,0,1
+26,01/10/2017,16:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Vitória - BA,2,3
+26,01/10/2017,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Sport - PE,1,0
+26,01/10/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Corinthians - SP,1,1
+26,01/10/2017,16:00,Ressacada - Florianopolis - SC,Avaí - SC,Atlético - GO,0,2
+26,01/10/2017,16:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Fluminense - RJ,1,0
+26,01/10/2017,19:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Atlético - MG,0,2
+26,02/10/2017,20:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Flamengo - RJ,1,0
+27,11/10/2017,19:30,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Chapecoense - SC,2,1
+27,11/10/2017,19:30,Arena da Baixada - Curitiba - PR,Atlético - PR,Atlético - GO,2,2
+27,11/10/2017,21:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Coritiba - PR,3,1
+27,11/10/2017,21:45,Independência - Belo Horizonte - MG,Atlético - MG,São Paulo - SP,1,0
+27,11/10/2017,21:45,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Cruzeiro - MG,0,1
+27,11/10/2017,21:45,Ressacada - Florianopolis - SC,Avaí - SC,Vasco da Gama - RJ,1,2
+27,12/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,Flamengo - RJ,Fluminense - RJ,1,1
+27,12/10/2017,17:00,Manoel Barradas - Salvador - BA,Vitória - BA,Sport - PE,1,2
+27,12/10/2017,17:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Santos - SP,1,1
+27,12/10/2017,21:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Bahia - BA,2,2
+28,07/10/2017,16:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Ponte Preta - SP,2,1
+28,14/10/2017,19:00,Maracanã - Rio de Janeiro - RJ,Vasco da Gama - RJ,Botafogo - RJ,1,0
+28,14/10/2017,21:00,Pacaembu - Sao Paulo - SP,São Paulo - SP,Atlético - PR,2,1
+28,15/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Avaí - SC,1,0
+28,15/10/2017,17:00,Ilha do Retiro - Recife - PE,Sport - PE,Atlético - MG,1,1
+28,15/10/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Palmeiras - SP,1,3
+28,15/10/2017,17:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Flamengo - RJ,0,1
+28,15/10/2017,19:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Grêmio - RS,0,1
+28,15/10/2017,19:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Corinthians - SP,2,0
+28,16/10/2017,20:00,Pacaembu - Sao Paulo - SP,Santos - SP,Vitória - BA,2,2
+29,18/10/2017,19:30,Serra Dourada - Goiania - GO,Atlético - GO,Vasco da Gama - RJ,0,1
+29,18/10/2017,19:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Cruzeiro - MG,1,0
+29,18/10/2017,21:00,Independência - Belo Horizonte - MG,Atlético - MG,Chapecoense - SC,2,3
+29,18/10/2017,21:45,Ressacada - Florianopolis - SC,Avaí - SC,Botafogo - RJ,1,1
+29,18/10/2017,21:45,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,São Paulo - SP,3,1
+29,18/10/2017,21:45,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Grêmio - RS,0,0
+29,19/10/2017,20:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Ponte Preta - SP,2,0
+29,19/10/2017,20:00,Manoel Barradas - Salvador - BA,Vitória - BA,Atlético - PR,2,3
+29,19/10/2017,21:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Bahia - BA,4,1
+29,19/10/2017,21:00,Ilha do Retiro - Recife - PE,Sport - PE,Santos - SP,1,1
+30,21/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,Vasco da Gama - RJ,Coritiba - PR,1,1
+30,22/10/2017,17:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Sport - PE,2,1
+30,22/10/2017,17:00,Pacaembu - Sao Paulo - SP,São Paulo - SP,Flamengo - RJ,2,0
+30,22/10/2017,17:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Atlético - MG,1,3
+30,22/10/2017,17:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Palmeiras - SP,1,3
+30,22/10/2017,17:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Vitória - BA,2,1
+30,22/10/2017,17:00,Vila Belmiro - Santos - SP,Santos - SP,Atlético - GO,1,0
+30,22/10/2017,19:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Avaí - SC,1,2
+30,22/10/2017,19:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Fluminense - RJ,2,0
+30,23/10/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Corinthians - SP,2,1
+31,28/10/2017,17:00,Pacaembu - Sao Paulo - SP,São Paulo - SP,Santos - SP,2,1
+31,28/10/2017,19:00,Maracanã - Rio de Janeiro - RJ,Flamengo - RJ,Vasco da Gama - RJ,0,0
+31,28/10/2017,21:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Chapecoense - SC,0,0
+31,29/10/2017,17:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Bahia - BA,1,1
+31,29/10/2017,17:00,Independência - Belo Horizonte - MG,Atlético - MG,Botafogo - RJ,0,0
+31,29/10/2017,17:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Corinthians - SP,1,0
+31,29/10/2017,18:00,Ilha do Retiro - Recife - PE,Sport - PE,Coritiba - PR,3,4
+31,29/10/2017,18:00,Manoel Barradas - Salvador - BA,Vitória - BA,Atlético - GO,1,1
+31,29/10/2017,19:00,Ressacada - Florianopolis - SC,Avaí - SC,Grêmio - RS,2,2
+31,30/10/2017,20:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Cruzeiro - MG,2,2
+32,04/11/2017,17:00,Vila Belmiro - Santos - SP,Santos - SP,Atlético - MG,3,1
+32,04/11/2017,19:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Fluminense - RJ,1,2
+32,04/11/2017,19:00,Serra Dourada - Goiania - GO,Atlético - GO,São Paulo - SP,0,1
+32,04/11/2017,21:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Avaí - SC,4,0
+32,05/11/2017,17:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Palmeiras - SP,3,2
+32,05/11/2017,17:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Flamengo - RJ,3,1
+32,05/11/2017,17:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Atlético - PR,1,0
+32,05/11/2017,18:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Ponte Preta - SP,2,0
+32,05/11/2017,19:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Sport - PE,1,1
+32,05/11/2017,19:00,Maracanã - Rio de Janeiro - RJ,Vasco da Gama - RJ,Vitória - BA,1,1
+33,08/11/2017,19:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Grêmio - RS,0,1
+33,08/11/2017,19:30,Ressacada - Florianopolis - SC,Avaí - SC,Bahia - BA,1,2
+33,08/11/2017,21:00,Ilha do Retiro - Recife - PE,Sport - PE,Botafogo - RJ,1,2
+33,08/11/2017,21:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Corinthians - SP,0,1
+33,08/11/2017,21:45,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Cruzeiro - MG,2,0
+33,08/11/2017,21:45,Vila Belmiro - Santos - SP,Santos - SP,Vasco da Gama - RJ,1,2
+33,08/11/2017,21:45,Manoel Barradas - Salvador - BA,Vitória - BA,Palmeiras - SP,3,1
+33,09/11/2017,20:00,Pacaembu - Sao Paulo - SP,São Paulo - SP,Chapecoense - SC,2,2
+33,09/11/2017,20:00,Independência - Belo Horizonte - MG,Atlético - MG,Atlético - GO,3,2
+33,09/11/2017,21:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Coritiba - PR,2,2
+34,11/11/2017,17:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Atlético - PR,0,1
+34,11/11/2017,19:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Avaí - SC,1,0
+34,12/11/2017,17:00,Alfredo Jaconi - Caxias do Sul - RS,Grêmio - RS,Vitória - BA,1,1
+34,12/11/2017,17:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,São Paulo - SP,1,1
+34,12/11/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Sport - PE,2,0
+34,12/11/2017,17:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Flamengo - RJ,2,0
+34,12/11/2017,18:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Atlético - MG,2,2
+34,12/11/2017,19:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Fluminense - RJ,3,1
+34,12/11/2017,19:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Ponte Preta - SP,1,1
+34,13/11/2017,20:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Santos - SP,2,0
+35,15/11/2017,17:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Atlético - PR,2,1
+35,15/11/2017,19:30,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,São Paulo - SP,1,0
+35,15/11/2017,19:30,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Avaí - SC,2,2
+35,15/11/2017,21:45,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Atlético - MG,1,1
+35,15/11/2017,21:45,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Fluminense - RJ,3,1
+35,16/11/2017,20:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Vitória - BA,2,1
+35,16/11/2017,20:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Atlético - GO,1,2
+35,16/11/2017,20:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Sport - PE,5,1
+35,16/11/2017,21:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Flamengo - RJ,1,0
+35,16/11/2017,21:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Santos - SP,3,1
+36,19/11/2017,17:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Corinthians - SP,3,0
+36,19/11/2017,17:00,Pacaembu - Sao Paulo - SP,São Paulo - SP,Botafogo - RJ,0,0
+36,19/11/2017,17:00,Manoel Barradas - Salvador - BA,Vitória - BA,Cruzeiro - MG,1,1
+36,19/11/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Chapecoense - SC,1,1
+36,19/11/2017,17:00,Ilha do Retiro - Recife - PE,Sport - PE,Bahia - BA,1,0
+36,19/11/2017,19:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Vasco da Gama - RJ,3,1
+36,19/11/2017,19:00,Vila Belmiro - Santos - SP,Santos - SP,Grêmio - RS,1,0
+36,19/11/2017,19:00,Independência - Belo Horizonte - MG,Atlético - MG,Coritiba - PR,3,0
+36,20/11/2017,17:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Ponte Preta - SP,2,0
+36,20/11/2017,20:00,Ressacada - Florianopolis - SC,Avaí - SC,Palmeiras - SP,2,1
+37,25/11/2017,17:00,Maracanã - Rio de Janeiro - RJ,Fluminense - RJ,Sport - PE,1,2
+37,26/11/2017,17:00,Arena do Grêmio - Porto Alegre - RS,Grêmio - RS,Atlético - GO,1,1
+37,26/11/2017,17:00,Ressacada - Florianopolis - SC,Avaí - SC,Atlético - PR,1,0
+37,26/11/2017,17:00,Arena Corinthians - Sao Paulo - SP,Corinthians - SP,Atlético - MG,2,2
+37,26/11/2017,17:00,Mineirão - Belo Horizonte - MG,Cruzeiro - MG,Vasco da Gama - RJ,0,1
+37,26/11/2017,17:00,Couto Pereira - Curitiba - PR,Coritiba - PR,São Paulo - SP,1,2
+37,26/11/2017,17:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Vitória - BA,2,3
+37,26/11/2017,19:00,Arena Fonte Nova - Salvador - BA,Bahia - BA,Chapecoense - SC,0,1
+37,26/11/2017,19:00,Luso Brasileiro - Rio de Janeiro - RJ,Flamengo - RJ,Santos - SP,1,2
+37,27/11/2017,20:00,Allianz Parque - Sao Paulo - SP,Palmeiras - SP,Botafogo - RJ,2,0
+38,03/12/2017,17:00,Nilton Santos - Rio de Janeiro - RJ,Botafogo - RJ,Cruzeiro - MG,2,2
+38,03/12/2017,17:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Ponte Preta - SP,2,1
+38,03/12/2017,17:00,Vila Belmiro - Santos - SP,Santos - SP,Avaí - SC,1,1
+38,03/12/2017,17:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Bahia - BA,1,1
+38,03/12/2017,17:00,Independência - Belo Horizonte - MG,Atlético - MG,Grêmio - RS,4,3
+38,03/12/2017,17:00,Arena da Baixada - Curitiba - PR,Atlético - PR,Palmeiras - SP,3,0
+38,03/12/2017,17:00,Ilha do Retiro - Recife - PE,Sport - PE,Corinthians - SP,1,0
+38,03/12/2017,17:00,Manoel Barradas - Salvador - BA,Vitória - BA,Flamengo - RJ,1,2
+38,03/12/2017,17:00,Olímpico Pedro Ludovico - Goiania - GO,Atlético - GO,Fluminense - RJ,1,1
+38,03/12/2017,17:00,Arena Condá - Chapeco - SC,Chapecoense - SC,Coritiba - PR,2,1

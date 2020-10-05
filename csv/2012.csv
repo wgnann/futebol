@@ -1,381 +1,381 @@
 rodada,data,hora,local,casa,fora,gols_casa,gols_fora
-1,19/05/2012,18:30,Pacaembu - Sao Paulo - SP,PAL,POR,1,1
-1,19/05/2012,18:30,Ilha do Retiro - Recife - PE,SPO,FLA,1,1
-1,19/05/2012,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,NAU,2,1
-1,20/05/2012,16:00,Moisés Lucarelli - Campinas - SP,PON,ATL,0,1
-1,20/05/2012,16:00,Pacaembu - Sao Paulo - SP,COR,FLU,0,1
-1,20/05/2012,16:00,João Havelange - Rio de Janeiro - RJ,BOT,SAO,4,2
-1,20/05/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,COR,2,0
-1,20/05/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,GRE,2,1
-1,20/05/2012,18:30,Pituaçu - Salvador - BA,BAH,SAN,0,0
-1,20/05/2012,18:30,João Havelange - Uberlandia - MG,CRU,ATL,0,0
-2,26/05/2012,18:30,Serra Dourada - Goiania - GO,ATL,PON,1,1
-2,26/05/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLA,INT,3,3
-2,26/05/2012,18:30,Canindé - Sao Paulo - SP,POR,VAS,0,1
-2,26/05/2012,21:00,Aflitos - Recife - PE,NAU,CRU,0,0
-2,27/05/2012,16:00,Vila Belmiro - Santos - SP,SAN,SPO,0,0
-2,27/05/2012,16:00,Independência - Belo Horizonte - MG,ATL,COR,1,0
-2,27/05/2012,16:00,Couto Pereira - Curitiba - PR,COR,BOT,2,3
-2,27/05/2012,16:00,Morumbi - Sao Paulo - SP,SAO,BAH,1,0
-2,27/05/2012,18:30,Olímpico - Porto Alegre - RS,GRE,PAL,1,0
-2,27/05/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLU,FIG,2,2
-3,06/06/2012,19:30,Serra Dourada - Goiania - GO,ATL,GRE,0,1
-3,06/06/2012,19:30,Ilha do Retiro - Recife - PE,SPO,PAL,2,1
-3,06/06/2012,20:30,São Januário - Rio de Janeiro - RJ,VAS,NAU,4,2
-3,06/06/2012,20:30,Independência - Belo Horizonte - MG,ATL,BAH,1,1
-3,06/06/2012,20:30,Couto Pereira - Curitiba - PR,COR,POR,2,0
-3,06/06/2012,21:50,Moisés Lucarelli - Campinas - SP,PON,FLA,2,2
-3,06/06/2012,21:50,Beira-Rio - Porto Alegre - RS,INT,SAO,1,0
-3,06/06/2012,21:50,Vila Belmiro - Santos - SP,SAN,FLU,1,1
-3,07/06/2012,21:00,Pacaembu - Sao Paulo - SP,COR,FIG,1,1
-3,07/06/2012,21:00,João Havelange - Rio de Janeiro - RJ,BOT,CRU,2,3
-4,09/06/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLA,COR,3,1
-4,09/06/2012,21:00,Pacaembu - Sao Paulo - SP,PAL,ATL,0,1
-4,10/06/2012,16:00,Canindé - Sao Paulo - SP,POR,ATL,2,0
-4,10/06/2012,17:00,Olímpico - Porto Alegre - RS,GRE,COR,2,0
-4,10/06/2012,17:00,João Havelange - Rio de Janeiro - RJ,FLU,INT,0,0
-4,10/06/2012,17:00,Pituaçu - Salvador - BA,BAH,VAS,1,2
-4,10/06/2012,18:30,Aflitos - Recife - PE,NAU,BOT,3,2
-4,10/06/2012,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,PON,0,0
-4,10/06/2012,18:30,Dilzon Melo - Varginha - MG,CRU,SPO,1,0
-4,10/06/2012,18:30,Morumbi - Sao Paulo - SP,SAO,SAN,1,0
-5,16/06/2012,18:30,Beira-Rio - Porto Alegre - RS,INT,BOT,1,2
-5,16/06/2012,18:30,Independência - Belo Horizonte - MG,CRU,FIG,1,0
-5,16/06/2012,21:00,João Havelange - Rio de Janeiro - RJ,FLU,POR,4,1
-5,17/06/2012,16:00,Morumbi - Sao Paulo - SP,SAO,ATL,1,0
-5,17/06/2012,16:00,Arena Barueri - Barueri - SP,PAL,VAS,1,1
-5,17/06/2012,16:00,Pituaçu - Salvador - BA,BAH,SPO,2,1
-5,17/06/2012,16:00,João Havelange - Rio de Janeiro - RJ,FLA,SAN,1,0
-5,17/06/2012,18:30,Aflitos - Recife - PE,NAU,GRE,1,0
-5,17/06/2012,18:30,Couto Pereira - Curitiba - PR,COR,ATL,3,0
-5,17/06/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,COR,1,0
-6,23/06/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,CRU,1,3
-6,23/06/2012,18:30,Canindé - Sao Paulo - SP,POR,SAO,1,0
-6,23/06/2012,21:00,Independência - Belo Horizonte - MG,ATL,NAU,5,1
-6,24/06/2012,16:00,Pacaembu - Sao Paulo - SP,COR,PAL,2,1
-6,24/06/2012,16:00,Olímpico - Porto Alegre - RS,GRE,FLA,2,0
-6,24/06/2012,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,BAH,1,1
-6,24/06/2012,18:30,Ilha do Retiro - Recife - PE,SPO,INT,0,2
-6,24/06/2012,18:30,João Havelange - Rio de Janeiro - RJ,BOT,PON,1,2
-6,24/06/2012,18:30,Vila Belmiro - Santos - SP,SAN,COR,2,2
-6,24/06/2012,18:30,Serra Dourada - Goiania - GO,ATL,FLU,1,4
-7,30/06/2012,16:20,Aflitos - Recife - PE,NAU,FLU,0,2
-7,30/06/2012,16:20,Independência - Belo Horizonte - MG,CRU,SAO,2,3
-7,30/06/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,PON,3,2
-7,01/07/2012,16:00,Couto Pereira - Curitiba - PR,COR,SPO,2,3
-7,01/07/2012,16:00,Canindé - Sao Paulo - SP,POR,SAN,0,0
-7,01/07/2012,16:00,Pituaçu - Salvador - BA,BAH,INT,1,1
-7,01/07/2012,18:30,Olímpico - Porto Alegre - RS,GRE,ATL,0,1
-7,01/07/2012,18:30,Arena Barueri - Barueri - SP,PAL,FIG,3,1
-7,01/07/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLA,ATL,3,2
-7,11/07/2012,19:30,Pacaembu - Sao Paulo - SP,COR,BOT,1,3
-8,07/07/2012,18:30,João Havelange - Rio de Janeiro - RJ,BOT,BAH,3,0
-8,07/07/2012,18:30,Beira-Rio - Porto Alegre - RS,INT,CRU,2,1
-8,07/07/2012,21:00,Serra Dourada - Goiania - GO,ATL,NAU,0,1
-8,08/07/2012,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,VAS,1,1
-8,08/07/2012,16:00,João Havelange - Rio de Janeiro - RJ,FLU,FLA,1,0
-8,08/07/2012,16:00,Vila Belmiro - Santos - SP,SAN,GRE,4,2
-8,08/07/2012,16:00,Morumbi - Sao Paulo - SP,SAO,COR,3,1
-8,08/07/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,PAL,1,0
-8,08/07/2012,18:30,Ilha do Retiro - Recife - PE,SPO,COR,1,1
-8,08/07/2012,18:30,Independência - Belo Horizonte - MG,ATL,POR,2,0
-9,14/07/2012,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,ATL,3,4
-9,14/07/2012,18:30,Pacaembu - Sao Paulo - SP,COR,NAU,2,1
-9,14/07/2012,21:00,Moisés Lucarelli - Campinas - SP,PON,COR,4,1
-9,15/07/2012,16:00,Pituaçu - Salvador - BA,BAH,FLA,1,2
-9,15/07/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,SAN,0,0
-9,15/07/2012,16:00,Independência - Belo Horizonte - MG,CRU,GRE,1,3
-9,15/07/2012,16:00,João Havelange - Rio de Janeiro - RJ,BOT,FLU,1,1
-9,15/07/2012,18:30,Arena Barueri - Barueri - SP,PAL,SAO,1,1
-9,15/07/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,ATL,1,0
-9,15/07/2012,18:30,Ilha do Retiro - Recife - PE,SPO,POR,2,1
-10,18/07/2012,19:30,Vila Belmiro - Santos - SP,SAN,BOT,0,0
-10,18/07/2012,19:30,Olímpico - Porto Alegre - RS,GRE,SPO,3,1
-10,18/07/2012,20:30,Canindé - Sao Paulo - SP,POR,CRU,0,2
-10,18/07/2012,20:30,Aflitos - Recife - PE,NAU,PON,3,0
-10,18/07/2012,21:50,Morumbi - Sao Paulo - SP,SAO,VAS,0,1
-10,18/07/2012,21:50,Independência - Belo Horizonte - MG,ATL,INT,3,1
-10,18/07/2012,21:50,João Havelange - Rio de Janeiro - RJ,FLA,COR,0,3
-10,19/07/2012,21:00,João Havelange - Rio de Janeiro - RJ,FLU,BAH,4,0
-10,19/07/2012,21:00,Couto Pereira - Curitiba - PR,COR,PAL,1,1
-10,19/07/2012,21:00,Serra Dourada - Goiania - GO,ATL,FIG,3,2
-11,21/07/2012,18:30,Ilha do Retiro - Recife - PE,SPO,ATL,1,4
-11,21/07/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,SAN,2,0
-11,21/07/2012,21:00,Pacaembu - Sao Paulo - SP,COR,POR,1,1
-11,22/07/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,ATL,4,1
-11,22/07/2012,16:00,Independência - Belo Horizonte - MG,CRU,FLA,1,0
-11,22/07/2012,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,SAO,0,2
-11,22/07/2012,16:00,Arena Barueri - Barueri - SP,PAL,NAU,3,0
-11,22/07/2012,18:30,Pituaçu - Salvador - BA,BAH,COR,2,2
-11,22/07/2012,18:30,João Havelange - Rio de Janeiro - RJ,BOT,GRE,0,1
-11,22/07/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,FLU,1,2
-12,25/07/2012,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,INT,0,1
-12,25/07/2012,19:30,Moisés Lucarelli - Campinas - SP,PON,SPO,1,1
-12,25/07/2012,20:30,João Havelange - Rio de Janeiro - RJ,VAS,BOT,1,0
-12,25/07/2012,20:30,Aflitos - Recife - PE,NAU,COR,3,4
-12,25/07/2012,21:50,Pacaembu - Sao Paulo - SP,COR,CRU,2,0
-12,25/07/2012,21:50,Olímpico - Porto Alegre - RS,GRE,FLU,1,0
-12,25/07/2012,21:50,Serra Dourada - Goiania - GO,ATL,SAO,4,3
-12,26/07/2012,21:00,Independência - Belo Horizonte - MG,ATL,SAN,2,0
-12,26/07/2012,21:00,João Havelange - Rio de Janeiro - RJ,FLA,POR,0,0
-12,26/07/2012,21:00,Arena Barueri - Barueri - SP,PAL,BAH,0,2
-13,28/07/2012,18:30,Couto Pereira - Curitiba - PR,COR,GRE,2,1
-13,28/07/2012,18:30,Beira-Rio - Porto Alegre - RS,INT,VAS,0,0
-13,28/07/2012,21:00,João Havelange - Rio de Janeiro - RJ,BOT,FIG,1,0
-13,29/07/2012,16:00,Ilha do Retiro - Recife - PE,SPO,ATL,0,0
-13,29/07/2012,16:00,Morumbi - Sao Paulo - SP,SAO,FLA,4,1
-13,29/07/2012,16:00,João Havelange - Rio de Janeiro - RJ,FLU,ATL,0,0
-13,29/07/2012,16:00,Pituaçu - Salvador - BA,BAH,COR,0,0
-13,29/07/2012,18:30,Independência - Belo Horizonte - MG,CRU,PAL,2,1
-13,29/07/2012,18:30,Canindé - Sao Paulo - SP,POR,NAU,3,1
-13,29/07/2012,18:30,Vila Belmiro - Santos - SP,SAN,PON,2,1
-14,04/08/2012,18:30,Arena Barueri - Barueri - SP,PAL,INT,0,1
-14,04/08/2012,18:30,Serra Dourada - Goiania - GO,ATL,BOT,1,2
-14,04/08/2012,21:00,Canindé - Sao Paulo - SP,POR,FIG,2,0
-14,05/08/2012,16:00,São Januário - Rio de Janeiro - RJ,VAS,COR,0,0
-14,05/08/2012,16:00,Olímpico - Porto Alegre - RS,GRE,BAH,3,1
-14,05/08/2012,16:00,Couto Pereira - Curitiba - PR,COR,FLU,0,2
-14,05/08/2012,16:00,Morumbi - Sao Paulo - SP,SAO,SPO,1,0
-14,05/08/2012,18:30,Independência - Belo Horizonte - MG,CRU,PON,1,2
-14,05/08/2012,18:30,Aflitos - Recife - PE,NAU,SAN,3,0
-14,26/09/2012,22:00,João Havelange - Rio de Janeiro - RJ,FLA,ATL,2,1
-15,08/08/2012,19:30,Ilha do Retiro - Recife - PE,SPO,VAS,0,2
-15,08/08/2012,19:30,Beira-Rio - Porto Alegre - RS,INT,NAU,0,0
-15,08/08/2012,20:30,Pituaçu - Salvador - BA,BAH,POR,0,0
-15,08/08/2012,20:30,Pacaembu - Sao Paulo - SP,COR,ATL,1,1
-15,08/08/2012,21:50,Vila Belmiro - Santos - SP,SAN,CRU,4,2
-15,08/08/2012,21:50,Orlando Scarpelli - Florianopolis - SC,FIG,FLA,0,2
-15,08/08/2012,21:50,João Havelange - Rio de Janeiro - RJ,BOT,PAL,1,2
-15,09/08/2012,21:00,São Januário - Rio de Janeiro - RJ,FLU,SAO,2,1
-15,09/08/2012,21:00,Independência - Belo Horizonte - MG,ATL,COR,1,0
-15,09/08/2012,21:00,Moisés Lucarelli - Campinas - SP,PON,GRE,0,0
-16,11/08/2012,18:30,Ilha do Retiro - Recife - PE,SPO,FIG,0,1
-16,11/08/2012,18:30,Pituaçu - Salvador - BA,BAH,CRU,0,1
-16,11/08/2012,18:30,Pacaembu - Sao Paulo - SP,SAN,ATL,2,2
-16,11/08/2012,21:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,NAU,2,0
-16,12/08/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,PON,2,1
-16,12/08/2012,16:00,Morumbi - Sao Paulo - SP,SAO,GRE,1,2
-16,12/08/2012,16:00,Independência - Belo Horizonte - MG,ATL,VAS,1,0
-16,12/08/2012,16:00,Couto Pereira - Curitiba - PR,COR,COR,1,2
-16,12/08/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLU,PAL,1,0
-16,12/08/2012,18:30,Canindé - Sao Paulo - SP,POR,BOT,1,1
-17,15/08/2012,19:30,Olímpico - Porto Alegre - RS,GRE,POR,1,2
-17,15/08/2012,19:30,Independência - Belo Horizonte - MG,CRU,FLU,1,1
-17,15/08/2012,20:30,Serra Dourada - Goiania - GO,ATL,ATL,1,1
-17,15/08/2012,20:30,Moisés Lucarelli - Campinas - SP,PON,BAH,0,2
-17,15/08/2012,21:50,Aflitos - Recife - PE,NAU,SAO,3,0
-17,15/08/2012,21:50,João Havelange - Rio de Janeiro - RJ,BOT,SPO,2,0
-17,15/08/2012,21:50,Arena Barueri - Barueri - SP,PAL,FLA,1,0
-17,16/08/2012,21:00,São Januário - Rio de Janeiro - RJ,VAS,COR,2,2
-17,16/08/2012,21:00,Pacaembu - Sao Paulo - SP,COR,INT,1,0
-17,16/08/2012,21:00,Orlando Scarpelli - Florianopolis - SC,FIG,SAN,1,3
-18,18/08/2012,18:30,Aflitos - Recife - PE,NAU,BAH,1,0
-18,18/08/2012,18:30,Raulino de Oliveira - Volta Redonda - RJ,FLU,SPO,1,0
-18,18/08/2012,21:00,Morumbi - Sao Paulo - SP,SAO,PON,3,0
-18,19/08/2012,16:00,Vila Belmiro - Santos - SP,SAN,COR,3,2
-18,19/08/2012,16:00,Independência - Belo Horizonte - MG,ATL,BOT,3,2
-18,19/08/2012,16:00,Couto Pereira - Curitiba - PR,COR,CRU,4,0
-18,19/08/2012,16:00,Olímpico - Porto Alegre - RS,GRE,FIG,4,0
-18,19/08/2012,18:30,Serra Dourada - Goiania - GO,ATL,PAL,2,1
-18,19/08/2012,18:30,Canindé - Sao Paulo - SP,POR,INT,1,1
-18,19/08/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLA,VAS,1,0
-19,25/08/2012,18:30,João Havelange - Rio de Janeiro - RJ,VAS,FLU,1,2
-19,25/08/2012,18:30,Pacaembu - Sao Paulo - SP,PAL,SAN,1,2
-19,25/08/2012,21:00,Moisés Lucarelli - Campinas - SP,PON,POR,2,1
-19,26/08/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,GRE,0,1
-19,26/08/2012,16:00,João Havelange - Rio de Janeiro - RJ,BOT,FLA,0,0
-19,26/08/2012,16:00,Pacaembu - Sao Paulo - SP,COR,SAO,1,2
-19,26/08/2012,16:00,Orlando Scarpelli - Florianopolis - SC,FIG,COR,3,1
-19,26/08/2012,18:30,Independência - Belo Horizonte - MG,CRU,ATL,2,2
-19,26/08/2012,18:30,Ilha do Retiro - Recife - PE,SPO,NAU,0,0
-19,26/08/2012,18:30,Pituaçu - Salvador - BA,BAH,ATL,1,1
-20,29/08/2012,19:30,Couto Pereira - Curitiba - PR,COR,INT,1,0
-20,29/08/2012,19:30,Vila Belmiro - Santos - SP,SAN,BAH,1,3
-20,29/08/2012,20:30,Aflitos - Recife - PE,NAU,FIG,3,2
-20,29/08/2012,20:30,Independência - Belo Horizonte - MG,ATL,PON,2,2
-20,29/08/2012,20:30,Canindé - Sao Paulo - SP,POR,PAL,3,0
-20,29/08/2012,22:00,João Havelange - Rio de Janeiro - RJ,FLU,COR,1,1
-20,29/08/2012,22:00,Olímpico - Porto Alegre - RS,GRE,VAS,2,0
-20,29/08/2012,22:00,Serra Dourada - Goiania - GO,ATL,CRU,0,2
-20,30/08/2012,21:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,SPO,1,1
-20,30/08/2012,21:00,Morumbi - Sao Paulo - SP,SAO,BOT,4,0
-21,01/09/2012,18:30,Pacaembu - Sao Paulo - SP,PAL,GRE,0,0
-21,01/09/2012,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,FLU,2,2
-21,01/09/2012,21:00,São Januário - Rio de Janeiro - RJ,VAS,POR,2,0
-21,02/09/2012,16:00,Pituaçu - Salvador - BA,BAH,SAO,1,0
-21,02/09/2012,16:00,Ilha do Retiro - Recife - PE,SPO,SAN,2,1
-21,02/09/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,FLA,4,1
-21,02/09/2012,16:00,Pacaembu - Sao Paulo - SP,COR,ATL,1,0
-21,02/09/2012,18:30,João Havelange - Rio de Janeiro - RJ,BOT,COR,2,0
-21,02/09/2012,18:30,Independência - Belo Horizonte - MG,CRU,NAU,3,0
-21,02/09/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,ATL,3,1
-22,05/09/2012,19:30,Raulino de Oliveira - Volta Redonda - RJ,FLA,PON,0,1
-22,05/09/2012,19:30,Canindé - Sao Paulo - SP,POR,COR,3,0
-22,05/09/2012,19:30,Aflitos - Recife - PE,NAU,VAS,1,1
-22,05/09/2012,19:30,Pituaçu - Salvador - BA,BAH,ATL,0,0
-22,05/09/2012,20:30,Olímpico - Porto Alegre - RS,GRE,ATL,2,1
-22,05/09/2012,22:00,Orlando Scarpelli - Florianopolis - SC,FIG,COR,1,0
-22,05/09/2012,22:00,Independência - Belo Horizonte - MG,CRU,BOT,1,3
-22,05/09/2012,22:00,Morumbi - Sao Paulo - SP,SAO,INT,1,1
-22,06/09/2012,21:00,João Havelange - Rio de Janeiro - RJ,FLU,SAN,3,1
-22,06/09/2012,21:00,Pacaembu - Sao Paulo - SP,PAL,SPO,3,1
-23,08/09/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,FIG,2,2
-23,08/09/2012,18:30,Couto Pereira - Curitiba - PR,COR,FLA,3,0
-23,08/09/2012,21:00,Pacaembu - Sao Paulo - SP,COR,GRE,3,1
-23,09/09/2012,16:00,João Havelange - Rio de Janeiro - RJ,BOT,NAU,3,1
-23,09/09/2012,16:00,Vila Belmiro - Santos - SP,SAN,SAO,0,0
-23,09/09/2012,16:00,Beira-Rio - Porto Alegre - RS,INT,FLU,0,1
-23,09/09/2012,18:30,Serra Dourada - Goiania - GO,ATL,POR,1,1
-23,09/09/2012,18:30,Independência - Belo Horizonte - MG,ATL,PAL,3,0
-23,09/09/2012,18:30,Ilha do Retiro - Recife - PE,SPO,CRU,2,1
-23,09/09/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,BAH,0,4
-24,12/09/2012,19:30,Pacaembu - Sao Paulo - SP,COR,PON,1,1
-24,12/09/2012,19:30,Canindé - Sao Paulo - SP,POR,FLU,0,2
-24,12/09/2012,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,CRU,2,0
-24,12/09/2012,20:30,Ilha do Retiro - Recife - PE,SPO,BAH,1,1
-24,12/09/2012,20:30,Serra Dourada - Goiania - GO,ATL,COR,1,2
-24,12/09/2012,22:00,São Januário - Rio de Janeiro - RJ,VAS,PAL,3,1
-24,12/09/2012,22:00,Vila Belmiro - Santos - SP,SAN,FLA,2,0
-24,12/09/2012,22:00,Independência - Belo Horizonte - MG,ATL,SAO,1,0
-24,13/09/2012,21:00,Olímpico - Porto Alegre - RS,GRE,NAU,2,0
-24,13/09/2012,21:00,João Havelange - Rio de Janeiro - RJ,BOT,INT,1,1
-25,15/09/2012,18:30,Raulino de Oliveira - Volta Redonda - RJ,FLU,ATL,1,2
-25,15/09/2012,18:30,Morumbi - Sao Paulo - SP,SAO,POR,3,1
-25,16/09/2012,16:00,Pacaembu - Sao Paulo - SP,PAL,COR,0,2
-25,16/09/2012,16:00,Dilzon Melo - Varginha - MG,CRU,VAS,1,1
-25,16/09/2012,16:00,Couto Pereira - Curitiba - PR,COR,SAN,1,2
-25,16/09/2012,16:00,Aflitos - Recife - PE,NAU,ATL,1,0
-25,16/09/2012,16:00,Pituaçu - Salvador - BA,BAH,FIG,2,1
-25,16/09/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLA,GRE,1,1
-25,16/09/2012,18:30,Beira-Rio - Porto Alegre - RS,INT,SPO,2,2
-25,16/09/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,BOT,0,0
-26,22/09/2012,18:30,Raulino de Oliveira - Volta Redonda - RJ,FLU,NAU,2,1
-26,22/09/2012,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,PAL,1,3
-26,22/09/2012,21:00,Pacaembu - Sao Paulo - SP,SAN,POR,1,3
-26,23/09/2012,16:00,João Havelange - Rio de Janeiro - RJ,BOT,COR,2,2
-26,23/09/2012,16:00,Morumbi - Sao Paulo - SP,SAO,CRU,1,0
-26,23/09/2012,16:00,Moisés Lucarelli - Campinas - SP,PON,VAS,0,0
-26,23/09/2012,16:00,Serra Dourada - Goiania - GO,ATL,FLA,1,2
-26,23/09/2012,18:30,Beira-Rio - Porto Alegre - RS,INT,BAH,3,1
-26,23/09/2012,18:30,Independência - Belo Horizonte - MG,ATL,GRE,0,0
-26,23/09/2012,18:30,Ilha do Retiro - Recife - PE,SPO,COR,1,0
-27,29/09/2012,18:30,Aflitos - Recife - PE,NAU,ATL,2,0
-27,29/09/2012,18:30,Canindé - Sao Paulo - SP,POR,ATL,1,1
-27,29/09/2012,18:30,São Januário - Rio de Janeiro - RJ,VAS,FIG,3,1
-27,29/09/2012,18:30,Dilzon Melo - Varginha - MG,CRU,INT,0,0
-27,29/09/2012,21:00,Pacaembu - Sao Paulo - SP,PAL,PON,3,0
-27,30/09/2012,16:00,João Havelange - Rio de Janeiro - RJ,FLA,FLU,0,1
-27,30/09/2012,16:00,Pacaembu - Sao Paulo - SP,COR,SPO,3,0
-27,30/09/2012,16:00,Couto Pereira - Curitiba - PR,COR,SAO,1,1
-27,30/09/2012,16:00,Pituaçu - Salvador - BA,BAH,BOT,2,0
-27,30/09/2012,18:30,Olímpico - Porto Alegre - RS,GRE,SAN,1,1
-28,04/10/2012,21:00,João Havelange - Rio de Janeiro - RJ,FLA,BAH,0,0
-28,04/10/2012,21:00,Canindé - Sao Paulo - SP,POR,SPO,5,1
-28,04/10/2012,21:00,Couto Pereira - Curitiba - PR,COR,PON,1,0
-28,06/10/2012,16:00,Morumbi - Sao Paulo - SP,SAO,PAL,3,0
-28,06/10/2012,16:20,Serra Dourada - Goiania - GO,ATL,VAS,0,1
-28,06/10/2012,16:20,Vila Belmiro - Santos - SP,SAN,INT,1,1
-28,06/10/2012,16:20,Aflitos - Recife - PE,NAU,COR,2,1
-28,06/10/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLU,BOT,1,0
-28,06/10/2012,18:30,Olímpico - Porto Alegre - RS,GRE,CRU,2,1
-28,06/10/2012,18:30,Independência - Belo Horizonte - MG,ATL,FIG,6,0
-29,10/10/2012,19:30,João Havelange - Rio de Janeiro - RJ,BOT,SAN,0,2
-29,10/10/2012,19:30,Dilzon Melo - Varginha - MG,CRU,POR,2,0
-29,10/10/2012,19:30,Moisés Lucarelli - Campinas - SP,PON,NAU,2,1
-29,10/10/2012,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,ATL,3,1
-29,10/10/2012,19:30,Pituaçu - Salvador - BA,BAH,FLU,0,2
-29,10/10/2012,22:00,Beira-Rio - Porto Alegre - RS,INT,ATL,3,0
-29,10/10/2012,22:00,São Januário - Rio de Janeiro - RJ,VAS,SAO,0,2
-29,10/10/2012,22:00,Pacaembu - Sao Paulo - SP,COR,FLA,3,2
-29,11/10/2012,21:00,Fonte Luminosa - Araraquara - SP,PAL,COR,0,1
-29,11/10/2012,21:00,Ilha do Retiro - Recife - PE,SPO,GRE,1,3
-30,13/10/2012,18:30,Serra Dourada - Goiania - GO,ATL,INT,3,1
-30,13/10/2012,18:30,João Havelange - Rio de Janeiro - RJ,FLA,CRU,1,1
-30,13/10/2012,21:00,Canindé - Sao Paulo - SP,POR,COR,1,1
-30,14/10/2012,16:00,Vila Belmiro - Santos - SP,SAN,VAS,2,0
-30,14/10/2012,16:00,Morumbi - Sao Paulo - SP,SAO,FIG,2,0
-30,14/10/2012,16:00,Independência - Belo Horizonte - MG,ATL,SPO,2,1
-30,14/10/2012,16:00,Couto Pereira - Curitiba - PR,COR,BAH,2,1
-30,14/10/2012,16:00,Aflitos - Recife - PE,NAU,PAL,1,0
-30,14/10/2012,18:30,São Januário - Rio de Janeiro - RJ,FLU,PON,2,1
-30,14/10/2012,18:30,Olímpico - Porto Alegre - RS,GRE,BOT,1,1
-31,17/10/2012,19:30,Pituaçu - Salvador - BA,BAH,PAL,0,1
-31,17/10/2012,19:30,João Havelange - Rio de Janeiro - RJ,FLU,GRE,2,2
-31,17/10/2012,19:30,Couto Pereira - Curitiba - PR,COR,NAU,2,1
-31,17/10/2012,19:30,Beira-Rio - Porto Alegre - RS,INT,FIG,2,3
-31,17/10/2012,22:00,Vila Belmiro - Santos - SP,SAN,ATL,2,2
-31,17/10/2012,22:00,Dilzon Melo - Varginha - MG,CRU,COR,2,0
-31,17/10/2012,22:00,Canindé - Sao Paulo - SP,POR,FLA,0,0
-31,18/10/2012,21:00,João Havelange - Rio de Janeiro - RJ,BOT,VAS,3,2
-31,18/10/2012,21:00,Morumbi - Sao Paulo - SP,SAO,ATL,2,0
-31,18/10/2012,21:00,Ilha do Retiro - Recife - PE,SPO,PON,3,1
-32,20/10/2012,18:30,Olímpico - Porto Alegre - RS,GRE,COR,0,0
-32,20/10/2012,18:30,Pacaembu - Sao Paulo - SP,COR,BAH,1,1
-32,20/10/2012,18:30,Fonte Luminosa - Araraquara - SP,PAL,CRU,2,0
-32,21/10/2012,16:00,João Havelange - Rio de Janeiro - RJ,FLA,SAO,1,0
-32,21/10/2012,16:00,Independência - Belo Horizonte - MG,ATL,FLU,3,2
-32,21/10/2012,16:00,Aflitos - Recife - PE,NAU,POR,0,0
-32,21/10/2012,18:30,Moisés Lucarelli - Campinas - SP,PON,SAN,1,0
-32,21/10/2012,18:30,Serra Dourada - Goiania - GO,ATL,SPO,0,1
-32,24/10/2012,20:30,São Januário - Rio de Janeiro - RJ,VAS,INT,1,2
-32,24/10/2012,22:00,Orlando Scarpelli - Florianopolis - SC,FIG,BOT,0,2
-33,25/10/2012,21:00,João Havelange - Rio de Janeiro - RJ,FLU,COR,2,1
-33,25/10/2012,21:00,Vila Belmiro - Santos - SP,SAN,NAU,0,0
-33,25/10/2012,21:00,Moisés Lucarelli - Campinas - SP,PON,CRU,1,0
-33,27/10/2012,16:20,Pacaembu - Sao Paulo - SP,COR,VAS,1,0
-33,27/10/2012,16:20,Beira-Rio - Porto Alegre - RS,INT,PAL,2,1
-33,27/10/2012,18:30,João Havelange - Rio de Janeiro - RJ,BOT,ATL,4,0
-33,27/10/2012,18:30,Orlando Scarpelli - Florianopolis - SC,FIG,POR,0,0
-33,27/10/2012,18:30,Ilha do Retiro - Recife - PE,SPO,SAO,2,4
-33,27/10/2012,18:30,Pituaçu - Salvador - BA,BAH,GRE,1,1
-33,31/10/2012,21:50,Independência - Belo Horizonte - MG,ATL,FLA,1,1
-34,03/11/2012,19:30,Olímpico - Porto Alegre - RS,GRE,PON,1,0
-34,03/11/2012,19:30,Independência - Belo Horizonte - MG,CRU,SAN,0,4
-34,03/11/2012,21:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,FIG,1,0
-34,04/11/2012,17:00,Elmo Serejo Farias - Taguatinga - DF,ATL,COR,0,2
-34,04/11/2012,17:00,São Januário - Rio de Janeiro - RJ,VAS,SPO,0,3
-34,04/11/2012,17:00,Morumbi - Sao Paulo - SP,SAO,FLU,1,1
-34,04/11/2012,17:00,Fonte Luminosa - Araraquara - SP,PAL,BOT,2,2
-34,04/11/2012,19:30,Canindé - Sao Paulo - SP,POR,BAH,0,1
-34,04/11/2012,19:30,Couto Pereira - Curitiba - PR,COR,ATL,1,0
-34,04/11/2012,19:30,Aflitos - Recife - PE,NAU,INT,3,0
-35,10/11/2012,19:30,João Havelange - Rio de Janeiro - RJ,BOT,POR,3,0
-35,10/11/2012,19:30,Valmir Bezerra - Gama - DF,ATL,SAN,2,1
-35,10/11/2012,21:00,Pacaembu - Sao Paulo - SP,COR,COR,5,1
-35,11/11/2012,17:00,São Januário - Rio de Janeiro - RJ,VAS,ATL,1,1
-35,11/11/2012,17:00,Paulo Constantino - Presidente Prudente - SP,PAL,FLU,2,3
-35,11/11/2012,17:00,Olímpico - Porto Alegre - RS,GRE,SAO,2,1
-35,11/11/2012,19:30,Aflitos - Recife - PE,NAU,FLA,0,1
-35,11/11/2012,19:30,Moisés Lucarelli - Campinas - SP,PON,INT,1,0
-35,11/11/2012,19:30,Orlando Scarpelli - Florianopolis - SC,FIG,SPO,1,1
-35,11/11/2012,19:30,Independência - Belo Horizonte - MG,CRU,BAH,3,1
-36,17/11/2012,19:30,Vila Belmiro - Santos - SP,SAN,FIG,2,0
-36,17/11/2012,19:30,Couto Pereira - Curitiba - PR,COR,VAS,1,2
-36,18/11/2012,17:00,Raulino de Oliveira - Volta Redonda - RJ,FLA,PAL,1,1
-36,18/11/2012,17:00,João Havelange - Rio de Janeiro - RJ,FLU,CRU,0,2
-36,18/11/2012,17:00,Morumbi - Sao Paulo - SP,SAO,NAU,2,1
-36,18/11/2012,17:00,Independência - Belo Horizonte - MG,ATL,ATL,2,2
-36,18/11/2012,17:00,Pituaçu - Salvador - BA,BAH,PON,1,0
-36,18/11/2012,19:30,Ilha do Retiro - Recife - PE,SPO,BOT,2,0
-36,18/11/2012,19:30,Beira-Rio - Porto Alegre - RS,INT,COR,0,2
-36,18/11/2012,19:30,Canindé - Sao Paulo - SP,POR,GRE,2,2
-37,24/11/2012,19:30,Pacaembu - Sao Paulo - SP,COR,SAN,1,1
-37,24/11/2012,19:30,João Havelange - Rio de Janeiro - RJ,VAS,FLA,1,1
-37,25/11/2012,17:00,Moisés Lucarelli - Campinas - SP,PON,SAO,0,0
-37,25/11/2012,17:00,Ilha do Retiro - Recife - PE,SPO,FLU,1,1
-37,25/11/2012,17:00,Orlando Scarpelli - Florianopolis - SC,FIG,GRE,2,4
-37,25/11/2012,17:00,Pituaçu - Salvador - BA,BAH,NAU,1,1
-37,25/11/2012,17:00,Independência - Belo Horizonte - MG,CRU,COR,2,1
-37,25/11/2012,17:00,Beira-Rio - Porto Alegre - RS,INT,POR,0,2
-37,25/11/2012,17:00,Pacaembu - Sao Paulo - SP,PAL,ATL,1,2
-37,25/11/2012,17:00,João Havelange - Rio de Janeiro - RJ,BOT,ATL,2,3
-38,01/12/2012,19:30,João Havelange - Rio de Janeiro - RJ,FLA,BOT,2,2
-38,01/12/2012,19:30,Vila Belmiro - Santos - SP,SAN,PAL,3,1
-38,02/12/2012,17:00,João Havelange - Rio de Janeiro - RJ,FLU,VAS,1,2
-38,02/12/2012,17:00,Pacaembu - Sao Paulo - SP,SAO,COR,3,1
-38,02/12/2012,17:00,Olímpico - Porto Alegre - RS,GRE,INT,0,0
-38,02/12/2012,17:00,Independência - Belo Horizonte - MG,ATL,CRU,3,2
-38,02/12/2012,17:00,Canindé - Sao Paulo - SP,POR,PON,0,0
-38,02/12/2012,17:00,Couto Pereira - Curitiba - PR,COR,FIG,3,0
-38,02/12/2012,17:00,Aflitos - Recife - PE,NAU,SPO,1,0
-38,02/12/2012,17:00,Serra Dourada - Goiania - GO,ATL,BAH,0,1
+1,19/05/2012,18:30,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Portuguesa - SP,1,1
+1,19/05/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Flamengo - RJ,1,1
+1,19/05/2012,21:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Náutico - PE,2,1
+1,20/05/2012,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Atlético - MG,0,1
+1,20/05/2012,16:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Fluminense - RJ,0,1
+1,20/05/2012,16:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,São Paulo - SP,4,2
+1,20/05/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Coritiba - PR,2,0
+1,20/05/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Grêmio - RS,2,1
+1,20/05/2012,18:30,Pituaçu - Salvador - BA,Bahia - BA,Santos - SP,0,0
+1,20/05/2012,18:30,João Havelange - Uberlandia - MG,Cruzeiro - MG,Atlético - GO,0,0
+2,26/05/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Ponte Preta - SP,1,1
+2,26/05/2012,18:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Internacional - RS,3,3
+2,26/05/2012,18:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Vasco da Gama - RJ,0,1
+2,26/05/2012,21:00,Aflitos - Recife - PE,Náutico - PE,Cruzeiro - MG,0,0
+2,27/05/2012,16:00,Vila Belmiro - Santos - SP,Santos - SP,Sport - PE,0,0
+2,27/05/2012,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Corinthians - SP,1,0
+2,27/05/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Botafogo - RJ,2,3
+2,27/05/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Bahia - BA,1,0
+2,27/05/2012,18:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Palmeiras - SP,1,0
+2,27/05/2012,18:30,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Figueirense - SC,2,2
+3,06/06/2012,19:30,Serra Dourada - Goiania - GO,Atlético - GO,Grêmio - RS,0,1
+3,06/06/2012,19:30,Ilha do Retiro - Recife - PE,Sport - PE,Palmeiras - SP,2,1
+3,06/06/2012,20:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Náutico - PE,4,2
+3,06/06/2012,20:30,Independência - Belo Horizonte - MG,Atlético - MG,Bahia - BA,1,1
+3,06/06/2012,20:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Portuguesa - SP,2,0
+3,06/06/2012,21:50,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Flamengo - RJ,2,2
+3,06/06/2012,21:50,Beira-Rio - Porto Alegre - RS,Internacional - RS,São Paulo - SP,1,0
+3,06/06/2012,21:50,Vila Belmiro - Santos - SP,Santos - SP,Fluminense - RJ,1,1
+3,07/06/2012,21:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Figueirense - SC,1,1
+3,07/06/2012,21:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Cruzeiro - MG,2,3
+4,09/06/2012,18:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Coritiba - PR,3,1
+4,09/06/2012,21:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Atlético - MG,0,1
+4,10/06/2012,16:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Atlético - GO,2,0
+4,10/06/2012,17:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Corinthians - SP,2,0
+4,10/06/2012,17:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Internacional - RS,0,0
+4,10/06/2012,17:00,Pituaçu - Salvador - BA,Bahia - BA,Vasco da Gama - RJ,1,2
+4,10/06/2012,18:30,Aflitos - Recife - PE,Náutico - PE,Botafogo - RJ,3,2
+4,10/06/2012,18:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Ponte Preta - SP,0,0
+4,10/06/2012,18:30,Dilzon Melo - Varginha - MG,Cruzeiro - MG,Sport - PE,1,0
+4,10/06/2012,18:30,Morumbi - Sao Paulo - SP,São Paulo - SP,Santos - SP,1,0
+5,16/06/2012,18:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Botafogo - RJ,1,2
+5,16/06/2012,18:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Figueirense - SC,1,0
+5,16/06/2012,21:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Portuguesa - SP,4,1
+5,17/06/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Atlético - MG,1,0
+5,17/06/2012,16:00,Arena Barueri - Barueri - SP,Palmeiras - SP,Vasco da Gama - RJ,1,1
+5,17/06/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,Sport - PE,2,1
+5,17/06/2012,16:00,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Santos - SP,1,0
+5,17/06/2012,18:30,Aflitos - Recife - PE,Náutico - PE,Grêmio - RS,1,0
+5,17/06/2012,18:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Atlético - GO,3,0
+5,17/06/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Corinthians - SP,1,0
+6,23/06/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Cruzeiro - MG,1,3
+6,23/06/2012,18:30,Canindé - Sao Paulo - SP,Portuguesa - SP,São Paulo - SP,1,0
+6,23/06/2012,21:00,Independência - Belo Horizonte - MG,Atlético - MG,Náutico - PE,5,1
+6,24/06/2012,16:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Palmeiras - SP,2,1
+6,24/06/2012,16:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Flamengo - RJ,2,0
+6,24/06/2012,16:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Bahia - BA,1,1
+6,24/06/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Internacional - RS,0,2
+6,24/06/2012,18:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Ponte Preta - SP,1,2
+6,24/06/2012,18:30,Vila Belmiro - Santos - SP,Santos - SP,Coritiba - PR,2,2
+6,24/06/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Fluminense - RJ,1,4
+7,30/06/2012,16:20,Aflitos - Recife - PE,Náutico - PE,Fluminense - RJ,0,2
+7,30/06/2012,16:20,Independência - Belo Horizonte - MG,Cruzeiro - MG,São Paulo - SP,2,3
+7,30/06/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Ponte Preta - SP,3,2
+7,01/07/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Sport - PE,2,3
+7,01/07/2012,16:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Santos - SP,0,0
+7,01/07/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,Internacional - RS,1,1
+7,01/07/2012,18:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Atlético - MG,0,1
+7,01/07/2012,18:30,Arena Barueri - Barueri - SP,Palmeiras - SP,Figueirense - SC,3,1
+7,01/07/2012,18:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Atlético - GO,3,2
+7,11/07/2012,19:30,Pacaembu - Sao Paulo - SP,Corinthians - SP,Botafogo - RJ,1,3
+8,07/07/2012,18:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Bahia - BA,3,0
+8,07/07/2012,18:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Cruzeiro - MG,2,1
+8,07/07/2012,21:00,Serra Dourada - Goiania - GO,Atlético - GO,Náutico - PE,0,1
+8,08/07/2012,16:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Vasco da Gama - RJ,1,1
+8,08/07/2012,16:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Flamengo - RJ,1,0
+8,08/07/2012,16:00,Vila Belmiro - Santos - SP,Santos - SP,Grêmio - RS,4,2
+8,08/07/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Coritiba - PR,3,1
+8,08/07/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Palmeiras - SP,1,0
+8,08/07/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Corinthians - SP,1,1
+8,08/07/2012,18:30,Independência - Belo Horizonte - MG,Atlético - MG,Portuguesa - SP,2,0
+9,14/07/2012,18:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Atlético - MG,3,4
+9,14/07/2012,18:30,Pacaembu - Sao Paulo - SP,Corinthians - SP,Náutico - PE,2,1
+9,14/07/2012,21:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Coritiba - PR,4,1
+9,15/07/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,Flamengo - RJ,1,2
+9,15/07/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Santos - SP,0,0
+9,15/07/2012,16:00,Independência - Belo Horizonte - MG,Cruzeiro - MG,Grêmio - RS,1,3
+9,15/07/2012,16:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Fluminense - RJ,1,1
+9,15/07/2012,18:30,Arena Barueri - Barueri - SP,Palmeiras - SP,São Paulo - SP,1,1
+9,15/07/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Atlético - GO,1,0
+9,15/07/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Portuguesa - SP,2,1
+10,18/07/2012,19:30,Vila Belmiro - Santos - SP,Santos - SP,Botafogo - RJ,0,0
+10,18/07/2012,19:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Sport - PE,3,1
+10,18/07/2012,20:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Cruzeiro - MG,0,2
+10,18/07/2012,20:30,Aflitos - Recife - PE,Náutico - PE,Ponte Preta - SP,3,0
+10,18/07/2012,21:50,Morumbi - Sao Paulo - SP,São Paulo - SP,Vasco da Gama - RJ,0,1
+10,18/07/2012,21:50,Independência - Belo Horizonte - MG,Atlético - MG,Internacional - RS,3,1
+10,18/07/2012,21:50,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Corinthians - SP,0,3
+10,19/07/2012,21:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Bahia - BA,4,0
+10,19/07/2012,21:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Palmeiras - SP,1,1
+10,19/07/2012,21:00,Serra Dourada - Goiania - GO,Atlético - GO,Figueirense - SC,3,2
+11,21/07/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Atlético - MG,1,4
+11,21/07/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Santos - SP,2,0
+11,21/07/2012,21:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Portuguesa - SP,1,1
+11,22/07/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Atlético - GO,4,1
+11,22/07/2012,16:00,Independência - Belo Horizonte - MG,Cruzeiro - MG,Flamengo - RJ,1,0
+11,22/07/2012,16:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,São Paulo - SP,0,2
+11,22/07/2012,16:00,Arena Barueri - Barueri - SP,Palmeiras - SP,Náutico - PE,3,0
+11,22/07/2012,18:30,Pituaçu - Salvador - BA,Bahia - BA,Coritiba - PR,2,2
+11,22/07/2012,18:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Grêmio - RS,0,1
+11,22/07/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Fluminense - RJ,1,2
+12,25/07/2012,19:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Internacional - RS,0,1
+12,25/07/2012,19:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Sport - PE,1,1
+12,25/07/2012,20:30,João Havelange - Rio de Janeiro - RJ,Vasco da Gama - RJ,Botafogo - RJ,1,0
+12,25/07/2012,20:30,Aflitos - Recife - PE,Náutico - PE,Coritiba - PR,3,4
+12,25/07/2012,21:50,Pacaembu - Sao Paulo - SP,Corinthians - SP,Cruzeiro - MG,2,0
+12,25/07/2012,21:50,Olímpico - Porto Alegre - RS,Grêmio - RS,Fluminense - RJ,1,0
+12,25/07/2012,21:50,Serra Dourada - Goiania - GO,Atlético - GO,São Paulo - SP,4,3
+12,26/07/2012,21:00,Independência - Belo Horizonte - MG,Atlético - MG,Santos - SP,2,0
+12,26/07/2012,21:00,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Portuguesa - SP,0,0
+12,26/07/2012,21:00,Arena Barueri - Barueri - SP,Palmeiras - SP,Bahia - BA,0,2
+13,28/07/2012,18:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Grêmio - RS,2,1
+13,28/07/2012,18:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Vasco da Gama - RJ,0,0
+13,28/07/2012,21:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Figueirense - SC,1,0
+13,29/07/2012,16:00,Ilha do Retiro - Recife - PE,Sport - PE,Atlético - GO,0,0
+13,29/07/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Flamengo - RJ,4,1
+13,29/07/2012,16:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Atlético - MG,0,0
+13,29/07/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,Corinthians - SP,0,0
+13,29/07/2012,18:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Palmeiras - SP,2,1
+13,29/07/2012,18:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Náutico - PE,3,1
+13,29/07/2012,18:30,Vila Belmiro - Santos - SP,Santos - SP,Ponte Preta - SP,2,1
+14,04/08/2012,18:30,Arena Barueri - Barueri - SP,Palmeiras - SP,Internacional - RS,0,1
+14,04/08/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Botafogo - RJ,1,2
+14,04/08/2012,21:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Figueirense - SC,2,0
+14,05/08/2012,16:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Corinthians - SP,0,0
+14,05/08/2012,16:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Bahia - BA,3,1
+14,05/08/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Fluminense - RJ,0,2
+14,05/08/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Sport - PE,1,0
+14,05/08/2012,18:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Ponte Preta - SP,1,2
+14,05/08/2012,18:30,Aflitos - Recife - PE,Náutico - PE,Santos - SP,3,0
+14,26/09/2012,22:00,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Atlético - MG,2,1
+15,08/08/2012,19:30,Ilha do Retiro - Recife - PE,Sport - PE,Vasco da Gama - RJ,0,2
+15,08/08/2012,19:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Náutico - PE,0,0
+15,08/08/2012,20:30,Pituaçu - Salvador - BA,Bahia - BA,Portuguesa - SP,0,0
+15,08/08/2012,20:30,Pacaembu - Sao Paulo - SP,Corinthians - SP,Atlético - GO,1,1
+15,08/08/2012,21:50,Vila Belmiro - Santos - SP,Santos - SP,Cruzeiro - MG,4,2
+15,08/08/2012,21:50,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Flamengo - RJ,0,2
+15,08/08/2012,21:50,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Palmeiras - SP,1,2
+15,09/08/2012,21:00,São Januário - Rio de Janeiro - RJ,Fluminense - RJ,São Paulo - SP,2,1
+15,09/08/2012,21:00,Independência - Belo Horizonte - MG,Atlético - MG,Coritiba - PR,1,0
+15,09/08/2012,21:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Grêmio - RS,0,0
+16,11/08/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Figueirense - SC,0,1
+16,11/08/2012,18:30,Pituaçu - Salvador - BA,Bahia - BA,Cruzeiro - MG,0,1
+16,11/08/2012,18:30,Pacaembu - Sao Paulo - SP,Santos - SP,Atlético - GO,2,2
+16,11/08/2012,21:00,Raulino de Oliveira - Volta Redonda - RJ,Flamengo - RJ,Náutico - PE,2,0
+16,12/08/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Ponte Preta - SP,2,1
+16,12/08/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Grêmio - RS,1,2
+16,12/08/2012,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Vasco da Gama - RJ,1,0
+16,12/08/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Corinthians - SP,1,2
+16,12/08/2012,18:30,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Palmeiras - SP,1,0
+16,12/08/2012,18:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Botafogo - RJ,1,1
+17,15/08/2012,19:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Portuguesa - SP,1,2
+17,15/08/2012,19:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Fluminense - RJ,1,1
+17,15/08/2012,20:30,Serra Dourada - Goiania - GO,Atlético - GO,Atlético - MG,1,1
+17,15/08/2012,20:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Bahia - BA,0,2
+17,15/08/2012,21:50,Aflitos - Recife - PE,Náutico - PE,São Paulo - SP,3,0
+17,15/08/2012,21:50,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Sport - PE,2,0
+17,15/08/2012,21:50,Arena Barueri - Barueri - SP,Palmeiras - SP,Flamengo - RJ,1,0
+17,16/08/2012,21:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Coritiba - PR,2,2
+17,16/08/2012,21:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Internacional - RS,1,0
+17,16/08/2012,21:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Santos - SP,1,3
+18,18/08/2012,18:30,Aflitos - Recife - PE,Náutico - PE,Bahia - BA,1,0
+18,18/08/2012,18:30,Raulino de Oliveira - Volta Redonda - RJ,Fluminense - RJ,Sport - PE,1,0
+18,18/08/2012,21:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Ponte Preta - SP,3,0
+18,19/08/2012,16:00,Vila Belmiro - Santos - SP,Santos - SP,Corinthians - SP,3,2
+18,19/08/2012,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Botafogo - RJ,3,2
+18,19/08/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Cruzeiro - MG,4,0
+18,19/08/2012,16:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Figueirense - SC,4,0
+18,19/08/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Palmeiras - SP,2,1
+18,19/08/2012,18:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Internacional - RS,1,1
+18,19/08/2012,18:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Vasco da Gama - RJ,1,0
+19,25/08/2012,18:30,João Havelange - Rio de Janeiro - RJ,Vasco da Gama - RJ,Fluminense - RJ,1,2
+19,25/08/2012,18:30,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Santos - SP,1,2
+19,25/08/2012,21:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Portuguesa - SP,2,1
+19,26/08/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Grêmio - RS,0,1
+19,26/08/2012,16:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Flamengo - RJ,0,0
+19,26/08/2012,16:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,São Paulo - SP,1,2
+19,26/08/2012,16:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Coritiba - PR,3,1
+19,26/08/2012,18:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Atlético - MG,2,2
+19,26/08/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Náutico - PE,0,0
+19,26/08/2012,18:30,Pituaçu - Salvador - BA,Bahia - BA,Atlético - GO,1,1
+20,29/08/2012,19:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Internacional - RS,1,0
+20,29/08/2012,19:30,Vila Belmiro - Santos - SP,Santos - SP,Bahia - BA,1,3
+20,29/08/2012,20:30,Aflitos - Recife - PE,Náutico - PE,Figueirense - SC,3,2
+20,29/08/2012,20:30,Independência - Belo Horizonte - MG,Atlético - MG,Ponte Preta - SP,2,2
+20,29/08/2012,20:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Palmeiras - SP,3,0
+20,29/08/2012,22:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Corinthians - SP,1,1
+20,29/08/2012,22:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Vasco da Gama - RJ,2,0
+20,29/08/2012,22:00,Serra Dourada - Goiania - GO,Atlético - GO,Cruzeiro - MG,0,2
+20,30/08/2012,21:00,Raulino de Oliveira - Volta Redonda - RJ,Flamengo - RJ,Sport - PE,1,1
+20,30/08/2012,21:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Botafogo - RJ,4,0
+21,01/09/2012,18:30,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Grêmio - RS,0,0
+21,01/09/2012,18:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Fluminense - RJ,2,2
+21,01/09/2012,21:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Portuguesa - SP,2,0
+21,02/09/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,São Paulo - SP,1,0
+21,02/09/2012,16:00,Ilha do Retiro - Recife - PE,Sport - PE,Santos - SP,2,1
+21,02/09/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Flamengo - RJ,4,1
+21,02/09/2012,16:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Atlético - MG,1,0
+21,02/09/2012,18:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Coritiba - PR,2,0
+21,02/09/2012,18:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Náutico - PE,3,0
+21,02/09/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Atlético - GO,3,1
+22,05/09/2012,19:30,Raulino de Oliveira - Volta Redonda - RJ,Flamengo - RJ,Ponte Preta - SP,0,1
+22,05/09/2012,19:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Coritiba - PR,3,0
+22,05/09/2012,19:30,Aflitos - Recife - PE,Náutico - PE,Vasco da Gama - RJ,1,1
+22,05/09/2012,19:30,Pituaçu - Salvador - BA,Bahia - BA,Atlético - MG,0,0
+22,05/09/2012,20:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Atlético - GO,2,1
+22,05/09/2012,22:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Corinthians - SP,1,0
+22,05/09/2012,22:00,Independência - Belo Horizonte - MG,Cruzeiro - MG,Botafogo - RJ,1,3
+22,05/09/2012,22:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Internacional - RS,1,1
+22,06/09/2012,21:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Santos - SP,3,1
+22,06/09/2012,21:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Sport - PE,3,1
+23,08/09/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Figueirense - SC,2,2
+23,08/09/2012,18:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Flamengo - RJ,3,0
+23,08/09/2012,21:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Grêmio - RS,3,1
+23,09/09/2012,16:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Náutico - PE,3,1
+23,09/09/2012,16:00,Vila Belmiro - Santos - SP,Santos - SP,São Paulo - SP,0,0
+23,09/09/2012,16:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Fluminense - RJ,0,1
+23,09/09/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Portuguesa - SP,1,1
+23,09/09/2012,18:30,Independência - Belo Horizonte - MG,Atlético - MG,Palmeiras - SP,3,0
+23,09/09/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Cruzeiro - MG,2,1
+23,09/09/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Bahia - BA,0,4
+24,12/09/2012,19:30,Pacaembu - Sao Paulo - SP,Corinthians - SP,Ponte Preta - SP,1,1
+24,12/09/2012,19:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Fluminense - RJ,0,2
+24,12/09/2012,19:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Cruzeiro - MG,2,0
+24,12/09/2012,20:30,Ilha do Retiro - Recife - PE,Sport - PE,Bahia - BA,1,1
+24,12/09/2012,20:30,Serra Dourada - Goiania - GO,Atlético - GO,Coritiba - PR,1,2
+24,12/09/2012,22:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Palmeiras - SP,3,1
+24,12/09/2012,22:00,Vila Belmiro - Santos - SP,Santos - SP,Flamengo - RJ,2,0
+24,12/09/2012,22:00,Independência - Belo Horizonte - MG,Atlético - MG,São Paulo - SP,1,0
+24,13/09/2012,21:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Náutico - PE,2,0
+24,13/09/2012,21:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Internacional - RS,1,1
+25,15/09/2012,18:30,Raulino de Oliveira - Volta Redonda - RJ,Fluminense - RJ,Atlético - GO,1,2
+25,15/09/2012,18:30,Morumbi - Sao Paulo - SP,São Paulo - SP,Portuguesa - SP,3,1
+25,16/09/2012,16:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Corinthians - SP,0,2
+25,16/09/2012,16:00,Dilzon Melo - Varginha - MG,Cruzeiro - MG,Vasco da Gama - RJ,1,1
+25,16/09/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Santos - SP,1,2
+25,16/09/2012,16:00,Aflitos - Recife - PE,Náutico - PE,Atlético - MG,1,0
+25,16/09/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,Figueirense - SC,2,1
+25,16/09/2012,18:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Grêmio - RS,1,1
+25,16/09/2012,18:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Sport - PE,2,2
+25,16/09/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Botafogo - RJ,0,0
+26,22/09/2012,18:30,Raulino de Oliveira - Volta Redonda - RJ,Fluminense - RJ,Náutico - PE,2,1
+26,22/09/2012,18:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Palmeiras - SP,1,3
+26,22/09/2012,21:00,Pacaembu - Sao Paulo - SP,Santos - SP,Portuguesa - SP,1,3
+26,23/09/2012,16:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Corinthians - SP,2,2
+26,23/09/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Cruzeiro - MG,1,0
+26,23/09/2012,16:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Vasco da Gama - RJ,0,0
+26,23/09/2012,16:00,Serra Dourada - Goiania - GO,Atlético - GO,Flamengo - RJ,1,2
+26,23/09/2012,18:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Bahia - BA,3,1
+26,23/09/2012,18:30,Independência - Belo Horizonte - MG,Atlético - MG,Grêmio - RS,0,0
+26,23/09/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,Coritiba - PR,1,0
+27,29/09/2012,18:30,Aflitos - Recife - PE,Náutico - PE,Atlético - GO,2,0
+27,29/09/2012,18:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Atlético - MG,1,1
+27,29/09/2012,18:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Figueirense - SC,3,1
+27,29/09/2012,18:30,Dilzon Melo - Varginha - MG,Cruzeiro - MG,Internacional - RS,0,0
+27,29/09/2012,21:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Ponte Preta - SP,3,0
+27,30/09/2012,16:00,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Fluminense - RJ,0,1
+27,30/09/2012,16:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Sport - PE,3,0
+27,30/09/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,São Paulo - SP,1,1
+27,30/09/2012,16:00,Pituaçu - Salvador - BA,Bahia - BA,Botafogo - RJ,2,0
+27,30/09/2012,18:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Santos - SP,1,1
+28,04/10/2012,21:00,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Bahia - BA,0,0
+28,04/10/2012,21:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Sport - PE,5,1
+28,04/10/2012,21:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Ponte Preta - SP,1,0
+28,06/10/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Palmeiras - SP,3,0
+28,06/10/2012,16:20,Serra Dourada - Goiania - GO,Atlético - GO,Vasco da Gama - RJ,0,1
+28,06/10/2012,16:20,Vila Belmiro - Santos - SP,Santos - SP,Internacional - RS,1,1
+28,06/10/2012,16:20,Aflitos - Recife - PE,Náutico - PE,Corinthians - SP,2,1
+28,06/10/2012,18:30,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Botafogo - RJ,1,0
+28,06/10/2012,18:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Cruzeiro - MG,2,1
+28,06/10/2012,18:30,Independência - Belo Horizonte - MG,Atlético - MG,Figueirense - SC,6,0
+29,10/10/2012,19:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Santos - SP,0,2
+29,10/10/2012,19:30,Dilzon Melo - Varginha - MG,Cruzeiro - MG,Portuguesa - SP,2,0
+29,10/10/2012,19:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Náutico - PE,2,1
+29,10/10/2012,19:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Atlético - GO,3,1
+29,10/10/2012,19:30,Pituaçu - Salvador - BA,Bahia - BA,Fluminense - RJ,0,2
+29,10/10/2012,22:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Atlético - MG,3,0
+29,10/10/2012,22:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,São Paulo - SP,0,2
+29,10/10/2012,22:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Flamengo - RJ,3,2
+29,11/10/2012,21:00,Fonte Luminosa - Araraquara - SP,Palmeiras - SP,Coritiba - PR,0,1
+29,11/10/2012,21:00,Ilha do Retiro - Recife - PE,Sport - PE,Grêmio - RS,1,3
+30,13/10/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Internacional - RS,3,1
+30,13/10/2012,18:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Cruzeiro - MG,1,1
+30,13/10/2012,21:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Corinthians - SP,1,1
+30,14/10/2012,16:00,Vila Belmiro - Santos - SP,Santos - SP,Vasco da Gama - RJ,2,0
+30,14/10/2012,16:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Figueirense - SC,2,0
+30,14/10/2012,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Sport - PE,2,1
+30,14/10/2012,16:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Bahia - BA,2,1
+30,14/10/2012,16:00,Aflitos - Recife - PE,Náutico - PE,Palmeiras - SP,1,0
+30,14/10/2012,18:30,São Januário - Rio de Janeiro - RJ,Fluminense - RJ,Ponte Preta - SP,2,1
+30,14/10/2012,18:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Botafogo - RJ,1,1
+31,17/10/2012,19:30,Pituaçu - Salvador - BA,Bahia - BA,Palmeiras - SP,0,1
+31,17/10/2012,19:30,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Grêmio - RS,2,2
+31,17/10/2012,19:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Náutico - PE,2,1
+31,17/10/2012,19:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Figueirense - SC,2,3
+31,17/10/2012,22:00,Vila Belmiro - Santos - SP,Santos - SP,Atlético - MG,2,2
+31,17/10/2012,22:00,Dilzon Melo - Varginha - MG,Cruzeiro - MG,Corinthians - SP,2,0
+31,17/10/2012,22:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Flamengo - RJ,0,0
+31,18/10/2012,21:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Vasco da Gama - RJ,3,2
+31,18/10/2012,21:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Atlético - GO,2,0
+31,18/10/2012,21:00,Ilha do Retiro - Recife - PE,Sport - PE,Ponte Preta - SP,3,1
+32,20/10/2012,18:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Coritiba - PR,0,0
+32,20/10/2012,18:30,Pacaembu - Sao Paulo - SP,Corinthians - SP,Bahia - BA,1,1
+32,20/10/2012,18:30,Fonte Luminosa - Araraquara - SP,Palmeiras - SP,Cruzeiro - MG,2,0
+32,21/10/2012,16:00,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,São Paulo - SP,1,0
+32,21/10/2012,16:00,Independência - Belo Horizonte - MG,Atlético - MG,Fluminense - RJ,3,2
+32,21/10/2012,16:00,Aflitos - Recife - PE,Náutico - PE,Portuguesa - SP,0,0
+32,21/10/2012,18:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Santos - SP,1,0
+32,21/10/2012,18:30,Serra Dourada - Goiania - GO,Atlético - GO,Sport - PE,0,1
+32,24/10/2012,20:30,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Internacional - RS,1,2
+32,24/10/2012,22:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Botafogo - RJ,0,2
+33,25/10/2012,21:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Coritiba - PR,2,1
+33,25/10/2012,21:00,Vila Belmiro - Santos - SP,Santos - SP,Náutico - PE,0,0
+33,25/10/2012,21:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Cruzeiro - MG,1,0
+33,27/10/2012,16:20,Pacaembu - Sao Paulo - SP,Corinthians - SP,Vasco da Gama - RJ,1,0
+33,27/10/2012,16:20,Beira-Rio - Porto Alegre - RS,Internacional - RS,Palmeiras - SP,2,1
+33,27/10/2012,18:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Atlético - GO,4,0
+33,27/10/2012,18:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Portuguesa - SP,0,0
+33,27/10/2012,18:30,Ilha do Retiro - Recife - PE,Sport - PE,São Paulo - SP,2,4
+33,27/10/2012,18:30,Pituaçu - Salvador - BA,Bahia - BA,Grêmio - RS,1,1
+33,31/10/2012,21:50,Independência - Belo Horizonte - MG,Atlético - MG,Flamengo - RJ,1,1
+34,03/11/2012,19:30,Olímpico - Porto Alegre - RS,Grêmio - RS,Ponte Preta - SP,1,0
+34,03/11/2012,19:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Santos - SP,0,4
+34,03/11/2012,21:00,Raulino de Oliveira - Volta Redonda - RJ,Flamengo - RJ,Figueirense - SC,1,0
+34,04/11/2012,17:00,Elmo Serejo Farias - Taguatinga - DF,Atlético - GO,Corinthians - SP,0,2
+34,04/11/2012,17:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Sport - PE,0,3
+34,04/11/2012,17:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Fluminense - RJ,1,1
+34,04/11/2012,17:00,Fonte Luminosa - Araraquara - SP,Palmeiras - SP,Botafogo - RJ,2,2
+34,04/11/2012,19:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Bahia - BA,0,1
+34,04/11/2012,19:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Atlético - MG,1,0
+34,04/11/2012,19:30,Aflitos - Recife - PE,Náutico - PE,Internacional - RS,3,0
+35,10/11/2012,19:30,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Portuguesa - SP,3,0
+35,10/11/2012,19:30,Valmir Bezerra - Gama - DF,Atlético - GO,Santos - SP,2,1
+35,10/11/2012,21:00,Pacaembu - Sao Paulo - SP,Corinthians - SP,Coritiba - PR,5,1
+35,11/11/2012,17:00,São Januário - Rio de Janeiro - RJ,Vasco da Gama - RJ,Atlético - MG,1,1
+35,11/11/2012,17:00,Paulo Constantino - Presidente Prudente - SP,Palmeiras - SP,Fluminense - RJ,2,3
+35,11/11/2012,17:00,Olímpico - Porto Alegre - RS,Grêmio - RS,São Paulo - SP,2,1
+35,11/11/2012,19:30,Aflitos - Recife - PE,Náutico - PE,Flamengo - RJ,0,1
+35,11/11/2012,19:30,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,Internacional - RS,1,0
+35,11/11/2012,19:30,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Sport - PE,1,1
+35,11/11/2012,19:30,Independência - Belo Horizonte - MG,Cruzeiro - MG,Bahia - BA,3,1
+36,17/11/2012,19:30,Vila Belmiro - Santos - SP,Santos - SP,Figueirense - SC,2,0
+36,17/11/2012,19:30,Couto Pereira - Curitiba - PR,Coritiba - PR,Vasco da Gama - RJ,1,2
+36,18/11/2012,17:00,Raulino de Oliveira - Volta Redonda - RJ,Flamengo - RJ,Palmeiras - SP,1,1
+36,18/11/2012,17:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Cruzeiro - MG,0,2
+36,18/11/2012,17:00,Morumbi - Sao Paulo - SP,São Paulo - SP,Náutico - PE,2,1
+36,18/11/2012,17:00,Independência - Belo Horizonte - MG,Atlético - MG,Atlético - GO,2,2
+36,18/11/2012,17:00,Pituaçu - Salvador - BA,Bahia - BA,Ponte Preta - SP,1,0
+36,18/11/2012,19:30,Ilha do Retiro - Recife - PE,Sport - PE,Botafogo - RJ,2,0
+36,18/11/2012,19:30,Beira-Rio - Porto Alegre - RS,Internacional - RS,Corinthians - SP,0,2
+36,18/11/2012,19:30,Canindé - Sao Paulo - SP,Portuguesa - SP,Grêmio - RS,2,2
+37,24/11/2012,19:30,Pacaembu - Sao Paulo - SP,Corinthians - SP,Santos - SP,1,1
+37,24/11/2012,19:30,João Havelange - Rio de Janeiro - RJ,Vasco da Gama - RJ,Flamengo - RJ,1,1
+37,25/11/2012,17:00,Moisés Lucarelli - Campinas - SP,Ponte Preta - SP,São Paulo - SP,0,0
+37,25/11/2012,17:00,Ilha do Retiro - Recife - PE,Sport - PE,Fluminense - RJ,1,1
+37,25/11/2012,17:00,Orlando Scarpelli - Florianopolis - SC,Figueirense - SC,Grêmio - RS,2,4
+37,25/11/2012,17:00,Pituaçu - Salvador - BA,Bahia - BA,Náutico - PE,1,1
+37,25/11/2012,17:00,Independência - Belo Horizonte - MG,Cruzeiro - MG,Coritiba - PR,2,1
+37,25/11/2012,17:00,Beira-Rio - Porto Alegre - RS,Internacional - RS,Portuguesa - SP,0,2
+37,25/11/2012,17:00,Pacaembu - Sao Paulo - SP,Palmeiras - SP,Atlético - GO,1,2
+37,25/11/2012,17:00,João Havelange - Rio de Janeiro - RJ,Botafogo - RJ,Atlético - MG,2,3
+38,01/12/2012,19:30,João Havelange - Rio de Janeiro - RJ,Flamengo - RJ,Botafogo - RJ,2,2
+38,01/12/2012,19:30,Vila Belmiro - Santos - SP,Santos - SP,Palmeiras - SP,3,1
+38,02/12/2012,17:00,João Havelange - Rio de Janeiro - RJ,Fluminense - RJ,Vasco da Gama - RJ,1,2
+38,02/12/2012,17:00,Pacaembu - Sao Paulo - SP,São Paulo - SP,Corinthians - SP,3,1
+38,02/12/2012,17:00,Olímpico - Porto Alegre - RS,Grêmio - RS,Internacional - RS,0,0
+38,02/12/2012,17:00,Independência - Belo Horizonte - MG,Atlético - MG,Cruzeiro - MG,3,2
+38,02/12/2012,17:00,Canindé - Sao Paulo - SP,Portuguesa - SP,Ponte Preta - SP,0,0
+38,02/12/2012,17:00,Couto Pereira - Curitiba - PR,Coritiba - PR,Figueirense - SC,3,0
+38,02/12/2012,17:00,Aflitos - Recife - PE,Náutico - PE,Sport - PE,1,0
+38,02/12/2012,17:00,Serra Dourada - Goiania - GO,Atlético - GO,Bahia - BA,0,1
