@@ -3,6 +3,13 @@ import sys
 from bs4 import BeautifulSoup
 from gera_csv import gera_csv
 
+def trata_horario(horario):
+    H = horario[0]
+    M = horario[1]
+    if (horario[1] == ''):
+        M = "00"
+    return H+":"+M
+
 def processa_rodada(rodada, mes, ano):
     partida = {}
     partidas = []
@@ -20,11 +27,7 @@ def processa_rodada(rodada, mes, ano):
             dados = linha.find_all("td")
             # "16h" ou "21h45"
             horario = dados[0].get_text().split("h")
-            H = horario[0]
-            M = horario[1]
-            if (horario[1] == ''):
-                M = "00"
-            partida['hora'] = H+":"+M
+            partida['hora'] = trata_horario(horario)
             partida['casa'] = dados[1].get_text()
             partida['fora'] = dados[2].get_text()
             estadio = dados[3].get_text()
@@ -63,4 +66,5 @@ def main():
     partidas = parse_ano(ano)
     gera_csv(ano, partidas)
 
-main()
+if __name__ == "__main__":
+    main()
