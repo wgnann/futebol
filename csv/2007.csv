@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,12/5/2007,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,3,6
+1,12/5/2007,18:10,Maracanã - Rio De Janeiro,Fluminense,Cruzeiro,2,2
+1,12/5/2007,18:10,Morumbi - São Paulo,São Paulo,Goiás,2,0
+1,13/5/2007,16:00,Beira-Rio - Porto Alegre,Internacional,Botafogo,2,3
+1,13/5/2007,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Grêmio,3,0
+1,13/5/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Náutico-PE,2,1
+1,13/5/2007,16:00,Maracanã - Rio De Janeiro,Flamengo,Palmeiras,2,4
+1,13/5/2007,16:00,Ilha do Retiro - Recife,Sport,Santos,4,1
+1,13/5/2007,18:10,Morumbi - São Paulo,Corinthians,Juventude,1,0
+1,13/5/2007,18:10,Machadão - Natal,América-RN,Vasco,0,1
+2,19/5/2007,18:10,Vila Belmiro - Santos,Santos,América-RN,2,3
+2,19/5/2007,18:10,Arena da Baixada - Curitiba,Atlético-PR,Internacional,2,1
+2,19/5/2007,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Paraná Clube,1,2
+2,20/5/2007,16:00,Maracanã - Rio De Janeiro,Botafogo,Atlético-MG,2,1
+2,20/5/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,0,3
+2,20/5/2007,16:00,Parque Antarctica - São Paulo,Palmeiras,Figueirense,2,1
+2,20/5/2007,16:00,Serra Dourada - Goiânia,Goiás,Flamengo,1,3
+2,20/5/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,2,0
+2,20/5/2007,18:10,Aflitos - Recife,Náutico-PE,São Paulo,1,0
+2,20/5/2007,18:10,São Januário - Rio De Janeiro,Vasco,Sport,3,1
+3,26/5/2007,18:10,Morumbi - São Paulo,Corinthians,Atlético-MG,0,0
+3,26/5/2007,18:10,Machadão - Natal,América-RN,Figueirense,0,1
+3,26/5/2007,18:10,Maracanã - Rio De Janeiro,Fluminense,Internacional,3,0
+3,27/5/2007,16:00,Morumbi - São Paulo,São Paulo,Palmeiras,0,0
+3,27/5/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,Santos,0,1
+3,27/5/2007,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Sport,1,0
+3,27/5/2007,16:00,Aflitos - Recife,Náutico-PE,Vasco,2,2
+3,27/5/2007,18:10,Maracanã - Rio De Janeiro,Flamengo,Botafogo,2,2
+3,27/5/2007,18:10,Serra Dourada - Goiânia,Goiás,Juventude,3,1
+3,27/5/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Paraná Clube,3,4
+4,02/6/2007,18:10,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,1,1
+4,02/6/2007,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,2,1
+4,02/6/2007,18:10,Maracanã - Rio De Janeiro,Botafogo,Grêmio,3,0
+4,03/6/2007,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,América-RN,3,0
+4,03/6/2007,16:00,Vila Belmiro - Santos,Santos,Corinthians,1,1
+4,03/6/2007,16:00,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,1,3
+4,03/6/2007,16:00,Ilha do Retiro - Recife,Sport,Flamengo,2,2
+4,03/6/2007,18:10,Maracanã - Rio De Janeiro,Vasco,Fluminense,1,1
+4,03/6/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,São Paulo,0,1
+4,04/6/2007,20:30,Beira-Rio - Porto Alegre,Internacional,Náutico-PE,2,0
+5,09/6/2007,18:10,Parque Antarctica - São Paulo,Palmeiras,Botafogo,1,1
+5,09/6/2007,18:10,São Januário - Rio De Janeiro,Vasco,Grêmio,4,0
+5,09/6/2007,18:10,Aflitos - Recife,Náutico-PE,Paraná Clube,4,4
+5,10/6/2007,16:00,Machadão - Natal,América-RN,Corinthians,1,2
+5,10/6/2007,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,4,0
+5,10/6/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,Goiás,0,3
+5,10/6/2007,16:00,Maracanã - Rio De Janeiro,Fluminense,Sport,3,0
+5,10/6/2007,18:10,Morumbi - São Paulo,São Paulo,Atlético-MG,0,1
+5,10/6/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Juventude,2,3
+5,10/6/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Santos,1,0
+12,14/6/2007,20:30,Maracanã - Rio De Janeiro,Botafogo,Vasco,4,0
+6,16/6/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,0,2
+6,16/6/2007,18:10,Maracanã - Rio De Janeiro,Flamengo,Internacional,2,2
+6,16/6/2007,18:10,Morumbi - São Paulo,Corinthians,Paraná Clube,0,0
+6,17/6/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Figueirense,4,1
+6,17/6/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,1,1
+6,17/6/2007,16:00,Serra Dourada - Goiânia,Goiás,Palmeiras,3,1
+6,17/6/2007,16:00,Morumbi - São Paulo,São Paulo,Vasco,2,0
+6,17/6/2007,18:10,Ilha do Retiro - Recife,Sport,América-RN,2,2
+6,17/6/2007,18:10,Maracanã - Rio De Janeiro,Botafogo,Náutico-PE,3,1
+6,17/6/2007,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Santos,0,2
+7,23/6/2007,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Figueirense,1,1
+7,23/6/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Sport,1,0
+7,24/6/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,4,2
+7,24/6/2007,16:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-PR,0,2
+7,24/6/2007,16:00,Machadão - Natal,América-RN,Fluminense,0,1
+7,24/6/2007,16:00,Vila Belmiro - Santos,Santos,São Paulo,0,2
+7,24/6/2007,18:10,Aflitos - Recife,Náutico-PE,Goiás,0,2
+7,24/6/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Grêmio,0,2
+8,28/6/2007,20:30,Ilha do Retiro - Recife,Sport,Náutico-PE,4,1
+8,28/6/2007,20:30,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,0,0
+8,30/6/2007,16:00,Machadão - Natal,América-RN,Goiás,0,3
+8,30/6/2007,16:00,Vila Belmiro - Santos,Santos,Grêmio,0,0
+8,30/6/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,Vasco,3,1
+8,30/6/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,1,1
+8,30/6/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Atlético-PR,2,2
+8,30/6/2007,18:10,Engenhão - Rio de Janeiro,Fluminense,Botafogo,1,2
+8,30/6/2007,18:10,Morumbi - São Paulo,Corinthians,Palmeiras,0,1
+9,03/7/2007,19:30,Parque Antarctica - São Paulo,Palmeiras,América-RN,2,0
+9,03/7/2007,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,2,1
+9,03/7/2007,20:30,Morumbi - São Paulo,São Paulo,Internacional,1,0
+9,03/7/2007,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Juventude,3,1
+9,03/7/2007,20:30,Arena da Baixada - Curitiba,Atlético-PR,Náutico-PE,1,1
+9,03/7/2007,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Paraná Clube,0,0
+9,03/7/2007,21:45,Serra Dourada - Goiânia,Goiás,Botafogo,1,1
+9,04/7/2007,16:00,Ilha do Retiro - Recife,Sport,Corinthians,2,1
+9,04/7/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Flamengo,1,1
+9,04/7/2007,16:00,São Januário - Rio De Janeiro,Vasco,Santos,4,0
+10,06/7/2007,20:30,Durival de Britto e Silva - Curitiba,Paraná Clube,América-RN,0,1
+10,07/7/2007,16:00,Vila Belmiro - Santos,Santos,Cruzeiro,4,1
+10,07/7/2007,16:00,Pacaembu - São Paulo,Corinthians,Fluminense,1,1
+10,07/7/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Grêmio,0,1
+10,07/7/2007,18:10,Mané Garrincha - Brasília,Botafogo,Atlético-PR,2,0
+10,07/7/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Figueirense,2,1
+10,07/7/2007,18:10,Aflitos - Recife,Náutico-PE,Palmeiras,0,1
+10,07/7/2007,18:10,Morumbi - São Paulo,São Paulo,Flamengo,0,0
+10,07/7/2007,18:10,Serra Dourada - Goiânia,Goiás,Sport,3,2
+10,07/7/2007,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Vasco,2,0
+11,12/7/2007,20:30,São Januário - Rio De Janeiro,Vasco,Atlético-PR,1,0
+11,12/7/2007,20:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Figueirense,1,2
+11,12/7/2007,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Náutico-PE,1,1
+11,14/7/2007,16:00,Ilha do Retiro - Recife,Sport,Atlético-MG,2,0
+11,14/7/2007,16:00,Vila Belmiro - Santos,Santos,Botafogo,3,0
+11,14/7/2007,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,1,1
+11,14/7/2007,20:00,Mineirão - Belo Horizonte,Cruzeiro,Goiás,2,1
+11,14/7/2007,20:00,Machadão - Natal,América-RN,Internacional,1,2
+11,14/7/2007,20:30,Morumbi - São Paulo,Corinthians,São Paulo,1,1
+12,18/7/2007,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Sport,0,1
+12,18/7/2007,20:30,Mineirão - Belo Horizonte,Atlético-MG,América-RN,4,1
+12,18/7/2007,20:30,Arena da Baixada - Curitiba,Atlético-PR,Juventude,4,0
+12,18/7/2007,21:45,Beira-Rio - Porto Alegre,Internacional,Corinthians,3,0
+12,18/7/2007,21:45,Aflitos - Recife,Náutico-PE,Cruzeiro,1,4
+12,18/7/2007,21:45,Morumbi - São Paulo,São Paulo,Fluminense,0,1
+12,19/7/2007,20:30,Serra Dourada - Goiânia,Goiás,Grêmio,0,0
+12,19/7/2007,20:30,Parque do Sabiá - Uberlândia,Flamengo,Paraná Clube,1,2
+12,19/7/2007,20:30,Parque Antarctica - São Paulo,Palmeiras,Santos,2,2
+13,21/7/2007,18:10,São Januário - Rio De Janeiro,Vasco,Atlético-MG,4,0
+13,21/7/2007,18:10,Machadão - Natal,América-RN,Atlético-PR,2,1
+13,21/7/2007,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Internacional,2,0
+13,22/7/2007,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,1,0
+13,22/7/2007,16:00,Engenheiro Araripe - Cariacica,Fluminense,Goiás,3,0
+13,22/7/2007,16:00,Morumbi - São Paulo,Corinthians,Náutico-PE,0,3
+13,22/7/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,1,2
+13,22/7/2007,18:10,Ilha do Retiro - Recife,Sport,Botafogo,3,3
+13,22/7/2007,18:10,Vila Belmiro - Santos,Santos,Figueirense,3,1
+13,22/7/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Palmeiras,1,0
+14,25/7/2007,19:30,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,2,2
+14,25/7/2007,19:30,Serra Dourada - Goiânia,Goiás,Santos,1,0
+14,25/7/2007,20:30,Mário Helênio - Juiz de Fora,Flamengo,América-RN,3,1
+14,25/7/2007,20:30,Aflitos - Recife,Náutico-PE,Grêmio,0,2
+14,25/7/2007,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,2,2
+14,25/7/2007,21:45,Beira-Rio - Porto Alegre,Internacional,Paraná Clube,1,0
+14,25/7/2007,21:45,Parque Antarctica - São Paulo,Palmeiras,Vasco,3,2
+14,26/7/2007,20:30,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,3,0
+14,26/7/2007,20:30,Mário Helênio - Juiz de Fora,Botafogo,Juventude,3,1
+14,26/7/2007,20:30,Morumbi - São Paulo,São Paulo,Sport,3,1
+15,28/7/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-PR,1,1
+15,28/7/2007,18:10,São Januário - Rio De Janeiro,Vasco,Goiás,4,1
+15,28/7/2007,18:10,Vila Belmiro - Santos,Santos,Náutico-PE,1,2
+15,29/7/2007,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Atlético-MG,1,3
+15,29/7/2007,16:00,Morumbi - São Paulo,Corinthians,Flamengo,2,2
+15,29/7/2007,16:00,Ilha do Retiro - Recife,Sport,Internacional,1,5
+15,29/7/2007,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Palmeiras,1,1
+15,29/7/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Botafogo,3,2
+15,29/7/2007,18:10,Mané Garrincha - Brasília,Fluminense,Figueirense,1,1
+15,29/7/2007,18:10,Machadão - Natal,América-RN,São Paulo,0,1
+16,01/8/2007,19:30,Aflitos - Recife,Náutico-PE,Fluminense,0,0
+16,01/8/2007,19:30,Serra Dourada - Goiânia,Goiás,Paraná Clube,2,0
+16,01/8/2007,20:30,Engenheiro Araripe - Cariacica,Botafogo,América-RN,4,2
+16,01/8/2007,20:30,Parque Antarctica - São Paulo,Palmeiras,Sport,1,2
+16,01/8/2007,21:45,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,2,2
+16,01/8/2007,21:45,Mineirão - Belo Horizonte,Atlético-MG,Santos,1,2
+16,01/8/2007,21:45,Beira-Rio - Porto Alegre,Internacional,Vasco,0,2
+16,02/8/2007,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,1,0
+16,02/8/2007,20:30,Morumbi - São Paulo,São Paulo,Juventude,3,1
+17,04/8/2007,18:10,Ilha do Retiro - Recife,Sport,Atlético-PR,3,2
+17,04/8/2007,18:10,Morumbi - São Paulo,Corinthians,Goiás,1,0
+17,04/8/2007,18:10,Machadão - Natal,América-RN,Náutico-PE,1,5
+17,05/8/2007,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Atlético-MG,1,2
+17,05/8/2007,16:00,Vila Belmiro - Santos,Santos,Flamengo,3,0
+17,05/8/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,Internacional,3,2
+17,05/8/2007,16:00,Maracanã - Rio De Janeiro,Fluminense,Palmeiras,0,1
+17,05/8/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Botafogo,0,0
+17,05/8/2007,18:10,São Januário - Rio De Janeiro,Vasco,Figueirense,2,2
+17,05/8/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,0,2
+18,08/8/2007,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Fluminense,0,0
+18,08/8/2007,19:30,Mineirão - Belo Horizonte,Cruzeiro,Sport,2,0
+18,08/8/2007,20:30,Aflitos - Recife,Náutico-PE,Figueirense,4,2
+18,08/8/2007,21:45,Serra Dourada - Goiânia,Goiás,Atlético-MG,3,2
+18,08/8/2007,21:45,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,2,0
+18,08/8/2007,21:45,Maracanã - Rio de Janeiro,Botafogo,São Paulo,0,2
+18,09/8/2007,20:30,Olímpico Monumental - Porto Alegre,Grêmio,América-RN,3,0
+18,09/8/2007,20:30,São Januário - Rio De Janeiro,Vasco,Corinthians,2,0
+18,09/8/2007,20:30,Parque Antarctica - São Paulo,Palmeiras,Internacional,1,1
+18,09/8/2007,20:30,Vila Belmiro - Santos,Santos,Paraná Clube,2,0
+19,11/8/2007,18:10,Morumbi - São Paulo,São Paulo,Atlético-PR,2,0
+19,11/8/2007,18:10,Ilha do Retiro - Recife,Sport,Juventude,3,0
+19,11/8/2007,18:10,Maracanã - Rio De Janeiro,Flamengo,Náutico-PE,2,1
+19,12/8/2007,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo,1,1
+19,12/8/2007,16:00,Beira-Rio - Porto Alegre,Internacional,Goiás,1,0
+19,12/8/2007,16:00,Pacaembu - São Paulo,Corinthians,Grêmio,2,1
+19,12/8/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,2
+19,12/8/2007,18:10,Machadão - Natal,América-RN,Cruzeiro,1,2
+19,12/8/2007,18:10,Maracanã - Rio De Janeiro,Fluminense,Santos,3,0
+19,12/8/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Vasco,0,0
+7,15/8/2007,20:30,Maracanã - Rio De Janeiro,Botafogo,Corinthians,2,3
+11,16/8/2007,20:30,Maracanã - Rio De Janeiro,Fluminense,Flamengo,0,1
+20,18/8/2007,18:10,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,1,1
+20,18/8/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Paraná Clube,2,0
+20,18/8/2007,18:10,Vila Belmiro - Santos,Santos,Sport,2,0
+20,19/8/2007,16:00,São Januário - Rio De Janeiro,Vasco,América-RN,2,0
+20,19/8/2007,16:00,Aflitos - Recife,Náutico-PE,Atlético-MG,0,1
+20,19/8/2007,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Corinthians,2,2
+20,19/8/2007,16:00,Parque Antarctica - São Paulo,Palmeiras,Flamengo,2,1
+20,19/8/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,4,2
+20,19/8/2007,18:10,Maracanã - Rio de Janeiro,Botafogo,Internacional,1,1
+20,19/8/2007,18:10,Serra Dourada - Goiânia,Goiás,São Paulo,0,0
+8,23/8/2007,20:30,Maracanã - Rio De Janeiro,Flamengo,Juventude,4,0
+21,25/8/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,1,0
+21,25/8/2007,18:10,Pacaembu - São Paulo,Corinthians,Cruzeiro,0,3
+21,25/8/2007,18:10,Maracanã - Rio de Janeiro,Fluminense,Grêmio,1,1
+21,26/8/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Botafogo,1,2
+21,26/8/2007,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Juventude,3,1
+21,26/8/2007,16:00,Morumbi - São Paulo,São Paulo,Náutico-PE,5,0
+21,26/8/2007,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,1,2
+21,26/8/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Goiás,3,1
+21,26/8/2007,18:10,Machadão - Natal,América-RN,Santos,1,4
+21,26/8/2007,18:10,Ilha do Retiro - Recife,Sport,Vasco,0,0
+22,29/8/2007,19:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Cruzeiro,2,2
+22,29/8/2007,19:30,Alfredo Jaconi - Caxias do Sul,Juventude,Goiás,2,0
+22,29/8/2007,20:30,Orlando Scarpelli - Florianópolis,Figueirense,América-RN,3,1
+22,29/8/2007,20:30,Maracanã - Rio de Janeiro,Botafogo,Flamengo,1,1
+22,29/8/2007,21:30,Parque Antarctica - São Paulo,Palmeiras,São Paulo,0,1
+22,29/8/2007,21:45,Mineirão - Belo Horizonte,Atlético-MG,Corinthians,5,2
+22,29/8/2007,21:45,Beira-Rio - Porto Alegre,Internacional,Fluminense,1,4
+22,29/8/2007,21:45,Ilha do Retiro - Recife,Sport,Grêmio,2,0
+22,30/8/2007,20:30,Vila Belmiro - Santos,Santos,Atlético-PR,3,1
+22,30/8/2007,20:30,São Januário - Rio De Janeiro,Vasco,Náutico-PE,4,1
+23,01/9/2007,18:10,Machadão - Natal,América-RN,Juventude,0,3
+23,01/9/2007,18:10,Morumbi - São Paulo,São Paulo,Paraná Clube,6,0
+23,01/9/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Sport,1,1
+23,02/9/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,1,0
+23,02/9/2007,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,3,0
+23,02/9/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,5,0
+23,02/9/2007,16:00,Pacaembu - São Paulo,Corinthians,Santos,2,0
+23,02/9/2007,18:10,Serra Dourada - Goiânia,Goiás,Figueirense,2,1
+23,02/9/2007,18:10,Aflitos - Recife,Náutico-PE,Internacional,1,1
+23,02/9/2007,18:10,Maracanã - Rio de Janeiro,Fluminense,Vasco,1,1
+24,05/9/2007,19:30,Pacaembu - São Paulo,Corinthians,América-RN,1,0
+24,05/9/2007,19:30,Serra Dourada - Goiânia,Goiás,Atlético-PR,2,3
+24,05/9/2007,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Cruzeiro,1,0
+24,05/9/2007,20:30,Maracanã - Rio De Janeiro,Flamengo,Figueirense,4,1
+24,05/9/2007,21:45,Vila Belmiro - Santos,Santos,Internacional,2,1
+24,05/9/2007,21:45,Mineirão - Belo Horizonte,Atlético-MG,São Paulo,0,0
+24,05/9/2007,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,3,1
+24,06/9/2007,20:30,Ilha do Retiro - Recife,Sport,Fluminense,0,2
+24,06/9/2007,20:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Náutico-PE,2,4
+24,06/9/2007,20:30,Maracanã - Rio de Janeiro,Botafogo,Palmeiras,1,1
+25,08/9/2007,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-MG,2,1
+25,08/9/2007,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,3,0
+25,08/9/2007,16:00,São Januário - Rio de Janeiro,Vasco,São Paulo,0,2
+25,08/9/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,2,0
+25,08/9/2007,18:10,Vila Belmiro - Santos,Santos,Juventude,1,0
+25,09/9/2007,19:00,Maracanã - Rio de Janeiro,Fluminense,Atlético-PR,2,0
+25,09/9/2007,19:00,Aflitos - Recife,Náutico-PE,Botafogo,4,1
+25,09/9/2007,19:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Corinthians,1,0
+25,09/9/2007,19:00,Parque Antarctica - São Paulo,Palmeiras,Goiás,2,0
+25,09/9/2007,19:00,Machadão - Natal,América-RN,Sport,1,1
+16,12/9/2007,20:30,Maracanã - Rio De Janeiro,Flamengo,Cruzeiro,3,1
+26,15/9/2007,18:10,Maracanã - Rio de Janeiro,Fluminense,América-RN,2,0
+26,15/9/2007,18:10,Serra Dourada - Goiânia,Goiás,Náutico-PE,0,3
+26,15/9/2007,18:10,Morumbi - São Paulo,São Paulo,Santos,2,1
+26,16/9/2007,16:00,Pacaembu - São Paulo,Corinthians,Botafogo,0,1
+26,16/9/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,3,4
+26,16/9/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,2,1
+26,16/9/2007,16:00,Ilha do Retiro - Recife,Sport,Paraná Clube,3,1
+26,16/9/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,1,0
+26,16/9/2007,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,4,1
+26,16/9/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Vasco,1,1
+27,22/9/2007,18:10,Serra Dourada - Goiânia,Goiás,América-RN,1,1
+27,22/9/2007,18:10,Morumbi - São Paulo,São Paulo,Figueirense,2,0
+27,22/9/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Santos,1,0
+27,23/9/2007,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,1,0
+27,23/9/2007,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Flamengo,2,2
+27,23/9/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Internacional,2,2
+27,23/9/2007,16:00,Aflitos - Recife,Náutico-PE,Sport,2,0
+27,23/9/2007,18:10,São Januário - Rio de Janeiro,Vasco,Cruzeiro,0,2
+27,23/9/2007,18:10,Maracanã - Rio de Janeiro,Botafogo,Fluminense,0,2
+27,23/9/2007,18:10,Arena da Baixada - Curitiba,Atlético-PR,Paraná Clube,2,1
+28,29/9/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Atlético-MG,1,0
+28,29/9/2007,18:10,Aflitos - Recife,Náutico-PE,Atlético-PR,5,0
+28,29/9/2007,18:10,Pacaembu - São Paulo,Corinthians,Sport,1,2
+28,30/9/2007,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Grêmio,1,2
+28,30/9/2007,16:00,Beira-Rio - Porto Alegre,Internacional,São Paulo,1,2
+28,30/9/2007,16:00,Vila Belmiro - Santos,Santos,Vasco,1,0
+28,30/9/2007,16:00,Maracanã - Rio de Janeiro,Botafogo,Goiás,0,3
+28,30/9/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,1,2
+28,30/9/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Fluminense,3,1
+28,30/9/2007,18:10,Machadão - Natal,América-RN,Palmeiras,0,0
+29,03/10/2007,19:30,Ilha do Retiro - Recife,Sport,Goiás,4,0
+29,03/10/2007,19:30,Parque Antarctica - São Paulo,Palmeiras,Náutico-PE,2,1
+29,03/10/2007,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-MG,2,2
+29,03/10/2007,20:30,São Januário - Rio de Janeiro,Vasco,Juventude,0,1
+29,03/10/2007,21:45,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,2,0
+29,03/10/2007,21:45,Maracanã - Rio de Janeiro,Fluminense,Corinthians,1,1
+29,03/10/2007,21:45,Mineirão - Belo Horizonte,Cruzeiro,Santos,0,1
+29,04/10/2007,20:30,Maracanã - Rio de Janeiro,Flamengo,São Paulo,1,0
+29,04/10/2007,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,0,0
+29,04/10/2007,20:30,Machadão - Natal,América-RN,Paraná Clube,3,2
+30,06/10/2007,18:10,Parque Antarctica - São Paulo,Palmeiras,Grêmio,2,0
+30,06/10/2007,18:10,Aflitos - Recife,Náutico-PE,Juventude,4,1
+30,06/10/2007,18:10,Engenhão - Rio de Janeiro,Botafogo,Santos,1,2
+30,07/10/2007,16:00,Beira-Rio - Porto Alegre,Internacional,América-RN,2,0
+30,07/10/2007,16:00,Morumbi - São Paulo,São Paulo,Corinthians,0,1
+30,07/10/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Sport,3,1
+30,07/10/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,Vasco,1,0
+30,07/10/2007,18:10,Serra Dourada - Goiânia,Goiás,Cruzeiro,0,0
+30,07/10/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Fluminense,0,2
+30,07/10/2007,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Paraná Clube,4,0
+31,12/10/2007,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Atlético-PR,0,0
+31,12/10/2007,20:30,Ilha do Retiro - Recife,Sport,Figueirense,0,0
+31,12/10/2007,20:30,Mineirão - Belo Horizonte,Cruzeiro,Náutico-PE,2,2
+31,13/10/2007,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Flamengo,0,1
+31,13/10/2007,16:00,Pacaembu - São Paulo,Corinthians,Internacional,1,1
+31,13/10/2007,16:00,Maracanã - Rio De Janeiro,Fluminense,São Paulo,1,1
+31,13/10/2007,18:10,Machadão - Natal,América-RN,Atlético-MG,0,1
+31,13/10/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,2,1
+31,13/10/2007,18:10,Vila Belmiro - Santos,Santos,Palmeiras,1,1
+31,14/10/2007,16:00,Maracanã - Rio De Janeiro,Vasco,Botafogo,2,1
+7,18/10/2007,21:45,Maracanã - Rio de Janeiro,Vasco,Flamengo,1,2
+32,20/10/2007,18:10,Serra Dourada - Goiânia,Goiás,Fluminense,5,3
+32,20/10/2007,18:10,Parque Antarctica - São Paulo,Palmeiras,Paraná Clube,3,0
+32,20/10/2007,18:10,Engenhão - Rio de Janeiro,Botafogo,Sport,3,1
+32,21/10/2007,16:00,Aflitos - Recife,Náutico-PE,Corinthians,1,0
+32,21/10/2007,16:00,Morumbi - São Paulo,São Paulo,Cruzeiro,1,0
+32,21/10/2007,16:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,1,0
+32,21/10/2007,17:00,Arena da Baixada - Curitiba,Atlético-PR,América-RN,2,0
+32,21/10/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Grêmio,2,0
+32,21/10/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Juventude,3,0
+32,21/10/2007,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Santos,1,0
+33,27/10/2007,18:10,Maracanã - Rio De Janeiro,Fluminense,Atlético-MG,1,1
+33,27/10/2007,18:10,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,1,1
+33,27/10/2007,18:10,Vila Belmiro - Santos,Santos,Goiás,3,0
+33,28/10/2007,16:00,Machadão - Natal,América-RN,Flamengo,0,1
+33,28/10/2007,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Náutico-PE,4,3
+33,28/10/2007,16:00,Ilha do Retiro - Recife,Sport,São Paulo,1,2
+33,28/10/2007,17:00,Pacaembu - São Paulo,Corinthians,Figueirense,2,1
+33,28/10/2007,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Botafogo,1,1
+33,28/10/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Internacional,1,0
+33,28/10/2007,18:10,São Januário - Rio De Janeiro,Vasco,Palmeiras,2,2
+34,31/10/2007,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,0,2
+34,31/10/2007,19:30,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,2,0
+34,31/10/2007,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paraná Clube,0,0
+34,31/10/2007,21:45,Morumbi - São Paulo,São Paulo,América-RN,3,0
+34,31/10/2007,21:45,Maracanã - Rio de Janeiro,Flamengo,Corinthians,2,1
+34,31/10/2007,21:45,Aflitos - Recife,Náutico-PE,Santos,1,2
+34,31/10/2007,21:45,Serra Dourada - Goiânia,Goiás,Vasco,2,3
+34,01/11/2007,20:30,Engenhão - Rio de Janeiro,Botafogo,Cruzeiro,4,1
+34,01/11/2007,20:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,0,1
+34,01/11/2007,20:30,Beira-Rio - Porto Alegre,Internacional,Sport,0,0
+35,03/11/2007,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,1,2
+35,03/11/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Goiás,1,0
+35,03/11/2007,18:10,Maracanã - Rio de Janeiro,Fluminense,Náutico-PE,2,1
+35,04/11/2007,16:00,Vila Belmiro - Santos,Santos,Atlético-MG,2,2
+35,04/11/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,3,1
+35,04/11/2007,17:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,2
+35,04/11/2007,18:10,Machadão - Natal,América-RN,Botafogo,1,1
+35,04/11/2007,18:10,São Januário - Rio de Janeiro,Vasco,Internacional,1,2
+35,04/11/2007,18:10,Ilha do Retiro - Recife,Sport,Palmeiras,3,1
+35,07/11/2007,21:45,Alfredo Jaconi - Caxias do Sul,Juventude,São Paulo,2,0
+36,10/11/2007,18:10,Aflitos - Recife,Náutico-PE,América-RN,4,0
+36,10/11/2007,18:10,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,1,0
+36,10/11/2007,18:10,Maracanã - Rio de Janeiro,Botafogo,Paraná Clube,3,2
+36,11/11/2007,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,1,1
+36,11/11/2007,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,3,3
+36,11/11/2007,17:00,Arena da Baixada - Curitiba,Atlético-PR,Sport,0,0
+36,11/11/2007,18:10,Morumbi - São Paulo,São Paulo,Grêmio,1,0
+36,11/11/2007,18:10,Mineirão - Belo Horizonte,Atlético-MG,Juventude,4,1
+36,11/11/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Santos,1,0
+36,14/11/2007,21:45,Parque Antarctica - São Paulo,Palmeiras,Fluminense,1,0
+37,24/11/2007,18:10,Machadão - Natal,América-RN,Grêmio,0,3
+37,24/11/2007,18:10,Maracanã - Rio de Janeiro,Fluminense,Juventude,3,2
+37,25/11/2007,16:00,Morumbi - São Paulo,São Paulo,Botafogo,2,2
+37,25/11/2007,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,2,1
+37,25/11/2007,18:10,Maracanã - Rio de Janeiro,Flamengo,Atlético-PR,2,0
+37,25/11/2007,18:10,Ilha do Retiro - Recife,Sport,Cruzeiro,1,0
+37,25/11/2007,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Santos,2,3
+37,28/11/2007,21:45,Mineirão - Belo Horizonte,Atlético-MG,Goiás,4,1
+37,28/11/2007,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Náutico-PE,2,0
+37,28/11/2007,21:45,Pacaembu - São Paulo,Corinthians,Vasco,0,1
+38,02/12/2007,16:00,Mineirão - Belo Horizonte,Cruzeiro,América-RN,2,0
+38,02/12/2007,16:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-MG,1,3
+38,02/12/2007,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,1,1
+38,02/12/2007,16:00,Engenhão - Rio de Janeiro,Botafogo,Figueirense,1,1
+38,02/12/2007,16:00,Aflitos - Recife,Náutico-PE,Flamengo,1,0
+38,02/12/2007,16:00,Vila Belmiro - Santos,Santos,Fluminense,2,4
+38,02/12/2007,16:00,Serra Dourada - Goiânia,Goiás,Internacional,2,1
+38,02/12/2007,16:00,São Januário - Rio De Janeiro,Vasco,Paraná Clube,3,0
+38,02/12/2007,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,2,1
+38,02/12/2007,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Sport,2,1

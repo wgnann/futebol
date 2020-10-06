@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,10/5/2008,18:10,Morumbi - São Paulo,São Paulo,Grêmio,0,1
+1,10/5/2008,18:10,Aflitos - Recife,Náutico,Goiás,2,1
+1,10/5/2008,18:10,Barradão - Salvador,Vitória,Cruzeiro,0,2
+1,11/5/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Atlético-PR,0,1
+1,11/5/2008,16:00,Couto Pereira - Curitiba,Coritiba,Palmeiras,2,0
+1,11/5/2008,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,1,0
+1,11/5/2008,16:00,Engenhão - Rio de Janeiro,Botafogo,Sport,2,0
+1,11/5/2008,18:10,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,0,0
+1,11/5/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Santos,3,1
+1,11/5/2008,18:10,Canindé - São Paulo,Portuguesa,Figueirense,5,5
+2,17/5/2008,18:10,Mineirão - Belo Horizonte,Cruzeiro,Botafogo,1,0
+2,17/5/2008,18:10,São Januário - Rio de Janeiro,Vasco,Portuguesa,3,1
+2,17/5/2008,18:10,Ilha do Retiro - Recife,Sport,Vitória,0,0
+2,18/5/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,1,1
+2,18/5/2008,16:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,1,1
+2,18/5/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,0,0
+2,18/5/2008,16:00,Maracanã - Rio de Janeiro,Fluminense,Náutico,0,2
+2,18/5/2008,18:10,Parque Antarctica - São Paulo,Palmeiras,Internacional,2,1
+2,18/5/2008,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Coritiba,2,1
+2,18/5/2008,18:10,Vila Belmiro - Santos,Santos,Ipatinga-MG,4,0
+3,24/5/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Internacional,2,1
+3,24/5/2008,18:10,Barradão - Salvador,Vitória,Figueirense,4,0
+3,24/5/2008,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Náutico,2,0
+3,25/5/2008,16:00,Morumbi - São Paulo,São Paulo,Coritiba,1,1
+3,25/5/2008,16:00,Mineirão - Belo Horizonte,Cruzeiro,Santos,4,0
+3,25/5/2008,16:00,Serra Dourada - Goiânia,Goiás,Ipatinga-MG,1,1
+3,25/5/2008,16:00,Ilha do Retiro - Recife,Sport,Fluminense,2,1
+3,25/5/2008,18:10,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,1,1
+3,25/5/2008,18:10,Pacaembu - São Paulo,Portuguesa,Palmeiras,1,1
+3,25/5/2008,18:10,Engenhão - Rio de Janeiro,Botafogo,Vasco,1,1
+4,31/5/2008,18:10,São Januário - Rio de Janeiro,Vasco,Grêmio,2,1
+4,31/5/2008,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,0,0
+4,31/5/2008,18:10,Beira-Rio - Porto Alegre,Internacional,Sport,1,1
+4,01/6/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Vitória,2,0
+4,01/6/2008,16:00,Aflitos - Recife,Náutico,Botafogo,3,0
+4,01/6/2008,16:00,Couto Pereira - Curitiba,Coritiba,Cruzeiro,1,1
+4,01/6/2008,16:00,Vila Belmiro - Santos,Santos,São Paulo,0,0
+4,01/6/2008,18:10,Parque Antarctica - São Paulo,Palmeiras,Atlético-PR,1,0
+4,01/6/2008,18:10,Mineirão - Belo Horizonte,Atlético-MG,Portuguesa,2,0
+4,01/6/2008,18:10,Maracanã - Rio de Janeiro,Fluminense,Flamengo,0,1
+5,07/6/2008,18:20,Maracanã - Rio de Janeiro,Flamengo,Figueirense,5,0
+5,07/6/2008,18:20,Ipatingão - Ipatinga,Ipatinga-MG,Náutico,0,0
+5,07/6/2008,18:20,Morumbi - São Paulo,São Paulo,Atlético-MG,5,1
+5,08/6/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,2,1
+5,08/6/2008,16:00,Canindé - São Paulo,Portuguesa,Internacional,3,1
+5,08/6/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Goiás,5,0
+5,08/6/2008,16:00,Ilha do Retiro - Recife,Sport,Palmeiras,2,0
+5,08/6/2008,18:10,Engenhão - Rio de Janeiro,Botafogo,Coritiba,2,1
+5,08/6/2008,18:10,Barradão - Salvador,Vitória,Santos,1,0
+5,08/6/2008,18:10,Mineirão - Belo Horizonte,Cruzeiro,Vasco,1,0
+6,12/6/2008,20:30,Maracanã - Rio de Janeiro,Fluminense,Santos,1,1
+6,12/6/2008,20:30,Mineirão - Belo Horizonte,Atlético-MG,Ipatinga-MG,4,2
+6,12/6/2008,20:30,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,5,2
+6,14/6/2008,16:10,Beira-Rio - Porto Alegre,Internacional,Botafogo,2,1
+6,14/6/2008,16:10,Maracanã - Rio de Janeiro,Flamengo,São Paulo,2,4
+6,14/6/2008,16:10,Orlando Scarpelli - Florianópolis,Figueirense,Sport,3,1
+6,14/6/2008,18:20,Serra Dourada - Goiânia,Goiás,Grêmio,0,3
+6,14/6/2008,18:20,Canindé - São Paulo,Portuguesa,Atlético-PR,1,0
+6,14/6/2008,18:20,Couto Pereira - Curitiba,Coritiba,Vitória,0,0
+6,14/6/2008,18:20,Arruda - Recife,Náutico,Vasco,1,1
+7,21/6/2008,18:20,Engenhão - Rio de Janeiro,Botafogo,Portuguesa,0,1
+7,21/6/2008,18:20,Couto Pereira - Curitiba,Coritiba,Fluminense,2,1
+7,21/6/2008,18:20,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,3,0
+7,21/6/2008,18:20,Morumbi - São Paulo,São Paulo,Sport,1,0
+7,22/6/2008,16:00,Barradão - Salvador,Vitória,Internacional,2,1
+7,22/6/2008,16:00,São Januário - Rio de Janeiro,Vasco,Palmeiras,0,2
+7,22/6/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Flamengo,1,3
+7,22/6/2008,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-PR,3,0
+7,22/6/2008,18:10,Vila Belmiro - Santos,Santos,Goiás,0,4
+7,22/6/2008,18:10,Arruda - Recife,Náutico,Atlético-MG,2,1
+8,28/6/2008,18:20,Barradão - Salvador,Vitória,Goiás,3,0
+8,28/6/2008,18:20,Canindé - São Paulo,Portuguesa,Santos,0,0
+8,28/6/2008,18:20,São Januário - Rio de Janeiro,Vasco,Ipatinga-MG,4,2
+8,29/6/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,1,1
+8,29/6/2008,16:00,Ilha do Retiro - Recife,Sport,Flamengo,1,2
+8,29/6/2008,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-MG,1,1
+8,29/6/2008,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,1,1
+8,29/6/2008,18:10,Maracanã - Rio de Janeiro,Fluminense,Botafogo,0,0
+8,29/6/2008,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,1,1
+8,29/6/2008,18:10,Parque Antarctica - São Paulo,Palmeiras,Náutico,2,0
+9,05/7/2008,18:20,Arena da Baixada - Curitiba,Atlético-PR,Santos,1,0
+9,05/7/2008,18:20,Ilha do Retiro - Recife,Sport,Cruzeiro,1,0
+9,05/7/2008,18:20,Maracanã - Rio de Janeiro,Flamengo,Náutico,3,0
+9,06/7/2008,16:00,Beira-Rio - Porto Alegre,Internacional,Coritiba,3,0
+9,06/7/2008,16:00,Canindé - São Paulo,Portuguesa,Vitória,1,2
+9,06/7/2008,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,2,1
+9,06/7/2008,16:00,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,1
+9,06/7/2008,18:10,Engenhão - Rio de Janeiro,Botafogo,Grêmio,2,0
+9,06/7/2008,18:10,Serra Dourada - Goiânia,Goiás,Fluminense,1,0
+9,06/7/2008,18:10,Morumbi - São Paulo,São Paulo,Ipatinga-MG,1,1
+10,09/7/2008,19:30,Beira-Rio - Porto Alegre,Internacional,Goiás,1,0
+10,09/7/2008,19:30,Couto Pereira - Curitiba,Coritiba,Portuguesa,4,0
+10,09/7/2008,20:30,Maracanã - Rio de Janeiro,Fluminense,Atlético-PR,3,0
+10,09/7/2008,20:30,Barradão - Salvador,Vitória,Botafogo,5,2
+10,09/7/2008,21:45,Vila Belmiro - Santos,Santos,Grêmio,1,1
+10,09/7/2008,21:45,Aflitos - Recife,Náutico,São Paulo,2,1
+10,09/7/2008,21:45,Mineirão - Belo Horizonte,Atlético-MG,Flamengo,1,1
+10,10/7/2008,20:30,São Januário - Rio de Janeiro,Vasco,Sport,4,0
+10,10/7/2008,20:30,Ipatingão - Ipatinga,Ipatinga-MG,Cruzeiro,2,2
+10,10/7/2008,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,1,1
+11,12/7/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Vitória,2,1
+11,12/7/2008,18:20,Serra Dourada - Goiânia,Goiás,Coritiba,2,2
+11,13/7/2008,16:00,Vila Belmiro - Santos,Santos,Botafogo,2,2
+11,13/7/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Internacional,1,1
+11,13/7/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Figueirense,0,1
+11,13/7/2008,16:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,2,1
+11,13/7/2008,16:00,Morumbi - São Paulo,São Paulo,Palmeiras,2,1
+11,13/7/2008,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Portuguesa,2,1
+11,13/7/2008,18:10,Aflitos - Recife,Náutico,Sport,0,2
+11,13/7/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Vasco,3,1
+12,16/7/2008,19:30,Engenhão - Rio de Janeiro,Botafogo,Ipatinga-MG,4,0
+12,16/7/2008,19:30,Ilha do Retiro - Recife,Sport,Grêmio,2,2
+12,16/7/2008,20:30,Canindé - São Paulo,Portuguesa,Náutico,3,2
+12,16/7/2008,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Santos,3,0
+12,16/7/2008,21:45,Barradão - Salvador,Vitória,São Paulo,1,3
+12,16/7/2008,21:45,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,1,0
+12,16/7/2008,21:45,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,1
+12,17/7/2008,20:30,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,1,0
+12,17/7/2008,20:30,Couto Pereira - Curitiba,Coritiba,Flamengo,1,0
+12,17/7/2008,20:30,São Januário - Rio de Janeiro,Vasco,Goiás,1,1
+13,19/7/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Figueirense,1,0
+13,19/7/2008,18:20,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,1,0
+13,19/7/2008,18:20,Ipatingão - Ipatinga,Ipatinga-MG,Portuguesa,4,1
+13,20/7/2008,16:00,Serra Dourada - Goiânia,Goiás,Palmeiras,3,2
+13,20/7/2008,16:00,Vila Belmiro - Santos,Santos,Sport,1,0
+13,20/7/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Vasco,3,1
+13,20/7/2008,16:00,Aflitos - Recife,Náutico,Internacional,1,1
+13,20/7/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Vitória,0,1
+13,20/7/2008,18:10,Mineirão - Belo Horizonte,Atlético-MG,Coritiba,3,2
+13,20/7/2008,18:10,Morumbi - São Paulo,São Paulo,Botafogo,2,1
+14,23/7/2008,19:30,Couto Pereira - Curitiba,Coritiba,Ipatinga-MG,1,0
+14,23/7/2008,19:30,Mineirão - Belo Horizonte,Cruzeiro,Goiás,0,1
+14,23/7/2008,20:30,Barradão - Salvador,Vitória,Náutico,2,0
+14,23/7/2008,21:45,Engenhão - Rio de Janeiro,Botafogo,Atlético-MG,4,0
+14,23/7/2008,21:45,Beira-Rio - Porto Alegre,Internacional,São Paulo,2,0
+14,23/7/2008,21:45,Canindé - São Paulo,Portuguesa,Flamengo,2,2
+14,23/7/2008,21:45,Maracanã - Rio de Janeiro,Vasco,Fluminense,3,3
+14,24/7/2008,20:30,Ilha do Retiro - Recife,Sport,Atlético-PR,1,0
+14,24/7/2008,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,1,7
+14,24/7/2008,20:30,Parque Antarctica - São Paulo,Palmeiras,Santos,4,2
+15,26/7/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Cruzeiro,1,3
+15,26/7/2008,18:20,Aflitos - Recife,Náutico,Coritiba,1,2
+15,26/7/2008,18:20,Ipatingão - Ipatinga,Ipatinga-MG,Internacional,1,0
+15,27/7/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,1,1
+15,27/7/2008,16:00,Serra Dourada - Goiânia,Goiás,Sport,1,2
+15,27/7/2008,16:00,Vila Belmiro - Santos,Santos,Vasco,5,2
+15,27/7/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,0,0
+15,27/7/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Botafogo,0,0
+15,27/7/2008,18:10,Mineirão - Belo Horizonte,Atlético-MG,Vitória,2,1
+15,27/7/2008,18:10,Morumbi - São Paulo,São Paulo,Portuguesa,3,1
+16,30/7/2008,19:30,Barradão - Salvador,Vitória,Atlético-PR,2,1
+16,30/7/2008,19:30,Mineirão - Belo Horizonte,Cruzeiro,Náutico,4,2
+16,30/7/2008,20:30,Engenhão - Rio de Janeiro,Botafogo,Goiás,2,0
+16,30/7/2008,20:30,Canindé - São Paulo,Portuguesa,Fluminense,3,1
+16,30/7/2008,21:45,Beira-Rio - Porto Alegre,Internacional,Santos,0,1
+16,30/7/2008,21:45,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,1,1
+16,30/7/2008,21:45,Parque Antarctica - São Paulo,Palmeiras,Flamengo,1,0
+16,31/7/2008,20:30,Couto Pereira - Curitiba,Coritiba,Grêmio,0,1
+16,31/7/2008,20:30,Ilha do Retiro - Recife,Sport,Ipatinga-MG,3,1
+16,31/7/2008,20:30,São Januário - Rio de Janeiro,Vasco,Atlético-MG,6,1
+17,02/8/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Internacional,1,2
+17,02/8/2008,18:20,Serra Dourada - Goiânia,Goiás,Portuguesa,4,0
+17,02/8/2008,18:20,Aflitos - Recife,Náutico,Figueirense,1,2
+17,03/8/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Vitória,2,0
+17,03/8/2008,16:00,Maracanã - Rio de Janeiro,Flamengo,Cruzeiro,1,2
+17,03/8/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Palmeiras,1,2
+17,03/8/2008,16:00,Morumbi - São Paulo,São Paulo,Vasco,4,0
+17,03/8/2008,18:10,Vila Belmiro - Santos,Santos,Coritiba,1,3
+17,03/8/2008,18:10,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,0,3
+17,03/8/2008,18:10,Mineirão - Belo Horizonte,Atlético-MG,Sport,2,1
+18,06/8/2008,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Ipatinga-MG,1,0
+18,06/8/2008,19:30,São Januário - Rio de Janeiro,Vasco,Coritiba,0,2
+18,06/8/2008,20:30,Arena da Baixada - Curitiba,Atlético-PR,Náutico,2,0
+18,06/8/2008,20:30,Ilha do Retiro - Recife,Sport,Portuguesa,2,0
+18,06/8/2008,21:45,Maracanã - Rio de Janeiro,Fluminense,São Paulo,3,1
+18,06/8/2008,21:45,Serra Dourada - Goiânia,Goiás,Flamengo,2,1
+18,06/8/2008,21:45,Vila Belmiro - Santos,Santos,Atlético-MG,2,3
+18,07/8/2008,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo,1,2
+18,07/8/2008,20:30,Mineirão - Belo Horizonte,Cruzeiro,Internacional,2,0
+18,07/8/2008,20:30,Parque Antarctica - São Paulo,Palmeiras,Vitória,3,0
+19,09/8/2008,18:20,Maracanã - Rio de Janeiro,Flamengo,Atlético-PR,1,0
+19,09/8/2008,18:20,Mineirão - Belo Horizonte,Atlético-MG,Grêmio,0,4
+19,09/8/2008,18:20,Morumbi - São Paulo,São Paulo,Goiás,2,1
+19,10/8/2008,16:00,Engenhão - Rio de Janeiro,Botafogo,Palmeiras,1,0
+19,10/8/2008,16:00,Barradão - Salvador,Vitória,Vasco,5,0
+19,10/8/2008,16:00,Canindé - São Paulo,Portuguesa,Cruzeiro,2,1
+19,10/8/2008,16:00,Couto Pereira - Curitiba,Coritiba,Sport,3,0
+19,10/8/2008,18:10,Beira-Rio - Porto Alegre,Internacional,Figueirense,1,1
+19,10/8/2008,18:10,Aflitos - Recife,Náutico,Santos,1,0
+19,10/8/2008,18:10,Ipatingão - Ipatinga,Ipatinga-MG,Fluminense,2,1
+20,16/8/2008,18:20,Arena da Baixada - Curitiba,Atlético-PR,Ipatinga-MG,5,0
+20,16/8/2008,18:20,Orlando Scarpelli - Florianópolis,Figueirense,Portuguesa,2,1
+20,16/8/2008,18:20,Mineirão - Belo Horizonte,Cruzeiro,Vitória,2,1
+20,17/8/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,1,0
+20,17/8/2008,16:00,Serra Dourada - Goiânia,Goiás,Náutico,3,0
+20,17/8/2008,16:00,Vila Belmiro - Santos,Santos,Flamengo,2,2
+20,17/8/2008,16:00,São Januário - Rio de Janeiro,Vasco,Internacional,4,0
+20,17/8/2008,18:10,Maracanã - Rio de Janeiro,Fluminense,Atlético-MG,1,0
+20,17/8/2008,18:10,Ilha do Retiro - Recife,Sport,Botafogo,0,1
+20,17/8/2008,18:10,Parque Antarctica - São Paulo,Palmeiras,Coritiba,1,0
+21,20/8/2008,19:30,Barradão - Salvador,Vitória,Sport,0,0
+21,20/8/2008,19:30,Couto Pereira - Curitiba,Coritiba,Figueirense,3,0
+21,20/8/2008,20:30,Engenhão - Rio de Janeiro,Botafogo,Cruzeiro,1,0
+21,20/8/2008,20:30,Morumbi - São Paulo,São Paulo,Atlético-PR,3,1
+21,20/8/2008,22:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,4,1
+21,20/8/2008,22:00,Aflitos - Recife,Náutico,Fluminense,1,3
+21,20/8/2008,22:00,Ipatingão - Ipatinga,Ipatinga-MG,Santos,1,1
+21,21/8/2008,20:30,Canindé - São Paulo,Portuguesa,Vasco,0,1
+21,21/8/2008,20:30,Maracanã - Rio de Janeiro,Flamengo,Grêmio,2,1
+21,21/8/2008,20:30,Mineirão - Belo Horizonte,Atlético-MG,Goiás,1,1
+22,23/8/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Sport,1,1
+22,23/8/2008,18:20,Orlando Scarpelli - Florianópolis,Figueirense,Vitória,1,2
+22,24/8/2008,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,1,1
+22,24/8/2008,16:00,Vila Belmiro - Santos,Santos,Cruzeiro,2,0
+22,24/8/2008,16:00,Couto Pereira - Curitiba,Coritiba,São Paulo,2,2
+22,24/8/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Goiás,1,0
+22,24/8/2008,16:00,Pacaembu - São Paulo,Palmeiras,Portuguesa,4,2
+22,24/8/2008,18:10,Aflitos - Recife,Náutico,Grêmio,1,1
+22,24/8/2008,18:10,São Januário - Rio de Janeiro,Vasco,Botafogo,1,1
+22,24/8/2008,18:10,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,4,0
+23,30/8/2008,18:20,Engenhão - Rio de Janeiro,Botafogo,Náutico,1,1
+23,30/8/2008,18:20,Barradão - Salvador,Vitória,Ipatinga-MG,0,0
+23,30/8/2008,18:20,Serra Dourada - Goiânia,Goiás,Figueirense,2,0
+23,31/8/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,2,1
+23,31/8/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,1,2
+23,31/8/2008,16:00,Ilha do Retiro - Recife,Sport,Internacional,1,0
+23,31/8/2008,16:00,Morumbi - São Paulo,São Paulo,Santos,0,0
+23,31/8/2008,18:10,Canindé - São Paulo,Portuguesa,Atlético-MG,1,1
+23,31/8/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Fluminense,2,2
+23,31/8/2008,18:10,Mineirão - Belo Horizonte,Cruzeiro,Coritiba,1,1
+24,03/9/2008,19:30,Serra Dourada - Goiânia,Goiás,Atlético-PR,4,0
+24,03/9/2008,22:00,Vila Belmiro - Santos,Santos,Vitória,2,0
+24,03/9/2008,22:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,2,3
+24,03/9/2008,22:00,Mineirão - Belo Horizonte,Atlético-MG,São Paulo,1,1
+24,04/9/2008,20:30,São Januário - Rio de Janeiro,Vasco,Cruzeiro,1,3
+24,04/9/2008,20:30,Parque Antarctica - São Paulo,Palmeiras,Sport,0,3
+24,06/9/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Grêmio,0,0
+24,06/9/2008,18:20,Beira-Rio - Porto Alegre,Internacional,Portuguesa,1,0
+24,06/9/2008,18:20,Couto Pereira - Curitiba,Coritiba,Botafogo,0,1
+24,06/9/2008,18:20,Aflitos - Recife,Náutico,Ipatinga-MG,2,0
+25,13/9/2008,18:20,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,1,2
+25,13/9/2008,18:20,Arena da Baixada - Curitiba,Atlético-PR,Portuguesa,2,0
+25,13/9/2008,18:20,Ipatingão - Ipatinga,Ipatinga-MG,Atlético-MG,3,2
+25,14/9/2008,16:00,Ilha do Retiro - Recife,Sport,Figueirense,5,0
+25,14/9/2008,16:00,São Januário - Rio de Janeiro,Vasco,Náutico,1,3
+25,14/9/2008,16:00,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,0,1
+25,14/9/2008,16:00,Morumbi - São Paulo,São Paulo,Flamengo,2,0
+25,14/9/2008,18:10,Engenhão - Rio de Janeiro,Botafogo,Internacional,1,2
+25,14/9/2008,18:10,Barradão - Salvador,Vitória,Coritiba,1,0
+25,14/9/2008,18:10,Vila Belmiro - Santos,Santos,Fluminense,2,1
+26,20/9/2008,18:20,Maracanã - Rio de Janeiro,Fluminense,Coritiba,2,3
+26,20/9/2008,18:20,Serra Dourada - Goiânia,Goiás,Santos,4,1
+26,20/9/2008,18:20,Mineirão - Belo Horizonte,Atlético-MG,Náutico,2,1
+26,21/9/2008,16:00,Canindé - São Paulo,Portuguesa,Botafogo,3,1
+26,21/9/2008,16:00,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,0,0
+26,21/9/2008,16:00,Ilha do Retiro - Recife,Sport,São Paulo,0,0
+26,21/9/2008,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,3,4
+26,21/9/2008,18:10,Beira-Rio - Porto Alegre,Internacional,Vitória,1,0
+26,21/9/2008,18:10,Maracanã - Rio de Janeiro,Flamengo,Ipatinga-MG,1,0
+26,21/9/2008,18:10,Parque Antarctica - São Paulo,Palmeiras,Vasco,2,0
+27,27/9/2008,18:20,Serra Dourada - Goiânia,Goiás,Vitória,3,0
+27,27/9/2008,18:20,Maracanã - Rio de Janeiro,Flamengo,Sport,2,1
+27,27/9/2008,18:20,Mineirão - Belo Horizonte,Atlético-MG,Figueirense,0,0
+27,28/9/2008,16:00,Couto Pereira - Curitiba,Coritiba,Atlético-PR,1,1
+27,28/9/2008,16:00,Aflitos - Recife,Náutico,Palmeiras,0,0
+27,28/9/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Vasco,3,1
+27,28/9/2008,16:00,Morumbi - São Paulo,São Paulo,Cruzeiro,2,0
+27,28/9/2008,18:10,Engenhão - Rio de Janeiro,Botafogo,Fluminense,1,1
+27,28/9/2008,18:10,Beira-Rio - Porto Alegre,Internacional,Grêmio,4,1
+27,28/9/2008,18:10,Vila Belmiro - Santos,Santos,Portuguesa,1,1
+28,01/10/2008,20:30,Maracanã - Rio de Janeiro,Fluminense,Goiás,1,1
+28,02/10/2008,20:30,Barradão - Salvador,Vitória,Portuguesa,3,1
+28,02/10/2008,20:30,Mineirão - Belo Horizonte,Cruzeiro,Sport,1,0
+28,04/10/2008,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,2,1
+28,04/10/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,São Paulo,1,3
+28,04/10/2008,16:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-MG,3,1
+28,04/10/2008,18:20,Vila Belmiro - Santos,Santos,Atlético-PR,4,0
+28,04/10/2008,18:20,Couto Pereira - Curitiba,Coritiba,Internacional,4,2
+28,04/10/2008,18:20,Aflitos - Recife,Náutico,Flamengo,0,2
+28,04/10/2008,18:20,São Januário - Rio de Janeiro,Vasco,Figueirense,2,4
+29,08/10/2008,22:00,Olímpico Monumental - Porto Alegre,Grêmio,Santos,2,0
+29,08/10/2008,22:00,Ilha do Retiro - Recife,Sport,Vasco,2,2
+29,08/10/2008,22:00,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,0,0
+29,09/10/2008,20:30,Engenhão - Rio de Janeiro,Botafogo,Vitória,3,1
+29,09/10/2008,20:30,Mineirão - Belo Horizonte,Cruzeiro,Ipatinga-MG,1,0
+29,09/10/2008,20:30,Morumbi - São Paulo,São Paulo,Náutico,1,0
+29,11/10/2008,18:20,Serra Dourada - Goiânia,Goiás,Internacional,1,1
+29,11/10/2008,18:20,Canindé - São Paulo,Portuguesa,Coritiba,0,0
+29,11/10/2008,18:20,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,1,3
+29,11/10/2008,18:20,Maracanã - Rio de Janeiro,Flamengo,Atlético-MG,0,3
+30,18/10/2008,18:20,Engenhão - Rio de Janeiro,Botafogo,Santos,0,1
+30,18/10/2008,18:20,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,2,1
+30,18/10/2008,18:20,Orlando Scarpelli - Florianópolis,Figueirense,Ipatinga-MG,1,1
+30,19/10/2008,16:00,Barradão - Salvador,Vitória,Fluminense,2,2
+30,19/10/2008,16:00,Couto Pereira - Curitiba,Coritiba,Goiás,1,1
+30,19/10/2008,16:00,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,0,2
+30,19/10/2008,16:00,Parque Antarctica - São Paulo,Palmeiras,São Paulo,2,2
+30,19/10/2008,18:10,Canindé - São Paulo,Portuguesa,Grêmio,2,0
+30,19/10/2008,18:10,Ilha do Retiro - Recife,Sport,Náutico,2,2
+30,19/10/2008,18:10,Maracanã - Rio de Janeiro,Vasco,Flamengo,0,1
+31,22/10/2008,22:00,Serra Dourada - Goiânia,Goiás,Vasco,2,4
+31,23/10/2008,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Sport,1,0
+31,23/10/2008,20:30,Maracanã - Rio de Janeiro,Flamengo,Coritiba,5,0
+31,23/10/2008,20:30,Morumbi - São Paulo,São Paulo,Vitória,2,1
+31,25/10/2008,16:00,Maracanã - Rio de Janeiro,Fluminense,Palmeiras,3,0
+31,25/10/2008,16:00,Ipatingão - Ipatinga,Ipatinga-MG,Botafogo,0,3
+31,25/10/2008,18:20,Vila Belmiro - Santos,Santos,Figueirense,3,0
+31,25/10/2008,18:20,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,1,0
+31,25/10/2008,18:20,Aflitos - Recife,Náutico,Portuguesa,1,1
+31,25/10/2008,18:20,Mineirão - Belo Horizonte,Atlético-MG,Internacional,2,2
+32,29/10/2008,19:30,Canindé - São Paulo,Portuguesa,Ipatinga-MG,2,0
+32,29/10/2008,19:30,Couto Pereira - Curitiba,Coritiba,Atlético-MG,2,1
+32,29/10/2008,20:30,Beira-Rio - Porto Alegre,Internacional,Náutico,1,1
+32,29/10/2008,20:30,Parque Antarctica - São Paulo,Palmeiras,Goiás,1,0
+32,29/10/2008,21:50,Engenhão - Rio de Janeiro,Botafogo,São Paulo,1,2
+32,29/10/2008,21:50,Barradão - Salvador,Vitória,Flamengo,0,0
+32,29/10/2008,21:50,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,3,0
+32,30/10/2008,20:30,Ilha do Retiro - Recife,Sport,Santos,1,1
+32,30/10/2008,20:30,São Januário - Rio de Janeiro,Vasco,Atlético-PR,2,2
+33,01/11/2008,18:30,Aflitos - Recife,Náutico,Vitória,1,0
+33,01/11/2008,18:30,Maracanã - Rio de Janeiro,Flamengo,Portuguesa,2,2
+33,01/11/2008,18:30,Ipatingão - Ipatinga,Ipatinga-MG,Coritiba,2,0
+33,02/11/2008,17:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,3,0
+33,02/11/2008,17:00,Vila Belmiro - Santos,Santos,Palmeiras,1,2
+33,02/11/2008,17:00,Arena da Baixada - Curitiba,Atlético-PR,Sport,1,0
+33,02/11/2008,17:00,Mineirão - Belo Horizonte,Atlético-MG,Botafogo,2,1
+33,02/11/2008,19:10,Maracanã - Rio de Janeiro,Fluminense,Vasco,0,1
+33,02/11/2008,19:10,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,1,1
+33,02/11/2008,19:10,Morumbi - São Paulo,São Paulo,Internacional,3,0
+32,05/11/2008,20:00,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,0,1
+34,08/11/2008,18:30,Canindé - São Paulo,Portuguesa,São Paulo,2,3
+34,08/11/2008,18:30,São Januário - Rio de Janeiro,Vasco,Santos,1,0
+34,08/11/2008,18:30,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,0,2
+34,09/11/2008,17:00,Couto Pereira - Curitiba,Coritiba,Náutico,0,0
+34,09/11/2008,17:00,Ilha do Retiro - Recife,Sport,Goiás,2,1
+34,09/11/2008,17:00,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,1,0
+34,09/11/2008,17:00,Parque Antarctica - São Paulo,Palmeiras,Grêmio,0,1
+34,09/11/2008,19:10,Maracanã - Rio de Janeiro,Botafogo,Flamengo,0,1
+34,09/11/2008,19:10,Beira-Rio - Porto Alegre,Internacional,Ipatinga-MG,4,0
+34,09/11/2008,19:10,Barradão - Salvador,Vitória,Atlético-MG,0,1
+35,12/11/2008,22:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,4,1
+35,15/11/2008,18:30,Maracanã - Rio de Janeiro,Fluminense,Portuguesa,3,1
+35,15/11/2008,18:30,Aflitos - Recife,Náutico,Cruzeiro,5,2
+35,15/11/2008,18:30,Ipatingão - Ipatinga,Ipatinga-MG,Sport,3,0
+35,16/11/2008,17:00,Juscelino Kubitschek - Itumbiara,Goiás,Botafogo,3,1
+35,16/11/2008,17:00,Maracanã - Rio de Janeiro,Flamengo,Palmeiras,5,2
+35,16/11/2008,17:00,Morumbi - São Paulo,São Paulo,Figueirense,3,1
+35,16/11/2008,19:10,Olímpico Monumental - Porto Alegre,Grêmio,Coritiba,2,1
+35,16/11/2008,19:10,Vila Belmiro - Santos,Santos,Internacional,1,0
+35,16/11/2008,19:10,Arena da Baixada - Curitiba,Atlético-PR,Vitória,2,1
+36,20/11/2008,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Náutico,4,3
+36,22/11/2008,18:30,Engenhão - Rio de Janeiro,Botafogo,Atlético-PR,2,2
+36,22/11/2008,18:30,Canindé - São Paulo,Portuguesa,Goiás,0,0
+36,22/11/2008,18:30,Couto Pereira - Curitiba,Coritiba,Santos,5,1
+36,23/11/2008,17:00,Barradão - Salvador,Vitória,Grêmio,4,2
+36,23/11/2008,17:00,São Januário - Rio de Janeiro,Vasco,São Paulo,1,2
+36,23/11/2008,17:00,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,3,2
+36,23/11/2008,19:10,Beira-Rio - Porto Alegre,Internacional,Fluminense,0,2
+36,23/11/2008,19:10,Ilha do Retiro - Recife,Sport,Atlético-MG,3,0
+36,23/11/2008,19:10,Parque Antarctica - São Paulo,Palmeiras,Ipatinga-MG,2,0
+37,30/11/2008,17:00,Engenhão - Rio de Janeiro,Botafogo,Figueirense,1,3
+37,30/11/2008,17:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,1,0
+37,30/11/2008,17:00,Barradão - Salvador,Vitória,Palmeiras,0,0
+37,30/11/2008,17:00,Canindé - São Paulo,Portuguesa,Sport,2,2
+37,30/11/2008,17:00,Couto Pereira - Curitiba,Coritiba,Vasco,0,2
+37,30/11/2008,17:00,Aflitos - Recife,Náutico,Atlético-PR,2,1
+37,30/11/2008,17:00,Maracanã - Rio de Janeiro,Flamengo,Goiás,3,3
+37,30/11/2008,17:00,Ipatingão - Ipatinga,Ipatinga-MG,Grêmio,1,4
+37,30/11/2008,17:00,Mineirão - Belo Horizonte,Atlético-MG,Santos,0,0
+37,30/11/2008,17:00,Morumbi - São Paulo,São Paulo,Fluminense,1,1
+38,07/12/2008,17:00,Maracanã - Rio de Janeiro,Fluminense,Ipatinga-MG,1,1
+38,07/12/2008,17:00,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-MG,2,0
+38,07/12/2008,17:00,Bezerrão - Gama,Goiás,São Paulo,0,1
+38,07/12/2008,17:00,Vila Belmiro - Santos,Santos,Náutico,0,0
+38,07/12/2008,17:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,5,3
+38,07/12/2008,17:00,Ilha do Retiro - Recife,Sport,Coritiba,4,3
+38,07/12/2008,17:00,São Januário - Rio de Janeiro,Vasco,Vitória,0,2
+38,07/12/2008,17:00,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,3,1
+38,07/12/2008,17:00,Mineirão - Belo Horizonte,Cruzeiro,Portuguesa,4,1
+38,07/12/2008,17:00,Parque Antarctica - São Paulo,Palmeiras,Botafogo,0,1
