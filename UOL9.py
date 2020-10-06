@@ -1,8 +1,6 @@
 import requests
-import sys
-from baixuol2004 import trata_horario
+from UOL4 import trata_horario
 from bs4 import BeautifulSoup
-from gera_csv import gera_csv
 
 def processa_rodada(dia, n):
     partidas = []
@@ -42,12 +40,3 @@ def parse_ano(ano):
             for dia in dias:
                 partidas += processa_rodada(dia, i)
     return partidas
-
-def main():
-    ano = int(sys.argv[1])
-    if (ano < 2009 or ano > 2011):
-        raise Exception('ano inválido: precisa ser entre 2009 e 2011')
-    partidas = parse_ano(ano)
-    gera_csv(ano, partidas)
-
-main()

@@ -1,7 +1,5 @@
 import requests
-import sys
 from bs4 import BeautifulSoup
-from gera_csv import gera_csv
 
 def trata_horario(horario):
     H = horario[0]
@@ -57,13 +55,3 @@ def parse_ano(ano):
             for rodada in rodadas:
                 partidas += processa_rodada(rodada, mes, ano)
     return partidas
-
-def main():
-    ano = int(sys.argv[1])
-    if (ano < 2004 or ano > 2008):
-        raise Exception('ano inválido: precisa ser entre 2004 e 2008')
-    partidas = parse_ano(ano)
-    gera_csv(ano, partidas)
-
-if __name__ == "__main__":
-    main()
