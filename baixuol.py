@@ -17,19 +17,20 @@ def processa_rodada(rodada, mes, ano):
         if (linha.get("id") == "bg"):
             partida['rodada'] = numero
             partida['data'] = data
+            dados = linha.find_all("td")
             # "16h" ou "21h45"
-            horario = linha.find("td", {"class": "col1"}).get_text().split("h")
+            horario = dados[0].get_text().split("h")
             H = horario[0]
             M = horario[1]
             if (horario[1] == ''):
                 M = "00"
             partida['hora'] = H+":"+M
-            partida['casa'] = linha.find("td", {"class": "col2"}).get_text()
-            partida['fora'] = linha.find("td", {"class": "col4"}).get_text()
-            estadio = linha.find("td", {"class": "col5"}).get_text()
-            local = linha.find("td", {"class": "col6"}).get_text()
+            partida['casa'] = dados[1].get_text()
+            partida['fora'] = dados[2].get_text()
+            estadio = dados[3].get_text()
+            local = dados[4].get_text()
             partida['local'] = estadio+" - "+local
-            placar = linha.find("th", {"class": "col3"}).get_text()
+            placar = linha.find("th").get_text()
             # ['2 ', ' 2']
             gols = placar.split('x')
             partida['gols_casa'] = gols[0].strip()
