@@ -33,9 +33,8 @@ def processa_rodada(rodada, mes, ano):
             estadio = dados[3].get_text()
             local = dados[4].get_text()
             partida['local'] = estadio+" - "+local
-            placar = linha.find("th").get_text()
             # ['2 ', ' 2']
-            gols = placar.split('x')
+            gols = linha.find("th").get_text().split('x')
             partida['gols_casa'] = gols[0].strip()
             partida['gols_fora'] = gols[1].strip()
             partidas.append(partida)
