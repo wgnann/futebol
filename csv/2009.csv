@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,09/05/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Coritiba,2,1
+1,09/05/2009,18:30,Ilha do Retiro - Recife,Sport,Grêmio Barueri,1,1
+1,09/05/2009,18:30,Ressacada - Florianópolis,Avaí,Atlético-MG,2,2
+1,10/05/2009,16:00,Pacaembu - São Paulo,Corinthians,Internacional,0,1
+1,10/05/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,Vitória,0,2
+1,10/05/2009,16:00,Maracanã - Rio De Janeiro,Fluminense,São Paulo,1,0
+1,10/05/2009,16:00,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,2,0
+1,10/05/2009,18:30,Bruno José Daniel - Santo André,Santo André,Botafogo,1,1
+1,10/05/2009,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Santos,1,1
+1,10/05/2009,18:30,Serra Dourada - Goiânia,Goiás,Náutico,3,3
+2,16/05/2009,18:30,Couto Pereira - Curitiba,Coritiba,Santo André,2,4
+2,16/05/2009,18:30,Maracanã - Rio De Janeiro,Flamengo,Avaí,0,0
+2,16/05/2009,18:30,Mineirão - Belo Horizonte,Atlético-MG,Grêmio,2,1
+2,17/05/2009,16:00,Morumbi - São Paulo,São Paulo,Atlético-PR,2,2
+2,17/05/2009,16:00,Vila Belmiro - Santos,Santos,Goiás,3,3
+2,17/05/2009,16:00,Arena Barueri - Barueri,Grêmio Barueri,Fluminense,0,0
+2,17/05/2009,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,2,0
+2,17/05/2009,18:30,Barradão - Salvador,Vitória,Sport,1,0
+2,17/05/2009,18:30,Aflitos - Recife,Náutico,Cruzeiro,2,0
+2,17/05/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Corinthians,0,0
+3,23/05/2009,18:30,Serra Dourada - Goiânia,Goiás,Internacional,0,1
+3,23/05/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Vitória,2,0
+3,23/05/2009,18:30,Pacaembu - São Paulo,Corinthians,Grêmio Barueri,2,1
+3,24/05/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,2,0
+3,24/05/2009,16:00,Maracanã - Rio De Janeiro,Fluminense,Santos,1,4
+3,24/05/2009,16:00,Arena Palestra - São Paulo,Palmeiras,São Paulo,0,0
+3,24/05/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,Náutico,2,3
+3,24/05/2009,18:30,Ilha do Retiro - Recife,Sport,Atlético-MG,2,3
+3,24/05/2009,18:30,Ressacada - Florianópolis,Avaí,Coritiba,2,2
+3,24/05/2009,18:30,Bruno José Daniel - Santo André,Santo André,Flamengo,1,2
+4,30/05/2009,18:30,Couto Pereira - Curitiba,Coritiba,Goiás,1,3
+4,30/05/2009,18:30,Mineirão - Belo Horizonte,Atlético-MG,Santo André,0,0
+4,30/05/2009,18:30,Engenhão - Rio de Janeiro,Botafogo,Sport,2,2
+4,31/05/2009,16:00,Morumbi - São Paulo,São Paulo,Cruzeiro,3,0
+4,31/05/2009,16:00,Vila Belmiro - Santos,Santos,Corinthians,3,1
+4,31/05/2009,16:00,Maracanã - Rio de Janeiro,Flamengo,Atlético-PR,2,1
+4,31/05/2009,16:00,Barradão - Salvador,Vitória,Grêmio,1,0
+4,31/05/2009,16:00,Aflitos - Recife,Náutico,Fluminense,1,1
+4,31/05/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Palmeiras,2,2
+4,31/05/2009,18:30,Beira-Rio - Porto Alegre,Internacional,Avaí,2,1
+5,04/06/2009,21:00,Bruno José Daniel - Santo André,Santo André,Santos,3,3
+5,04/06/2009,21:00,Olímpico Monumental - Porto Alegre,Grêmio,Náutico,3,0
+5,06/06/2009,21:00,Pacaembu - São Paulo,Corinthians,Coritiba,2,0
+5,07/06/2009,16:00,Arena Palestra - São Paulo,Palmeiras,Vitória,2,1
+5,07/06/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,0,4
+5,07/06/2009,16:00,Ilha do Retiro - Recife,Sport,Flamengo,4,2
+5,07/06/2009,16:00,Ressacada - Florianópolis,Avaí,São Paulo,0,0
+5,07/06/2009,18:30,Maracanã - Rio de Janeiro,Fluminense,Botafogo,1,0
+5,07/06/2009,18:30,Serra Dourada - Goiânia,Goiás,Grêmio Barueri,2,2
+5,07/06/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Internacional,1,1
+6,13/06/2009,18:30,Morumbi - São Paulo,São Paulo,Santo André,1,1
+6,13/06/2009,18:30,Ilha do Retiro - Recife,Sport,Atlético-PR,0,1
+6,13/06/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Santos,2,0
+6,14/06/2009,16:00,Couto Pereira - Curitiba,Coritiba,Flamengo,5,0
+6,14/06/2009,16:00,Maracanã - Rio De Janeiro,Fluminense,Grêmio,0,0
+6,14/06/2009,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,0,0
+6,14/06/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Náutico,3,0
+6,14/06/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Cruzeiro,3,1
+6,14/06/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Avaí,3,1
+6,14/06/2009,18:30,Beira-Rio - Porto Alegre,Internacional,Vitória,0,0
+7,20/06/2009,16:10,Bruno José Daniel - Santo André,Santo André,Sport,2,1
+7,20/06/2009,16:10,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,2,2
+7,20/06/2009,16:10,Barradão - Salvador,Vitória,Botafogo,4,3
+7,20/06/2009,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,2,2
+7,20/06/2009,18:30,Aflitos - Recife,Náutico,Coritiba,0,1
+7,20/06/2009,18:30,Ressacada - Florianópolis,Avaí,Fluminense,3,2
+7,21/06/2009,18:30,Pacaembu - São Paulo,Corinthians,São Paulo,3,1
+7,21/06/2009,18:30,Vila Belmiro - Santos,Santos,Atlético-MG,2,3
+7,21/06/2009,18:30,Maracanã - Rio De Janeiro,Flamengo,Internacional,4,0
+7,21/06/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Grêmio Barueri,2,4
+8,27/06/2009,16:10,Morumbi - São Paulo,São Paulo,Náutico,2,0
+8,27/06/2009,16:10,Arena Barueri - Barueri,Grêmio Barueri,Atlético-MG,4,2
+8,27/06/2009,16:10,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,0
+8,27/06/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Avaí,1,0
+8,27/06/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Goiás,1,4
+8,28/06/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Santos,1,1
+8,28/06/2009,18:30,Beira-Rio - Porto Alegre,Internacional,Coritiba,3,0
+8,28/06/2009,18:30,Maracanã - Rio De Janeiro,Fluminense,Flamengo,0,0
+8,28/06/2009,18:30,Barradão - Salvador,Vitória,Santo André,4,1
+8,28/06/2009,18:30,Ilha do Retiro - Recife,Sport,Grêmio,3,1
+9,04/07/2009,18:30,Vila Belmiro - Santos,Santos,Sport,1,0
+9,04/07/2009,18:30,Bruno José Daniel - Santo André,Santo André,Grêmio Barueri,1,1
+9,04/07/2009,18:30,Engenhão - Rio de Janeiro,Flamengo,Vitória,2,1
+9,05/07/2009,16:00,Couto Pereira - Curitiba,Coritiba,São Paulo,2,0
+9,05/07/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-PR,4,1
+9,05/07/2009,16:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,1,0
+9,05/07/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Botafogo,1,1
+9,05/07/2009,18:30,Aflitos - Recife,Náutico,Internacional,0,2
+9,05/07/2009,18:30,Ressacada - Florianópolis,Avaí,Palmeiras,0,3
+9,08/07/2009,21:50,Pacaembu - São Paulo,Corinthians,Fluminense,4,2
+10,11/07/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Náutico,4,1
+10,11/07/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Coritiba,3,1
+10,11/07/2009,18:30,Ressacada - Florianópolis,Avaí,Botafogo,1,2
+10,12/07/2009,16:00,Morumbi - São Paulo,São Paulo,Flamengo,2,2
+10,12/07/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,Internacional,3,2
+10,12/07/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,3,0
+10,12/07/2009,16:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,0,3
+10,12/07/2009,18:30,Engenhão - Rio de Janeiro,Fluminense,Santo André,0,1
+10,12/07/2009,18:30,Barradão - Salvador,Vitória,Santos,6,2
+10,12/07/2009,18:30,Ilha do Retiro - Recife,Sport,Goiás,1,0
+11,15/07/2009,19:30,Couto Pereira - Curitiba,Coritiba,Grêmio,2,1
+11,15/07/2009,19:30,Serra Dourada - Goiânia,Goiás,Avaí,0,2
+11,15/07/2009,21:00,Vila Belmiro - Santos,Santos,Grêmio Barueri,3,3
+11,15/07/2009,21:00,Bruno José Daniel - Santo André,Santo André,Atlético-PR,1,0
+11,15/07/2009,21:50,Beira-Rio - Porto Alegre,Internacional,Fluminense,4,2
+11,15/07/2009,21:50,Maracanã - Rio De Janeiro,Flamengo,Palmeiras,1,2
+11,16/07/2009,21:00,Pacaembu - São Paulo,Corinthians,Sport,4,3
+11,16/07/2009,21:00,Aflitos - Recife,Náutico,Vitória,1,1
+11,16/07/2009,21:00,Mineirão - Belo Horizonte,Atlético-MG,São Paulo,2,0
+11,27/08/2009,21:00,Engenhão - Rio de Janeiro,Botafogo,Cruzeiro,1,1
+12,18/07/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Santo André,1,0
+12,18/07/2009,18:30,Maracanã - Rio De Janeiro,Fluminense,Goiás,1,4
+12,19/07/2009,16:00,Morumbi - São Paulo,São Paulo,Santos,2,1
+12,19/07/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,0,0
+12,19/07/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,2,1
+12,19/07/2009,16:00,Barradão - Salvador,Vitória,Atlético-MG,0,0
+12,19/07/2009,16:00,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,1,2
+12,19/07/2009,18:30,Maracanã - Rio de Janeiro,Flamengo,Botafogo,2,2
+12,19/07/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Náutico,4,0
+12,19/07/2009,18:30,Ilha do Retiro - Recife,Sport,Avaí,1,3
+13,22/07/2009,19:30,Bruno José Daniel - Santo André,Santo André,Cruzeiro,0,2
+13,22/07/2009,19:30,Maracanã - Rio de Janeiro,Flamengo,Grêmio Barueri,1,1
+13,22/07/2009,19:30,Ressacada - Florianópolis,Avaí,Grêmio,1,0
+13,22/07/2009,21:00,Vila Belmiro - Santos,Santos,Atlético-PR,1,0
+13,22/07/2009,21:50,Beira-Rio - Porto Alegre,Internacional,São Paulo,2,2
+13,22/07/2009,21:50,Serra Dourada - Goiânia,Goiás,Palmeiras,2,1
+13,22/07/2009,21:50,Aflitos - Recife,Náutico,Botafogo,2,2
+13,23/07/2009,21:00,Pacaembu - São Paulo,Corinthians,Vitória,2,1
+13,23/07/2009,21:00,Couto Pereira - Curitiba,Coritiba,Sport,1,1
+13,23/07/2009,21:00,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,2,1
+14,25/07/2009,18:30,Arena da Baixada - Curitiba,Atlético-PR,Avaí,1,3
+14,25/07/2009,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Santo André,3,2
+14,25/07/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Internacional,3,2
+14,26/07/2009,16:00,Paulo Constantino - Presidente Prudente,Corinthians,Palmeiras,0,3
+14,26/07/2009,16:00,Vila Belmiro - Santos,Santos,Flamengo,1,2
+14,26/07/2009,16:00,Ilha do Retiro - Recife,Sport,Náutico,3,3
+14,26/07/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Goiás,0,1
+14,26/07/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,São Paulo,1,2
+14,26/07/2009,18:30,Maracanã - Rio De Janeiro,Fluminense,Cruzeiro,1,1
+14,26/07/2009,18:30,Barradão - Salvador,Vitória,Coritiba,1,0
+15,29/07/2009,19:30,Couto Pereira - Curitiba,Coritiba,Botafogo,2,2
+15,29/07/2009,19:30,Aflitos - Recife,Náutico,Santos,1,2
+15,29/07/2009,21:00,Beira-Rio - Porto Alegre,Internacional,Grêmio Barueri,3,2
+15,29/07/2009,21:00,Serra Dourada - Goiânia,Goiás,Atlético-PR,3,0
+15,29/07/2009,21:50,Arena Palestra - São Paulo,Palmeiras,Fluminense,1,0
+15,29/07/2009,21:50,Teixeirão - São José do Rio Preto,Santo André,Corinthians,1,1
+15,29/07/2009,21:50,Mineirão - Belo Horizonte,Cruzeiro,Sport,1,0
+15,30/07/2009,21:00,Morumbi - São Paulo,São Paulo,Grêmio,2,1
+15,30/07/2009,21:00,Maracanã - Rio De Janeiro,Flamengo,Atlético-MG,3,1
+15,30/07/2009,21:00,Ressacada - Florianópolis,Avaí,Vitória,4,0
+16,01/08/2009,18:30,Ilha do Retiro - Recife,Sport,Palmeiras,0,1
+16,01/08/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Grêmio Barueri,2,1
+16,02/08/2009,16:00,Pacaembu - São Paulo,Corinthians,Avaí,0,0
+16,02/08/2009,16:00,Café - Londrina,Atlético-PR,Fluminense,1,0
+16,02/08/2009,16:00,Maracanã - Rio De Janeiro,Flamengo,Náutico,1,1
+16,02/08/2009,16:00,Barradão - Salvador,Vitória,São Paulo,0,1
+16,02/08/2009,18:30,Anacleto Campanella - São Caetano do Sul,Santo André,Goiás,1,2
+16,02/08/2009,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,4,1
+16,02/08/2009,18:30,Mineirão - Belo Horizonte,Atlético-MG,Coritiba,3,2
+16,26/08/2009,21:00,Vila Belmiro - Santos,Santos,Internacional,3,3
+17,05/08/2009,19:30,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,0,2
+17,05/08/2009,21:00,Morumbi - São Paulo,São Paulo,Botafogo,3,1
+17,05/08/2009,21:00,Ressacada - Florianópolis,Avaí,Santo André,1,0
+17,05/08/2009,21:50,Olímpico Regional - Cascavel,Coritiba,Santos,0,1
+17,05/08/2009,21:50,Serra Dourada - Goiânia,Goiás,Flamengo,3,2
+17,05/08/2009,21:50,Aflitos - Recife,Náutico,Corinthians,1,0
+17,06/08/2009,21:00,Arena Palestra - São Paulo,Palmeiras,Grêmio,1,1
+17,06/08/2009,21:00,Arena Barueri - Barueri,Grêmio Barueri,Vitória,4,0
+17,06/08/2009,21:00,Maracanã - Rio de Janeiro,Fluminense,Sport,5,1
+17,02/09/2009,21:00,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,3,0
+18,08/08/2009,18:30,Vila Belmiro - Santos,Santos,Avaí,2,2
+18,08/08/2009,18:30,Lacerdão - Caruaru,Náutico,Santo André,2,1
+18,08/08/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Atlético-PR,0,1
+18,09/08/2009,16:00,Maracanã - Rio De Janeiro,Flamengo,Corinthians,1,0
+18,09/08/2009,16:00,Barradão - Salvador,Vitória,Fluminense,2,2
+18,09/08/2009,18:30,Morumbi - São Paulo,São Paulo,Goiás,3,1
+18,09/08/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Grêmio,1,0
+18,09/08/2009,18:30,Couto Pereira - Curitiba,Coritiba,Cruzeiro,1,3
+18,10/08/2009,21:00,Beira-Rio - Porto Alegre,Internacional,Sport,3,0
+18,12/08/2009,21:50,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,1
+19,15/08/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Botafogo,1,1
+19,15/08/2009,18:30,Bruno José Daniel - Santo André,Santo André,Internacional,0,2
+19,15/08/2009,18:30,Ressacada - Florianópolis,Avaí,Náutico,2,1
+19,16/08/2009,16:00,Pacaembu - São Paulo,Corinthians,Atlético-MG,2,0
+19,16/08/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,4,1
+19,16/08/2009,16:00,Maracanã - Rio De Janeiro,Fluminense,Coritiba,1,3
+19,16/08/2009,16:00,Serra Dourada - Goiânia,Goiás,Vitória,3,2
+19,16/08/2009,16:00,Ilha do Retiro - Recife,Sport,São Paulo,1,2
+19,16/08/2009,18:30,Arena da Baixada - Curitiba,Atlético-PR,Grêmio Barueri,3,0
+19,16/08/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Santos,0,0
+20,19/08/2009,19:30,Vila Belmiro - Santos,Santos,Grêmio,1,0
+20,19/08/2009,19:30,Barradão - Salvador,Vitória,Atlético-PR,2,1
+20,19/08/2009,19:30,Engenhão - Rio de Janeiro,Botafogo,Santo André,1,2
+20,19/08/2009,21:00,Arena Barueri - Barueri,Grêmio Barueri,Sport,2,1
+20,19/08/2009,21:50,Morumbi - São Paulo,São Paulo,Fluminense,1,0
+20,19/08/2009,21:50,Couto Pereira - Curitiba,Coritiba,Palmeiras,1,0
+20,19/08/2009,21:50,Beira-Rio - Porto Alegre,Internacional,Corinthians,1,2
+20,20/08/2009,21:00,Maracanã - Rio de Janeiro,Flamengo,Cruzeiro,1,2
+20,20/08/2009,21:00,Aflitos - Recife,Náutico,Goiás,2,0
+20,20/08/2009,21:00,Mineirão - Belo Horizonte,Atlético-MG,Avaí,2,2
+21,22/08/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Internacional,2,1
+21,22/08/2009,18:30,Bruno José Daniel - Santo André,Santo André,Coritiba,1,0
+21,22/08/2009,18:30,Ilha do Retiro - Recife,Sport,Vitória,2,0
+21,23/08/2009,16:00,Pacaembu - São Paulo,Corinthians,Botafogo,3,3
+21,23/08/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,1,0
+21,23/08/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-MG,4,1
+21,23/08/2009,16:00,Maracanã - Rio de Janeiro,Fluminense,Grêmio Barueri,0,0
+21,23/08/2009,18:30,Serra Dourada - Goiânia,Goiás,Santos,2,1
+21,23/08/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Náutico,4,2
+21,23/08/2009,18:30,Ressacada - Florianópolis,Avaí,Flamengo,3,0
+22,26/08/2009,21:50,Arena Barueri - Barueri,Grêmio Barueri,Corinthians,2,2
+22,29/08/2009,18:30,Couto Pereira - Curitiba,Coritiba,Avaí,2,0
+22,29/08/2009,18:30,Maracanã - Rio De Janeiro,Flamengo,Santo André,3,0
+22,29/08/2009,18:30,Aflitos - Recife,Náutico,Atlético-PR,3,0
+22,30/08/2009,16:00,Morumbi - São Paulo,São Paulo,Palmeiras,0,0
+22,30/08/2009,16:00,Vila Belmiro - Santos,Santos,Fluminense,2,0
+22,30/08/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Sport,1,1
+22,30/08/2009,18:30,Beira-Rio - Porto Alegre,Internacional,Goiás,4,0
+22,30/08/2009,18:30,Barradão - Salvador,Vitória,Cruzeiro,3,3
+22,30/08/2009,18:30,Engenhão - Rio de Janeiro,Botafogo,Grêmio,3,3
+23,02/09/2009,21:50,Pacaembu - São Paulo,Corinthians,Santos,2,1
+23,05/09/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Grêmio Barueri,2,1
+23,05/09/2009,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Vitória,1,1
+23,05/09/2009,18:30,Ilha do Retiro - Recife,Sport,Botafogo,2,1
+23,06/09/2009,16:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,0,0
+23,06/09/2009,16:00,Serra Dourada - Goiânia,Goiás,Coritiba,2,2
+23,06/09/2009,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,1,2
+23,06/09/2009,18:30,Bruno José Daniel - Santo André,Santo André,Atlético-MG,1,2
+23,06/09/2009,18:30,Maracanã - Rio De Janeiro,Fluminense,Náutico,1,1
+23,06/09/2009,18:30,Ressacada - Florianópolis,Avaí,Internacional,0,2
+24,12/09/2009,18:30,Morumbi - São Paulo,São Paulo,Avaí,2,0
+24,12/09/2009,18:30,Maracanã - Rio de Janeiro,Flamengo,Sport,3,0
+24,13/09/2009,16:00,Vila Belmiro - Santos,Santos,Santo André,1,0
+24,13/09/2009,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,2,3
+24,13/09/2009,16:00,Barradão - Salvador,Vitória,Palmeiras,3,2
+24,13/09/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,2,1
+24,13/09/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Goiás,3,1
+24,13/09/2009,18:30,Aflitos - Recife,Náutico,Grêmio,0,2
+24,13/09/2009,18:30,Engenhão - Rio de Janeiro,Botafogo,Fluminense,0,0
+24,16/09/2009,21:50,Couto Pereira - Curitiba,Coritiba,Corinthians,1,1
+25,19/09/2009,18:30,Arena da Baixada - Curitiba,Atlético-PR,Sport,1,0
+25,19/09/2009,18:30,Barradão - Salvador,Vitória,Internacional,2,0
+25,19/09/2009,18:30,Aflitos - Recife,Náutico,Atlético-MG,0,0
+25,20/09/2009,16:00,Santa Cruz - Ribeirão Preto,Santo André,São Paulo,1,1
+25,20/09/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,5,1
+25,20/09/2009,16:00,Ressacada - Florianópolis,Avaí,Grêmio Barueri,4,0
+25,20/09/2009,18:30,Pacaembu - São Paulo,Corinthians,Goiás,1,4
+25,20/09/2009,18:30,Vila Belmiro - Santos,Santos,Botafogo,0,0
+25,20/09/2009,18:30,Maracanã - Rio de Janeiro,Flamengo,Coritiba,3,0
+25,23/09/2009,21:50,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,1,2
+26,26/09/2009,18:30,Arena Palestra - São Paulo,Palmeiras,Atlético-PR,2,1
+26,26/09/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Cruzeiro,0,1
+26,27/09/2009,16:00,Morumbi - São Paulo,São Paulo,Corinthians,1,1
+26,27/09/2009,16:00,Couto Pereira - Curitiba,Coritiba,Náutico,2,0
+26,27/09/2009,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,0,0
+26,27/09/2009,16:00,Maracanã - Rio de Janeiro,Fluminense,Avaí,3,2
+26,27/09/2009,16:00,Serra Dourada - Goiânia,Goiás,Grêmio,2,1
+26,27/09/2009,18:30,Ilha do Retiro - Recife,Sport,Santo André,2,1
+26,27/09/2009,18:30,Mineirão - Belo Horizonte,Atlético-MG,Santos,3,1
+26,27/09/2009,18:30,Engenhão - Rio De Janeiro,Botafogo,Vitória,1,3
+27,30/09/2009,21:50,Aflitos - Recife,Náutico,São Paulo,1,2
+27,03/10/2009,18:30,Pacaembu - São Paulo,Corinthians,Atlético-PR,1,3
+27,03/10/2009,18:30,Bruno José Daniel - Santo André,Santo André,Vitória,1,0
+27,03/10/2009,18:30,Mineirão - Belo Horizonte,Atlético-MG,Grêmio Barueri,2,1
+27,04/10/2009,16:00,Vila Belmiro - Santos,Santos,Palmeiras,1,3
+27,04/10/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Sport,3,3
+27,04/10/2009,16:00,Serra Dourada - Goiânia,Goiás,Botafogo,1,3
+27,04/10/2009,18:30,Couto Pereira - Curitiba,Coritiba,Internacional,2,0
+27,04/10/2009,18:30,Maracanã - Rio De Janeiro,Flamengo,Fluminense,2,0
+27,04/10/2009,18:30,Ressacada - Florianópolis,Avaí,Cruzeiro,2,2
+28,07/10/2009,19:30,Arena Barueri - Barueri,Grêmio Barueri,Santo André,0,0
+28,07/10/2009,19:30,Ilha do Retiro - Recife,Sport,Santos,0,1
+28,07/10/2009,21:00,Morumbi - São Paulo,São Paulo,Coritiba,2,2
+28,07/10/2009,21:00,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,0,0
+28,07/10/2009,21:50,Beira-Rio - Porto Alegre,Internacional,Náutico,3,1
+28,07/10/2009,21:50,Maracanã - Rio de Janeiro,Fluminense,Corinthians,1,1
+28,07/10/2009,21:50,Barradão - Salvador,Vitória,Flamengo,3,3
+28,08/10/2009,21:00,Arena Palestra - São Paulo,Palmeiras,Avaí,2,2
+28,08/10/2009,21:00,Mineirão - Belo Horizonte,Cruzeiro,Goiás,3,0
+28,08/10/2009,21:00,Engenhão - Rio De Janeiro,Botafogo,Atlético-MG,3,1
+29,10/10/2009,16:10,Pacaembu - São Paulo,Corinthians,Grêmio,2,1
+29,10/10/2009,16:10,Bruno José Daniel - Santo André,Santo André,Fluminense,1,2
+29,10/10/2009,16:10,Maracanã - Rio de Janeiro,Flamengo,São Paulo,2,1
+29,10/10/2009,18:30,Couto Pereira - Curitiba,Coritiba,Grêmio Barueri,1,2
+29,10/10/2009,18:30,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,1,1
+29,12/10/2009,16:00,Pacaembu - São Paulo,Santos,Vitória,0,0
+29,12/10/2009,16:00,Serra Dourada - Goiânia,Goiás,Sport,1,1
+29,12/10/2009,16:00,Aflitos - Recife,Náutico,Palmeiras,3,0
+29,12/10/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,0,1
+29,12/10/2009,16:00,Engenhão - Rio de Janeiro,Botafogo,Avaí,2,2
+30,17/10/2009,18:30,Morumbi - São Paulo,São Paulo,Atlético-MG,0,1
+30,17/10/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Santos,0,0
+30,17/10/2009,18:30,Ressacada - Florianópolis,Avaí,Goiás,2,1
+30,18/10/2009,16:00,Arena Palestra - São Paulo,Palmeiras,Flamengo,0,2
+30,18/10/2009,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Coritiba,2,0
+30,18/10/2009,16:00,Maracanã - Rio de Janeiro,Fluminense,Internacional,2,2
+30,18/10/2009,16:00,Ilha do Retiro - Recife,Sport,Corinthians,2,0
+30,18/10/2009,18:30,Arena da Baixada - Curitiba,Atlético-PR,Santo André,3,0
+30,18/10/2009,18:30,Barradão - Salvador,Vitória,Náutico,3,1
+30,18/10/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Botafogo,1,0
+31,21/10/2009,21:50,Bruno José Daniel - Santo André,Santo André,Palmeiras,2,0
+31,24/10/2009,18:30,Aflitos - Recife,Náutico,Grêmio Barueri,2,1
+31,24/10/2009,18:30,Mineirão - Belo Horizonte,Atlético-MG,Vitória,1,0
+31,25/10/2009,16:00,Vila Belmiro - Santos,Santos,São Paulo,3,4
+31,25/10/2009,16:00,Couto Pereira - Curitiba,Coritiba,Atlético-PR,3,2
+31,25/10/2009,16:00,Beira-Rio - Porto Alegre,Internacional,Grêmio,1,0
+31,25/10/2009,16:00,Serra Dourada - Goiânia,Goiás,Fluminense,2,2
+31,25/10/2009,18:30,Pacaembu - São Paulo,Corinthians,Cruzeiro,0,1
+31,25/10/2009,18:30,Ressacada - Florianópolis,Avaí,Sport,2,2
+31,25/10/2009,18:30,Engenhão - Rio de Janeiro,Botafogo,Flamengo,0,1
+32,28/10/2009,19:30,Arena da Baixada - Curitiba,Atlético-PR,Santos,1,1
+32,28/10/2009,19:30,Engenhão - Rio De Janeiro,Botafogo,Náutico,1,0
+32,28/10/2009,21:00,Olímpico Monumental - Porto Alegre,Grêmio,Avaí,3,1
+32,28/10/2009,21:00,Mineirão - Belo Horizonte,Cruzeiro,Santo André,3,2
+32,28/10/2009,21:50,Morumbi - São Paulo,São Paulo,Internacional,1,0
+32,28/10/2009,21:50,Arena Barueri - Barueri,Grêmio Barueri,Flamengo,2,0
+32,28/10/2009,21:50,Barradão - Salvador,Vitória,Corinthians,0,1
+32,29/10/2009,21:00,Arena Palestra - São Paulo,Palmeiras,Goiás,4,0
+32,29/10/2009,21:00,Maracanã - Rio de Janeiro,Fluminense,Atlético-MG,2,1
+32,29/10/2009,21:00,Ilha do Retiro - Recife,Sport,Coritiba,1,1
+33,31/10/2009,18:30,Morumbi - São Paulo,São Paulo,Grêmio Barueri,1,0
+33,31/10/2009,18:30,Maracanã - Rio de Janeiro,Flamengo,Santos,1,0
+33,31/10/2009,18:30,Ressacada - Florianópolis,Avaí,Atlético-PR,2,0
+33,01/11/2009,16:00,Paulo Constantino - Presidente Prudente,Palmeiras,Corinthians,2,2
+33,01/11/2009,16:00,Couto Pereira - Curitiba,Coritiba,Vitória,1,0
+33,01/11/2009,16:00,Beira-Rio - Porto Alegre,Internacional,Botafogo,0,1
+33,01/11/2009,16:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,2,3
+33,01/11/2009,18:30,Bruno José Daniel - Santo André,Santo André,Grêmio,2,0
+33,01/11/2009,18:30,Aflitos - Recife,Náutico,Sport,3,2
+33,01/11/2009,18:30,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,3
+34,04/11/2009,21:50,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,1,1
+34,07/11/2009,18:30,Pacaembu - São Paulo,Santos,Náutico,3,1
+34,07/11/2009,18:30,Barradão - Salvador,Vitória,Avaí,0,1
+34,07/11/2009,18:30,Ilha do Retiro - Recife,Sport,Cruzeiro,2,3
+34,08/11/2009,16:00,Pacaembu - São Paulo,Corinthians,Santo André,2,0
+34,08/11/2009,16:00,Maracanã - Rio de Janeiro,Fluminense,Palmeiras,1,0
+34,08/11/2009,16:00,Mineirão - Belo Horizonte,Atlético-MG,Flamengo,1,3
+34,08/11/2009,18:30,Arena Barueri - Barueri,Grêmio Barueri,Internacional,1,1
+34,08/11/2009,18:30,Arena da Baixada - Curitiba,Atlético-PR,Goiás,2,0
+34,08/11/2009,18:30,Engenhão - Rio de Janeiro,Botafogo,Coritiba,2,0
+35,11/11/2009,21:50,Arena Palestra - São Paulo,Palmeiras,Sport,2,2
+35,14/11/2009,19:30,Morumbi - São Paulo,São Paulo,Vitória,2,0
+35,14/11/2009,19:30,Couto Pereira - Curitiba,Coritiba,Atlético-MG,2,1
+35,14/11/2009,19:30,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,1,1
+35,15/11/2009,17:00,Arena Barueri - Barueri,Grêmio Barueri,Botafogo,3,0
+35,15/11/2009,17:00,Aflitos - Recife,Náutico,Flamengo,0,2
+35,15/11/2009,17:00,Ressacada - Florianópolis,Avaí,Corinthians,3,1
+35,15/11/2009,19:30,Beira-Rio - Porto Alegre,Internacional,Santos,3,1
+35,15/11/2009,19:30,Maracanã - Rio de Janeiro,Fluminense,Atlético-PR,2,1
+35,15/11/2009,19:30,Serra Dourada - Goiânia,Goiás,Santo André,3,1
+36,18/11/2009,21:50,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,2,0
+36,21/11/2009,19:30,Pacaembu - São Paulo,Corinthians,Náutico,2,3
+36,21/11/2009,19:30,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,1,1
+36,22/11/2009,17:00,Vila Belmiro - Santos,Santos,Coritiba,4,0
+36,22/11/2009,17:00,Bruno José Daniel - Santo André,Santo André,Avaí,4,2
+36,22/11/2009,17:00,Ilha do Retiro - Recife,Sport,Fluminense,0,3
+36,22/11/2009,17:00,Engenhão - Rio De Janeiro,Botafogo,São Paulo,3,2
+36,22/11/2009,19:30,Maracanã - Rio De Janeiro,Flamengo,Goiás,0,0
+36,22/11/2009,19:30,Barradão - Salvador,Vitória,Grêmio Barueri,2,1
+36,22/11/2009,19:30,Mineirão - Belo Horizonte,Atlético-MG,Internacional,0,1
+37,29/11/2009,17:00,Brinco de Ouro - Campinas,Corinthians,Flamengo,0,2
+37,29/11/2009,17:00,Arena Palestra - São Paulo,Palmeiras,Atlético-MG,3,1
+37,29/11/2009,17:00,Bruno José Daniel - Santo André,Santo André,Náutico,5,3
+37,29/11/2009,17:00,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,2,0
+37,29/11/2009,17:00,Olímpico Monumental - Porto Alegre,Grêmio,Grêmio Barueri,4,2
+37,29/11/2009,17:00,Maracanã - Rio de Janeiro,Fluminense,Vitória,4,0
+37,29/11/2009,17:00,Serra Dourada - Goiânia,Goiás,São Paulo,4,2
+37,29/11/2009,17:00,Ilha do Retiro - Recife,Sport,Internacional,1,2
+37,29/11/2009,17:00,Mineirão - Belo Horizonte,Cruzeiro,Coritiba,4,1
+37,29/11/2009,17:00,Ressacada - Florianópolis,Avaí,Santos,2,2
+38,05/12/2009,19:30,Aflitos - Recife,Náutico,Avaí,0,1
+38,05/12/2009,19:30,Mineirão - Belo Horizonte,Atlético-MG,Corinthians,0,3
+38,06/12/2009,17:00,Morumbi - São Paulo,São Paulo,Sport,4,0
+38,06/12/2009,17:00,Vila Belmiro - Santos,Santos,Cruzeiro,1,2
+38,06/12/2009,17:00,Paulo Constantino - Presidente Prudente,Grêmio Barueri,Atlético-PR,0,0
+38,06/12/2009,17:00,Couto Pereira - Curitiba,Coritiba,Fluminense,1,1
+38,06/12/2009,17:00,Beira-Rio - Porto Alegre,Internacional,Santo André,4,1
+38,06/12/2009,17:00,Maracanã - Rio de Janeiro,Flamengo,Grêmio,2,1
+38,06/12/2009,17:00,Barradão - Salvador,Vitória,Goiás,2,2
+38,06/12/2009,17:00,Engenhão - Rio de Janeiro,Botafogo,Palmeiras,2,1

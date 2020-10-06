@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,08/05/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Santos,3,3
+1,08/05/2010,18:30,Arena Palestra - São Paulo,Palmeiras,Vitória,1,0
+1,08/05/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Grêmio,0,0
+1,09/05/2010,16:00,Maracanã - Rio de Janeiro,Flamengo,São Paulo,1,1
+1,09/05/2010,16:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,2,1
+1,09/05/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,1,2
+1,09/05/2010,16:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,1
+1,09/05/2010,18:30,Castelão - Fortaleza,Ceará,Fluminense,1,0
+1,09/05/2010,18:30,Brinco de Ouro - Campinas,Guarani,Goiás,1,0
+1,09/05/2010,18:30,Ressacada - Florianópolis,Avaí,Grêmio Prudente,6,1
+2,15/05/2010,18:30,Maracanã - Rio de Janeiro,Fluminense,Atlético-GO,1,0
+2,15/05/2010,18:30,Prudentão - Presidente Prudente,Grêmio Prudente,Atlético-MG,4,0
+2,15/05/2010,18:30,Barradão - Salvador,Vitória,Flamengo,1,1
+2,16/05/2010,16:00,Morumbi - São Paulo,São Paulo,Botafogo,1,2
+2,16/05/2010,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,1,2
+2,16/05/2010,16:00,Serra Dourada - Goiânia,Goiás,Internacional,2,3
+2,16/05/2010,16:00,Vila Belmiro - Santos,Santos,Ceará,1,1
+2,16/05/2010,18:30,São Januário - Rio de Janeiro,Vasco,Palmeiras,0,0
+2,16/05/2010,18:30,Mineirão - Belo Horizonte,Cruzeiro,Avaí,2,2
+2,16/05/2010,18:30,Arena da Baixada - Curitiba,Atlético-PR,Guarani,2,2
+3,22/05/2010,16:00,Engenhão - Rio de Janeiro,Botafogo,Goiás,3,0
+3,22/05/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Santos,1,2
+3,22/05/2010,18:30,Arena Palestra - São Paulo,Palmeiras,Grêmio,4,2
+3,23/05/2010,16:00,Pacaembu - São Paulo,Corinthians,Fluminense,1,0
+3,23/05/2010,16:00,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,3,1
+3,23/05/2010,16:00,Beira-Rio - Porto Alegre,Internacional,São Paulo,0,2
+3,23/05/2010,16:00,Castelão - Fortaleza,Ceará,Vitória,1,0
+3,23/05/2010,18:30,Ressacada - Florianópolis,Avaí,Vasco,2,0
+3,23/05/2010,18:30,Maracanã - Rio de Janeiro,Flamengo,Grêmio Prudente,3,1
+3,23/05/2010,18:30,Brinco de Ouro - Campinas,Guarani,Cruzeiro,2,2
+4,26/05/2010,19:30,Barradão - Salvador,Vitória,Atlético-MG,4,3
+4,26/05/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Avaí,3,0
+4,26/05/2010,19:30,Maracanã - Rio de Janeiro,Fluminense,Flamengo,2,1
+4,26/05/2010,20:30,Morumbi - São Paulo,São Paulo,Palmeiras,1,0
+4,26/05/2010,21:50,Prudentão - Presidente Prudente,Grêmio Prudente,Corinthians,2,2
+4,26/05/2010,21:50,Mineirão - Belo Horizonte,Cruzeiro,Botafogo,1,0
+4,26/05/2010,21:50,Vila Belmiro - Santos,Santos,Guarani,3,1
+4,27/05/2010,21:00,São Januário - Rio de Janeiro,Vasco,Internacional,3,2
+4,27/05/2010,21:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-GO,2,1
+4,27/05/2010,21:00,Serra Dourada - Goiânia,Goiás,Ceará,0,0
+5,29/05/2010,18:30,Maracanã - Rio de Janeiro,Flamengo,Grêmio,1,1
+5,29/05/2010,18:30,Arena Barueri - Barueri,Palmeiras,Grêmio Prudente,0,0
+5,29/05/2010,18:30,Ressacada - Florianópolis,Avaí,Vitória,0,0
+5,30/05/2010,16:00,Pacaembu - São Paulo,Corinthians,Santos,4,2
+5,30/05/2010,16:00,Brinco de Ouro - Campinas,Guarani,São Paulo,0,0
+5,30/05/2010,16:00,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,1,3
+5,30/05/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,4,1
+5,30/05/2010,18:30,Castelão - Fortaleza,Ceará,Cruzeiro,1,0
+5,30/05/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Goiás,1,3
+5,30/05/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Vasco,1,1
+6,02/06/2010,19:30,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,3,2
+6,02/06/2010,19:30,Maracanã - Rio de Janeiro,Fluminense,Vitória,2,1
+6,02/06/2010,19:30,Prudentão - Presidente Prudente,Grêmio Prudente,Atlético-GO,1,0
+6,02/06/2010,21:00,Castelão - Fortaleza,Ceará,Avaí,2,0
+6,02/06/2010,21:50,Pacaembu - São Paulo,Palmeiras,Flamengo,0,1
+6,02/06/2010,21:50,Serra Dourada - Goiânia,Goiás,São Paulo,2,1
+6,02/06/2010,21:50,Mineirão - Belo Horizonte,Cruzeiro,Santos,0,0
+6,03/06/2010,21:00,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-MG,2,1
+6,03/06/2010,21:00,São Januário - Rio de Janeiro,Vasco,Guarani,0,1
+6,03/06/2010,21:00,Pacaembu - São Paulo,Corinthians,Internacional,2,0
+7,05/06/2010,18:30,Ressacada - Florianópolis,Avaí,Fluminense,0,3
+7,05/06/2010,18:30,Maracanã - Rio de Janeiro,Flamengo,Goiás,1,2
+7,05/06/2010,18:30,Barradão - Salvador,Vitória,Atlético-PR,1,0
+7,06/06/2010,16:00,Morumbi - São Paulo,São Paulo,Grêmio,3,1
+7,06/06/2010,16:00,Vila Belmiro - Santos,Santos,Vasco,4,0
+7,06/06/2010,16:00,Engenhão - Rio de Janeiro,Botafogo,Corinthians,2,2
+7,06/06/2010,16:00,Mineirão - Belo Horizonte,Atlético-MG,Ceará,0,1
+7,06/06/2010,18:30,Beira-Rio - Porto Alegre,Internacional,Palmeiras,1,1
+7,06/06/2010,18:30,Brinco de Ouro - Campinas,Guarani,Grêmio Prudente,1,0
+7,06/06/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Cruzeiro,2,1
+8,14/07/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Vitória,1,1
+8,14/07/2010,19:30,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,0,2
+8,14/07/2010,19:30,Morumbi - São Paulo,São Paulo,Avaí,1,2
+8,14/07/2010,21:00,Maracanã - Rio de Janeiro,Flamengo,Botafogo,1,0
+8,14/07/2010,21:50,Brinco de Ouro - Campinas,Guarani,Internacional,0,3
+8,14/07/2010,21:50,Serra Dourada - Goiânia,Goiás,Vasco,0,0
+8,14/07/2010,21:50,Castelão - Fortaleza,Ceará,Corinthians,0,0
+8,15/07/2010,21:00,Pacaembu - São Paulo,Palmeiras,Santos,2,1
+8,15/07/2010,21:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Atlético-GO,3,2
+8,15/07/2010,21:00,Maracanã - Rio de Janeiro,Fluminense,Grêmio Prudente,1,1
+9,17/07/2010,18:30,Barradão - Salvador,Vitória,São Paulo,3,2
+9,17/07/2010,18:30,São Januário - Rio de Janeiro,Vasco,Atlético-PR,3,1
+9,18/07/2010,16:00,Pacaembu - São Paulo,Corinthians,Atlético-MG,1,0
+9,18/07/2010,16:00,Serra Dourada - Goiânia,Atlético-GO,Flamengo,0,1
+9,18/07/2010,16:00,Ressacada - Florianópolis,Avaí,Palmeiras,4,2
+9,18/07/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Ceará,2,1
+9,18/07/2010,18:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Goiás,1,0
+9,18/07/2010,18:30,Vila Belmiro - Santos,Santos,Fluminense,0,1
+9,18/07/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Guarani,1,1
+9,18/07/2010,18:30,Prudentão - Presidente Prudente,Grêmio Prudente,Grêmio,2,0
+10,21/07/2010,19:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Internacional,1,2
+10,21/07/2010,19:30,Barradão - Salvador,Vitória,Goiás,2,2
+10,21/07/2010,19:30,Morumbi - São Paulo,São Paulo,Grêmio Prudente,1,1
+10,21/07/2010,21:00,Maracanã - Rio de Janeiro,Flamengo,Avaí,1,1
+10,21/07/2010,21:50,Arena da Baixada - Curitiba,Atlético-PR,Santos,2,0
+10,21/07/2010,21:50,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,1,1
+10,21/07/2010,21:50,Serra Dourada - Goiânia,Atlético-GO,Corinthians,3,1
+10,22/07/2010,21:00,Maracanã - Rio de Janeiro,Fluminense,Cruzeiro,1,0
+10,22/07/2010,21:00,Brinco de Ouro - Campinas,Guarani,Ceará,1,1
+10,22/07/2010,21:00,Pacaembu - São Paulo,Palmeiras,Botafogo,2,2
+11,24/07/2010,18:30,Ressacada - Florianópolis,Avaí,Atlético-MG,0,0
+11,24/07/2010,18:30,São Januário - Rio de Janeiro,Vasco,Atlético-GO,2,0
+11,24/07/2010,18:30,Prudentão - Presidente Prudente,Grêmio Prudente,Vitória,0,0
+11,25/07/2010,16:00,Vila Belmiro - Santos,Santos,São Paulo,1,0
+11,25/07/2010,16:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Grêmio,2,2
+11,25/07/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,1,0
+11,25/07/2010,16:00,Serra Dourada - Goiânia,Goiás,Atlético-PR,0,2
+11,25/07/2010,18:30,Castelão - Fortaleza,Ceará,Palmeiras,0,0
+11,25/07/2010,18:30,Pacaembu - São Paulo,Corinthians,Guarani,3,1
+11,25/07/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Fluminense,1,1
+12,31/07/2010,18:30,Maracanã - Rio de Janeiro,Fluminense,Atlético-PR,3,1
+12,31/07/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Guarani,1,1
+12,31/07/2010,18:30,Morumbi - São Paulo,São Paulo,Ceará,2,1
+12,01/08/2010,16:00,Pacaembu - São Paulo,Palmeiras,Corinthians,1,1
+12,01/08/2010,16:00,Barradão - Salvador,Vitória,Botafogo,1,3
+12,01/08/2010,16:00,Ressacada - Florianópolis,Avaí,Goiás,4,1
+12,01/08/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Grêmio,0,0
+12,01/08/2010,18:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Cruzeiro,0,1
+12,01/08/2010,18:30,Prudentão - Presidente Prudente,Grêmio Prudente,Santos,1,2
+12,01/08/2010,18:30,Maracanã - Rio de Janeiro,Flamengo,Vasco,0,0
+13,07/08/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Atlético-MG,3,0
+13,07/08/2010,18:30,Brinco de Ouro - Campinas,Guarani,Avaí,4,1
+13,08/08/2010,16:00,Pacaembu - São Paulo,Corinthians,Flamengo,1,0
+13,08/08/2010,16:00,Serra Dourada - Goiânia,Goiás,Palmeiras,1,1
+13,08/08/2010,16:00,Castelão - Fortaleza,Ceará,Atlético-GO,0,0
+13,08/08/2010,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,1,2
+13,08/08/2010,18:30,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,1,1
+13,08/08/2010,18:30,São Januário - Rio de Janeiro,Vasco,Vitória,1,0
+13,08/08/2010,18:30,Ipatingão - Ipatinga,Cruzeiro,Grêmio Prudente,0,0
+13,13/10/2010,22:00,Vila Belmiro - Santos,Santos,Internacional,1,0
+14,14/08/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Botafogo,0,2
+14,14/08/2010,18:30,Pacaembu - São Paulo,Palmeiras,Atlético-PR,2,0
+14,14/08/2010,18:30,Maracanã - Rio de Janeiro,Flamengo,Ceará,1,0
+14,14/08/2010,18:30,Ipatingão - Ipatinga,Atlético-MG,Guarani,3,1
+14,15/08/2010,16:00,Morumbi - São Paulo,São Paulo,Cruzeiro,2,2
+14,15/08/2010,16:00,Prudentão - Presidente Prudente,Grêmio Prudente,Vasco,1,2
+14,15/08/2010,16:00,Ressacada - Florianópolis,Avaí,Corinthians,3,2
+14,15/08/2010,16:00,Maracanã - Rio de Janeiro,Fluminense,Internacional,3,0
+14,15/08/2010,18:30,Barradão - Salvador,Vitória,Santos,4,2
+14,15/08/2010,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,2,0
+15,21/08/2010,18:30,Serra Dourada - Goiânia,Goiás,Grêmio Prudente,1,2
+15,21/08/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Avaí,1,0
+15,21/08/2010,18:30,Castelão - Fortaleza,Ceará,Grêmio,2,1
+15,22/08/2010,16:00,Vila Belmiro - Santos,Santos,Atlético-MG,2,0
+15,22/08/2010,16:00,Brinco de Ouro - Campinas,Guarani,Palmeiras,0,0
+15,22/08/2010,16:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,1,0
+15,22/08/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-GO,1,1
+15,22/08/2010,18:30,Pacaembu - São Paulo,Corinthians,São Paulo,3,0
+15,22/08/2010,18:30,Maracanã - Rio de Janeiro,Vasco,Fluminense,2,2
+15,22/08/2010,18:30,Ipatingão - Ipatinga,Cruzeiro,Vitória,0,1
+16,25/08/2010,19:30,Serra Dourada - Goiânia,Goiás,Fluminense,0,3
+16,25/08/2010,19:30,Ressacada - Florianópolis,Avaí,Internacional,0,1
+16,25/08/2010,19:30,Engenhão - Rio de Janeiro,Botafogo,Ceará,1,0
+16,25/08/2010,21:00,Prudentão - Presidente Prudente,Grêmio Prudente,Atlético-PR,0,1
+16,25/08/2010,22:00,Morumbi - São Paulo,São Paulo,Vasco,0,0
+16,25/08/2010,22:00,Parque do Sabiá - Uberlândia,Cruzeiro,Corinthians,1,0
+16,25/08/2010,22:00,Olímpico Monumental - Porto Alegre,Grêmio,Santos,1,2
+16,26/08/2010,21:00,Maracanã - Rio de Janeiro,Flamengo,Atlético-MG,0,0
+16,26/08/2010,21:00,Barradão - Salvador,Vitória,Guarani,1,1
+16,26/08/2010,21:00,Pacaembu - São Paulo,Palmeiras,Atlético-GO,0,3
+17,28/08/2010,18:30,Beira-Rio - Porto Alegre,Internacional,Botafogo,1,0
+17,28/08/2010,18:30,São Januário - Rio de Janeiro,Vasco,Cruzeiro,1,1
+17,28/08/2010,18:30,Castelão - Fortaleza,Ceará,Grêmio Prudente,2,2
+17,28/08/2010,18:30,Pacaembu - São Paulo,Santos,Goiás,2,0
+17,29/08/2010,16:00,Pacaembu - São Paulo,Corinthians,Vitória,2,1
+17,29/08/2010,16:00,Brinco de Ouro - Campinas,Guarani,Flamengo,2,1
+17,29/08/2010,16:00,Ipatingão - Ipatinga,Atlético-MG,Palmeiras,1,2
+17,29/08/2010,18:30,Maracanã - Rio de Janeiro,Fluminense,São Paulo,2,2
+17,29/08/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Avaí,2,2
+17,29/08/2010,18:30,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,1,1
+18,01/09/2010,19:30,Barradão - Salvador,Vitória,Internacional,0,0
+18,01/09/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Guarani,1,0
+18,01/09/2010,19:30,Prudentão - Presidente Prudente,Grêmio Prudente,Botafogo,0,1
+18,01/09/2010,21:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,1,3
+18,01/09/2010,22:00,Parque do Sabiá - Uberlândia,Cruzeiro,Flamengo,1,0
+18,01/09/2010,22:00,Arena da Baixada - Curitiba,Atlético-PR,Ceará,2,1
+18,01/09/2010,22:00,Maracanã - Rio de Janeiro,Fluminense,Palmeiras,1,1
+18,02/09/2010,21:00,Vila Belmiro - Santos,Santos,Avaí,2,1
+18,02/09/2010,21:00,Morumbi - São Paulo,São Paulo,Atlético-GO,2,1
+18,13/10/2010,22:00,São Januário - Rio de Janeiro,Vasco,Corinthians,2,0
+19,04/09/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Grêmio,2,2
+19,04/09/2010,18:30,Castelão - Fortaleza,Ceará,Vasco,0,2
+19,04/09/2010,18:30,Pacaembu - São Paulo,Corinthians,Goiás,5,1
+19,05/09/2010,16:00,Ressacada - Florianópolis,Avaí,Atlético-PR,0,1
+19,05/09/2010,16:00,Pacaembu - São Paulo,Palmeiras,Cruzeiro,2,3
+19,05/09/2010,16:00,Brinco de Ouro - Campinas,Guarani,Fluminense,2,1
+19,05/09/2010,16:00,Maracanã - Rio de Janeiro,Flamengo,Santos,0,0
+19,05/09/2010,18:30,Ipatingão - Ipatinga,Atlético-MG,São Paulo,2,3
+19,05/09/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Vitória,4,1
+19,05/09/2010,18:30,Beira-Rio - Porto Alegre,Internacional,Grêmio Prudente,2,0
+20,08/09/2010,19:30,Engenhão - Rio de Janeiro,Fluminense,Ceará,3,1
+20,08/09/2010,19:30,João Havelange (MG) - Uberlândia,Cruzeiro,Internacional,1,0
+20,08/09/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-GO,2,0
+20,08/09/2010,19:30,Serra Dourada - Goiânia,Goiás,Guarani,3,1
+20,08/09/2010,22:00,Morumbi - São Paulo,São Paulo,Flamengo,2,0
+20,08/09/2010,22:00,Barradão - Salvador,Vitória,Palmeiras,1,1
+20,08/09/2010,22:00,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,1
+20,09/09/2010,21:00,Pacaembu - São Paulo,Santos,Botafogo,0,1
+20,09/09/2010,21:00,São Januário - Rio de Janeiro,Vasco,Atlético-MG,1,1
+20,09/09/2010,21:00,Prudentão - Presidente Prudente,Grêmio Prudente,Avaí,1,1
+21,11/09/2010,18:30,Pacaembu - São Paulo,Corinthians,Grêmio,0,1
+21,11/09/2010,18:30,Raulino de Oliveira - Volta Redonda,Flamengo,Vitória,2,2
+21,11/09/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Fluminense,2,1
+21,12/09/2010,16:00,Pacaembu - São Paulo,Palmeiras,Vasco,0,0
+21,12/09/2010,16:00,Engenhão - Rio de Janeiro,Botafogo,São Paulo,2,0
+21,12/09/2010,16:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Grêmio Prudente,1,0
+21,12/09/2010,16:00,Ressacada - Florianópolis,Avaí,Cruzeiro,1,2
+21,12/09/2010,18:30,Brinco de Ouro - Campinas,Guarani,Atlético-PR,1,0
+21,12/09/2010,18:30,Beira-Rio - Porto Alegre,Internacional,Goiás,0,0
+21,12/09/2010,18:30,Castelão - Fortaleza,Ceará,Santos,2,1
+22,15/09/2010,19:30,Vila Belmiro - Santos,Santos,Atlético-GO,4,2
+22,15/09/2010,19:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Guarani,4,2
+22,15/09/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,1,2
+22,15/09/2010,19:30,Serra Dourada - Goiânia,Goiás,Botafogo,4,1
+22,15/09/2010,19:30,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,2,1
+22,15/09/2010,22:00,Engenhão - Rio de Janeiro,Fluminense,Corinthians,1,2
+22,15/09/2010,22:00,Prudentão - Presidente Prudente,Grêmio Prudente,Flamengo,1,2
+22,15/09/2010,22:00,Barradão - Salvador,Vitória,Ceará,0,0
+22,16/09/2010,21:00,Morumbi - São Paulo,São Paulo,Internacional,1,3
+22,16/09/2010,21:00,São Januário - Rio de Janeiro,Vasco,Avaí,1,1
+23,18/09/2010,18:30,Pacaembu - São Paulo,Corinthians,Grêmio Prudente,3,0
+23,18/09/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Cruzeiro,2,2
+23,18/09/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Atlético-PR,1,2
+23,19/09/2010,16:00,Pacaembu - São Paulo,Palmeiras,São Paulo,0,2
+23,19/09/2010,16:00,Brinco de Ouro - Campinas,Guarani,Santos,0,0
+23,19/09/2010,16:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Vitória,2,3
+23,19/09/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,1,0
+23,19/09/2010,18:30,Engenhão - Rio de Janeiro,Flamengo,Fluminense,3,3
+23,19/09/2010,18:30,Castelão - Fortaleza,Ceará,Goiás,1,1
+23,19/09/2010,18:30,Ressacada - Florianópolis,Avaí,Grêmio,0,3
+24,22/09/2010,19:30,Morumbi - São Paulo,São Paulo,Guarani,2,1
+24,22/09/2010,19:30,Prudentão - Presidente Prudente,Grêmio Prudente,Palmeiras,0,1
+24,22/09/2010,19:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Ceará,2,0
+24,22/09/2010,19:30,Serra Dourada - Goiânia,Goiás,Atlético-GO,1,3
+24,22/09/2010,21:00,Engenhão - Rio de Janeiro,Vasco,Botafogo,2,2
+24,22/09/2010,22:00,Vila Belmiro - Santos,Santos,Corinthians,2,3
+24,22/09/2010,22:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,2,2
+24,22/09/2010,22:00,Arena da Baixada - Curitiba,Atlético-PR,Internacional,1,0
+24,23/09/2010,21:00,Engenhão - Rio de Janeiro,Fluminense,Atlético-MG,5,1
+24,23/09/2010,21:00,Barradão - Salvador,Vitória,Avaí,3,0
+25,25/09/2010,18:30,Morumbi - São Paulo,São Paulo,Goiás,0,3
+25,25/09/2010,18:30,Arena Barueri - Barueri,Santos,Cruzeiro,4,1
+25,25/09/2010,18:30,Engenhão - Rio de Janeiro,Flamengo,Palmeiras,1,3
+25,25/09/2010,18:30,Brinco de Ouro - Campinas,Guarani,Vasco,1,0
+25,25/09/2010,18:30,Serra Dourada - Goiânia,Atlético-GO,Grêmio Prudente,3,0
+25,26/09/2010,16:00,Engenhão - Rio de Janeiro,Botafogo,Atlético-PR,1,1
+25,26/09/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Corinthians,3,2
+25,26/09/2010,16:00,Barradão - Salvador,Vitória,Fluminense,1,2
+25,26/09/2010,18:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Grêmio,1,2
+25,26/09/2010,18:30,Ressacada - Florianópolis,Avaí,Ceará,5,0
+26,28/09/2010,21:00,São Januário - Rio de Janeiro,Vasco,Santos,3,1
+26,28/09/2010,21:10,Serra Dourada - Goiânia,Goiás,Flamengo,1,1
+26,29/09/2010,19:30,Arena Barueri - Barueri,Palmeiras,Internacional,2,0
+26,29/09/2010,19:30,Prudentão - Presidente Prudente,Grêmio Prudente,Guarani,4,2
+26,29/09/2010,19:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Atlético-GO,3,0
+26,29/09/2010,19:30,Arena da Baixada - Curitiba,Atlético-PR,Vitória,1,0
+26,29/09/2010,21:00,Raulino de Oliveira - Volta Redonda,Fluminense,Avaí,1,0
+26,29/09/2010,22:00,Pacaembu - São Paulo,Corinthians,Botafogo,1,1
+26,29/09/2010,22:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,4,2
+26,29/09/2010,22:00,Castelão - Fortaleza,Ceará,Atlético-MG,0,0
+27,01/10/2010,21:00,São Januário - Rio de Janeiro,Vasco,Goiás,3,2
+27,02/10/2010,16:00,Pacaembu - São Paulo,Corinthians,Ceará,2,2
+27,02/10/2010,16:00,Vila Belmiro - Santos,Santos,Palmeiras,1,1
+27,02/10/2010,16:00,Prudentão - Presidente Prudente,Grêmio Prudente,Fluminense,1,1
+27,02/10/2010,16:00,Barradão - Salvador,Vitória,Grêmio,0,3
+27,02/10/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Flamengo,1,1
+27,02/10/2010,18:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Atlético-PR,0,0
+27,02/10/2010,18:30,Beira-Rio - Porto Alegre,Internacional,Guarani,3,0
+27,02/10/2010,21:00,Serra Dourada - Goiânia,Atlético-GO,Atlético-MG,2,3
+27,02/10/2010,21:00,Ressacada - Florianópolis,Avaí,São Paulo,0,0
+28,06/10/2010,19:30,Engenhão - Rio de Janeiro,Fluminense,Santos,0,3
+28,06/10/2010,19:30,Brinco de Ouro - Campinas,Guarani,Botafogo,1,1
+28,06/10/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Grêmio Prudente,4,0
+28,06/10/2010,21:50,Arena Barueri - Barueri,São Paulo,Vitória,2,0
+28,06/10/2010,21:50,Arena do Jacaré - Sete Lagoas,Atlético-MG,Corinthians,2,1
+28,06/10/2010,21:50,Castelão - Fortaleza,Ceará,Internacional,1,0
+28,06/10/2010,21:50,Arena da Baixada - Curitiba,Atlético-PR,Vasco,0,0
+28,07/10/2010,21:00,Pacaembu - São Paulo,Palmeiras,Avaí,4,1
+28,07/10/2010,21:00,Raulino de Oliveira - Volta Redonda,Flamengo,Atlético-GO,2,0
+28,07/10/2010,21:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,0,1
+29,09/10/2010,18:30,Vila Belmiro - Santos,Santos,Atlético-PR,2,0
+29,09/10/2010,18:30,São Januário - Rio de Janeiro,Vasco,Grêmio,3,3
+29,09/10/2010,18:30,Prudentão - Presidente Prudente,Grêmio Prudente,São Paulo,2,3
+29,10/10/2010,16:00,Pacaembu - São Paulo,Corinthians,Atlético-GO,3,4
+29,10/10/2010,16:00,Engenhão - Rio de Janeiro,Botafogo,Palmeiras,0,0
+29,10/10/2010,16:00,João Havelange (MG) - Uberlândia,Cruzeiro,Fluminense,1,0
+29,10/10/2010,16:00,Serra Dourada - Goiânia,Goiás,Vitória,1,0
+29,10/10/2010,16:00,Ressacada - Florianópolis,Avaí,Flamengo,2,2
+29,10/10/2010,18:30,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,1,0
+29,10/10/2010,18:30,Castelão - Fortaleza,Ceará,Guarani,2,0
+30,16/10/2010,18:30,Engenhão - Rio de Janeiro,Flamengo,Internacional,3,0
+30,16/10/2010,18:30,Arena da Baixada - Curitiba,Atlético-PR,Goiás,2,1
+30,17/10/2010,16:00,Brinco de Ouro - Campinas,Guarani,Corinthians,0,0
+30,17/10/2010,16:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Avaí,2,0
+30,17/10/2010,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,2,1
+30,17/10/2010,16:00,Serra Dourada - Goiânia,Atlético-GO,Vasco,2,0
+30,17/10/2010,18:30,Morumbi - São Paulo,São Paulo,Santos,4,3
+30,17/10/2010,18:30,Arena Barueri - Barueri,Palmeiras,Ceará,1,1
+30,17/10/2010,18:30,Engenhão - Rio de Janeiro,Fluminense,Botafogo,0,0
+30,17/10/2010,18:30,Barradão - Salvador,Vitória,Grêmio Prudente,2,0
+31,23/10/2010,18:30,Engenhão - Rio de Janeiro,Botafogo,Vitória,1,0
+31,23/10/2010,18:30,Brinco de Ouro - Campinas,Guarani,Atlético-GO,0,1
+31,24/10/2010,16:00,Pacaembu - São Paulo,Corinthians,Palmeiras,1,0
+31,24/10/2010,16:00,Serra Dourada - Goiânia,Goiás,Avaí,1,0
+31,24/10/2010,16:00,Castelão - Fortaleza,Ceará,São Paulo,2,0
+31,24/10/2010,16:00,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,2,2
+31,24/10/2010,18:30,Vila Belmiro - Santos,Santos,Grêmio Prudente,2,3
+31,24/10/2010,18:30,Engenhão - Rio de Janeiro,Vasco,Flamengo,1,1
+31,24/10/2010,18:30,João Havelange (MG) - Uberlândia,Cruzeiro,Atlético-MG,3,4
+31,24/10/2010,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,2,2
+32,27/10/2010,22:00,Engenhão - Rio de Janeiro,Flamengo,Corinthians,1,1
+32,28/10/2010,21:00,Arena Barueri - Barueri,São Paulo,Atlético-PR,2,1
+32,28/10/2010,21:00,Engenhão - Rio de Janeiro,Fluminense,Grêmio,2,0
+32,28/10/2010,21:00,Serra Dourada - Goiânia,Atlético-GO,Ceará,1,1
+32,30/10/2010,16:00,Beira-Rio - Porto Alegre,Internacional,Santos,1,1
+32,30/10/2010,16:00,Barradão - Salvador,Vitória,Vasco,4,2
+32,30/10/2010,18:30,Arena Barueri - Barueri,Palmeiras,Goiás,3,2
+32,30/10/2010,18:30,Prudentão - Presidente Prudente,Grêmio Prudente,Cruzeiro,0,2
+32,30/10/2010,18:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Botafogo,0,2
+32,30/10/2010,18:30,Ressacada - Florianópolis,Avaí,Guarani,1,0
+33,03/11/2010,19:30,Vila Belmiro - Santos,Santos,Vitória,1,1
+33,03/11/2010,19:30,Engenhão - Rio de Janeiro,Botafogo,Atlético-GO,3,2
+33,03/11/2010,19:30,Brinco de Ouro - Campinas,Guarani,Atlético-MG,0,0
+33,03/11/2010,19:30,Beira-Rio - Porto Alegre,Internacional,Fluminense,0,0
+33,03/11/2010,19:30,Serra Dourada - Goiânia,Goiás,Grêmio,0,2
+33,03/11/2010,21:50,Pacaembu - São Paulo,Corinthians,Avaí,4,0
+33,03/11/2010,21:50,João Havelange (MG) - Uberlândia,Cruzeiro,São Paulo,0,2
+33,03/11/2010,21:50,Castelão - Fortaleza,Ceará,Flamengo,2,2
+33,04/11/2010,21:00,São Januário - Rio de Janeiro,Vasco,Grêmio Prudente,2,1
+33,04/11/2010,21:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,1,0
+34,06/11/2010,19:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Santos,2,2
+34,06/11/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Ceará,5,1
+34,06/11/2010,19:30,Serra Dourada - Goiânia,Atlético-GO,Internacional,2,2
+34,07/11/2010,17:00,Morumbi - São Paulo,São Paulo,Corinthians,0,2
+34,07/11/2010,17:00,Prudentão - Presidente Prudente,Grêmio Prudente,Goiás,4,1
+34,07/11/2010,17:00,Barradão - Salvador,Vitória,Cruzeiro,0,1
+34,07/11/2010,17:00,Ressacada - Florianópolis,Avaí,Botafogo,0,0
+34,07/11/2010,19:30,Arena Barueri - Barueri,Palmeiras,Guarani,1,0
+34,07/11/2010,19:30,Raulino de Oliveira - Volta Redonda,Flamengo,Atlético-PR,0,1
+34,07/11/2010,19:30,Engenhão - Rio de Janeiro,Fluminense,Vasco,1,0
+35,10/11/2010,21:50,Castelão - Fortaleza,Ceará,Botafogo,2,2
+35,13/11/2010,19:30,Pacaembu - São Paulo,Corinthians,Cruzeiro,1,0
+35,13/11/2010,19:30,Vila Belmiro - Santos,Santos,Grêmio,0,0
+35,13/11/2010,19:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Flamengo,4,1
+35,14/11/2010,17:00,Engenhão - Rio de Janeiro,Fluminense,Goiás,1,1
+35,14/11/2010,17:00,Brinco de Ouro - Campinas,Guarani,Vitória,1,1
+35,14/11/2010,17:00,Beira-Rio - Porto Alegre,Internacional,Avaí,2,3
+35,14/11/2010,17:00,Serra Dourada - Goiânia,Atlético-GO,Palmeiras,3,0
+35,14/11/2010,19:30,São Januário - Rio de Janeiro,Vasco,São Paulo,1,1
+35,14/11/2010,19:30,Arena da Baixada - Curitiba,Atlético-PR,Grêmio Prudente,2,1
+36,20/11/2010,19:30,Engenhão - Rio de Janeiro,Flamengo,Guarani,2,1
+36,20/11/2010,19:30,Prudentão - Presidente Prudente,Grêmio Prudente,Ceará,1,1
+36,20/11/2010,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-PR,3,1
+36,21/11/2010,17:00,Arena Barueri - Barueri,São Paulo,Fluminense,1,4
+36,21/11/2010,17:00,Arena da Fonte - Araraquara,Palmeiras,Atlético-MG,0,2
+36,21/11/2010,17:00,Engenhão - Rio de Janeiro,Botafogo,Internacional,1,2
+36,21/11/2010,17:00,Barradão - Salvador,Vitória,Corinthians,1,1
+36,21/11/2010,19:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Vasco,3,1
+36,21/11/2010,19:30,Serra Dourada - Goiânia,Goiás,Santos,1,4
+36,21/11/2010,19:30,Ressacada - Florianópolis,Avaí,Atlético-GO,3,0
+37,28/11/2010,17:00,Pacaembu - São Paulo,Corinthians,Vasco,2,0
+37,28/11/2010,17:00,Arena Barueri - Barueri,Palmeiras,Fluminense,1,2
+37,28/11/2010,17:00,Raulino de Oliveira - Volta Redonda,Flamengo,Cruzeiro,1,2
+37,28/11/2010,17:00,Engenhão - Rio de Janeiro,Botafogo,Grêmio Prudente,3,1
+37,28/11/2010,17:00,Brinco de Ouro - Campinas,Guarani,Grêmio,0,3
+37,28/11/2010,17:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Goiás,3,1
+37,28/11/2010,17:00,Beira-Rio - Porto Alegre,Internacional,Vitória,1,1
+37,28/11/2010,17:00,Serra Dourada - Goiânia,Atlético-GO,São Paulo,1,1
+37,28/11/2010,17:00,Castelão - Fortaleza,Ceará,Atlético-PR,1,1
+37,28/11/2010,17:00,Ressacada - Florianópolis,Avaí,Santos,3,2
+38,02/12/2010,21:00,Prudentão - Presidente Prudente,Grêmio Barueri,Internacional,0,3
+38,05/12/2010,17:00,Morumbi - São Paulo,São Paulo,Atlético-MG,4,0
+38,05/12/2010,17:00,Vila Belmiro - Santos,Santos,Flamengo,0,0
+38,05/12/2010,17:00,São Januário - Rio de Janeiro,Vasco,Ceará,2,0
+38,05/12/2010,17:00,Engenhão - Rio de Janeiro,Fluminense,Guarani,1,0
+38,05/12/2010,17:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Palmeiras,2,1
+38,05/12/2010,17:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,3,0
+38,05/12/2010,17:00,Serra Dourada - Goiânia,Goiás,Corinthians,1,1
+38,05/12/2010,17:00,Barradão - Salvador,Vitória,Atlético-GO,0,0
+38,05/12/2010,17:00,Arena da Baixada - Curitiba,Atlético-PR,Avaí,1,0

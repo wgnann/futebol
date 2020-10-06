@@ -1,0 +1,381 @@
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora
+1,21/05/2011,18:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Atlético-PR,3,0
+1,21/05/2011,18:30,Presidente Vargas - Fortaleza,Ceará,Vasco,1,3
+1,21/05/2011,18:30,Cláudio Moacir Azevedo - Macaé,Flamengo,Avaí,4,0
+1,21/05/2011,21:00,Vila Belmiro - Santos,Santos,Internacional,1,1
+1,22/05/2011,16:00,Teixeirão - São José do Rio Preto,Palmeiras,Botafogo,1,0
+1,22/05/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,1,2
+1,22/05/2011,16:00,Couto Pereira - Curitiba,Coritiba,Atlético-GO,0,1
+1,22/05/2011,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,1,0
+1,22/05/2011,18:30,São Januário - Rio de Janeiro,Fluminense,São Paulo,0,2
+1,22/05/2011,18:30,Arena do Jacaré - Sete Lagoas,América-MG,Bahia,2,1
+2,28/05/2011,18:30,Beira-Rio - Porto Alegre,Internacional,Ceará,0,1
+2,28/05/2011,18:30,Engenhão - Rio De Janeiro,Botafogo,Santos,1,0
+2,28/05/2011,18:30,Ressacada - Florianópolis,Avaí,Atlético-MG,1,3
+2,28/05/2011,21:00,Morumbi - São Paulo,São Paulo,Figueirense,1,0
+2,29/05/2011,16:00,Arena da Fonte - Araraquara,Corinthians,Coritiba,2,1
+2,29/05/2011,16:00,Pituaçu - Salvador,Bahia,Flamengo,3,3
+2,29/05/2011,16:00,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,0,1
+2,29/05/2011,16:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Palmeiras,1,1
+2,29/05/2011,18:30,São Januário - Rio De Janeiro,Vasco,América-MG,3,0
+2,29/05/2011,18:30,Serra Dourada - Goiânia,Atlético-GO,Fluminense,0,1
+3,04/06/2011,18:30,Presidente Vargas - Fortaleza,Ceará,Botafogo,2,2
+3,04/06/2011,18:30,Engenhão - Rio De Janeiro,Fluminense,Cruzeiro,2,1
+3,04/06/2011,18:30,Canindé - São Paulo,Palmeiras,Atlético-PR,1,0
+3,04/06/2011,21:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-GO,2,0
+3,05/06/2011,16:00,Engenhão - Rio De Janeiro,Flamengo,Corinthians,1,1
+3,05/06/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Bahia,2,0
+3,05/06/2011,16:00,Couto Pereira - Curitiba,Coritiba,Vasco,5,1
+3,05/06/2011,18:30,Morenão - Campo Grande,América-MG,Internacional,2,4
+3,05/06/2011,18:30,Vila Belmiro - Santos,Santos,Avaí,3,1
+3,08/06/2011,21:50,Arena do Jacaré - Sete Lagoas,Atlético-MG,São Paulo,0,1
+4,11/06/2011,18:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Santos,1,1
+4,11/06/2011,18:30,Ressacada - Florianópolis,Avaí,América-MG,2,2
+4,11/06/2011,18:30,Morumbi - São Paulo,São Paulo,Grêmio,3,1
+4,11/06/2011,21:00,São Januário - Rio De Janeiro,Vasco,Figueirense,1,1
+4,12/06/2011,16:00,Pituaçu - Salvador,Bahia,Atlético-MG,1,1
+4,12/06/2011,16:00,Serra Dourada - Goiânia,Atlético-GO,Ceará,4,1
+4,12/06/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,2,2
+4,12/06/2011,16:00,Pacaembu - São Paulo,Corinthians,Fluminense,2,0
+4,12/06/2011,18:30,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,1,1
+4,12/06/2011,18:30,Engenhão - Rio De Janeiro,Botafogo,Coritiba,3,1
+5,18/06/2011,21:00,Engenhão - Rio De Janeiro,Fluminense,Bahia,0,1
+5,18/06/2011,21:00,Arena do Jacaré - Sete Lagoas,América-MG,Cruzeiro,1,1
+5,19/06/2011,16:00,Canindé - São Paulo,Palmeiras,Avaí,5,0
+5,19/06/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,1,1
+5,19/06/2011,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,2,0
+5,19/06/2011,16:00,Engenhão - Rio De Janeiro,Flamengo,Botafogo,0,0
+5,19/06/2011,16:00,Presidente Vargas - Fortaleza,Ceará,São Paulo,0,2
+5,19/06/2011,18:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Atlético-GO,2,2
+5,19/06/2011,18:30,Couto Pereira - Curitiba,Coritiba,Internacional,1,1
+5,10/08/2011,21:50,Vila Belmiro - Santos,Santos,Corinthians,0,0
+6,25/06/2011,18:30,Engenhão - Rio De Janeiro,Flamengo,Atlético-MG,4,1
+6,25/06/2011,18:30,Arena da Baixada - Curitiba,Atlético-PR,Bahia,0,2
+6,25/06/2011,21:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Coritiba,2,1
+6,26/06/2011,16:00,Pacaembu - São Paulo,Corinthians,São Paulo,5,0
+6,26/06/2011,16:00,Engenhão - Rio De Janeiro,Botafogo,Grêmio,2,1
+6,26/06/2011,16:00,Presidente Vargas - Fortaleza,Ceará,Palmeiras,2,0
+6,26/06/2011,16:00,Ressacada - Florianópolis,Avaí,Fluminense,0,1
+6,26/06/2011,18:30,Serra Dourada - Goiânia,Atlético-GO,Vasco,0,1
+6,26/06/2011,18:30,Beira-Rio - Porto Alegre,Internacional,Figueirense,4,1
+6,02/07/2011,18:30,Pacaembu - São Paulo,Santos,América-MG,1,0
+7,29/06/2011,19:30,São Januário - Rio De Janeiro,Vasco,Cruzeiro,0,3
+7,29/06/2011,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Avaí,2,2
+7,29/06/2011,19:30,Arena do Jacaré - Sete Lagoas,América-MG,Flamengo,2,3
+7,29/06/2011,21:50,Orlando Scarpelli - Florianópolis,Figueirense,Santos,2,1
+7,29/06/2011,21:50,Pituaçu - Salvador,Bahia,Corinthians,0,1
+7,29/06/2011,21:50,Morumbi - São Paulo,São Paulo,Botafogo,0,2
+7,30/06/2011,19:30,Canindé - São Paulo,Palmeiras,Atlético-GO,2,0
+7,30/06/2011,19:30,Couto Pereira - Curitiba,Coritiba,Ceará,3,1
+7,30/06/2011,21:00,Engenhão - Rio De Janeiro,Fluminense,Atlético-PR,3,1
+7,30/06/2011,21:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Internacional,0,4
+8,06/07/2011,19:30,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,1,0
+8,06/07/2011,19:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Grêmio,2,0
+8,06/07/2011,19:30,Ressacada - Florianópolis,Avaí,Bahia,2,2
+8,06/07/2011,21:50,Pacaembu - São Paulo,Corinthians,Vasco,2,1
+8,06/07/2011,21:50,Engenhão - Rio De Janeiro,Flamengo,São Paulo,1,0
+8,06/07/2011,21:50,Presidente Vargas - Fortaleza,Ceará,Atlético-MG,3,0
+8,07/07/2011,19:30,Engenhão - Rio De Janeiro,Botafogo,Atlético-GO,1,1
+8,07/07/2011,19:30,Couto Pereira - Curitiba,Coritiba,Figueirense,3,0
+8,07/07/2011,21:00,Arena do Jacaré - Sete Lagoas,América-MG,Palmeiras,1,1
+8,24/08/2011,20:30,Vila Belmiro - Santos,Santos,Fluminense,2,1
+9,09/07/2011,18:30,São Januário - Rio De Janeiro,Vasco,Internacional,2,0
+9,09/07/2011,18:30,Morumbi - São Paulo,São Paulo,Cruzeiro,2,1
+9,09/07/2011,21:00,Arena da Baixada - Curitiba,Atlético-PR,Avaí,0,0
+9,10/07/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Coritiba,2,0
+9,10/07/2011,16:00,Serra Dourada - Goiânia,Atlético-GO,Corinthians,0,1
+9,10/07/2011,16:00,Pituaçu - Salvador,Bahia,Botafogo,1,1
+9,10/07/2011,16:00,Engenhão - Rio De Janeiro,Fluminense,Flamengo,0,1
+9,10/07/2011,18:30,Orlando Scarpelli - Florianópolis,Figueirense,Ceará,1,1
+9,10/07/2011,18:30,Pacaembu - São Paulo,Palmeiras,Santos,3,0
+9,10/07/2011,18:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,América-MG,2,0
+10,16/07/2011,18:30,São Januário - Rio de Janeiro,Vasco,Atlético-PR,2,1
+10,16/07/2011,18:30,Couto Pereira - Curitiba,Coritiba,Fluminense,3,1
+10,16/07/2011,18:30,Serra Dourada - Goiânia,Atlético-GO,Avaí,0,1
+10,16/07/2011,21:00,Vila Belmiro - Santos,Santos,Atlético-MG,2,1
+10,17/07/2011,18:30,Presidente Vargas - Fortaleza,Ceará,América-MG,4,0
+10,17/07/2011,18:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Bahia,2,1
+10,17/07/2011,18:30,Beira-Rio - Porto Alegre,Internacional,São Paulo,0,3
+10,20/07/2011,21:50,Pacaembu - São Paulo,Palmeiras,Flamengo,0,0
+10,20/07/2011,21:50,São Januário - Rio de Janeiro,Botafogo,Corinthians,0,2
+10,20/07/2011,21:50,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,0,0
+11,21/07/2011,19:30,Ressacada - Florianópolis,Avaí,Internacional,1,3
+11,23/07/2011,18:30,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,2,1
+11,23/07/2011,18:30,Morumbi - São Paulo,São Paulo,Atlético-GO,2,2
+11,23/07/2011,18:30,Arena do Jacaré - Sete Lagoas,América-MG,Figueirense,0,0
+11,23/07/2011,21:00,Cláudio Moacir Azevedo - Macaé,Flamengo,Ceará,1,1
+11,24/07/2011,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Palmeiras,1,0
+11,24/07/2011,16:00,Pacaembu - São Paulo,Corinthians,Cruzeiro,0,1
+11,24/07/2011,16:00,Ipatingão - Ipatinga,Atlético-MG,Vasco,1,2
+11,24/07/2011,16:00,Pituaçu - Salvador,Bahia,Coritiba,0,0
+11,05/10/2011,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Santos,1,0
+12,14/07/2011,21:00,Pacaembu - São Paulo,Corinthians,Internacional,1,0
+12,27/07/2011,19:30,Engenhão - Rio de Janeiro,Botafogo,Avaí,2,1
+12,27/07/2011,19:30,Olímpico Monumental - Porto Alegre,Grêmio,América-MG,1,1
+12,27/07/2011,19:30,Ipatingão - Ipatinga,Atlético-MG,Fluminense,1,0
+12,27/07/2011,19:30,Serra Dourada - Goiânia,Atlético-GO,Cruzeiro,2,0
+12,27/07/2011,21:50,Vila Belmiro - Santos,Santos,Flamengo,4,5
+12,27/07/2011,21:50,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,0,1
+12,27/07/2011,21:50,Couto Pereira - Curitiba,Coritiba,São Paulo,3,4
+12,28/07/2011,19:30,São Januário - Rio de Janeiro,Vasco,Bahia,1,1
+12,28/07/2011,21:00,Presidente Vargas - Fortaleza,Ceará,Atlético-PR,2,1
+13,30/07/2011,18:30,Engenhão - Rio de Janeiro,Flamengo,Grêmio,2,0
+13,30/07/2011,18:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Botafogo,0,1
+13,30/07/2011,21:00,Canindé - São Paulo,Palmeiras,Atlético-MG,3,2
+13,31/07/2011,16:00,Morumbi - São Paulo,São Paulo,Vasco,0,2
+13,31/07/2011,16:00,Engenhão - Rio de Janeiro,Fluminense,Ceará,4,0
+13,31/07/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-GO,0,0
+13,31/07/2011,16:00,Ressacada - Florianópolis,Avaí,Corinthians,3,2
+13,31/07/2011,18:30,Arena do Jacaré - Sete Lagoas,América-MG,Coritiba,1,3
+13,31/07/2011,18:30,Arena da Baixada - Curitiba,Atlético-PR,Santos,3,2
+13,31/07/2011,18:30,Pituaçu - Salvador,Bahia,Figueirense,3,1
+14,03/08/2011,19:30,Pacaembu - São Paulo,Corinthians,América-MG,2,1
+14,03/08/2011,19:30,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-MG,2,2
+14,03/08/2011,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo,2,0
+14,03/08/2011,19:30,Presidente Vargas - Fortaleza,Ceará,Avaí,0,3
+14,03/08/2011,21:50,São Januário - Rio de Janeiro,Vasco,Santos,2,0
+14,03/08/2011,21:50,Arena do Jacaré - Sete Lagoas,Cruzeiro,Flamengo,0,1
+14,03/08/2011,21:50,Couto Pereira - Curitiba,Coritiba,Palmeiras,1,1
+14,04/08/2011,21:00,Morumbi - São Paulo,São Paulo,Bahia,3,0
+14,04/08/2011,21:00,Engenhão - Rio de Janeiro,Fluminense,Internacional,2,0
+14,04/08/2011,21:00,Serra Dourada - Goiânia,Atlético-GO,Atlético-PR,0,3
+15,06/08/2011,18:30,Engenhão - Rio De Janeiro,Flamengo,Coritiba,1,0
+15,06/08/2011,18:30,Canindé - São Paulo,Palmeiras,Grêmio,0,0
+15,06/08/2011,21:00,Ipatingão - Ipatinga,Atlético-MG,Figueirense,1,2
+15,07/08/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,3,2
+15,07/08/2011,16:00,Pacaembu - Santos,Santos,Ceará,1,0
+15,07/08/2011,16:00,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,1
+15,07/08/2011,16:00,Arena do Jacaré - Sete Lagoas,América-MG,Fluminense,3,0
+15,07/08/2011,18:30,Engenhão - Rio De Janeiro,Botafogo,Vasco,4,0
+15,07/08/2011,18:30,Ressacada - Florianópolis,Avaí,São Paulo,1,2
+15,07/08/2011,18:30,Pituaçu - Salvador,Bahia,Atlético-GO,2,1
+16,13/08/2011,18:30,Morumbi - São Paulo,São Paulo,Atlético-PR,2,2
+16,13/08/2011,18:30,Serra Dourada - Goiânia,Atlético-GO,Santos,2,0
+16,13/08/2011,18:30,Parque do Sabiá - Uberlândia,Cruzeiro,Avaí,5,0
+16,13/08/2011,21:00,Engenhão - Rio de Janeiro,Botafogo,América-MG,4,2
+16,14/08/2011,16:00,Pacaembu - São Paulo,Corinthians,Ceará,2,2
+16,14/08/2011,16:00,São Januário - Rio de Janeiro,Vasco,Palmeiras,1,0
+16,14/08/2011,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,2,2
+16,14/08/2011,16:00,Couto Pereira - Curitiba,Coritiba,Atlético-MG,3,0
+16,14/08/2011,18:30,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,2,1
+16,14/08/2011,18:30,Pituaçu - Salvador,Bahia,Internacional,1,1
+17,17/08/2011,19:30,Engenhão - Rio de Janeiro,Fluminense,Figueirense,3,0
+17,17/08/2011,19:30,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,2,1
+17,17/08/2011,19:30,Presidente Vargas - Fortaleza,Ceará,Grêmio,3,0
+17,17/08/2011,19:30,Ressacada - Florianópolis,Avaí,Vasco,0,2
+17,17/08/2011,21:50,Beira-Rio - Porto Alegre,Internacional,Botafogo,1,0
+17,17/08/2011,21:50,Vila Belmiro - Santos,Santos,Coritiba,2,3
+17,17/08/2011,21:50,Ipatingão - Ipatinga,Atlético-MG,Corinthians,2,3
+17,18/08/2011,21:00,Canindé - São Paulo,Palmeiras,Bahia,1,1
+17,18/08/2011,21:00,Arena do Jacaré - Sete Lagoas,América-MG,São Paulo,1,1
+17,18/08/2011,21:00,Engenhão - Rio De Janeiro,Flamengo,Atlético-GO,1,4
+18,20/08/2011,18:00,Parque do Sabiá - Uberlândia,Cruzeiro,Ceará,1,0
+18,20/08/2011,18:00,Engenhão - Rio De Janeiro,Botafogo,Atlético-MG,3,1
+18,20/08/2011,18:00,Pacaembu - São Paulo,Corinthians,Figueirense,0,2
+18,21/08/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,2,2
+18,21/08/2011,16:00,Ressacada - Florianópolis,Avaí,Coritiba,0,0
+18,21/08/2011,16:00,Morumbi - São Paulo,São Paulo,Palmeiras,1,1
+18,21/08/2011,16:00,Serra Dourada - Goiânia,Atlético-GO,Grêmio,1,0
+18,21/08/2011,18:00,Arena da Baixada - Curitiba,Atlético-PR,América-MG,2,2
+18,21/08/2011,18:00,Engenhão - Rio De Janeiro,Vasco,Fluminense,1,1
+18,21/08/2011,18:00,Pituaçu - Salvador,Bahia,Santos,1,2
+19,27/08/2011,18:00,Couto Pereira - Curitiba,Coritiba,Atlético-PR,1,1
+19,27/08/2011,18:00,Arena do Jacaré - Sete Lagoas,América-MG,Atlético-GO,1,2
+19,27/08/2011,18:00,Engenhão - Rio de Janeiro,Fluminense,Botafogo,1,2
+19,28/08/2011,16:00,Prudentão - Presidente Prudente (SP),Palmeiras,Corinthians,2,1
+19,28/08/2011,16:00,Vila Belmiro - Santos,Santos,São Paulo,1,1
+19,28/08/2011,16:00,Engenhão - Rio de Janeiro,Flamengo,Vasco,0,0
+19,28/08/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,2,1
+19,28/08/2011,16:00,Presidente Vargas - Fortaleza,Ceará,Bahia,3,0
+19,28/08/2011,18:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Cruzeiro,1,2
+19,28/08/2011,18:00,Orlando Scarpelli - Florianópolis,Figueirense,Avaí,2,3
+20,31/08/2011,18:00,Pacaembu - São Paulo,Corinthians,Grêmio,3,2
+20,31/08/2011,18:00,São Januário - Rio De Janeiro,Vasco,Ceará,3,1
+20,31/08/2011,20:30,Arena do Jacaré - Sete Lagoas,Cruzeiro,Figueirense,2,4
+20,31/08/2011,20:30,Serra Dourada - Goiânia,Atlético-GO,Coritiba,3,1
+20,31/08/2011,20:30,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,0,1
+20,31/08/2011,21:50,Morumbi - São Paulo,São Paulo,Fluminense,1,2
+20,31/08/2011,21:50,Engenhão - Rio De Janeiro,Botafogo,Palmeiras,3,1
+20,31/08/2011,21:50,Beira-Rio - Porto Alegre,Internacional,Santos,3,3
+20,31/08/2011,21:50,Ressacada - Florianópolis,Avaí,Flamengo,3,2
+20,01/09/2011,20:30,Pituaçu - Salvador,Bahia,América-MG,0,0
+21,03/09/2011,18:00,Raulino de Oliveira - Volta Redonda,Fluminense,Atlético-GO,3,2
+21,03/09/2011,18:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Avaí,2,0
+21,03/09/2011,18:00,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,1,2
+21,04/09/2011,16:00,Pacaembu - São Paulo,Palmeiras,Cruzeiro,1,1
+21,04/09/2011,16:00,Engenhão - Rio de Janeiro,Flamengo,Bahia,1,3
+21,04/09/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-PR,4,0
+21,04/09/2011,16:00,Couto Pereira - Curitiba,Coritiba,Corinthians,1,0
+21,04/09/2011,16:00,Arena do Jacaré - Sete Lagoas,América-MG,Vasco,4,1
+21,04/09/2011,18:00,Presidente Vargas - Fortaleza,Ceará,Internacional,1,1
+21,19/10/2011,20:30,Vila Belmiro - Santos,Santos,Botafogo,2,0
+22,07/09/2011,16:00,Morumbi - São Paulo,São Paulo,Atlético-MG,2,1
+22,07/09/2011,16:00,Engenhão - Rio de Janeiro,Botafogo,Ceará,4,0
+22,07/09/2011,16:00,Beira-Rio - Porto Alegre,Internacional,América-MG,4,2
+22,07/09/2011,16:00,Ressacada - Florianópolis,Avaí,Santos,1,2
+22,07/09/2011,21:50,João Havelange (MG) - Uberlândia,Cruzeiro,Fluminense,1,2
+22,07/09/2011,21:50,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,2,2
+22,07/09/2011,21:50,Serra Dourada - Goiânia,Atlético-GO,Figueirense,1,1
+22,08/09/2011,20:30,São Januário - Rio de Janeiro,Vasco,Coritiba,2,0
+22,08/09/2011,20:30,Pituaçu - Salvador,Bahia,Grêmio,1,2
+22,08/09/2011,21:50,Pacaembu - São Paulo,Corinthians,Flamengo,2,1
+23,10/09/2011,18:00,Vila Belmiro - Santos,Santos,Cruzeiro,1,0
+23,10/09/2011,18:00,Arena do Jacaré - Sete Lagoas,América-MG,Avaí,2,2
+23,11/09/2011,16:00,Pacaembu - São Paulo,Palmeiras,Internacional,0,3
+23,11/09/2011,16:00,Engenhão - Rio de Janeiro,Fluminense,Corinthians,1,0
+23,11/09/2011,16:00,Presidente Vargas - Fortaleza,Ceará,Atlético-GO,1,1
+23,11/09/2011,16:00,Couto Pereira - Curitiba,Coritiba,Botafogo,5,0
+23,11/09/2011,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,1,1
+23,11/09/2011,18:00,Cláudio Moacir Azevedo - Macaé,Flamengo,Atlético-PR,1,2
+23,11/09/2011,18:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,1,0
+23,11/09/2011,18:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Bahia,2,0
+24,17/09/2011,18:00,Serra Dourada - Goiânia,Atlético-GO,Atlético-MG,1,0
+24,17/09/2011,18:00,São Januário - Rio De Janeiro,Vasco,Grêmio,4,0
+24,17/09/2011,18:00,Morumbi - São Paulo,São Paulo,Ceará,4,0
+24,18/09/2011,16:00,Pituaçu - Salvador,Bahia,Fluminense,3,0
+24,18/09/2011,16:00,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,0,0
+24,18/09/2011,16:00,Ressacada - Florianópolis,Avaí,Palmeiras,1,1
+24,18/09/2011,16:00,Engenhão - Rio De Janeiro,Botafogo,Flamengo,1,1
+24,18/09/2011,16:00,Pacaembu - São Paulo,Corinthians,Santos,1,3
+24,18/09/2011,18:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,América-MG,0,0
+24,18/09/2011,18:00,Beira-Rio - Porto Alegre,Internacional,Coritiba,1,1
+25,21/09/2011,20:30,Engenhão - Rio de Janeiro,Fluminense,Avaí,3,1
+25,21/09/2011,20:30,Couto Pereira - Curitiba,Coritiba,Cruzeiro,2,1
+25,21/09/2011,20:30,João Havelange (MG) - Uberlândia,América-MG,Santos,1,2
+25,21/09/2011,20:30,Pituaçu - Salvador,Bahia,Atlético-PR,1,0
+25,21/09/2011,21:50,Morumbi - São Paulo,São Paulo,Corinthians,0,0
+25,21/09/2011,21:50,Arena do Jacaré - Sete Lagoas,Atlético-MG,Flamengo,1,1
+25,21/09/2011,21:50,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,1,1
+25,22/09/2011,20:30,Canindé - São Paulo,Palmeiras,Ceará,1,0
+25,22/09/2011,20:30,São Januário - Rio de Janeiro,Vasco,Atlético-GO,1,1
+25,22/09/2011,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,0,1
+26,24/09/2011,18:00,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,1,1
+26,24/09/2011,18:00,Vila Belmiro - Santos,Santos,Figueirense,2,3
+26,24/09/2011,18:00,Engenhão - Rio de Janeiro,Flamengo,América-MG,2,1
+26,25/09/2011,16:00,Pacaembu - São Paulo,Corinthians,Bahia,1,0
+26,25/09/2011,16:00,Engenhão - Rio de Janeiro,Botafogo,São Paulo,2,2
+26,25/09/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,2,1
+26,25/09/2011,16:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Vasco,0,3
+26,25/09/2011,16:00,Ressacada - Florianópolis,Avaí,Grêmio,1,2
+26,25/09/2011,18:00,Serra Dourada - Goiânia,Atlético-GO,Palmeiras,1,1
+26,25/09/2011,18:00,Presidente Vargas - Fortaleza,Ceará,Coritiba,3,2
+27,01/10/2011,18:00,Canindé - São Paulo,Palmeiras,América-MG,1,1
+27,01/10/2011,18:00,Raulino de Oliveira - Volta Redonda,Fluminense,Santos,3,2
+27,01/10/2011,18:00,Pituaçu - Salvador,Bahia,Avaí,3,2
+27,02/10/2011,16:00,Morumbi - São Paulo,São Paulo,Flamengo,1,2
+27,02/10/2011,16:00,São Januário - Rio De Janeiro,Vasco,Corinthians,2,2
+27,02/10/2011,16:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Ceará,1,1
+27,02/10/2011,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Coritiba,0,0
+27,02/10/2011,16:00,Arena da Baixada - Curitiba,Atlético-PR,Internacional,2,0
+27,02/10/2011,18:00,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,2,0
+27,02/10/2011,18:00,Serra Dourada - Goiânia,Atlético-GO,Botafogo,2,0
+28,05/10/2011,21:50,Arena do Jacaré - Sete Lagoas,Cruzeiro,São Paulo,3,3
+28,08/10/2011,18:00,São Januário - Rio de Janeiro,Botafogo,Bahia,2,2
+28,08/10/2011,18:00,Couto Pereira - Curitiba,Coritiba,Grêmio,2,0
+28,08/10/2011,18:00,Arena do Jacaré - Sete Lagoas,América-MG,Atlético-MG,0,0
+28,09/10/2011,16:00,Vila Belmiro - Santos,Santos,Palmeiras,1,0
+28,09/10/2011,16:00,Engenhão - Rio de Janeiro,Flamengo,Fluminense,3,2
+28,09/10/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,3,0
+28,09/10/2011,18:00,Pacaembu - São Paulo,Corinthians,Atlético-GO,3,0
+28,09/10/2011,18:00,Ressacada - Florianópolis,Avaí,Atlético-PR,3,0
+28,09/10/2011,18:00,Presidente Vargas - Fortaleza,Ceará,Figueirense,1,1
+29,12/10/2011,16:00,Arena Barueri - São Paulo,São Paulo,Internacional,0,0
+29,12/10/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,1,3
+29,12/10/2011,16:00,Ressacada - Florianópolis,Avaí,Atlético-GO,2,2
+29,12/10/2011,16:00,Arena do Jacaré - Sete Lagoas,América-MG,Ceará,4,1
+29,12/10/2011,21:50,Pacaembu - São Paulo,Corinthians,Botafogo,0,2
+29,12/10/2011,21:50,Engenhão - Rio de Janeiro,Flamengo,Palmeiras,1,1
+29,12/10/2011,21:50,Pituaçu - Salvador,Bahia,Cruzeiro,0,0
+29,13/10/2011,20:30,Engenhão - Rio de Janeiro,Fluminense,Coritiba,3,1
+29,13/10/2011,20:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Santos,2,1
+29,13/10/2011,20:30,Arena da Baixada - Curitiba,Atlético-PR,Vasco,2,2
+30,15/10/2011,18:00,Orlando Scarpelli - Florianópolis,Figueirense,América-MG,2,1
+30,15/10/2011,18:00,Presidente Vargas - Fortaleza,Ceará,Flamengo,0,1
+30,16/10/2011,16:00,Canindé - São Paulo,Palmeiras,Fluminense,1,2
+30,16/10/2011,16:00,Vila Belmiro - Santos,Santos,Grêmio,0,1
+30,16/10/2011,16:00,Engenhão - Rio de Janeiro,Botafogo,Atlético-PR,2,0
+30,16/10/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Avaí,4,2
+30,16/10/2011,16:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Corinthians,0,1
+30,16/10/2011,18:00,São Januário - Rio de Janeiro,Vasco,Atlético-MG,2,0
+30,16/10/2011,18:00,Couto Pereira - Curitiba,Coritiba,Bahia,0,0
+30,16/10/2011,18:00,Serra Dourada - Goiânia,Atlético-GO,São Paulo,3,0
+31,22/10/2011,18:00,Canindé - São Paulo,Palmeiras,Figueirense,1,2
+31,22/10/2011,18:00,Engenhão - Rio de Janeiro,Fluminense,Atlético-MG,0,2
+31,22/10/2011,18:00,Ressacada - Florianópolis,Avaí,Botafogo,3,2
+31,22/10/2011,18:00,Arena do Jacaré - Sete Lagoas,América-MG,Grêmio,2,2
+31,23/10/2011,16:00,Morumbi - São Paulo,São Paulo,Coritiba,0,0
+31,23/10/2011,16:00,Beira-Rio - Porto Alegre,Internacional,Corinthians,1,1
+31,23/10/2011,16:00,Arena da Baixada - Curitiba,Atlético-PR,Ceará,1,0
+31,23/10/2011,16:00,Pituaçu - Salvador,Bahia,Vasco,0,2
+31,23/10/2011,18:00,Engenhão - Rio de Janeiro,Flamengo,Santos,1,1
+31,23/10/2011,18:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Atlético-GO,3,2
+32,29/10/2011,18:00,Pacaembu - São Paulo,Santos,Atlético-PR,4,1
+32,29/10/2011,18:00,Engenhão - Rio De Janeiro,Botafogo,Cruzeiro,1,0
+32,29/10/2011,18:00,Presidente Vargas - Fortaleza,Ceará,Fluminense,1,2
+32,30/10/2011,16:00,Pacaembu - São Paulo,Corinthians,Avaí,2,1
+32,30/10/2011,16:00,São Januário - Rio de Janeiro,Vasco,São Paulo,0,0
+32,30/10/2011,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,4,2
+32,30/10/2011,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Bahia,2,1
+32,30/10/2011,18:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Palmeiras,2,1
+32,30/10/2011,18:00,Couto Pereira - Curitiba,Coritiba,América-MG,3,1
+32,30/10/2011,18:00,Serra Dourada - Goiânia,Atlético-GO,Internacional,0,1
+33,05/11/2011,19:00,Engenhão - Rio De Janeiro,Botafogo,Figueirense,0,1
+33,05/11/2011,19:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Grêmio,2,0
+33,05/11/2011,19:00,Pituaçu - Salvador,Bahia,São Paulo,4,3
+33,06/11/2011,17:00,Vila Belmiro - Santos,Santos,Vasco,2,0
+33,06/11/2011,17:00,Engenhão - Rio De Janeiro,Flamengo,Cruzeiro,5,1
+33,06/11/2011,17:00,Ressacada - Florianópolis,Avaí,Ceará,1,2
+33,06/11/2011,17:00,João Havelange (MG) - Uberlândia,América-MG,Corinthians,2,1
+33,06/11/2011,19:00,Arena Barueri - Barueri,Palmeiras,Coritiba,0,2
+33,06/11/2011,19:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,1,2
+33,06/11/2011,19:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-GO,2,1
+34,12/11/2011,19:00,Morumbi - São Paulo,São Paulo,Avaí,2,0
+34,12/11/2011,19:00,Engenhão - Rio De Janeiro,Fluminense,América-MG,1,2
+34,12/11/2011,19:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-MG,2,1
+34,13/11/2011,17:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,1
+34,13/11/2011,17:00,Presidente Vargas - Fortaleza,Ceará,Santos,2,3
+34,13/11/2011,17:00,Couto Pereira - Curitiba,Coritiba,Flamengo,2,0
+34,13/11/2011,17:00,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,2,2
+34,13/11/2011,19:00,Engenhão - Rio de Janeiro,Vasco,Botafogo,2,0
+34,13/11/2011,19:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Internacional,1,0
+34,13/11/2011,19:00,Serra Dourada - Goiânia,Atlético-GO,Bahia,0,1
+35,16/11/2011,20:30,Engenhão - Rio De Janeiro,Fluminense,Grêmio,5,4
+35,16/11/2011,20:30,Beira-Rio - Porto Alegre,Internacional,Bahia,1,0
+35,16/11/2011,20:30,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,1,0
+35,16/11/2011,20:30,Arena do Jacaré - Sete Lagoas,América-MG,Botafogo,2,1
+35,16/11/2011,21:50,Pacaembu - São Paulo,Palmeiras,Vasco,1,1
+35,16/11/2011,21:50,Ressacada - Florianópolis,Avaí,Cruzeiro,0,0
+35,16/11/2011,21:50,Presidente Vargas - Fortaleza,Ceará,Corinthians,0,1
+35,17/11/2011,20:30,Pacaembu - São Paulo,Santos,Atlético-GO,1,1
+35,17/11/2011,20:30,Engenhão - Rio De Janeiro,Flamengo,Figueirense,0,0
+35,17/11/2011,20:30,Arena do Jacaré - Sete Lagoas,Atlético-MG,Coritiba,2,1
+36,19/11/2011,19:00,Morumbi - São Paulo,São Paulo,América-MG,3,1
+36,19/11/2011,19:00,São Januário - Rio De Janeiro,Vasco,Avaí,2,0
+36,19/11/2011,19:00,Olímpico Monumental - Porto Alegre,Grêmio,Ceará,1,3
+36,20/11/2011,17:00,Pacaembu - São Paulo,Corinthians,Atlético-MG,2,1
+36,20/11/2011,17:00,Engenhão - Rio De Janeiro,Botafogo,Internacional,1,2
+36,20/11/2011,17:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Atlético-PR,1,1
+36,20/11/2011,17:00,Serra Dourada - Goiânia,Atlético-GO,Flamengo,0,0
+36,20/11/2011,19:00,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,0,4
+36,20/11/2011,19:00,Couto Pereira - Curitiba,Coritiba,Santos,1,0
+36,20/11/2011,19:00,Pituaçu - Salvador,Bahia,Palmeiras,0,2
+37,27/11/2011,17:00,Pacaembu - São Paulo,Palmeiras,São Paulo,1,0
+37,27/11/2011,17:00,Vila Belmiro - Santos,Santos,Bahia,1,1
+37,27/11/2011,17:00,Cláudio Moacir Azevedo - Macaé,Flamengo,Internacional,1,0
+37,27/11/2011,17:00,Engenhão - Rio De Janeiro,Fluminense,Vasco,1,2
+37,27/11/2011,17:00,Olímpico Monumental - Porto Alegre,Grêmio,Atlético-GO,2,2
+37,27/11/2011,17:00,Arena do Jacaré - Sete Lagoas,Atlético-MG,Botafogo,4,0
+37,27/11/2011,17:00,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,0,1
+37,27/11/2011,17:00,Couto Pereira - Curitiba,Coritiba,Avaí,1,0
+37,27/11/2011,17:00,João Havelange (MG) - Uberlândia,América-MG,Atlético-PR,2,1
+37,27/11/2011,17:00,Presidente Vargas - Fortaleza,Ceará,Cruzeiro,2,2
+38,04/12/2011,17:00,Pacaembu - São Paulo,Corinthians,Palmeiras,0,0
+38,04/12/2011,17:00,Romildão - Mogi Mirim,São Paulo,Santos,4,1
+38,04/12/2011,17:00,Beira-Rio - Porto Alegre,Internacional,Grêmio,1,0
+38,04/12/2011,17:00,Arena do Jacaré - Sete Lagoas,Cruzeiro,Atlético-MG,6,1
+38,04/12/2011,17:00,Serra Dourada - Goiânia,Atlético-GO,América-MG,5,1
+38,04/12/2011,17:00,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,1,0
+38,04/12/2011,17:00,Pituaçu - Salvador,Bahia,Ceará,2,1
+38,04/12/2011,17:00,Ressacada - Florianópolis,Avaí,Figueirense,1,1
+38,04/12/2011,17:00,Raulino de Oliveira - Volta Redonda,Botafogo,Fluminense,1,1
+38,04/12/2011,17:00,Engenhão - Rio de Janeiro,Vasco,Flamengo,1,1
