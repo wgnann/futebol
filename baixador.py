@@ -1,7 +1,7 @@
-import csv
 import requests
 import sys
 from bs4 import BeautifulSoup
+from gera_csv import gera_csv
 
 def filtra_desc(desc):
     datas = []
@@ -58,22 +58,11 @@ def parse_ano(ano):
         i += 1
     return partidas
 
-def gera_csv(ano):
-    colunas = [
-        'rodada', 'data', 'hora', 'local',
-        'casa', 'fora', 'gols_casa', 'gols_fora'
-    ]
-    destino = open(str(ano)+'.csv', 'w')
-    writer = csv.DictWriter(destino, fieldnames=colunas)
-    writer.writeheader()
-    partidas = parse_ano(ano)
-    for partida in partidas:
-        writer.writerow(partida)
-
 def main():
     ano = int(sys.argv[1])
     if (ano < 2012 or ano > 2019):
         raise Exception('ano inválido: precisa ser entre 2012 e 2019')
-    gera_csv(ano)
+    partidas = parse_ano(ano)
+    gera_csv(ano, partidas)
 
 main()
