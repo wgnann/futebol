@@ -3,7 +3,8 @@ import csv
 def gera_csv(ano, partidas):
     colunas = [
         'rodada', 'data', 'hora', 'local',
-        'casa', 'fora', 'gols_casa', 'gols_fora'
+        'casa', 'fora', 'gols_casa', 'gols_fora',
+        'tecnico_casa', 'tecnico_fora'
     ]
     destino = open(str(ano)+'.csv', 'w')
     writer = csv.DictWriter(destino, fieldnames=colunas)

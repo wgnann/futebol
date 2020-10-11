@@ -1,3 +1,4 @@
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -7,6 +8,53 @@ def trata_horario(horario):
     if (horario[1] == ''):
         M = "00"
     return H+":"+M
+
+def extrai_tecnicos(texto):
+    tecnicos = ["N/A", "N/A"]
+    i = 0
+    for t in texto.contents:
+        if "écnico:" in t:
+            # Técnico: Levir Culpi
+            tmp = t.split(":")
+            tecnicos[i] = tmp[1].strip()
+            i += 1
+    return tecnicos
+
+def encontra_tecnicos(url):
+    tecnicos = ["N/A", "N/A"]
+    if (url == None):
+        # não teve relato de jogo
+        return tecnicos
+    page = requests.get(url)
+    parser = BeautifulSoup(page.content, 'lxml')
+    # diversos tratamentos para entrada de dados
+    page = str(parser).replace("<b>","").replace("</b>","")
+    page = re.sub("Técnico [a-z]", "técnico", page)
+    page = page.replace("Técnico ","Técnico: ")
+    page = page.replace("Técnco:","Técnico:")
+    page = page.replace("Técnico&gt","Técnico:")
+    page = page.replace("Técnicos:","Técnico:")
+    page = page.replace("Ténico:","Técnico:")
+    parser = BeautifulSoup(page, 'lxml')
+    texto = parser.find("span", {"class": "noticialink"})
+    if (texto == None):
+        # página do tipo pelenet
+        texto = parser.find("td", {"class": "man"})
+        if (texto == None):
+            # 2007 em diante
+            texto = parser.find("div", {"id": "texto"})
+            if (texto == None):
+                return tecnicos
+    tecnicos = extrai_tecnicos(texto)
+    # texto desestruturado
+    if (tecnicos[0] == "N/A"):
+        blocos = parser.find_all("p")
+        for texto in blocos:
+            tecnicos = extrai_tecnicos(texto)
+            # para no bloco correto
+            if (tecnicos[0] != "N/A"):
+                break
+    return tecnicos
 
 def processa_rodada(rodada, mes, ano):
     partida = {}
@@ -32,9 +80,23 @@ def processa_rodada(rodada, mes, ano):
             local = dados[4].get_text()
             partida['local'] = estadio+" - "+local
             # ['2 ', ' 2']
-            gols = linha.find("th").get_text().split('x')
+            resultado = linha.find("th")
+            gols = resultado.get_text().split('x')
             partida['gols_casa'] = gols[0].strip()
             partida['gols_fora'] = gols[1].strip()
+            # url fica à direita
+            if (len(dados) > 5):
+                url = dados[5].find("a")
+                if (url != None):
+                    url = url.get("href")
+            else:
+                url = resultado.next.get("href")
+            tecnicos = encontra_tecnicos(url)
+            partida['tecnico_casa'] = tecnicos[0]
+            partida['tecnico_fora'] = tecnicos[1]
+            if (tecnicos[0] == "N/A" or tecnicos[1] == "N/A"):
+                print(url)
+                print("{rodada}, {data}, {casa}, {fora}".format_map(partida))
             partidas.append(partida)
             partida = {}
     return partidas
