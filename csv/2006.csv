@@ -1,381 +1,381 @@
-rodada,data,hora,local,casa,fora,gols_casa,gols_fora
-1,15/4/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Paraná Clube,1,0
-1,15/4/2006,18:10,São Januário - Rio De Janeiro,Vasco,Internacional,1,1
-1,16/4/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,2,0
-1,16/4/2006,16:00,Morumbi - São Paulo,São Paulo,Flamengo,1,0
-1,16/4/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Cruzeiro,2,1
-1,16/4/2006,16:00,Maracanã - Rio De Janeiro,Botafogo,Fortaleza,1,0
-1,16/4/2006,18:10,Arruda - Recife,Santa Cruz-PE,Figueirense,0,0
-1,16/4/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Ponte Preta,2,3
-1,16/4/2006,18:10,Serra Dourada - Goiânia,Goiás,Santos,0,0
-1,16/4/2006,18:10,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,1,2
-2,22/4/2006,16:00,Pacaembu - São Paulo,Corinthians,São Caetano,3,0
-2,22/4/2006,18:10,Maracanã - Rio de Janeiro,Fluminense,Goiás,1,0
-2,22/4/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,6,1
-2,23/4/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Santa Cruz-PE,1,0
-2,23/4/2006,16:00,João Paulo II - Mogi Mirim,Santos,Atlético-PR,2,0
-2,23/4/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Vasco,1,2
-2,23/4/2006,16:00,Maracanã - Rio De Janeiro,Flamengo,Juventude,3,1
-2,23/4/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,3,1
-2,23/4/2006,18:10,Pinheirão - Curitiba,Paraná Clube,Botafogo,0,0
-2,23/4/2006,18:10,Castelão - Fortaleza,Fortaleza,São Paulo,1,0
-3,29/4/2006,16:00,Castelão - Fortaleza,Fortaleza,São Caetano,2,1
-3,29/4/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Atlético-PR,0,4
-3,29/4/2006,18:10,Morumbi - São Paulo,São Paulo,Santa Cruz-PE,4,0
-3,30/4/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,1,0
-3,30/4/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Corinthians,3,2
-3,30/4/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Grêmio,5,2
-3,30/4/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Santos,1,2
-3,30/4/2006,18:10,Maracanã - Rio De Janeiro,Vasco,Fluminense,1,1
-3,30/4/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Goiás,1,1
-3,30/4/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,0,2
-4,06/5/2006,16:00,Arruda - Recife,Santa Cruz-PE,Ponte Preta,1,1
-4,06/5/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Paraná Clube,2,1
-4,06/5/2006,18:10,Bruno José Daniel - Santo André,Santos,Fortaleza,2,0
-4,07/5/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,1,2
-4,07/5/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Palmeiras,2,0
-4,07/5/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Internacional,1,2
-4,07/5/2006,16:00,Teixeirão - São José do Rio Preto,Corinthians,São Paulo,1,3
-4,07/5/2006,18:10,Serra Dourada - Goiânia,Goiás,Figueirense,2,1
-4,07/5/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Botafogo,1,0
-4,07/5/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Juventude,2,0
-5,13/5/2006,18:10,Anacleto Campanella - São Caetano Do Sul,São Caetano,Juventude,0,2
-5,13/5/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Grêmio,2,2
-5,13/5/2006,18:10,Vila Belmiro - Santos,Santos,Ponte Preta,3,1
-5,14/5/2006,16:00,Arruda - Recife,Santa Cruz-PE,Atlético-PR,1,2
-5,14/5/2006,16:00,Beira-Rio - Porto Alegre,Internacional,São Paulo,3,1
-5,14/5/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,1,0
-5,14/5/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,1,1
-5,14/5/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Fortaleza,0,0
-5,14/5/2006,18:10,Willie Davis - Maringá,Paraná Clube,Corinthians,1,2
-5,14/5/2006,18:10,Serra Dourada - Goiânia,Goiás,Vasco,2,0
-6,20/5/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Goiás,2,3
-6,20/5/2006,16:00,Castelão - Fortaleza,Fortaleza,Paraná Clube,1,1
-6,20/5/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Figueirense,2,4
-6,20/5/2006,18:10,Morumbi - São Paulo,São Paulo,São Caetano,1,0
-6,21/5/2006,16:00,São Januário - Rio De Janeiro,Vasco,Corinthians,2,4
-6,21/5/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,2,1
-6,21/5/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Santa Cruz-PE,2,1
-6,21/5/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Grêmio,1,1
-6,21/5/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Santos,1,0
-6,21/5/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Botafogo,1,0
-7,24/5/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Santa Cruz-PE,4,1
-7,24/5/2006,19:30,Pinheirão - Curitiba,Paraná Clube,Figueirense,0,0
-7,24/5/2006,19:30,Mineirão - Belo Horizonte,Cruzeiro,Ponte Preta,5,1
-7,24/5/2006,20:30,Morumbi - São Paulo,São Paulo,Palmeiras,4,1
-7,24/5/2006,21:45,Anacleto Campanella - São Caetano Do Sul,São Caetano,Atlético-PR,2,1
-7,24/5/2006,21:45,Maracanã - Rio De Janeiro,Flamengo,Santos,2,2
-7,24/5/2006,21:45,Castelão - Fortaleza,Fortaleza,Fluminense,2,5
-7,25/5/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Vasco,4,1
-7,25/5/2006,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,2,0
-7,25/5/2006,20:30,Morumbi - São Paulo,Corinthians,Internacional,0,1
-8,27/5/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Fortaleza,0,0
-8,27/5/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Paraná Clube,2,5
-8,27/5/2006,18:10,Arena da Baixada - Curitiba,Atlético-PR,Juventude,1,0
-8,28/5/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,1,1
-8,28/5/2006,16:00,Vila Belmiro - Santos,Santos,Corinthians,2,0
-8,28/5/2006,16:00,Arruda - Recife,Santa Cruz-PE,Botafogo,1,1
-8,28/5/2006,16:30,Maracanã - Rio De Janeiro,Fluminense,Flamengo,1,0
-8,28/5/2006,18:10,Serra Dourada - Goiânia,Goiás,São Caetano,2,1
-8,28/5/2006,18:10,São Januário - Rio De Janeiro,Vasco,São Paulo,1,1
-8,28/5/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Grêmio,0,1
-9,31/5/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Ponte Preta,0,1
-9,31/5/2006,19:30,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,1,1
-9,31/5/2006,19:30,Castelão - Fortaleza,Fortaleza,Vasco,1,1
-9,31/5/2006,20:30,Anacleto Campanella - São Caetano Do Sul,São Caetano,Internacional,1,1
-9,31/5/2006,21:45,Maracanã - Rio De Janeiro,Flamengo,Palmeiras,2,1
-9,31/5/2006,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Santos,1,0
-9,31/5/2006,21:45,Morumbi - São Paulo,São Paulo,Fluminense,1,0
-9,01/6/2006,20:30,Pinheirão - Curitiba,Paraná Clube,Santa Cruz-PE,3,0
-9,01/6/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Figueirense,2,3
-9,01/6/2006,20:30,Morumbi - São Paulo,Corinthians,Goiás,0,1
-10,03/6/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Internacional,2,3
-10,03/6/2006,16:00,Castelão - Fortaleza,Fortaleza,Cruzeiro,0,2
-10,03/6/2006,18:10,Olímpico Monumental - Porto Alegre,Grêmio,São Caetano,1,1
-10,04/6/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,2,0
-10,04/6/2006,16:00,São Januário - Rio De Janeiro,Vasco,Santa Cruz-PE,2,1
-10,04/6/2006,16:00,Morumbi - São Paulo,Corinthians,Flamengo,0,2
-10,04/6/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Figueirense,3,0
-10,04/6/2006,18:10,Serra Dourada - Goiânia,Goiás,Paraná Clube,1,2
-10,04/6/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,São Paulo,1,1
-10,04/6/2006,18:10,Vila Belmiro - Santos,Santos,Botafogo,0,0
-11,12/7/2006,19:30,Beira-Rio - Porto Alegre,Internacional,Ponte Preta,2,0
-11,12/7/2006,19:30,Arena da Baixada - Curitiba,Atlético-PR,Fortaleza,0,0
-11,12/7/2006,19:30,Raulino de Oliveira - Volta Redonda,Fluminense,Juventude,3,2
-11,12/7/2006,20:30,Morumbi - São Paulo,São Paulo,Grêmio,2,1
-11,12/7/2006,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Santos,2,1
-11,12/7/2006,21:45,Anacleto Campanella - São Caetano Do Sul,São Caetano,Botafogo,1,1
-11,12/7/2006,21:45,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,2,0
-11,13/7/2006,20:30,Arruda - Recife,Santa Cruz-PE,Goiás,2,1
-11,13/7/2006,20:30,Raulino de Oliveira - Volta Redonda,Flamengo,Paraná Clube,1,4
-11,13/7/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Vasco,4,2
-12,15/7/2006,16:00,Raulino de Oliveira - Volta Redonda,Botafogo,Ponte Preta,4,1
-12,15/7/2006,18:10,Morumbi - São Paulo,São Paulo,Figueirense,2,1
-12,16/7/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,4,4
-12,16/7/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Santos,2,0
-12,16/7/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Goiás,0,0
-12,16/7/2006,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,1,0
-12,16/7/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Vasco,0,1
-12,16/7/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Internacional,2,0
-12,16/7/2006,18:10,Pinheirão - Curitiba,Paraná Clube,Atlético-PR,2,1
-12,16/7/2006,18:10,Castelão - Fortaleza,Fortaleza,Santa Cruz-PE,1,4
-13,22/7/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,2,0
-13,22/7/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Cruzeiro,1,0
-13,22/7/2006,18:10,Morumbi - São Paulo,Corinthians,Fortaleza,2,2
-13,22/7/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,São Caetano,2,2
-13,23/7/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,São Paulo,1,3
-13,23/7/2006,16:00,São Januário - Rio De Janeiro,Vasco,Atlético-PR,2,1
-13,23/7/2006,16:00,Arruda - Recife,Santa Cruz-PE,Flamengo,3,0
-13,23/7/2006,18:10,Vila Belmiro - Santos,Santos,Juventude,3,2
-13,23/7/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Botafogo,0,0
-13,23/7/2006,18:10,Serra Dourada - Goiânia,Goiás,Palmeiras,1,3
-14,29/7/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Figueirense,1,0
-14,29/7/2006,18:10,Anacleto Campanella - São Caetano Do Sul,São Caetano,Ponte Preta,1,1
-14,29/7/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Paraná Clube,4,2
-14,30/7/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,1,0
-14,30/7/2006,16:00,São Januário - Rio De Janeiro,Vasco,Cruzeiro,1,0
-14,30/7/2006,16:00,Arruda - Recife,Santa Cruz-PE,Corinthians,1,0
-14,30/7/2006,16:00,Morumbi - São Paulo,São Paulo,Santos,0,4
-14,30/7/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Botafogo,1,1
-14,30/7/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Grêmio,0,0
-14,30/7/2006,18:10,Serra Dourada - Goiânia,Goiás,Fortaleza,1,1
-15,05/8/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Juventude,1,0
-15,05/8/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,São Caetano,1,1
-15,05/8/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Goiás,1,0
-15,05/8/2006,18:10,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,1
-15,06/8/2006,16:00,Raulino de Oliveira - Volta Redonda,Botafogo,São Paulo,1,1
-15,06/8/2006,16:00,Vila Belmiro - Santos,Santos,Internacional,2,1
-15,06/8/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Vasco,2,1
-15,06/8/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Fluminense,3,0
-15,06/8/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Santa Cruz-PE,3,3
-15,06/8/2006,18:10,Presidente Vargas - Fortaleza,Fortaleza,Palmeiras,0,0
-16,12/8/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Vasco,0,0
-16,12/8/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Santa Cruz-PE,2,0
-16,12/8/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Ponte Preta,0,0
-16,12/8/2006,18:10,Pacaembu - São Paulo,Corinthians,Figueirense,1,3
-16,13/8/2006,16:00,Maracanã - Rio De Janeiro,Botafogo,Palmeiras,1,3
-16,13/8/2006,16:00,Centenário de Caxias - Caxias do Sul,Grêmio,Atlético-PR,2,0
-16,13/8/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,3
-16,13/8/2006,18:10,Castelão - Fortaleza,Fortaleza,Internacional,1,2
-16,13/8/2006,18:10,Morumbi - São Paulo,São Paulo,Goiás,2,1
-16,13/8/2006,18:10,Pinheirão - Curitiba,Paraná Clube,Santos,1,1
-17,16/8/2006,19:30,Moisés Lucarelli - Campinas,Ponte Preta,Fortaleza,1,3
-17,16/8/2006,19:30,São Januário - Rio De Janeiro,Vasco,São Caetano,1,2
-17,16/8/2006,19:30,Arruda - Recife,Santa Cruz-PE,Grêmio,2,4
-17,16/8/2006,20:30,Serra Dourada - Goiânia,Goiás,Botafogo,2,2
-17,16/8/2006,22:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,1,1
-17,16/8/2006,22:00,Maracanã - Rio De Janeiro,Fluminense,Corinthians,1,2
-17,17/8/2006,20:30,Vila Belmiro - Santos,Santos,Cruzeiro,2,0
-17,17/8/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,1,1
-18,19/8/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Goiás,3,2
-18,19/8/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Grêmio,1,0
-18,20/8/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Santa Cruz-PE,1,1
-18,20/8/2006,16:00,Vila Belmiro - Santos,Santos,Vasco,0,2
-18,20/8/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,2,2
-18,20/8/2006,16:00,Presidente Vargas - Fortaleza,Fortaleza,Juventude,4,1
-18,20/8/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,3,3
-18,20/8/2006,18:10,Pinheirão - Curitiba,Paraná Clube,São Caetano,1,0
-18,20/8/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Palmeiras,1,1
-18,20/8/2006,18:10,Pacaembu - São Paulo,Corinthians,Botafogo,1,0
-19,23/8/2006,19:30,Serra Dourada - Goiânia,Goiás,Internacional,2,2
-19,23/8/2006,19:30,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,0
-19,23/8/2006,19:30,Arena da Baixada - Curitiba,Atlético-PR,Ponte Preta,3,0
-19,23/8/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Cruzeiro,1,0
-19,23/8/2006,22:00,Arruda - Recife,Santa Cruz-PE,Santos,1,1
-19,23/8/2006,22:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Corinthians,0,0
-19,23/8/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Flamengo,2,2
-19,24/8/2006,20:30,Centenário de Caxias - Caxias do Sul,Grêmio,Fortaleza,4,1
-19,24/8/2006,20:30,Morumbi - São Paulo,São Paulo,Paraná Clube,3,2
-19,24/8/2006,20:30,São Januário - Rio De Janeiro,Vasco,Figueirense,3,1
-20,26/8/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Atlético-PR,1,2
-20,26/8/2006,18:10,Vila Belmiro - Santos,Santos,Goiás,2,1
-20,26/8/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,São Caetano,3,0
-20,27/8/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,1,2
-20,27/8/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Juventude,0,1
-20,27/8/2006,16:00,Maracanã - Rio De Janeiro,Flamengo,São Paulo,1,1
-20,27/8/2006,16:00,Pacaembu - São Paulo,Corinthians,Grêmio,0,2
-20,27/8/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Santa Cruz-PE,2,0
-20,27/8/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Palmeiras,1,1
-20,27/8/2006,18:10,Castelão - Fortaleza,Fortaleza,Botafogo,2,3
-21,30/8/2006,19:30,Centenário de Caxias - Caxias do Sul,Grêmio,Cruzeiro,2,1
-21,30/8/2006,19:30,Serra Dourada - Goiânia,Goiás,Fluminense,3,1
-21,30/8/2006,19:30,Arruda - Recife,Santa Cruz-PE,Internacional,0,2
-21,30/8/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,1,1
-21,30/8/2006,22:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Flamengo,1,0
-21,30/8/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Corinthians,0,1
-21,30/8/2006,22:00,Arena da Baixada - Curitiba,Atlético-PR,Santos,2,1
-21,31/8/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Paraná Clube,4,0
-21,31/8/2006,20:30,Morumbi - São Paulo,São Paulo,Fortaleza,1,1
-21,31/8/2006,20:30,São Januário - Rio De Janeiro,Vasco,Ponte Preta,2,2
-22,02/9/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,2,2
-22,02/9/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Internacional,1,2
-22,03/9/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Paraná Clube,2,1
-22,03/9/2006,16:00,Vila Belmiro - Santos,Santos,Palmeiras,5,1
-22,03/9/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Fortaleza,0,0
-22,03/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,0,5
-22,03/9/2006,16:00,Serra Dourada - Goiânia,Goiás,Juventude,2,0
-22,03/9/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Vasco,1,1
-22,03/9/2006,18:10,Arruda - Recife,Santa Cruz-PE,São Paulo,1,3
-22,03/9/2006,18:10,Pacaembu - São Paulo,Corinthians,Ponte Preta,1,0
-23,09/9/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Santa Cruz-PE,2,0
-23,09/9/2006,18:10,São Januário - Rio De Janeiro,Vasco,Grêmio,1,1
-23,09/9/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,São Caetano,3,1
-23,10/9/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,2,2
-23,10/9/2006,16:00,Morumbi - São Paulo,São Paulo,Corinthians,0,0
-23,10/9/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Fluminense,1,0
-23,10/9/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Cruzeiro,2,0
-23,10/9/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Flamengo,0,2
-23,10/9/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,2,0
-23,10/9/2006,18:10,Presidente Vargas - Fortaleza,Fortaleza,Santos,1,1
-24,16/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Santa Cruz-PE,2,1
-24,16/9/2006,18:10,São Januário - Rio De Janeiro,Vasco,Goiás,0,0
-24,16/9/2006,18:10,Pacaembu - São Paulo,Corinthians,Paraná Clube,1,0
-24,17/9/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,4,0
-24,17/9/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,São Caetano,1,0
-24,17/9/2006,16:00,Morumbi - São Paulo,São Paulo,Internacional,2,0
-24,17/9/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,1,0
-24,17/9/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Figueirense,2,0
-24,17/9/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Santos,1,0
-24,17/9/2006,18:10,Castelão - Fortaleza,Fortaleza,Flamengo,3,4
-25,20/9/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Ponte Preta,4,0
-25,20/9/2006,19:30,Maracanã - Rio De Janeiro,Botafogo,Juventude,2,1
-25,20/9/2006,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,1,0
-25,20/9/2006,19:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Fortaleza,2,0
-25,20/9/2006,20:30,Serra Dourada - Goiânia,Goiás,Atlético-PR,2,2
-25,20/9/2006,22:00,Vila Belmiro - Santos,Santos,Fluminense,1,1
-25,20/9/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,São Paulo,0,1
-25,20/9/2006,22:00,Pacaembu - São Paulo,Corinthians,Vasco,1,1
-25,21/9/2006,20:30,Maracanã - Rio De Janeiro,Flamengo,Cruzeiro,1,0
-25,21/9/2006,20:30,Arruda - Recife,Santa Cruz-PE,Palmeiras,3,2
-26,23/9/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Fortaleza,1,3
-26,23/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Caetano,3,1
-26,24/9/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Corinthians,1,1
-26,24/9/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Paraná Clube,0,1
-26,24/9/2006,16:00,Vila Belmiro - Santos,Santos,Flamengo,3,0
-26,24/9/2006,16:00,Arruda - Recife,Santa Cruz-PE,Juventude,1,0
-26,24/9/2006,16:00,Eduardo José Farah - Presidente Prudente,Palmeiras,São Paulo,3,1
-26,24/9/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Cruzeiro,0,1
-26,24/9/2006,18:10,Maracanã - Rio De Janeiro,Vasco,Botafogo,0,0
-26,24/9/2006,18:10,Serra Dourada - Goiânia,Goiás,Grêmio,4,0
-17,30/9/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Paraná Clube,3,2
-17,30/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,0,0
-27,04/10/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Atlético-PR,3,2
-27,04/10/2006,19:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Ponte Preta,2,1
-27,04/10/2006,19:30,Presidente Vargas - Fortaleza,Fortaleza,Figueirense,1,1
-27,04/10/2006,20:30,Maracanã - Rio De Janeiro,Flamengo,Fluminense,4,1
-27,04/10/2006,22:00,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,2,1
-27,04/10/2006,22:00,Morumbi - São Paulo,São Paulo,Vasco,5,1
-27,04/10/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Goiás,1,2
-27,05/10/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Santa Cruz-PE,3,0
-27,05/10/2006,20:30,Mineirão - Belo Horizonte,Cruzeiro,Internacional,2,1
-27,05/10/2006,20:30,Pacaembu - São Paulo,Corinthians,Santos,0,3
-28,07/10/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Juventude,3,1
-28,07/10/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,São Paulo,1,2
-28,07/10/2006,18:10,São Januário - Rio De Janeiro,Vasco,Fortaleza,2,0
-28,08/10/2006,16:00,Beira-Rio - Porto Alegre,Internacional,São Caetano,1,0
-28,08/10/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,1,1
-28,08/10/2006,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,3,1
-28,08/10/2006,16:00,Arruda - Recife,Santa Cruz-PE,Paraná Clube,1,3
-28,08/10/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Flamengo,3,1
-28,08/10/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo,1,0
-28,08/10/2006,18:10,Vila Belmiro - Santos,Santos,Grêmio,1,0
-29,14/10/2006,16:00,Independência - Belo Horizonte,Cruzeiro,Fortaleza,0,0
-29,14/10/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Santos,4,3
-29,14/10/2006,18:10,Morumbi - São Paulo,São Paulo,Juventude,5,0
-29,14/10/2006,18:10,Anacleto Campanella - São Caetano Do Sul,São Caetano,Grêmio,0,2
-29,15/10/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,2,0
-29,15/10/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Ponte Preta,2,1
-29,15/10/2006,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Goiás,1,0
-29,15/10/2006,16:00,Maracanã - Rio De Janeiro,Flamengo,Corinthians,3,0
-29,15/10/2006,18:10,Arruda - Recife,Santa Cruz-PE,Vasco,0,4
-29,15/10/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Atlético-PR,2,2
-30,18/10/2006,22:00,São Januário - Rio De Janeiro,Vasco,Palmeiras,3,0
-30,21/10/2006,16:00,Serra Dourada - Goiânia,Goiás,Santa Cruz-PE,5,3
-30,21/10/2006,18:10,Vila Belmiro - Santos,Santos,Figueirense,2,1
-30,21/10/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Internacional,0,2
-30,22/10/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,1,1
-30,22/10/2006,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Flamengo,0,2
-30,22/10/2006,16:00,Presidente Vargas - Fortaleza,Fortaleza,Atlético-PR,3,4
-30,22/10/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,São Caetano,2,1
-30,22/10/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Fluminense,1,1
-30,22/10/2006,18:10,Pacaembu - São Paulo,Corinthians,Cruzeiro,1,0
-31,25/10/2006,22:00,Morumbi - São Paulo,Corinthians,Palmeiras,1,0
-31,26/10/2006,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Grêmio,1,2
-31,26/10/2006,20:30,Beira-Rio - Porto Alegre,Internacional,Juventude,1,0
-31,26/10/2006,20:30,Maracanã - Rio De Janeiro,Vasco,Flamengo,3,1
-31,26/10/2006,20:30,Arruda - Recife,Santa Cruz-PE,Fortaleza,0,1
-31,28/10/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,0,2
-31,28/10/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Botafogo,1,2
-31,28/10/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paraná Clube,4,0
-31,28/10/2006,18:10,Vila Belmiro - Santos,Santos,São Caetano,1,0
-31,28/10/2006,18:10,Serra Dourada - Goiânia,Goiás,Cruzeiro,2,3
-32,01/11/2006,19:30,Arena da Baixada - Curitiba,Atlético-PR,Vasco,6,4
-32,01/11/2006,19:30,Maracanã - Rio De Janeiro,Flamengo,Santa Cruz-PE,1,1
-32,01/11/2006,19:30,Parque Antarctica - São Paulo,Palmeiras,Goiás,1,3
-32,01/11/2006,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,1,2
-32,01/11/2006,21:45,Alfredo Jaconi - Caxias Do Sul,Juventude,Santos,3,2
-32,01/11/2006,21:45,Anacleto Campanella - São Caetano Do Sul,São Caetano,Fluminense,1,1
-32,01/11/2006,21:45,Castelão - Fortaleza,Fortaleza,Corinthians,0,4
-32,02/11/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Internacional,0,1
-32,02/11/2006,20:30,Morumbi - São Paulo,São Paulo,Ponte Preta,1,1
-32,02/11/2006,20:30,Mineirão - Belo Horizonte,Cruzeiro,Paraná Clube,2,2
-33,04/11/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,1,0
-33,04/11/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Atlético-PR,1,0
-33,05/11/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,0,1
-33,05/11/2006,16:00,Vila Belmiro - Santos,Santos,São Paulo,0,1
-33,05/11/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,São Caetano,1,2
-33,05/11/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Vasco,2,1
-33,05/11/2006,16:00,Castelão - Fortaleza,Fortaleza,Goiás,0,3
-33,05/11/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Fluminense,2,1
-33,05/11/2006,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Palmeiras,4,2
-33,05/11/2006,18:10,Pacaembu - São Paulo,Corinthians,Santa Cruz-PE,1,0
-34,08/11/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Grêmio,1,2
-34,08/11/2006,19:30,Anacleto Campanella - São Caetano Do Sul,São Caetano,Figueirense,3,1
-34,08/11/2006,19:30,São Januário - Rio De Janeiro,Vasco,Paraná Clube,3,1
-34,08/11/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Fortaleza,3,0
-34,08/11/2006,21:45,Beira-Rio - Porto Alegre,Internacional,Santos,0,0
-34,08/11/2006,21:45,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,2
-34,08/11/2006,21:45,Serra Dourada - Goiânia,Goiás,Flamengo,0,1
-34,09/11/2006,20:30,Maracanã - Rio De Janeiro,Fluminense,Ponte Preta,0,0
-34,09/11/2006,20:30,Morumbi - São Paulo,São Paulo,Botafogo,3,0
-34,09/11/2006,20:30,Arruda - Recife,Santa Cruz-PE,Cruzeiro,4,1
-35,11/11/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Fortaleza,3,0
-35,11/11/2006,18:10,Vila Belmiro - Santos,Santos,Paraná Clube,1,0
-35,11/11/2006,18:10,São Januário - Rio De Janeiro,Vasco,Juventude,1,1
-35,12/11/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Cruzeiro,1,0
-35,12/11/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,0,0
-35,12/11/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Flamengo,3,0
-35,12/11/2006,16:00,Serra Dourada - Goiânia,Goiás,São Paulo,0,2
-35,12/11/2006,18:10,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,2,3
-35,12/11/2006,18:10,Arruda - Recife,Santa Cruz-PE,São Caetano,0,3
-35,12/11/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Botafogo,2,1
-36,18/11/2006,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Santa Cruz-PE,3,1
-36,18/11/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Figueirense,0,2
-36,18/11/2006,18:10,Pacaembu - São Paulo,Corinthians,Fluminense,1,1
-36,19/11/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Palmeiras,3,2
-36,19/11/2006,16:00,Morumbi - São Paulo,São Paulo,Atlético-PR,1,1
-36,19/11/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Vasco,0,1
-36,19/11/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Internacional,1,0
-36,19/11/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Goiás,2,2
-36,19/11/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Santos,1,1
-36,19/11/2006,18:10,Castelão - Fortaleza,Fortaleza,Ponte Preta,1,0
-37,26/11/2006,16:00,Maracanã - Rio De Janeiro,Botafogo,Corinthians,0,0
-37,26/11/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,3,0
-37,26/11/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Fortaleza,2,2
-37,26/11/2006,16:00,Morumbi - São Paulo,São Paulo,Cruzeiro,2,0
-37,26/11/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Paraná Clube,0,2
-37,26/11/2006,16:00,Durival de Britto e Silva - Curitiba,Atlético-PR,Figueirense,1,4
-37,26/11/2006,16:00,São Januário - Rio De Janeiro,Vasco,Santos,1,1
-37,26/11/2006,16:00,Serra Dourada - Goiânia,Goiás,Ponte Preta,3,0
-37,26/11/2006,16:00,Arruda - Recife,Santa Cruz-PE,Fluminense,1,2
-37,26/11/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Internacional,1,4
-38,02/12/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Goiás,1,4
-38,02/12/2006,18:10,Raulino de Oliveira - Volta Redonda,Flamengo,São Caetano,4,1
-38,03/12/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Palmeiras,1,1
-38,03/12/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,0,0
-38,03/12/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-PR,1,1
-38,03/12/2006,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,São Paulo,0,0
-38,03/12/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Botafogo,3,1
-38,03/12/2006,16:00,Pacaembu - São Paulo,Corinthians,Juventude,5,3
-38,03/12/2006,18:10,Vila Belmiro - Santos,Santos,Santa Cruz-PE,3,1
-38,03/12/2006,18:10,Presidente Vargas - Fortaleza,Fortaleza,Grêmio,1,0
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora,tecnico_casa,tecnico_fora
+1,15/4/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Paraná Clube,1,0,Hélio dos Anjos,Caio Júnior
+1,15/4/2006,18:10,São Januário - Rio De Janeiro,Vasco,Internacional,1,1,Renato Gaúcho,Abel Braga
+1,16/4/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,2,0,Mano Menezes,Ademar Braga
+1,16/4/2006,16:00,Morumbi - São Paulo,São Paulo,Flamengo,1,0,Muricy Ramalho,Waldemar Lemos
+1,16/4/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Cruzeiro,2,1,Nelsinho Batista,Paulo César Gusmão
+1,16/4/2006,16:00,Maracanã - Rio De Janeiro,Botafogo,Fortaleza,1,0,Carlos Roberto,Toninho Cecílio
+1,16/4/2006,18:10,Arruda - Recife,Santa Cruz-PE,Figueirense,0,0,Giba,Adilson Batista
+1,16/4/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Ponte Preta,2,3,Emerson Leão,Osvaldo Alvarez
+1,16/4/2006,18:10,Serra Dourada - Goiânia,Goiás,Santos,0,0,Geninho,Vanderlei Luxemburgo
+1,16/4/2006,18:10,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,1,2,Givanildo Oliveira,Oswaldo de Oliveira
+2,22/4/2006,16:00,Pacaembu - São Paulo,Corinthians,São Caetano,3,0,Ademar Braga,Nelsinho Baptista
+2,22/4/2006,18:10,Maracanã - Rio de Janeiro,Fluminense,Goiás,1,0,Oswaldo de Oliveira,Geninho
+2,22/4/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,6,1,Adílson Baptista,Emerson Leão
+2,23/4/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Santa Cruz-PE,1,0,Abel Braga,Giba
+2,23/4/2006,16:00,João Paulo II - Mogi Mirim,Santos,Atlético-PR,2,0,Vanderlei Luxemburgo,Givanildo Oliveira
+2,23/4/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Vasco,1,2,Oswaldo Alvarez,Renato Gaúcho
+2,23/4/2006,16:00,Maracanã - Rio De Janeiro,Flamengo,Juventude,3,1,Waldemar Lemos,Hélios dos Anjos
+2,23/4/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,3,1,Paulo César Gusmão,Mano Menezes
+2,23/4/2006,18:10,Pinheirão - Curitiba,Paraná Clube,Botafogo,0,0,Caio Júnior,Carlos Roberto
+2,23/4/2006,18:10,Castelão - Fortaleza,Fortaleza,São Paulo,1,0,Márcio Bittencourt,Muricy Ramalho
+3,29/4/2006,16:00,Castelão - Fortaleza,Fortaleza,São Caetano,2,1,Márcio Bittencourt,Nelsinho Baptista
+3,29/4/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Atlético-PR,0,4,Carlos Roberto,Givanildo
+3,29/4/2006,18:10,Morumbi - São Paulo,São Paulo,Santa Cruz-PE,4,0,Muricy Ramalho,Giba
+3,30/4/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,1,0,Abel Braga,Waldemar Lemos
+3,30/4/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Corinthians,3,2,Osvaldo Alvarez,Ademar Braga
+3,30/4/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Grêmio,5,2,Caio Júnior,Mano Menezes
+3,30/4/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Santos,1,2,Marcelo Vilar,Vanderlei Luxemburgo
+3,30/4/2006,18:10,Maracanã - Rio De Janeiro,Vasco,Fluminense,1,1,Renato Gaúcho,Oswaldo de Oliveira
+3,30/4/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Goiás,1,1,Hélio dos Anjos,Geninho
+3,30/4/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,0,2,Adilson Baptista,Paulo César Gusmão
+4,06/5/2006,16:00,Arruda - Recife,Santa Cruz-PE,Ponte Preta,1,1,Giba,Osvaldo Alvarez
+4,06/5/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Paraná Clube,2,1,Oswaldo Oliveira,Caio Júnior
+4,06/5/2006,18:10,Bruno José Daniel - Santo André,Santos,Fortaleza,2,0,Vanderlei Luxemburgo,Márcio Bittencourt
+4,07/5/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,1,2,Mano Menezes,Renato Gaúcho
+4,07/5/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Palmeiras,2,0,Nelsinho Baptista,Marcelo Vilar
+4,07/5/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Internacional,1,2,Givanildo Oliveira,Abel Braga
+4,07/5/2006,16:00,Teixeirão - São José do Rio Preto,Corinthians,São Paulo,1,3,Ademar Braga,Muricy Ramalho
+4,07/5/2006,18:10,Serra Dourada - Goiânia,Goiás,Figueirense,2,1,Geninho,Adílson Batista
+4,07/5/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Botafogo,1,0,Waldemar Lemos,Carlos Roberto
+4,07/5/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Juventude,2,0,Paulo César Gusmão,Hélio dos Anjos
+5,13/5/2006,18:10,Anacleto Campanella - São Caetano Do Sul,São Caetano,Juventude,0,2,Nelsinho Baptista,Hélio dos Anjos
+5,13/5/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Grêmio,2,2,Carlos Roberto,Mano Menezes
+5,13/5/2006,18:10,Vila Belmiro - Santos,Santos,Ponte Preta,3,1,Vanderlei Luxemburgo,Oswaldo Alvarez
+5,14/5/2006,16:00,Arruda - Recife,Santa Cruz-PE,Atlético-PR,1,2,Valdir Espinosa,Givanildo Oliveira
+5,14/5/2006,16:00,Beira-Rio - Porto Alegre,Internacional,São Paulo,3,1,Abel Braga,Muricy Ramalho
+5,14/5/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,1,0,Adílson Batista,Oswaldo de Oliveira
+5,14/5/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,1,1,Marcelo Vilar,Paulo César Gusmão
+5,14/5/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Fortaleza,0,0,Waldemar Lemos,Márcio Bittencourt
+5,14/5/2006,18:10,Willie Davis - Maringá,Paraná Clube,Corinthians,1,2,Caio Júnior,Ademar Braga
+5,14/5/2006,18:10,Serra Dourada - Goiânia,Goiás,Vasco,2,0,Geninho,Renato Gaúcho
+6,20/5/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Goiás,2,3,Givanildo Oliveira,Antonio Lopes
+6,20/5/2006,16:00,Castelão - Fortaleza,Fortaleza,Paraná Clube,1,1,Márcio Bittencourt,Caio Júnior
+6,20/5/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Figueirense,2,4,Abel Braga,Adilson Batista
+6,20/5/2006,18:10,Morumbi - São Paulo,São Paulo,São Caetano,1,0,Muricy Ramalho,Nelsinho Baptista
+6,21/5/2006,16:00,São Januário - Rio De Janeiro,Vasco,Corinthians,2,4,Renato Gaúcho,Geninho
+6,21/5/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,2,1,Paulo César Gusmão,Waldemar Lemos
+6,21/5/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Santa Cruz-PE,2,1,Tite,Valdir Espinosa
+6,21/5/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Grêmio,1,1,Oswaldo Alvarez,Mano Menezes
+6,21/5/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Santos,1,0,Oswaldo de Oliveira,Vanderlei Luxemburgo
+6,21/5/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Botafogo,1,0,Hélio dos Anjos,Carlos Roberto
+7,24/5/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Santa Cruz-PE,4,1,Hélio dos Anjos,Valdir Espinosa
+7,24/5/2006,19:30,Pinheirão - Curitiba,Paraná Clube,Figueirense,0,0,Caio Júnior,Adílson Batista
+7,24/5/2006,19:30,Mineirão - Belo Horizonte,Cruzeiro,Ponte Preta,5,1,Paulo César Gusmão,Vadão
+7,24/5/2006,20:30,Morumbi - São Paulo,São Paulo,Palmeiras,4,1,Muricy Ramalho,Tite
+7,24/5/2006,21:45,Anacleto Campanella - São Caetano Do Sul,São Caetano,Atlético-PR,2,1,Nelsinho Baptista,Givanildo Oliveira
+7,24/5/2006,21:45,Maracanã - Rio De Janeiro,Flamengo,Santos,2,2,Ney Franco,Vanderlei Luxemburgo
+7,24/5/2006,21:45,Castelão - Fortaleza,Fortaleza,Fluminense,2,5,Márcio Bittencourt,Oswaldo de Oliveira
+7,25/5/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Vasco,4,1,Cuca,Renato Gaúcho
+7,25/5/2006,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,2,0,Mano Menezes,Antônio Lopes
+7,25/5/2006,20:30,Morumbi - São Paulo,Corinthians,Internacional,0,1,Geninho,Abel Braga
+8,27/5/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Fortaleza,0,0,Adílson Batista,Márcio Bittencourt
+8,27/5/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Paraná Clube,2,5,Oswaldo Alvarez,Caio Júnior
+8,27/5/2006,18:10,Arena da Baixada - Curitiba,Atlético-PR,Juventude,1,0,Givanildo Oliveira,Hélio Dos Anjos
+8,28/5/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,1,1,Abel Braga,Paulo César Gusmão
+8,28/5/2006,16:00,Vila Belmiro - Santos,Santos,Corinthians,2,0,Vanderlei Luxemburgo,Geninho
+8,28/5/2006,16:00,Arruda - Recife,Santa Cruz-PE,Botafogo,1,1,Valdir Espinosa,Cuca
+8,28/5/2006,16:30,Maracanã - Rio De Janeiro,Fluminense,Flamengo,1,0,Oswaldo de Oliveira,Ney Franco
+8,28/5/2006,18:10,Serra Dourada - Goiânia,Goiás,São Caetano,2,1,Antônio Lopes,Nelsinho Baptista
+8,28/5/2006,18:10,São Januário - Rio De Janeiro,Vasco,São Paulo,1,1,Renato Gaúcho,Muricy Ramalho
+8,28/5/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Grêmio,0,1,Tite,Mano Menezes
+9,31/5/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Ponte Preta,0,1,Hélio dos Anjos,Marco Aurélio
+9,31/5/2006,19:30,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,1,1,Paulo César Gusmão,Givanildo Oliveira
+9,31/5/2006,19:30,Castelão - Fortaleza,Fortaleza,Vasco,1,1,Márcio Bittencourt,Renato Gaúcho
+9,31/5/2006,20:30,Anacleto Campanella - São Caetano Do Sul,São Caetano,Internacional,1,1,Nelsinho Baptista,Abel Braga
+9,31/5/2006,21:45,Maracanã - Rio De Janeiro,Flamengo,Palmeiras,2,1,Ney Franco,Tite
+9,31/5/2006,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Santos,1,0,Mano Menezes,Vanderlei Luxemburgo
+9,31/5/2006,21:45,Morumbi - São Paulo,São Paulo,Fluminense,1,0,Muricy Ramalho,Oswaldo de Oliveira
+9,01/6/2006,20:30,Pinheirão - Curitiba,Paraná Clube,Santa Cruz-PE,3,0,Caio Júnior,Valdyr Espinosa
+9,01/6/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Figueirense,2,3,Cuca,Adilson Batista
+9,01/6/2006,20:30,Morumbi - São Paulo,Corinthians,Goiás,0,1,Geninho,Antônio Lopes
+10,03/6/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Internacional,2,3,Oswaldo de Oliveira,Abel Braga
+10,03/6/2006,16:00,Castelão - Fortaleza,Fortaleza,Cruzeiro,0,2,Márcio Bittencourt,Paulo César Gusmão
+10,03/6/2006,18:10,Olímpico Monumental - Porto Alegre,Grêmio,São Caetano,1,1,Mano Menezes,Dino Camargo
+10,04/6/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,2,0,Givanildo Oliveira,Tite
+10,04/6/2006,16:00,São Januário - Rio De Janeiro,Vasco,Santa Cruz-PE,2,1,Renato Gaúcho,Valdir Espinosa
+10,04/6/2006,16:00,Morumbi - São Paulo,Corinthians,Flamengo,0,2,Geninho,Ney Franco
+10,04/6/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Figueirense,3,0,Marco Aurélio,Adílson Batista
+10,04/6/2006,18:10,Serra Dourada - Goiânia,Goiás,Paraná Clube,1,2,Antônio Lopes,Caio Júnior
+10,04/6/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,São Paulo,1,1,Hélio dos Anjos,Muricy Ramalho
+10,04/6/2006,18:10,Vila Belmiro - Santos,Santos,Botafogo,0,0,Vanderlei Luxemburgo,Cuca
+11,12/7/2006,19:30,Beira-Rio - Porto Alegre,Internacional,Ponte Preta,2,0,Abel Braga,Marco Aurélio
+11,12/7/2006,19:30,Arena da Baixada - Curitiba,Atlético-PR,Fortaleza,0,0,Givanildo Oliveira,Hélio dos Anjos
+11,12/7/2006,19:30,Raulino de Oliveira - Volta Redonda,Fluminense,Juventude,3,2,Oswaldo de Oliveira,Ivo Wortmann
+11,12/7/2006,20:30,Morumbi - São Paulo,São Paulo,Grêmio,2,1,Muricy Ramalho,Mano Menezes
+11,12/7/2006,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Santos,2,1,Waldemar Lemos,Vanderlei Luxemburgo
+11,12/7/2006,21:45,Anacleto Campanella - São Caetano Do Sul,São Caetano,Botafogo,1,1,Emerson Leão,Cuca
+11,12/7/2006,21:45,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,2,0,Paulo César Gusmão,Geninho
+11,13/7/2006,20:30,Arruda - Recife,Santa Cruz-PE,Goiás,2,1,Maurício Simões,Antônio Lopes
+11,13/7/2006,20:30,Raulino de Oliveira - Volta Redonda,Flamengo,Paraná Clube,1,4,Ney Franco,Caio Júnior
+11,13/7/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Vasco,4,2,Tite,Renato Gaúcho
+12,15/7/2006,16:00,Raulino de Oliveira - Volta Redonda,Botafogo,Ponte Preta,4,1,Cuca,Marco Aurélio
+12,15/7/2006,18:10,Morumbi - São Paulo,São Paulo,Figueirense,2,1,Muricy Ramalho,Waldemar Lemos
+12,16/7/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,4,4,Mano Menezes,Oswaldo de Oliveira
+12,16/7/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Santos,2,0,Emerson Leão,Vanderlei Luxemburgo
+12,16/7/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Goiás,0,0,Paulo César Gusmão,Antônio Lopes
+12,16/7/2006,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,1,0,Tite,Geninho
+12,16/7/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Vasco,0,1,Ney Franco,Renato Gaúcho
+12,16/7/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Internacional,2,0,Ivo Wortmann,Abel Braga
+12,16/7/2006,18:10,Pinheirão - Curitiba,Paraná Clube,Atlético-PR,2,1,Caio Júnior,Givanildo Oliveira
+12,16/7/2006,18:10,Castelão - Fortaleza,Fortaleza,Santa Cruz-PE,1,4,Hélio dos Anjos,Maurício Simões
+13,22/7/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,2,0,Waldemar Lemos,Mano Menezes
+13,22/7/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Cruzeiro,1,0,Caio Júnior,Paulo César Gusmão
+13,22/7/2006,18:10,Morumbi - São Paulo,Corinthians,Fortaleza,2,2,Geninho,Hélio dos Anjos
+13,22/7/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,São Caetano,2,2,Geninho,Hélio dos Anjos
+13,23/7/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,São Paulo,1,3,Marco Aurélio,Muricy Ramalho
+13,23/7/2006,16:00,São Januário - Rio De Janeiro,Vasco,Atlético-PR,2,1,Renato Gaúcho,Valdemar Privati (interino)
+13,23/7/2006,16:00,Arruda - Recife,Santa Cruz-PE,Flamengo,3,0,Maurício Simões,Moacir Pereira
+13,23/7/2006,18:10,Vila Belmiro - Santos,Santos,Juventude,3,2,Vanderlei Luxemburgo,Ivo Wortmann
+13,23/7/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Botafogo,0,0,Abel Braga,Cuca
+13,23/7/2006,18:10,Serra Dourada - Goiânia,Goiás,Palmeiras,1,3,Antônio Lopes,Tite
+14,29/7/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Figueirense,1,0,Ivo Wortmann,Waldemar Lemos
+14,29/7/2006,18:10,Anacleto Campanella - São Caetano Do Sul,São Caetano,Ponte Preta,1,1,Emerson Leão,Marco Aurélio
+14,29/7/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Paraná Clube,4,2,Tite,Caio Júnior
+14,30/7/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,1,0,Vadão,Ney Franco
+14,30/7/2006,16:00,São Januário - Rio De Janeiro,Vasco,Cruzeiro,1,0,Renato Gaúcho,Paulo César Gusmão
+14,30/7/2006,16:00,Arruda - Recife,Santa Cruz-PE,Corinthians,1,0,Maurício Simões,Geninho
+14,30/7/2006,16:00,Morumbi - São Paulo,São Paulo,Santos,0,4,Muricy Ramalho,Vanderlei Luxemburgo
+14,30/7/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Botafogo,1,1,Oswaldo de Oliveira,Cuca
+14,30/7/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Grêmio,0,0,Abel Braga,Mano Menezes
+14,30/7/2006,18:10,Serra Dourada - Goiânia,Goiás,Fortaleza,1,1,Antônio Lopes,Hélio dos Anjos
+15,05/8/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Juventude,1,0,Mano Menezes,Ivo Wortmann
+15,05/8/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,São Caetano,1,1,Waldemar Lemos,Emerson Leão
+15,05/8/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Goiás,1,0,Ney Franco,Antônio Lopes
+15,05/8/2006,18:10,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,1,Geninho,Osvaldo Alvarez
+15,06/8/2006,16:00,Raulino de Oliveira - Volta Redonda,Botafogo,São Paulo,1,1,Cuca,Muricy Ramalho
+15,06/8/2006,16:00,Vila Belmiro - Santos,Santos,Internacional,2,1,Vanderlei Luxemburgo,Abel Braga
+15,06/8/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Vasco,2,1,Caio Júnior,Renato Gaúcho
+15,06/8/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Fluminense,3,0,Marco Aurélio,Oswaldo de Oliveira
+15,06/8/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Santa Cruz-PE,3,3,Paulo César Gusmão,Maurício Simões
+15,06/8/2006,18:10,Presidente Vargas - Fortaleza,Fortaleza,Palmeiras,0,0,Hélio dos Anjos,Tite
+16,12/8/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Vasco,0,0,Ivo Wortmann,Renato Gaúcho
+16,12/8/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Santa Cruz-PE,2,0,Emerson Leão,Maurício Simões
+16,12/8/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Ponte Preta,0,0,Ney Franco,Marco Aurélio
+16,12/8/2006,18:10,Pacaembu - São Paulo,Corinthians,Figueirense,1,3,Geninho,Waldemar Lemos
+16,13/8/2006,16:00,Maracanã - Rio De Janeiro,Botafogo,Palmeiras,1,3,Cuca,Tite
+16,13/8/2006,16:00,Centenário de Caxias - Caxias do Sul,Grêmio,Atlético-PR,2,0,Mano Menezes,Osvaldo Alvarez
+16,13/8/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,3,Paulo César Gusmão,Josué Teixeira
+16,13/8/2006,18:10,Castelão - Fortaleza,Fortaleza,Internacional,1,2,Hélio dos Anjos,Leomir
+16,13/8/2006,18:10,Morumbi - São Paulo,São Paulo,Goiás,2,1,Muricy Ramalho,Antônio Lopes
+16,13/8/2006,18:10,Pinheirão - Curitiba,Paraná Clube,Santos,1,1,Caio Júnior,Vanderlei Luxemburgo
+17,16/8/2006,19:30,Moisés Lucarelli - Campinas,Ponte Preta,Fortaleza,1,3,Marco Aurélio,Hélio dos Anjos
+17,16/8/2006,19:30,São Januário - Rio De Janeiro,Vasco,São Caetano,1,2,Renato Gaúcho,Dino Camargo (interino)
+17,16/8/2006,19:30,Arruda - Recife,Santa Cruz-PE,Grêmio,2,4,Maurício Simões,Mano Menezes
+17,16/8/2006,20:30,Serra Dourada - Goiânia,Goiás,Botafogo,2,2,Geninho,Cuca
+17,16/8/2006,22:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,1,1,Waldemar Lemos,Ney Franco
+17,16/8/2006,22:00,Maracanã - Rio De Janeiro,Fluminense,Corinthians,1,2,Josué Teixeira,Emerson Leão
+17,17/8/2006,20:30,Vila Belmiro - Santos,Santos,Cruzeiro,2,0,Vanderlei Luxemburgo,Oswaldo de Oliveira
+17,17/8/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,1,1,Tite,Ivo Worttman
+18,19/8/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Goiás,3,2,Marco Aurélio,Geninho
+18,19/8/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Grêmio,1,0,Ney Franco,Mano Menezes
+18,20/8/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Santa Cruz-PE,1,1,Josué Teixeira,Mauricio Simões
+18,20/8/2006,16:00,Vila Belmiro - Santos,Santos,Vasco,0,2,Vanderlei Luxemburgo,Renato Gaúcho
+18,20/8/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,2,2,Oswaldo de Oliveira,Muricy Ramalho
+18,20/8/2006,16:00,Presidente Vargas - Fortaleza,Fortaleza,Juventude,4,1,Hélio dos Anjos,Ivo Wortmann
+18,20/8/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,3,3,Waldemar Lemos,Oswaldo Alvarez
+18,20/8/2006,18:10,Pinheirão - Curitiba,Paraná Clube,São Caetano,1,0,Caio Júnior,Paulo César Gusmão
+18,20/8/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Palmeiras,1,1,Abel Braga,Tite
+18,20/8/2006,18:10,Pacaembu - São Paulo,Corinthians,Botafogo,1,0,Emerson Leão,Cuca
+19,23/8/2006,19:30,Serra Dourada - Goiânia,Goiás,Internacional,2,2,Geninho,Abel Braga
+19,23/8/2006,19:30,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,0,Tite,Josué Teixeira
+19,23/8/2006,19:30,Arena da Baixada - Curitiba,Atlético-PR,Ponte Preta,3,0,Oswaldo Alvarez,Marco Aurélio
+19,23/8/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Cruzeiro,1,0,Cuca,Oswaldo de Oliveira
+19,23/8/2006,22:00,Arruda - Recife,Santa Cruz-PE,Santos,1,1,Maurício Simões,Vanderlei Luxemburgo
+19,23/8/2006,22:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Corinthians,0,0,Ivo Wortmann,Emerson Leão
+19,23/8/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Flamengo,2,2,Paulo César Gusmão,Ney Franco
+19,24/8/2006,20:30,Centenário de Caxias - Caxias do Sul,Grêmio,Fortaleza,4,1,Mano Menezes,Hélio dos Anjos
+19,24/8/2006,20:30,Morumbi - São Paulo,São Paulo,Paraná Clube,3,2,Muricy Ramalho,Caio Júnior
+19,24/8/2006,20:30,São Januário - Rio De Janeiro,Vasco,Figueirense,3,1,Renato Gaúcho,Waldemar Lemos
+20,26/8/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Atlético-PR,1,2,Antônio Lopes,Oswaldo Alvarez
+20,26/8/2006,18:10,Vila Belmiro - Santos,Santos,Goiás,2,1,Vanderlei Luxemburgo,Geninho
+20,26/8/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,São Caetano,3,0,Oswaldo de Oliveira,Paulo César Gusmão
+20,27/8/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,1,2,Abel Braga,Renato Portaluppi
+20,27/8/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Juventude,0,1,Caio Júnior,Ivo Wortmann
+20,27/8/2006,16:00,Maracanã - Rio De Janeiro,Flamengo,São Paulo,1,1,Ney Franco,Muricy Ramalho
+20,27/8/2006,16:00,Pacaembu - São Paulo,Corinthians,Grêmio,0,2,Emerson Leão,Mano Menezes
+20,27/8/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Santa Cruz-PE,2,0,Waldemar Lemos,Maurício Simões
+20,27/8/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Palmeiras,1,1,Marco Aurélio,Tite
+20,27/8/2006,18:10,Castelão - Fortaleza,Fortaleza,Botafogo,2,3,Hélio dos Anjos,Cuca
+21,30/8/2006,19:30,Centenário de Caxias - Caxias do Sul,Grêmio,Cruzeiro,2,1,Mano Menezes,Oswaldo de Oliveira
+21,30/8/2006,19:30,Serra Dourada - Goiânia,Goiás,Fluminense,3,1,Geninho,Antônio Lopes
+21,30/8/2006,19:30,Arruda - Recife,Santa Cruz-PE,Internacional,0,2,Maurício Simões,Abel Braga
+21,30/8/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,1,1,Tite,Waldemar Lemos
+21,30/8/2006,22:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Flamengo,1,0,Ivo Wortmann,Ney Franco
+21,30/8/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Corinthians,0,1,Paulo César Gusmão,Emerson Leão
+21,30/8/2006,22:00,Arena da Baixada - Curitiba,Atlético-PR,Santos,2,1,Vadão,Vanderlei Luxemburgo
+21,31/8/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Paraná Clube,4,0,Cuca,Caio Júnior
+21,31/8/2006,20:30,Morumbi - São Paulo,São Paulo,Fortaleza,1,1,Muricy Ramalho,Hélio dos Anjos
+21,31/8/2006,20:30,São Januário - Rio De Janeiro,Vasco,Ponte Preta,2,2,Renato Gaúcho,Marco Aurélio
+22,02/9/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,2,2,Oswaldo de Oliveira,Waldemar Lemos
+22,02/9/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Internacional,1,2,Ney Franco,Abel Braga
+22,03/9/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Paraná Clube,2,1,Mano Menezes,Caio Júnior
+22,03/9/2006,16:00,Vila Belmiro - Santos,Santos,Palmeiras,5,1,Vanderlei Luxemburgo,Tite
+22,03/9/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Fortaleza,0,0,Dino Camargo,Hélio dos Anjos
+22,03/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Botafogo,0,5,Oswaldo Alvarez,Dirceu Stival (interino)
+22,03/9/2006,16:00,Serra Dourada - Goiânia,Goiás,Juventude,2,0,Geninho,Ivo Wortmann
+22,03/9/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Vasco,1,1,Antônio Lopes,Renato Gaúcho
+22,03/9/2006,18:10,Arruda - Recife,Santa Cruz-PE,São Paulo,1,3,Maurício Simões,Muricy Ramalho
+22,03/9/2006,18:10,Pacaembu - São Paulo,Corinthians,Ponte Preta,1,0,Emerson Leão,Marco Aurélio
+23,09/9/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Santa Cruz-PE,2,0,Marco Aurélio,Ernesto Guedes (interino)
+23,09/9/2006,18:10,São Januário - Rio De Janeiro,Vasco,Grêmio,1,1,Renato Gaúcho,Mano Menezes
+23,09/9/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,São Caetano,3,1,Tite,Hélio dos Anjos
+23,10/9/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,2,2,Waldemar Lemos,Geninho
+23,10/9/2006,16:00,Morumbi - São Paulo,São Paulo,Corinthians,0,0,Muricy Ramalho,Emerson Leão
+23,10/9/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Fluminense,1,0,Caio Júnior,Antônio Lopes
+23,10/9/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Cruzeiro,2,0,Ivo Wortmann,Oswaldo de Oliveira
+23,10/9/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Flamengo,0,2,Cuca,Ney Franco
+23,10/9/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,2,0,Abel Braga,Oswaldo Alvarez
+23,10/9/2006,18:10,Presidente Vargas - Fortaleza,Fortaleza,Santos,1,1,Roberval Davino,Vanderlei Luxemburgo
+24,16/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Santa Cruz-PE,2,1,Oswaldo Álvares,Fito Neves
+24,16/9/2006,18:10,São Januário - Rio De Janeiro,Vasco,Goiás,0,0,Renato Gaúcho,Geninho
+24,16/9/2006,18:10,Pacaembu - São Paulo,Corinthians,Paraná Clube,1,0,Emerson Leão,Caio Júnior
+24,17/9/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo,4,0,Mano Menezes,Cuca
+24,17/9/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,São Caetano,1,0,Ivo Wortmann,Hélio dos Anjos
+24,17/9/2006,16:00,Morumbi - São Paulo,São Paulo,Internacional,2,0,Muricy Ramalho,Abel Braga
+24,17/9/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,1,0,Oswaldo de Oliveira,Tite
+24,17/9/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,Figueirense,2,0,Antônio Lopes,Waldemar Lemos
+24,17/9/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Santos,1,0,Marco Aurélio,Vanderlei Luxemburgo
+24,17/9/2006,18:10,Castelão - Fortaleza,Fortaleza,Flamengo,3,4,Roberval Davino,Ney Franco
+25,20/9/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Ponte Preta,4,0,Mano Menezes,Marco Aurélio
+25,20/9/2006,19:30,Maracanã - Rio De Janeiro,Botafogo,Juventude,2,1,Cuca,Ivo Wortmann
+25,20/9/2006,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,1,0,Waldemar Lemos,Abel Braga
+25,20/9/2006,19:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Fortaleza,2,0,Caio Júnior,Roberval Davino
+25,20/9/2006,20:30,Serra Dourada - Goiânia,Goiás,Atlético-PR,2,2,Geninho,Oswaldo Alvarez
+25,20/9/2006,22:00,Vila Belmiro - Santos,Santos,Fluminense,1,1,Vanderlei Luxemburgo,Antonio Lopes
+25,20/9/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,São Paulo,0,1,Hélio dos Anjos,Muricy Ramalho
+25,20/9/2006,22:00,Pacaembu - São Paulo,Corinthians,Vasco,1,1,Emerson Leão,Renato Gaúcho
+25,21/9/2006,20:30,Maracanã - Rio De Janeiro,Flamengo,Cruzeiro,1,0,Ney Franco,Oswaldo de Oliveira
+25,21/9/2006,20:30,Arruda - Recife,Santa Cruz-PE,Palmeiras,3,2,Fito Neves,Tite
+26,23/9/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Fortaleza,1,3,Antônio Lopes,Roberval Davino
+26,23/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Caetano,3,1,Oswaldo Alvarez,Hélio dos Anjos
+26,24/9/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Corinthians,1,1,Abel Braga,Leão
+26,24/9/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Paraná Clube,0,1,Waldemar Lemos,Caio Júnior
+26,24/9/2006,16:00,Vila Belmiro - Santos,Santos,Flamengo,3,0,Vanderlei Luxemburgo,Ney Franco.
+26,24/9/2006,16:00,Arruda - Recife,Santa Cruz-PE,Juventude,1,0,Fito Neves,Ivo Wortmann
+26,24/9/2006,16:00,Eduardo José Farah - Presidente Prudente,Palmeiras,São Paulo,3,1,Marcelo Vilar (interino),Muricy Ramalho
+26,24/9/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Cruzeiro,0,1,Marco Aurélio Moreira,Oswaldo de Oliveira
+26,24/9/2006,18:10,Maracanã - Rio De Janeiro,Vasco,Botafogo,0,0,Renato Gaúcho,Cuca
+26,24/9/2006,18:10,Serra Dourada - Goiânia,Goiás,Grêmio,4,0,Geninho,Mano Menezes
+17,30/9/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Paraná Clube,3,2,Abel Braga,Caio Júnior
+17,30/9/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,0,0,Oswaldo Alvarez,Muricy Ramalho
+27,04/10/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Atlético-PR,3,2,Ivo Wortmann,Vadão
+27,04/10/2006,19:30,Durival de Britto e Silva - Curitiba,Paraná Clube,Ponte Preta,2,1,Caio Júnior,Marcos Aurélio
+27,04/10/2006,19:30,Presidente Vargas - Fortaleza,Fortaleza,Figueirense,1,1,Roberval Davino,Waldemar Lemos
+27,04/10/2006,20:30,Maracanã - Rio De Janeiro,Flamengo,Fluminense,4,1,Ney Franco,Paulo César Gusmão
+27,04/10/2006,22:00,Olímpico Monumental - Porto Alegre,Grêmio,Palmeiras,2,1,Mano Menezes,Marcelo Vilar
+27,04/10/2006,22:00,Morumbi - São Paulo,São Paulo,Vasco,5,1,Muricy Ramalho,Renato Gaúcho
+27,04/10/2006,22:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Goiás,1,2,Hélio dos Anjos,Geninho
+27,05/10/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Santa Cruz-PE,3,0,Cuca,Fito Neves
+27,05/10/2006,20:30,Mineirão - Belo Horizonte,Cruzeiro,Internacional,2,1,Oswaldo de Oliveira,Leomir de Souza (auxiliar)
+27,05/10/2006,20:30,Pacaembu - São Paulo,Corinthians,Santos,0,3,Emerson Leão,Vanderlei Luxemburgo
+28,07/10/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Juventude,3,1,Wanderley Paiva,Ivo Wortmann
+28,07/10/2006,18:10,Maracanã - Rio De Janeiro,Fluminense,São Paulo,1,2,Paulo César Gusmão,Muricy Ramalho
+28,07/10/2006,18:10,São Januário - Rio De Janeiro,Vasco,Fortaleza,2,0,Renato Gaúcho,Roberval Davino
+28,08/10/2006,16:00,Beira-Rio - Porto Alegre,Internacional,São Caetano,1,0,Abel Braga,Hélio dos Anjos
+28,08/10/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,1,1,Oswaldo Alvarez,Oswaldo de Oliveira
+28,08/10/2006,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,3,1,Geninho,Emerson Leão
+28,08/10/2006,16:00,Arruda - Recife,Santa Cruz-PE,Paraná Clube,1,3,Fito Neves,Caio Júnior
+28,08/10/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Flamengo,3,1,Marcelo Vilar,Ney Franco
+28,08/10/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo,1,0,Waldemar Lemos,Cuca
+28,08/10/2006,18:10,Vila Belmiro - Santos,Santos,Grêmio,1,0,Vanderlei Luxemburgo,Mano Menezes.
+29,14/10/2006,16:00,Independência - Belo Horizonte,Cruzeiro,Fortaleza,0,0,Oswaldo de Oliveira,Roberval Davino
+29,14/10/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Santos,4,3,Cuca,Vanderlei Luxemburgo
+29,14/10/2006,18:10,Morumbi - São Paulo,São Paulo,Juventude,5,0,Muricy Ramalho,Ivo Wortmann
+29,14/10/2006,18:10,Anacleto Campanella - São Caetano Do Sul,São Caetano,Grêmio,0,2,Hélio dos Anjos,Mano Menezes
+29,15/10/2006,16:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,2,0,Abel Braga,PC Gusmão
+29,15/10/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Ponte Preta,2,1,Waldemar Lemos,Wanderley Paiva
+29,15/10/2006,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Goiás,1,0,Caio Júnior,Geninho
+29,15/10/2006,16:00,Maracanã - Rio De Janeiro,Flamengo,Corinthians,3,0,Ney Franco,Emerson Leão
+29,15/10/2006,18:10,Arruda - Recife,Santa Cruz-PE,Vasco,0,4,Fito Neves,Renato Gaúcho
+29,15/10/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Atlético-PR,2,2,Marcelo Vilar,Oswaldo Alvares
+30,18/10/2006,22:00,São Januário - Rio De Janeiro,Vasco,Palmeiras,3,0,Renato Gaúcho,Marcelo Vilar
+30,21/10/2006,16:00,Serra Dourada - Goiânia,Goiás,Santa Cruz-PE,5,3,Geninho,Fito Neves
+30,21/10/2006,18:10,Vila Belmiro - Santos,Santos,Figueirense,2,1,Vanderlei Luxemburgo,Waldemar Lemos
+30,21/10/2006,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Internacional,0,2,Wanderley Paiva,Leomir Souza (interino)
+30,22/10/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,1,1,Mano Menezes,Muricy Ramalho
+30,22/10/2006,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,Flamengo,0,2,Caio Júnior,Ney Franco
+30,22/10/2006,16:00,Presidente Vargas - Fortaleza,Fortaleza,Atlético-PR,3,4,Roberval Davino,Oswaldo Alvarez
+30,22/10/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,São Caetano,2,1,Cuca,Dorival Júnior
+30,22/10/2006,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Fluminense,1,1,Ivo Wortmann,Paulo César Gusmão
+30,22/10/2006,18:10,Pacaembu - São Paulo,Corinthians,Cruzeiro,1,0,Emerson Leão,Oswaldo de Oliveira
+31,25/10/2006,22:00,Morumbi - São Paulo,Corinthians,Palmeiras,1,0,Emerson Leão,Marcelo Vilar
+31,26/10/2006,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Grêmio,1,2,Paulo César Gusmão,Mano Menezes
+31,26/10/2006,20:30,Beira-Rio - Porto Alegre,Internacional,Juventude,1,0,Leomir Souza (interino),Ivo Wortmann
+31,26/10/2006,20:30,Maracanã - Rio De Janeiro,Vasco,Flamengo,3,1,Renato Gaúcho,Ney Franco
+31,26/10/2006,20:30,Arruda - Recife,Santa Cruz-PE,Fortaleza,0,1,Fito Neves,Roberval Davino
+31,28/10/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,0,2,Waldemar Lemos,Muricy Ramalho
+31,28/10/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Botafogo,1,2,Wanderley Paiva,Cuca
+31,28/10/2006,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paraná Clube,4,0,Oswaldo Alvarez,Caio Júnior
+31,28/10/2006,18:10,Vila Belmiro - Santos,Santos,São Caetano,1,0,Vanderlei Luxemburgo,Dorival Júnior
+31,28/10/2006,18:10,Serra Dourada - Goiânia,Goiás,Cruzeiro,2,3,Geninho,Oswaldo de Oliveira
+32,01/11/2006,19:30,Arena da Baixada - Curitiba,Atlético-PR,Vasco,6,4,Renato Gaúcho,Oswaldo Alvarez
+32,01/11/2006,19:30,Maracanã - Rio De Janeiro,Flamengo,Santa Cruz-PE,1,1,Ney Franco,Fito Neves
+32,01/11/2006,19:30,Parque Antarctica - São Paulo,Palmeiras,Goiás,1,3,Marcelo Vilar,Geninho
+32,01/11/2006,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,1,2,Mano Menezes,Waldemar Lemos
+32,01/11/2006,21:45,Alfredo Jaconi - Caxias Do Sul,Juventude,Santos,3,2,Ivo Wortmann,Vanderlei Luxemburgo
+32,01/11/2006,21:45,Anacleto Campanella - São Caetano Do Sul,São Caetano,Fluminense,1,1,Dorival Junior,Paulo César Gusmão
+32,01/11/2006,21:45,Castelão - Fortaleza,Fortaleza,Corinthians,0,4,Roberval Davino,Emerson Leão
+32,02/11/2006,20:30,Maracanã - Rio De Janeiro,Botafogo,Internacional,0,1,Cuca,Abel Braga
+32,02/11/2006,20:30,Morumbi - São Paulo,São Paulo,Ponte Preta,1,1,Muricy Ramalho,Wanderley Paiva
+32,02/11/2006,20:30,Mineirão - Belo Horizonte,Cruzeiro,Paraná Clube,2,2,Oswaldo de Oliveira,Caio Júnior
+33,04/11/2006,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,1,0,Waldemar Lemos,Ivo Wortmann
+33,04/11/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Atlético-PR,1,0,Ney Franco,Oswaldo Alvarez
+33,05/11/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,0,1,Sidnei Lobo (interino),Abel Braga
+33,05/11/2006,16:00,Vila Belmiro - Santos,Santos,São Paulo,0,1,Vanderlei Luxemburgo,Muricy Ramalho
+33,05/11/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,São Caetano,1,2,Wanderley Paiva,Dorival Júnior
+33,05/11/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Vasco,2,1,Oswaldo de Oliveira,Renato Gaúcho
+33,05/11/2006,16:00,Castelão - Fortaleza,Fortaleza,Goiás,0,3,Roberval Davino,Geninho
+33,05/11/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Fluminense,2,1,Cuca,Paulo César Gusmão
+33,05/11/2006,18:10,Durival de Britto e Silva - Curitiba,Paraná Clube,Palmeiras,4,2,Caio Junior,Jair Picerni
+33,05/11/2006,18:10,Pacaembu - São Paulo,Corinthians,Santa Cruz-PE,1,0,Emerson Leão,Fito Neves
+34,08/11/2006,19:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Grêmio,1,2,Ivo Wortmann,Sidnei Lobo (interino)
+34,08/11/2006,19:30,Anacleto Campanella - São Caetano Do Sul,São Caetano,Figueirense,3,1,Dorival Júnior,Waldemar Lemos
+34,08/11/2006,19:30,São Januário - Rio De Janeiro,Vasco,Paraná Clube,3,1,Renato Gaúcho,Caio Junior
+34,08/11/2006,20:30,Parque Antarctica - São Paulo,Palmeiras,Fortaleza,3,0,Jair Picerni,Roberval Davino
+34,08/11/2006,21:45,Beira-Rio - Porto Alegre,Internacional,Santos,0,0,Abel Braga,Vanderlei Luxemburgo
+34,08/11/2006,21:45,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,2,Oswaldo Alvarez,Emerson Leão
+34,08/11/2006,21:45,Serra Dourada - Goiânia,Goiás,Flamengo,0,1,Geninho,Ney Franco
+34,09/11/2006,20:30,Maracanã - Rio De Janeiro,Fluminense,Ponte Preta,0,0,Paulo César Gusmão,Wanderley Paiva
+34,09/11/2006,20:30,Morumbi - São Paulo,São Paulo,Botafogo,3,0,Muricy Ramalho,Cuca
+34,09/11/2006,20:30,Arruda - Recife,Santa Cruz-PE,Cruzeiro,4,1,Fito Neves,Oswaldo de Oliveira
+35,11/11/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Fortaleza,3,0,Abel Braga,Roberval Davino
+35,11/11/2006,18:10,Vila Belmiro - Santos,Santos,Paraná Clube,1,0,Vanderlei Luxemburgo,Caio Júnior
+35,11/11/2006,18:10,São Januário - Rio De Janeiro,Vasco,Juventude,1,1,Renato Gaúcho,Ivo Wortmann
+35,12/11/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Cruzeiro,1,0,Paulo César Gusmão,Oswaldo de Oliveira
+35,12/11/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,0,0,Waldemar Lemos,Emerson Leão
+35,12/11/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Flamengo,3,0,Wanderley Paiva,Ney Franco
+35,12/11/2006,16:00,Serra Dourada - Goiânia,Goiás,São Paulo,0,2,Geninho,Muricy Ramalho
+35,12/11/2006,18:10,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,2,3,Oswaldo Alvarez,Mano Menezes
+35,12/11/2006,18:10,Arruda - Recife,Santa Cruz-PE,São Caetano,0,3,Fito Neves,Dorival Junior
+35,12/11/2006,18:10,Parque Antarctica - São Paulo,Palmeiras,Botafogo,2,1,Jair Picerni,Cuca
+36,18/11/2006,18:10,Olímpico Monumental - Porto Alegre,Grêmio,Santa Cruz-PE,3,1,Mano Menezes,Fito Neves
+36,18/11/2006,18:10,Maracanã - Rio De Janeiro,Flamengo,Figueirense,0,2,Ney Franco,Waldemar Lemos
+36,18/11/2006,18:10,Pacaembu - São Paulo,Corinthians,Fluminense,1,1,Émerson Leão,Paulo César Gusmão
+36,19/11/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Palmeiras,3,2,Ivo Wortmann,Jair Picerni
+36,19/11/2006,16:00,Morumbi - São Paulo,São Paulo,Atlético-PR,1,1,Muricy Ramalho,Oswaldo Alvarez
+36,19/11/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Vasco,0,1,Dorival Junior,Renato Gaúcho
+36,19/11/2006,16:00,Pinheirão - Curitiba,Paraná Clube,Internacional,1,0,Caio Júnior,Leomir Souza (interino)
+36,19/11/2006,18:10,Maracanã - Rio De Janeiro,Botafogo,Goiás,2,2,Cuca,Geninho
+36,19/11/2006,18:10,Mineirão - Belo Horizonte,Cruzeiro,Santos,1,1,Oswaldo de Oliveira,Vanderlei Luxemburgo
+36,19/11/2006,18:10,Castelão - Fortaleza,Fortaleza,Ponte Preta,1,0,Daniel Frasson,Wanderley Paiva
+37,26/11/2006,16:00,Maracanã - Rio De Janeiro,Botafogo,Corinthians,0,0,Cuca,Emerson Leão
+37,26/11/2006,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,3,0,Mano Menezes,Ney Franco
+37,26/11/2006,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Fortaleza,2,2,Ivo Wortmann,Daniel Frasson
+37,26/11/2006,16:00,Morumbi - São Paulo,São Paulo,Cruzeiro,2,0,Muricy Ramalho,Oswaldo de Oliveira
+37,26/11/2006,16:00,Anacleto Campanella - São Caetano Do Sul,São Caetano,Paraná Clube,0,2,Dorival Júnior,Caio Júnior
+37,26/11/2006,16:00,Durival de Britto e Silva - Curitiba,Atlético-PR,Figueirense,1,4,Oswaldo Alvarez,Waldemar Lemos
+37,26/11/2006,16:00,São Januário - Rio De Janeiro,Vasco,Santos,1,1,Renato Gaúcho,Vanderlei Luxemburgo
+37,26/11/2006,16:00,Serra Dourada - Goiânia,Goiás,Ponte Preta,3,0,Geninho,Wanderley Paiva
+37,26/11/2006,16:00,Arruda - Recife,Santa Cruz-PE,Fluminense,1,2,Fito Neves,Paulo César Gusmão
+37,26/11/2006,16:00,Parque Antarctica - São Paulo,Palmeiras,Internacional,1,4,Jair Picerni,Abel Braga
+38,02/12/2006,18:10,Beira-Rio - Porto Alegre,Internacional,Goiás,1,4,Leomir Souza (Interino),Geninho
+38,02/12/2006,18:10,Raulino de Oliveira - Volta Redonda,Flamengo,São Caetano,4,1,Ney Franco,Dorival Júnior
+38,03/12/2006,16:00,Maracanã - Rio De Janeiro,Fluminense,Palmeiras,1,1,Paulo César Gusmão,Jair Picerni
+38,03/12/2006,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,0,0,Waldemar Lemos,Renato Gaúcho
+38,03/12/2006,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-PR,1,1,Wanderley Paiva,Osvaldo Alvarez
+38,03/12/2006,16:00,Durival de Britto e Silva - Curitiba,Paraná Clube,São Paulo,0,0,Caio Júnior,Muricy Ramalho
+38,03/12/2006,16:00,Mineirão - Belo Horizonte,Cruzeiro,Botafogo,3,1,Oswaldo de Oliveira,Cuca
+38,03/12/2006,16:00,Pacaembu - São Paulo,Corinthians,Juventude,5,3,Emerson Leão,Ivo Wortmann
+38,03/12/2006,18:10,Vila Belmiro - Santos,Santos,Santa Cruz-PE,3,1,Vanderlei Luxemburgo,Fito Neves
+38,03/12/2006,18:10,Presidente Vargas - Fortaleza,Fortaleza,Grêmio,1,0,Daniel Frasson,Mano Menezes

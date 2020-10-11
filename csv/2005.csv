@@ -1,463 +1,463 @@
-rodada,data,hora,local,casa,fora,gols_casa,gols_fora
-1,23/4/2005,16:00,Pinheirão - Curitiba,Paraná,Goiás,0,2
-1,23/4/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Figueirense,4,1
-1,23/4/2005,18:10,Bruno José Daniel - Santo André,São Caetano,Palmeiras,2,2
-1,23/4/2005,18:10,Raulino de Oliveira - Volta Redonda,Flamengo,Cruzeiro,1,1
-1,24/4/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Botafogo-RJ,0,2
-1,24/4/2005,16:00,Presidente Vargas - Fortaleza,Fortaleza,Coritiba,0,1
-1,24/4/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,São Paulo,2,1
-1,24/4/2005,16:00,Pacaembu - São Paulo,Corinthians,Juventude,2,2
-1,24/4/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Ponte Preta,0,1
-1,24/4/2005,18:10,Anacleto Campanella - São Caetano do Sul,Santos,Paysandu-PA,4,1
-1,24/4/2005,18:10,Mané Garrincha - Brasília,Brasiliense-DF,Vasco,0,1
-2,30/4/2005,16:00,Serra Dourada - Goiânia,Goiás,São Caetano,0,0
-2,30/4/2005,16:00,Raulino de Oliveira - Volta Redonda,Vasco,Fortaleza,0,0
-2,30/4/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Brasiliense-DF,2,1
-2,30/4/2005,18:10,Morumbi - São Paulo,São Paulo,Paraná,1,1
-2,30/4/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-MG,3,3
-2,01/5/2005,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Atlético-PR,1,0
-2,01/5/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,0,1
-2,01/5/2005,16:00,Luso-Brasileiro - Rio de Janeiro,Botafogo-RJ,Corinthians,3,1
-2,01/5/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Internacional,3,2
-2,01/5/2005,18:10,Mangueirão - Belém,Paysandu-PA,Fluminense,1,2
-2,01/5/2005,18:10,Couto Pereira - Curitiba,Coritiba,Santos,2,3
-3,07/5/2005,16:00,Pinheirão - Curitiba,Paraná,Juventude,2,2
-3,07/5/2005,16:00,Serra Dourada - Goiânia,Goiás,Figueirense,0,0
-3,07/5/2005,18:10,Vila Belmiro - Santos,Santos,Atlético-PR,2,1
-3,07/5/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Paysandu-PA,2,0
-3,08/5/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,1,0
-3,08/5/2005,16:00,Couto Pereira - Curitiba,Coritiba,Palmeiras,1,0
-3,08/5/2005,16:00,Pacaembu - São Paulo,Corinthians,São Paulo,1,5
-3,08/5/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Cruzeiro,2,1
-3,08/5/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Fortaleza,2,1
-3,08/5/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Brasiliense-DF,0,1
-4,14/5/2005,16:00,Presidente Vargas - Fortaleza,Fortaleza,Ponte Preta,2,1
-4,14/5/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,1,2
-4,14/5/2005,18:10,Morumbi - São Paulo,São Paulo,Coritiba,1,0
-4,14/5/2005,18:10,Edson Passos - Rio de Janeiro,Botafogo-RJ,Atlético-MG,2,1
-4,15/5/2005,16:00,Mangueirão - Belém,Paysandu-PA,São Caetano,3,2
-4,15/5/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Vasco,4,1
-4,15/5/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,2
-4,15/5/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Goiás,3,1
-4,15/5/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Paraná,1,2
-4,15/5/2005,18:10,Raulino de Oliveira - Volta Redonda,Flamengo,Santos,2,1
-4,15/5/2005,18:10,Boca do Jacaré - Taguatinga,Brasiliense-DF,Fluminense,0,3
-5,21/5/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Paysandu-PA,2,0
-5,21/5/2005,16:00,Pinheirão - Curitiba,Paraná,Ponte Preta,1,1
-5,21/5/2005,16:00,Castelão - Fortaleza,Fortaleza,Brasiliense-DF,2,0
-5,21/5/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Coritiba,2,4
-5,21/5/2005,18:10,Serra Dourada - Goiânia,Goiás,Botafogo-RJ,4,0
-5,22/5/2005,16:00,Vila Belmiro - Santos,Santos,Atlético-MG,3,0
-5,22/5/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Flamengo,1,0
-5,22/5/2005,16:00,São Januário - Rio de Janeiro,Vasco,São Paulo,3,1
-5,22/5/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,2,0
-5,22/5/2005,18:10,Pacaembu - São Paulo,Corinthians,Figueirense,2,1
-5,22/5/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Internacional,1,3
-6,28/5/2005,16:00,Mangueirão - Belém,Paysandu-PA,Goiás,1,0
-6,28/5/2005,18:10,Morumbi - São Paulo,São Paulo,Cruzeiro,1,1
-6,28/5/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,São Caetano,2,0
-6,29/5/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Paraná,1,0
-6,29/5/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Vasco,4,2
-6,29/5/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Fluminense,0,0
-6,29/5/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Corinthians,0,1
-6,29/5/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Santos,2,1
-6,29/5/2005,18:10,Edson Passos - Rio de Janeiro,Botafogo-RJ,Atlético-PR,2,0
-6,29/5/2005,18:10,Beira-Rio - Porto Alegre,Internacional,Fortaleza,1,0
-6,29/5/2005,18:10,Couto Pereira - Curitiba,Coritiba,Juventude,1,2
-7,11/6/2005,16:00,Pinheirão - Curitiba,Paraná,Fortaleza,3,0
-7,11/6/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Brasiliense-DF,2,0
-7,11/6/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Ponte Preta,1,2
-7,11/6/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,0,0
-7,11/6/2005,18:10,Edson Passos - Rio de Janeiro,Botafogo-RJ,Juventude,3,2
-7,11/6/2005,18:10,Serra Dourada - Goiânia,Goiás,Palmeiras,2,1
-7,12/6/2005,16:00,Vila Belmiro - Santos,Santos,Fluminense,1,1
-7,12/6/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,1,1
-7,12/6/2005,16:00,Pacaembu - São Paulo,Corinthians,Flamengo,4,2
-7,12/6/2005,18:10,Mangueirão - Belém,Paysandu-PA,São Paulo,2,2
-7,12/6/2005,18:10,São Januário - Rio De Janeiro,Vasco,Coritiba,2,2
-8,18/6/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Paysandu-PA,3,3
-8,18/6/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Vasco,5,2
-8,18/6/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Corinthians,2,4
-8,18/6/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Goiás,2,0
-8,18/6/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,São Caetano,2,3
-8,18/6/2005,18:10,- - Rio de Janeiro,Flamengo,Atlético-PR,1,1
-8,19/6/2005,18:10,Morumbi - São Paulo,São Paulo,Botafogo-RJ,1,0
-8,19/6/2005,18:10,Couto Pereira - Curitiba,Coritiba,Paraná,2,1
-8,19/6/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Internacional,3,0
-8,19/6/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Cruzeiro,0,0
-8,19/6/2005,18:10,Castelão - Fortaleza,Fortaleza,Santos,0,0
-9,25/6/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Ponte Preta,1,3
-9,25/6/2005,16:00,Pinheirão - Curitiba,Paraná,Atlético-MG,1,0
-9,25/6/2005,18:10,Morumbi - São Paulo,São Paulo,Internacional,1,3
-9,25/6/2005,18:10,Edson Passos - Rio de Janeiro,Flamengo,Brasiliense-DF,3,4
-9,26/6/2005,16:00,Raulino de Oliveira - Volta Redonda,Botafogo-RJ,Figueirense,0,1
-9,26/6/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Santos,1,3
-9,26/6/2005,16:00,Pacaembu - São Paulo,Corinthians,Fluminense,0,1
-9,26/6/2005,16:00,Serra Dourada - Goiânia,Goiás,Coritiba,2,1
-9,26/6/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Fortaleza,0,0
-9,26/6/2005,18:10,Mangueirão - Belém,Paysandu-PA,Palmeiras,2,1
-9,26/6/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Vasco,3,3
-10,02/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Paysandu-PA,3,1
-10,02/7/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Paraná,0,1
-10,02/7/2005,18:10,São Januário - Rio De Janeiro,Vasco,Goiás,1,2
-10,03/7/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,0,0
-10,03/7/2005,16:00,Castelão - Fortaleza,Fortaleza,Corinthians,2,1
-10,03/7/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Flamengo,3,1
-10,03/7/2005,18:10,Boca do Jacaré - Taguatinga,Brasiliense-DF,Atlético-PR,2,1
-10,03/7/2005,18:10,Beira-Rio - Porto Alegre,Internacional,São Caetano,2,1
-10,03/7/2005,18:10,Vila Belmiro - Santos,Santos,Juventude,0,0
-10,03/7/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Botafogo-RJ,4,1
-11,09/7/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Brasiliense-DF,2,1
-11,09/7/2005,16:00,Pinheirão - Curitiba,Paraná,Figueirense,3,0
-11,09/7/2005,16:00,Mangueirão - Belém,Paysandu-PA,Fortaleza,1,2
-11,09/7/2005,18:10,Morumbi - São Paulo,São Paulo,Flamengo,2,0
-11,09/7/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Ponte Preta,2,1
-11,10/7/2005,16:00,Raulino de Oliveira - Volta Redonda,Botafogo-RJ,Fluminense,1,2
-11,10/7/2005,16:00,Pacaembu - São Paulo,Corinthians,Palmeiras,3,1
-11,10/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Santos,3,4
-11,10/7/2005,18:10,São Januário - Rio De Janeiro,Vasco,Internacional,2,4
-11,10/7/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,1,0
-11,10/7/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,2,1
-12,16/7/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Figueirense,2,1
-12,16/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Brasiliense-DF,1,3
-12,16/7/2005,18:10,Pinheirão - Curitiba,Paraná,Corinthians,2,3
-12,16/7/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,São Caetano,0,1
-12,17/7/2005,16:00,Vila Belmiro - Santos,Santos,São Paulo,2,1
-12,17/7/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Vasco,1,0
-12,17/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Botafogo-RJ,0,3
-12,17/7/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,2,3
-12,17/7/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Fortaleza,1,2
-12,17/7/2005,18:10,Beira-Rio - Porto Alegre,Internacional,Juventude,5,2
-13,20/7/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Paraná,1,1
-13,20/7/2005,19:30,Luso Brasileiro - Volta Redonda,Botafogo-RJ,Ponte Preta,4,2
-13,20/7/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Goiás,2,3
-13,20/7/2005,20:30,Castelão - Fortaleza,Fortaleza,Atlético-MG,1,4
-13,20/7/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,3,2
-13,20/7/2005,21:45,Vila Belmiro - Santos,Santos,Vasco,2,3
-13,20/7/2005,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,1,4
-13,20/7/2005,21:45,Boca do Jacaré - Taguatinga,Brasiliense-DF,São Paulo,3,3
-13,21/7/2005,20:30,Edson Passos - Rio de Janeiro,Flamengo,Juventude,3,4
-13,21/7/2005,20:30,Mineirão - Belo Horizonte,Cruzeiro,Coritiba,2,2
-13,21/7/2005,20:30,Pacaembu - São Paulo,Corinthians,Paysandu-PA,3,2
-14,23/7/2005,16:00,Pinheirão - Curitiba,Paraná,Atlético-PR,2,0
-14,23/7/2005,16:00,Edson Passos - Rio de Janeiro,Botafogo-RJ,Brasiliense-DF,1,1
-14,23/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Fortaleza,2,1
-14,23/7/2005,18:10,Morumbi - São Paulo,São Paulo,São Caetano,0,1
-14,24/7/2005,16:00,São Januário - Rio De Janeiro,Vasco,Corinthians,2,3
-14,24/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Flamengo,3,2
-14,24/7/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-MG,1,0
-14,24/7/2005,18:10,Mangueirão - Belém,Paysandu-PA,Internacional,1,2
-14,24/7/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Fluminense,2,1
-14,24/7/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Santos,3,2
-15,27/7/2005,19:30,Castelão - Fortaleza,Fortaleza,Juventude,2,0
-15,27/7/2005,20:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Botafogo-RJ,0,1
-15,27/7/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Goiás,1,1
-15,27/7/2005,20:30,Pacaembu - São Paulo,Corinthians,Cruzeiro,4,3
-15,27/7/2005,21:45,Vila Belmiro - Santos,Santos,Ponte Preta,0,1
-15,27/7/2005,21:45,Arena da Baixada - Curitiba,Atlético-PR,Vasco,7,2
-15,27/7/2005,21:45,Mineirão - Belo Horizonte,Atlético-MG,São Paulo,0,0
-15,28/7/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Paraná,0,2
-15,28/7/2005,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Coritiba,0,0
-15,28/7/2005,20:30,Raulino de Oliveira - Volta Redonda,Flamengo,Palmeiras,0,0
-15,28/7/2005,20:30,Boca do Jacaré - Taguatinga,Brasiliense-DF,Paysandu-PA,0,0
-16,30/7/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Fortaleza,3,0
-16,30/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,3,1
-16,30/7/2005,16:00,São Januário - Rio De Janeiro,Vasco,São Caetano,3,2
-16,31/7/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,1,1
-16,31/7/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Internacional,1,1
-16,31/7/2005,16:00,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Flamengo,0,2
-16,31/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Brasiliense-DF,1,1
-16,31/7/2005,18:10,Mangueirão - Belém,Paysandu-PA,Paraná,3,4
-16,31/7/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,São Paulo,2,1
-16,31/7/2005,18:10,Pacaembu - São Paulo,Palmeiras,Atlético-PR,1,1
-17,03/8/2005,19:30,Boca do Jacaré - Taguatinga,Brasiliense-DF,Cruzeiro,1,2
-17,03/8/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Juventude,1,1
-17,03/8/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Goiás,1,0
-17,03/8/2005,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paysandu-PA,2,2
-17,03/8/2005,20:30,Pacaembu - São Paulo,Corinthians,Coritiba,3,0
-17,03/8/2005,21:45,Beira-Rio - Porto Alegre,Internacional,Santos,0,1
-17,03/8/2005,21:45,Pinheirão - Curitiba,Paraná,Botafogo-RJ,2,0
-17,03/8/2005,21:45,Luso Brasileiro - Rio de Janeiro,Flamengo,Ponte Preta,1,0
-17,04/8/2005,20:30,Morumbi - São Paulo,São Paulo,Palmeiras,3,3
-17,04/8/2005,20:30,Castelão - Fortaleza,Fortaleza,Figueirense,5,2
-17,04/8/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Vasco,3,2
-18,06/8/2005,16:00,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Paysandu-PA,2,0
-18,06/8/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,5,4
-18,06/8/2005,16:00,Pacaembu - São Paulo,Corinthians,São Caetano,0,2
-18,07/8/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Palmeiras,1,2
-18,07/8/2005,16:00,Willie Davis - Maringá,Paraná,Santos,1,1
-18,07/8/2005,16:00,Castelão - Fortaleza,Fortaleza,Flamengo,2,1
-18,07/8/2005,18:10,Morumbi - São Paulo,São Paulo,Goiás,0,1
-18,07/8/2005,18:10,Boca do Jacaré - Taguatinga,Brasiliense-DF,Internacional,0,0
-18,07/8/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Coritiba,0,3
-18,07/8/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,1,2
-19,10/8/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Atlético-PR,3,2
-19,10/8/2005,20:30,Mangueirão - Belém,Paysandu-PA,Vasco,0,2
-19,10/8/2005,20:30,Couto Pereira - Curitiba,Coritiba,Atlético-MG,1,0
-19,10/8/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Ponte Preta,2,1
-19,10/8/2005,21:45,Beira-Rio - Porto Alegre,Internacional,Corinthians,0,0
-19,10/8/2005,21:45,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,3,1
-19,11/8/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Fortaleza,2,0
-19,11/8/2005,20:30,Vila Belmiro - Santos,Santos,Brasiliense-DF,1,1
-19,11/8/2005,20:30,Luso Brasileiro - Rio de Janeiro,Flamengo,Paraná,1,1
-19,11/8/2005,20:30,Serra Dourada - Goiânia,Goiás,Juventude,1,0
-20,13/8/2005,16:00,Couto Pereira - Curitiba,Coritiba,São Caetano,2,2
-20,13/8/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Internacional,3,2
-20,13/8/2005,18:10,Mangueirão - Belém,Paysandu-PA,Atlético-PR,2,1
-20,14/8/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Brasiliense-DF,2,2
-20,14/8/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Corinthians,3,5
-20,14/8/2005,16:00,São Januário - Rio De Janeiro,Vasco,Atlético-MG,2,1
-20,14/8/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Paraná,0,1
-20,14/8/2005,16:00,Serra Dourada - Goiânia,Goiás,Flamengo,2,0
-20,14/8/2005,18:10,Morumbi - São Paulo,São Paulo,Fortaleza,3,2
-20,14/8/2005,18:10,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Santos,3,3
-21,20/8/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Juventude,2,1
-21,20/8/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Cruzeiro,0,1
-21,20/8/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,4,2
-21,21/8/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Ponte Preta,4,0
-21,21/8/2005,16:00,Pinheirão - Curitiba,Paraná,Vasco,0,0
-21,21/8/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Palmeiras,2,2
-21,21/8/2005,16:00,Pacaembu - São Paulo,Corinthians,Goiás,1,1
-21,21/8/2005,18:10,Luso Brasileiro - Rio de Janeiro,Flamengo,Paysandu-PA,2,1
-21,21/8/2005,18:10,Vila Belmiro - Santos,Santos,Figueirense,4,3
-21,21/8/2005,18:10,Castelão - Fortaleza,Fortaleza,Botafogo-RJ,3,1
-22,24/8/2005,19:30,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-PR,0,2
-22,24/8/2005,19:30,Parque Antarctica - São Paulo,Palmeiras,São Caetano,2,1
-22,24/8/2005,20:30,São Januário - Rio De Janeiro,Vasco,Brasiliense-DF,1,0
-22,24/8/2005,20:30,Serra Dourada - Goiânia,Goiás,Paraná,1,1
-22,24/8/2005,21:45,Morumbi - São Paulo,São Paulo,Fluminense,1,1
-22,24/8/2005,21:45,Alfredo Jaconi - Caxias Do Sul,Juventude,Corinthians,1,0
-22,24/8/2005,21:45,Mangueirão - Belém,Paysandu-PA,Santos,2,3
-22,24/8/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,0,0
-22,25/8/2005,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-MG,0,1
-22,25/8/2005,20:30,Couto Pereira - Curitiba,Coritiba,Fortaleza,2,0
-22,25/8/2005,20:30,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Internacional,0,1
-23,27/8/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Goiás,0,1
-23,27/8/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Juventude,2,2
-23,27/8/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Palmeiras,3,2
-23,28/8/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,4,1
-23,28/8/2005,16:00,Willie Davis - Maringá,Paraná,São Paulo,0,4
-23,28/8/2005,16:00,Luso Brasileiro - Rio de Janeiro,Flamengo,Figueirense,2,2
-23,28/8/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Ponte Preta,1,0
-23,28/8/2005,16:00,Pacaembu - São Paulo,Corinthians,Botafogo-RJ,3,3
-23,28/8/2005,18:10,Vila Belmiro - Santos,Santos,Coritiba,2,0
-23,28/8/2005,18:10,Castelão - Fortaleza,Fortaleza,Vasco,4,2
-23,28/8/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Paysandu-PA,5,2
-24,07/9/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,3,0
-24,07/9/2005,16:00,Castelão - Fortaleza,Fortaleza,São Caetano,5,2
-24,07/9/2005,16:00,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Vasco,2,2
-24,07/9/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Atlético-MG,1,2
-24,07/9/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Paraná,2,0
-24,07/9/2005,21:45,Mangueirão - Belém,Paysandu-PA,Ponte Preta,2,2
-24,07/9/2005,21:45,Arena da Baixada - Curitiba,Atlético-PR,Santos,3,3
-24,07/9/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,6
-24,08/9/2005,20:30,Luso-Brasileiro - Rio De Janeiro,Flamengo,Internacional,1,1
-24,08/9/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Coritiba,1,1
-25,10/9/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Paysandu-PA,1,2
-25,10/9/2005,16:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,1,0
-25,11/9/2005,16:00,Vila Belmiro - Santos,Santos,Flamengo,0,0
-25,11/9/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Figueirense,3,0
-25,11/9/2005,16:00,Willie Davis - Maringá,Paraná,Palmeiras,1,3
-25,11/9/2005,16:00,São Januário - Rio De Janeiro,Vasco,Juventude,5,2
-25,11/9/2005,16:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,0
-25,11/9/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Fortaleza,2,1
-25,11/9/2005,18:10,Couto Pereira - Curitiba,Coritiba,São Paulo,1,4
-25,11/9/2005,18:10,Independência - Belo Horizonte,Atlético-MG,Botafogo-RJ,0,2
-26,17/9/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Paraná,1,0
-26,17/9/2005,17:00,Mangueirão - Belém,Paysandu-PA,Juventude,3,0
-26,17/9/2005,18:10,Luso Brasileiro - Rio De Janeiro,Flamengo,São Caetano,2,0
-26,17/9/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,2,1
-26,18/9/2005,16:00,Morumbi - São Paulo,São Paulo,Vasco,4,2
-26,18/9/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,3,2
-26,18/9/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,2,3
-26,18/9/2005,16:00,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Goiás,3,1
-26,18/9/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Fortaleza,0,2
-26,18/9/2005,18:10,Couto Pereira - Curitiba,Coritiba,Fluminense,0,0
-26,18/9/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Santos,3,0
-27,21/9/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Figueirense,0,1
-27,21/9/2005,19:30,Castelão - Fortaleza,Fortaleza,Internacional,1,2
-27,21/9/2005,20:30,Pinheirão - Curitiba,Paraná,Brasiliense-DF,4,1
-27,21/9/2005,20:30,Serra Dourada - Goiânia,Goiás,Paysandu-PA,4,1
-27,21/9/2005,21:45,Vila Belmiro - Santos,Santos,Palmeiras,2,1
-27,21/9/2005,21:45,Raulino de Oliveira - Volta Redonda,Fluminense,Flamengo,2,2
-27,21/9/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,2,3
-27,22/9/2005,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Coritiba,0,0
-27,22/9/2005,20:30,São Januário - Rio De Janeiro,Vasco,Ponte Preta,0,0
-27,22/9/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Botafogo-RJ,2,0
-27,22/9/2005,20:30,Pacaembu - São Paulo,Corinthians,Atlético-MG,1,1
-28,24/9/2005,16:00,Morumbi - São Paulo,São Paulo,Paysandu-PA,4,1
-28,24/9/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,São Caetano,1,1
-28,24/9/2005,17:00,Castelão - Fortaleza,Fortaleza,Paraná,2,2
-28,25/9/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Botafogo-RJ,0,0
-28,25/9/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,2,0
-28,25/9/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Cruzeiro,2,3
-28,25/9/2005,16:00,Luso Brasileiro - Rio De Janeiro,Flamengo,Corinthians,1,3
-28,25/9/2005,16:00,Couto Pereira - Curitiba,Coritiba,Vasco,2,0
-28,25/9/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Santos,4,3
-28,25/9/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Internacional,1,1
-28,25/9/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Goiás,3,1
-3,19/10/2005,20:30,São Januário - Rio de Janeiro,Vasco,Botafogo-RJ,1,0
-10,19/10/2005,21:50,Moisés Lucarelli - Campinas,Ponte Preta,São Paulo,2,0
-12,19/10/2005,21:50,Mangueirão - Belém,Paysandu-PA,Cruzeiro,4,1
-14,19/10/2005,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Figueirense,2,2
-16,13/10/2005,20:30,Vila Belmiro - Santos,Santos,Corinthians,2,3
-18,12/10/2005,16:00,São Januário - Rio De Janeiro,Vasco,Figueirense,3,3
-19,12/10/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Botafogo-RJ,2,2
-20,12/10/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Fluminense,3,4
-21,28/10/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Coritiba,3,2
-24,24/10/2005,20:30,Morumbi - São Paulo,São Paulo,Corinthians,1,1
-25,24/10/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Brasiliense-DF,1,1
-29,01/10/2005,16:00,Pinheirão - Curitiba,Paraná,Coritiba,3,2
-29,01/10/2005,16:00,Independência - Belo Horizonte,Cruzeiro,Juventude,2,0
-29,01/10/2005,16:00,Serra Dourada - Goiânia,Goiás,Ponte Preta,4,1
-29,01/10/2005,17:00,Mangueirão - Belém,Paysandu-PA,Figueirense,3,1
-29,01/10/2005,18:10,Vila Belmiro - Santos,Santos,Fortaleza,0,0
-29,01/10/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Atlético-MG,3,1
-29,02/10/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,2,2
-29,02/10/2005,16:00,São Januário - Rio De Janeiro,Vasco,Palmeiras,0,0
-29,02/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Brasiliense-DF,3,2
-29,02/10/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,2,0
-29,02/10/2005,18:10,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,São Paulo,1,1
-30,04/10/2005,20:30,Vila Belmiro - Santos,Santos,São Caetano,2,0
-30,04/10/2005,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Juventude,3,2
-30,04/10/2005,20:30,Couto Pereira - Curitiba,Coritiba,Goiás,0,2
-30,04/10/2005,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paraná,0,1
-30,05/10/2005,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo-RJ,1,0
-30,05/10/2005,20:30,Castelão - Fortaleza,Fortaleza,Atlético-PR,1,4
-30,05/10/2005,20:30,São Januário - Rio De Janeiro,Vasco,Cruzeiro,3,3
-30,05/10/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Paysandu-PA,5,3
-30,05/10/2005,21:50,Beira-Rio - Porto Alegre,Internacional,São Paulo,3,0
-30,05/10/2005,21:50,Raulino de Oliveira - Volta Redonda,Fluminense,Corinthians,0,2
-30,05/10/2005,21:50,Boca do Jacaré - Taguatinga,Brasiliense-DF,Flamengo,2,3
-31,08/10/2005,16:00,Pinheirão - Curitiba,Paraná,Fluminense,6,1
-31,08/10/2005,16:00,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Palmeiras,1,2
-31,08/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Fortaleza,3,0
-31,08/10/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Santos,3,1
-31,08/10/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,4,0
-31,08/10/2005,18:10,Serra Dourada - Goiânia,Goiás,Vasco,4,3
-31,11/10/2005,20:30,Morumbi - São Paulo,São Paulo,Ponte Preta,3,2
-31,11/10/2005,20:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Internacional,1,1
-31,11/10/2005,20:30,Leônidas Castro - Belém,Paysandu-PA,Coritiba,2,1
-31,11/10/2005,20:30,Luso Brasileiro - Rio De Janeiro,Flamengo,Atlético-MG,1,2
-31,11/10/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Brasiliense-DF,4,0
-32,15/10/2005,16:00,Castelão - Fortaleza,Fortaleza,Paysandu-PA,1,2
-32,15/10/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Botafogo-RJ,3,2
-32,15/10/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Juventude,1,0
-32,15/10/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Paraná,2,0
-32,15/10/2005,18:10,Couto Pereira - Curitiba,Coritiba,Atlético-PR,1,2
-32,16/10/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,3,1
-32,16/10/2005,16:00,Luso Brasileiro - Rio De Janeiro,Flamengo,São Paulo,1,6
-32,16/10/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,0,1
-32,16/10/2005,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,1,1
-32,16/10/2005,18:10,Vila Belmiro - Santos,Santos,Goiás,1,1
-32,16/10/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,São Caetano,1,2
-33,21/10/2005,20:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Fluminense,2,2
-33,21/10/2005,20:30,Boca do Jacaré - Taguatinga,Brasiliense-DF,Goiás,1,2
-33,22/10/2005,16:00,Castelão - Fortaleza,Fortaleza,Palmeiras,1,1
-33,22/10/2005,16:00,São Januário - Rio De Janeiro,Vasco,Flamengo,2,1
-33,22/10/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,2,0
-33,22/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Paraná,1,0
-33,22/10/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Internacional,2,1
-33,22/10/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Ponte Preta,4,0
-33,22/10/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Paysandu-PA,4,3
-33,22/10/2005,20:30,Morumbi - São Paulo,São Paulo,Santos,1,2
-33,22/10/2005,20:30,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Coritiba,2,0
-34,25/10/2005,20:30,Couto Pereira - Curitiba,Coritiba,Cruzeiro,0,3
-34,25/10/2005,20:30,Serra Dourada - Goiânia,Goiás,Internacional,0,1
-34,26/10/2005,20:30,Mineirão - Belo Horizonte,Atlético-MG,Fortaleza,2,3
-34,26/10/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,2,2
-34,26/10/2005,21:45,Alfredo Jaconi - Caxias Do Sul,Juventude,Flamengo,2,2
-34,26/10/2005,21:45,São Januário - Rio De Janeiro,Vasco,Santos,1,3
-34,27/10/2005,20:30,Morumbi - São Paulo,São Paulo,Brasiliense-DF,1,2
-34,27/10/2005,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Botafogo-RJ,0,1
-34,27/10/2005,20:30,Mangueirão - Belém,Paysandu-PA,Corinthians,0,2
-34,27/10/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Atlético-PR,4,1
-34,28/10/2005,16:00,Pinheirão - Curitiba,Paraná,São Caetano,1,3
-35,29/10/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,4,3
-35,29/10/2005,17:00,Castelão - Fortaleza,Fortaleza,Goiás,1,1
-35,30/10/2005,16:00,Parque Antarctica - São Paulo,Santos,Cruzeiro,1,2
-35,30/10/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paraná,2,1
-35,30/10/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,3
-35,30/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Vasco,1,1
-35,30/10/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,São Paulo,0,1
-35,30/10/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Ponte Preta,4,3
-35,30/10/2005,18:10,Mané Garrincha - Brasília,Brasiliense-DF,Botafogo-RJ,0,0
-35,31/10/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Paysandu-PA,1,0
-35,31/10/2005,20:30,Luso Brasileiro - Rio de Janeiro,Flamengo,Coritiba,2,1
-36,02/11/2005,20:30,Morumbi - São Paulo,São Paulo,Atlético-MG,2,2
-36,02/11/2005,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Fortaleza,2,0
-36,02/11/2005,21:45,Moisés Lucarelli - Campinas,Ponte Preta,Santos,2,1
-36,02/11/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,2,1
-36,02/11/2005,21:45,Serra Dourada - Goiânia,Goiás,Fluminense,1,2
-36,03/11/2005,19:30,Couto Pereira - Curitiba,Coritiba,Figueirense,4,1
-36,03/11/2005,20:30,Olímpico Regional - Cascavel,Paraná,Internacional,3,1
-36,03/11/2005,20:30,São Januário - Rio De Janeiro,Vasco,Atlético-PR,2,1
-36,03/11/2005,20:30,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,São Caetano,1,0
-36,03/11/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Flamengo,0,1
-36,03/11/2005,21:30,Mangueirão - Belém,Paysandu-PA,Brasiliense-DF,2,1
-37,05/11/2005,16:00,Morumbi - São Paulo,São Paulo,Juventude,3,1
-37,05/11/2005,18:10,Castelão - Fortaleza,Fortaleza,Cruzeiro,3,1
-37,06/11/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Ponte Preta,2,1
-37,06/11/2005,16:00,Pinheirão - Curitiba,Paraná,Paysandu-PA,2,0
-37,06/11/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Vasco,1,2
-37,06/11/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Botafogo-RJ,3,1
-37,06/11/2005,16:00,Pacaembu - São Paulo,Corinthians,Santos,7,1
-37,06/11/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,4,0
-37,06/11/2005,18:10,São Januário - Rio De Janeiro,Fluminense,Figueirense,2,0
-37,06/11/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Goiás,1,2
-37,06/11/2005,18:10,Serejão - Brasília,Brasiliense-DF,Coritiba,1,1
-38,12/11/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Fortaleza,1,0
-38,12/11/2005,18:10,Mangueirão - Belém,Paysandu-PA,Atlético-MG,0,2
-38,12/11/2005,18:10,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Paraná,2,0
-38,12/11/2005,18:10,Pacaembu - São Paulo,Palmeiras,São Paulo,2,1
-38,13/11/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Flamengo,2,2
-38,13/11/2005,16:00,Couto Pereira - Curitiba,Coritiba,Corinthians,0,1
-38,13/11/2005,16:00,Serra Dourada - Goiânia,Goiás,Atlético-PR,4,2
-38,13/11/2005,18:10,Anacleto Campanella - São Caetano do Sul,Santos,Internacional,0,4
-38,13/11/2005,18:10,Centenário de Caxias - Caxias Do Sul,Juventude,São Caetano,3,1
-38,13/11/2005,18:10,São Januário - Rio De Janeiro,Vasco,Fluminense,2,0
-38,13/11/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Brasiliense-DF,1,0
-39,16/11/2005,19:30,Luso Brasileiro - Rio De Janeiro,Flamengo,Fortaleza,3,0
-39,16/11/2005,19:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,3,2
-39,16/11/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Brasiliense-DF,1,0
-39,16/11/2005,20:30,Serra Dourada - Goiânia,Goiás,São Paulo,3,0
-39,16/11/2005,21:45,Pacaembu - São Paulo,Santos,Paraná,0,0
-39,16/11/2005,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,5,1
-39,16/11/2005,21:45,Anacleto Campanella - S. Caetano Sul,São Caetano,Corinthians,1,0
-39,17/11/2005,20:30,Couto Pereira - Curitiba,Coritiba,Ponte Preta,2,1
-39,17/11/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Atlético-MG,0,2
-39,17/11/2005,20:30,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,1,2
-39,17/11/2005,21:30,Mangueirão - Belém,Paysandu-PA,Botafogo-RJ,2,0
-40,19/11/2005,16:00,Morumbi - São Paulo,São Paulo,Figueirense,4,2
-40,19/11/2005,16:00,Centenário de Caxias - Caxias Do Sul,Juventude,Goiás,2,1
-40,19/11/2005,18:10,Boca do Jacaré - Brasília,Brasiliense-DF,Santos,1,0
-40,20/11/2005,16:00,Pinheirão - Curitiba,Paraná,Flamengo,0,1
-40,20/11/2005,16:00,São Januário - Rio De Janeiro,Vasco,Paysandu-PA,4,0
-40,20/11/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Caetano,2,2
-40,20/11/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Coritiba,1,0
-40,20/11/2005,16:00,Pacaembu - São Paulo,Corinthians,Internacional,1,1
-40,20/11/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Palmeiras,2,6
-40,20/11/2005,18:10,Castelão - Fortaleza,Fortaleza,Fluminense,5,1
-40,20/11/2005,18:10,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Cruzeiro,2,1
-41,27/11/2005,16:00,Vila Belmiro - Santos,Santos,Botafogo-RJ,2,1
-41,27/11/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,2,1
-41,27/11/2005,16:00,Pinheirão - Curitiba,Paraná,Cruzeiro,2,0
-41,27/11/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Coritiba,1,1
-41,27/11/2005,16:00,Castelão - Fortaleza,Fortaleza,São Paulo,1,0
-41,27/11/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Goiás,0,0
-41,27/11/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paysandu-PA,3,2
-41,27/11/2005,16:00,São Januário - Rio de Janeiro,Fluminense,Juventude,1,2
-41,27/11/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,0,0
-41,27/11/2005,16:00,Morumbi - São Paulo,Corinthians,Ponte Preta,3,1
-41,27/11/2005,16:00,Boca do Jacaré - Brasília,Brasiliense-DF,Figueirense,0,2
-42,04/12/2005,16:00,Morumbi - São Paulo,São Paulo,Atlético-PR,3,1
-42,04/12/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Atlético-MG,1,3
-42,04/12/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Santos,3,1
-42,04/12/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Brasiliense-DF,3,1
-42,04/12/2005,16:00,Mangueirão - Belém,Paysandu-PA,Flamengo,1,4
-42,04/12/2005,16:00,São Januário - Rio De Janeiro,Vasco,Paraná,3,1
-42,04/12/2005,16:00,Couto Pereira - Curitiba,Coritiba,Internacional,1,0
-42,04/12/2005,16:00,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Fortaleza,2,0
-42,04/12/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Caetano,1,3
-42,04/12/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,2
-42,04/12/2005,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,3,2
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora,tecnico_casa,tecnico_fora
+1,23/4/2005,16:00,Pinheirão - Curitiba,Paraná,Goiás,0,2,Lori Sandri,Péricles Chamusca
+1,23/4/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Figueirense,4,1,Tite,Marco Aurélio
+1,23/4/2005,18:10,Bruno José Daniel - Santo André,São Caetano,Palmeiras,2,2,Estevam Soares,Paulo Bonamingo
+1,23/4/2005,18:10,Raulino de Oliveira - Volta Redonda,Flamengo,Cruzeiro,1,1,Andrade,Levir Culpi
+1,24/4/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Botafogo-RJ,0,2,Muricy Ramalho,Paulo César Gusmão
+1,24/4/2005,16:00,Presidente Vargas - Fortaleza,Fortaleza,Coritiba,0,1,Wagner Benazzi,Antônio Lopes
+1,24/4/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,São Paulo,2,1,Abel Braga,Milton Cruz
+1,24/4/2005,16:00,Pacaembu - São Paulo,Corinthians,Juventude,2,2,Daniel Passarella,Ivo Wortmann
+1,24/4/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Ponte Preta,0,1,Edinho,Oswaldo Alvarez
+1,24/4/2005,18:10,Anacleto Campanella - São Caetano do Sul,Santos,Paysandu-PA,4,1,Gallo,Paulo Campos
+1,24/4/2005,18:10,Mané Garrincha - Brasília,Brasiliense-DF,Vasco,0,1,Valdir Espinosa,Dário Lourenço
+2,30/4/2005,16:00,Serra Dourada - Goiânia,Goiás,São Caetano,0,0,Edson Gaúcho,Estevam Soares
+2,30/4/2005,16:00,Raulino de Oliveira - Volta Redonda,Vasco,Fortaleza,0,0,Dário Lourenço,Vagner Benazzi
+2,30/4/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Brasiliense-DF,2,1,Paulo Bonamigo.,Valdyr Espinosa.
+2,30/4/2005,18:10,Morumbi - São Paulo,São Paulo,Paraná,1,1,Milton Cruz,Lori Sandri
+2,30/4/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-MG,3,3,Oswaldo Alvarez,Tite
+2,01/5/2005,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Atlético-PR,1,0,Ivo Wortmann,Edinho Nazareth
+2,01/5/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,0,1,Marco Aurélio,Celso Roth
+2,01/5/2005,16:00,Luso-Brasileiro - Rio de Janeiro,Botafogo-RJ,Corinthians,3,1,Paulo César Gusmão,Daniel Passarella
+2,01/5/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Internacional,3,2,Levir Culpi,Muricy Ramalho
+2,01/5/2005,18:10,Mangueirão - Belém,Paysandu-PA,Fluminense,1,2,Paulo Campos,Abel Braga
+2,01/5/2005,18:10,Couto Pereira - Curitiba,Coritiba,Santos,2,3,Antônio Lopes,Gallo
+3,07/5/2005,16:00,Pinheirão - Curitiba,Paraná,Juventude,2,2,Lori Sandri,Ivo Wortmann
+3,07/5/2005,16:00,Serra Dourada - Goiânia,Goiás,Figueirense,0,0,Edson Gaúcho,Marco Aurélio
+3,07/5/2005,18:10,Vila Belmiro - Santos,Santos,Atlético-PR,2,1,Gallo,Edinho
+3,07/5/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Paysandu-PA,2,0,Oswaldo Alvarez,Paulo Campos
+3,08/5/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Flamengo,1,0,Muricy Ramalho,Celso Roth
+3,08/5/2005,16:00,Couto Pereira - Curitiba,Coritiba,Palmeiras,1,0,Cuca,Paulo Bonamigo
+3,08/5/2005,16:00,Pacaembu - São Paulo,Corinthians,São Paulo,1,5,Daniel Passarella,Paulo Autuori
+3,08/5/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Cruzeiro,2,1,Abel Braga,Levir Culpi
+3,08/5/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Fortaleza,2,1,Estevam Soares,Vagner Benazzi
+3,08/5/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Brasiliense-DF,0,1,Tite,Valdyr Espinosa
+4,14/5/2005,16:00,Presidente Vargas - Fortaleza,Fortaleza,Ponte Preta,2,1,Vagner Benazzi,Oswaldo Alvarez
+4,14/5/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Internacional,1,2,Marco Aurélio,Muricy Ramalho
+4,14/5/2005,18:10,Morumbi - São Paulo,São Paulo,Coritiba,1,0,Paulo Autuori,Cuca
+4,14/5/2005,18:10,Edson Passos - Rio de Janeiro,Botafogo-RJ,Atlético-MG,2,1,Paulo César Gusmão,Tite
+4,15/5/2005,16:00,Mangueirão - Belém,Paysandu-PA,São Caetano,3,2,Paulo Campos,Estevam Soares
+4,15/5/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Vasco,4,1,Ivo Wortmann,Dário Lourenço
+4,15/5/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,1,2,Borba Filho,Márcio Bittencourt
+4,15/5/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Goiás,3,1,Levir Culpi,Édson Gaúcho
+4,15/5/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Paraná,1,2,Paulo Bonamigo,Lori Sandri
+4,15/5/2005,18:10,Raulino de Oliveira - Volta Redonda,Flamengo,Santos,2,1,Celso Roth,Gallo
+4,15/5/2005,18:10,Boca do Jacaré - Taguatinga,Brasiliense-DF,Fluminense,0,3,Valdir Espinosa,Abel Braga
+5,21/5/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Paysandu-PA,2,0,Ivo Wortmann.,Paulo Campos
+5,21/5/2005,16:00,Pinheirão - Curitiba,Paraná,Ponte Preta,1,1,Lori Sandri,Oswaldo Alvarez
+5,21/5/2005,16:00,Castelão - Fortaleza,Fortaleza,Brasiliense-DF,2,0,Vagner Benazzi,Valdyr Espinosa
+5,21/5/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Coritiba,2,4,Abel Braga,Cuca
+5,21/5/2005,18:10,Serra Dourada - Goiânia,Goiás,Botafogo-RJ,4,0,Édson Gaúcho,Paulo César Gusmão
+5,22/5/2005,16:00,Vila Belmiro - Santos,Santos,Atlético-MG,3,0,Gallo,Tite
+5,22/5/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Flamengo,1,0,Estevam Soares,Celso Roth
+5,22/5/2005,16:00,São Januário - Rio de Janeiro,Vasco,São Paulo,3,1,Dário Lourenço,Paulo Autuori
+5,22/5/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,2,0,Levir Culpi,Paulo Bonamigo
+5,22/5/2005,18:10,Pacaembu - São Paulo,Corinthians,Figueirense,2,1,Márcio Bittencourt,Marco Aurélio Moreira
+5,22/5/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Internacional,1,3,Borba Filho,Muricy Ramalho
+6,28/5/2005,16:00,Mangueirão - Belém,Paysandu-PA,Goiás,1,0,Paulo Campos,Édson Gaúcho
+6,28/5/2005,18:10,Morumbi - São Paulo,São Paulo,Cruzeiro,1,1,Paulo Autuori,Levir Culpi
+6,28/5/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,São Caetano,2,0,Marco Aurélio Moreira,Estevam Soares
+6,29/5/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Paraná,1,0,Valdyr Espinosa,Lori Sandri
+6,29/5/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Vasco,4,2,Oswaldo Alvarez,Dário Lourenço
+6,29/5/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Fluminense,0,0,Celso Roth,Abel Braga
+6,29/5/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Corinthians,0,1,Tite,Márcio Bittencourt
+6,29/5/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Santos,2,1,Paulo Bonamigo.,Gallo.
+6,29/5/2005,18:10,Edson Passos - Rio de Janeiro,Botafogo-RJ,Atlético-PR,2,0,Paulo César Gusmão,Antônio Lopes
+6,29/5/2005,18:10,Beira-Rio - Porto Alegre,Internacional,Fortaleza,1,0,Muricy Ramalho,Vágner Benazzi
+6,29/5/2005,18:10,Couto Pereira - Curitiba,Coritiba,Juventude,1,2,Cuca,Ivo Wortmann
+7,11/6/2005,16:00,Pinheirão - Curitiba,Paraná,Fortaleza,3,0,Lori Sandri,Vagner Benazzi
+7,11/6/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Brasiliense-DF,2,0,Estevam Soares,Valdir Espinosa
+7,11/6/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Ponte Preta,1,2,Levir Culpi,Oswaldo Alvarez
+7,11/6/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,0,0,Antônio Lopes,Marco Aurélio Moreira
+7,11/6/2005,18:10,Edson Passos - Rio de Janeiro,Botafogo-RJ,Juventude,3,2,Paulo César Gusmão,Ivo Worthman
+7,11/6/2005,18:10,Serra Dourada - Goiânia,Goiás,Palmeiras,2,1,Édson Gaúcho,Paulo Bonamigo
+7,12/6/2005,16:00,Vila Belmiro - Santos,Santos,Fluminense,1,1,Gallo,Abel Braga
+7,12/6/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,1,1,Muricy Ramalho,Tite
+7,12/6/2005,16:00,Pacaembu - São Paulo,Corinthians,Flamengo,4,2,Márcio Bittencourt,Celso Roth
+7,12/6/2005,18:10,Mangueirão - Belém,Paysandu-PA,São Paulo,2,2,Paulo Campos,Paulo Autuori
+7,12/6/2005,18:10,São Januário - Rio De Janeiro,Vasco,Coritiba,2,2,Dário Lourenço,Cuca
+8,18/6/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Paysandu-PA,3,3,Marco Aurélio Moreira,Paulo Campos
+8,18/6/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Vasco,5,2,Paulo Bonamigo.,Dário Lourenço.
+8,18/6/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Corinthians,2,4,Valdyr Espinosa,Márcio Bittencourt
+8,18/6/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Goiás,2,0,Oswaldo Alvarez,Édson Gaúcho
+8,18/6/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,São Caetano,2,3,Tite,Estevam Soares
+8,18/6/2005,18:10,- - Rio de Janeiro,Flamengo,Atlético-PR,1,1,Celso Roth,Antônio Lopes
+8,19/6/2005,18:10,Morumbi - São Paulo,São Paulo,Botafogo-RJ,1,0,Paulo Autuori,Paulo César Gusmão
+8,19/6/2005,18:10,Couto Pereira - Curitiba,Coritiba,Paraná,2,1,Cuca,Lori Sandri
+8,19/6/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Internacional,3,0,Abel Braga,Muricy Ramalho
+8,19/6/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Cruzeiro,0,0,Ivo Wortmann,Levir Culpi
+8,19/6/2005,18:10,Castelão - Fortaleza,Fortaleza,Santos,0,0,Vágner Benazzi,Gallo
+9,25/6/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Ponte Preta,1,3,Ivo Wortmann,Oswaldo Alvarez
+9,25/6/2005,16:00,Pinheirão - Curitiba,Paraná,Atlético-MG,1,0,Lori Sandri,Tite
+9,25/6/2005,18:10,Morumbi - São Paulo,São Paulo,Internacional,1,3,Paulo Autuori,Muricy Ramalho
+9,25/6/2005,18:10,Edson Passos - Rio de Janeiro,Flamengo,Brasiliense-DF,3,4,Celso Roth,Joel Santana
+9,26/6/2005,16:00,Raulino de Oliveira - Volta Redonda,Botafogo-RJ,Figueirense,0,1,Paulo César Gusmão,Marco Aurélio Moreira
+9,26/6/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Santos,1,3,Estevam Soares,Gallo
+9,26/6/2005,16:00,Pacaembu - São Paulo,Corinthians,Fluminense,0,1,Márcio Bittencourt,Abel Braga
+9,26/6/2005,16:00,Serra Dourada - Goiânia,Goiás,Coritiba,2,1,Édson Gaúcho,Cuca
+9,26/6/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Fortaleza,0,0,Antônio Lopes,Vágner Benazzi
+9,26/6/2005,18:10,Mangueirão - Belém,Paysandu-PA,Palmeiras,2,1,Paulo Campos,Paulo Bonamigo
+9,26/6/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Vasco,3,3,Levir Culpi,Dário Lourenço
+10,02/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Paysandu-PA,3,1,Cuca,Paulo Campos
+10,02/7/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Paraná,0,1,Abel Braga,Lori Sandri
+10,02/7/2005,18:10,São Januário - Rio De Janeiro,Vasco,Goiás,1,2,Dário Lourenço,Édson Gaúcho
+10,03/7/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,0,0,Marco Aurélio,Levir Culpi
+10,03/7/2005,16:00,Castelão - Fortaleza,Fortaleza,Corinthians,2,1,Hélio dos Anjos,Márcio Bittencourt
+10,03/7/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Flamengo,3,1,Tite,Celso Roth
+10,03/7/2005,18:10,Boca do Jacaré - Taguatinga,Brasiliense-DF,Atlético-PR,2,1,Joel Santana,Antônio Lopes
+10,03/7/2005,18:10,Beira-Rio - Porto Alegre,Internacional,São Caetano,2,1,Muricy Ramalho,Estevam Soares
+10,03/7/2005,18:10,Vila Belmiro - Santos,Santos,Juventude,0,0,Gallo,Ivo Wortmann
+10,03/7/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Botafogo-RJ,4,1,Paulo Bonamigo,Péricles Chamusca
+11,09/7/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Brasiliense-DF,2,1,Ivo Wortmann,Joel Santana
+11,09/7/2005,16:00,Pinheirão - Curitiba,Paraná,Figueirense,3,0,Lori Sandri,Marco Aurélio Moreira
+11,09/7/2005,16:00,Mangueirão - Belém,Paysandu-PA,Fortaleza,1,2,Paulo Campos,Hélio dos Anjos
+11,09/7/2005,18:10,Morumbi - São Paulo,São Paulo,Flamengo,2,0,Paulo Autuori,Celso Roth
+11,09/7/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Ponte Preta,2,1,Estevam Soares,Oswaldo Alvarez
+11,10/7/2005,16:00,Raulino de Oliveira - Volta Redonda,Botafogo-RJ,Fluminense,1,2,Péricles Chamusca,Abel Braga
+11,10/7/2005,16:00,Pacaembu - São Paulo,Corinthians,Palmeiras,3,1,Márcio Bittencourt,Paulo Bonamigo
+11,10/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Santos,3,4,Édson Gaúcho,Gallo
+11,10/7/2005,18:10,São Januário - Rio De Janeiro,Vasco,Internacional,2,4,Dário Lourenço,Muricy Ramalho
+11,10/7/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,1,0,Antônio Lopes,Cuca
+11,10/7/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,2,1,Paulo César Gusmão,Tite
+12,16/7/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Figueirense,2,1,Oswaldo Alvarez,Marco Aurélio Moreira
+12,16/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Brasiliense-DF,1,3,Edson Gaúcho,Joel Santana
+12,16/7/2005,18:10,Pinheirão - Curitiba,Paraná,Corinthians,2,3,Lori Sandri,Marcio Bittencourt
+12,16/7/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,São Caetano,0,1,Abel Braga,Estevam Soares
+12,17/7/2005,16:00,Vila Belmiro - Santos,Santos,São Paulo,2,1,Gallo,Paulo Autuori
+12,17/7/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Vasco,1,0,Celso Roth,Dário Lourenço
+12,17/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Botafogo-RJ,0,3,Cuca,Péricles Chamusca
+12,17/7/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,2,3,Tite,Antônio Lopes
+12,17/7/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Fortaleza,1,2,Paulo Bonamigo,Hélio dos Anjos
+12,17/7/2005,18:10,Beira-Rio - Porto Alegre,Internacional,Juventude,5,2,Muricy Ramalho,Dorival Júnior
+13,20/7/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Paraná,1,1,Estevam Soares,Lori Sandri
+13,20/7/2005,19:30,Luso Brasileiro - Volta Redonda,Botafogo-RJ,Ponte Preta,4,2,Péricles Chamusca,Oswaldo Alvarez
+13,20/7/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Goiás,2,3,Muricy Ramalho,Geninho
+13,20/7/2005,20:30,Castelão - Fortaleza,Fortaleza,Atlético-MG,1,4,Tite,Hélio dos Anjos
+13,20/7/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,3,2,Antônio Lopes,Abel Braga
+13,20/7/2005,21:45,Vila Belmiro - Santos,Santos,Vasco,2,3,Gallo,Renato Gaúcho
+13,20/7/2005,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,1,4,Marco Aurélio Moreira,Emerson Leão
+13,20/7/2005,21:45,Boca do Jacaré - Taguatinga,Brasiliense-DF,São Paulo,3,3,Joel Santana,Paulo Autuori
+13,21/7/2005,20:30,Edson Passos - Rio de Janeiro,Flamengo,Juventude,3,4,Celso Roth,Dorival Júnior
+13,21/7/2005,20:30,Mineirão - Belo Horizonte,Cruzeiro,Coritiba,2,2,Paulo César Gusmão,Cuca
+13,21/7/2005,20:30,Pacaembu - São Paulo,Corinthians,Paysandu-PA,3,2,Márcio Bittencourt,Sinomar Neves
+14,23/7/2005,16:00,Pinheirão - Curitiba,Paraná,Atlético-PR,2,0,Lori Sandri,Antônio Lopes
+14,23/7/2005,16:00,Edson Passos - Rio de Janeiro,Botafogo-RJ,Brasiliense-DF,1,1,Péricles Chamusca,Joel Santana
+14,23/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Fortaleza,2,1,Geninho,Hélio dos Anjos
+14,23/7/2005,18:10,Morumbi - São Paulo,São Paulo,São Caetano,0,1,Paulo Autuori,Dino Camargo
+14,24/7/2005,16:00,São Januário - Rio De Janeiro,Vasco,Corinthians,2,3,Renato Gaúcho,Márcio Bittencourt
+14,24/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Flamengo,3,2,Cuca,Celso Roth
+14,24/7/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-MG,1,0,Emerson Leão,Tite
+14,24/7/2005,18:10,Mangueirão - Belém,Paysandu-PA,Internacional,1,2,Sinomar Naves,Muricy Ramalho
+14,24/7/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Fluminense,2,1,Oswaldo Alvarez,Abel Braga
+14,24/7/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Santos,3,2,Paulo César Gusmão,Gallo
+15,27/7/2005,19:30,Castelão - Fortaleza,Fortaleza,Juventude,2,0,Hélio dos Anjos,Dorival Júnior
+15,27/7/2005,20:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Botafogo-RJ,0,1,Dino Camargo,Péricles Chamusca
+15,27/7/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Goiás,1,1,Abel Braga,Geninho
+15,27/7/2005,20:30,Pacaembu - São Paulo,Corinthians,Cruzeiro,4,3,Márcio Bittencourt,Paulo César Gusmão
+15,27/7/2005,21:45,Vila Belmiro - Santos,Santos,Ponte Preta,0,1,Gallo,Nenê Santana
+15,27/7/2005,21:45,Arena da Baixada - Curitiba,Atlético-PR,Vasco,7,2,Antônio Lopes,Renato Gaúcho
+15,27/7/2005,21:45,Mineirão - Belo Horizonte,Atlético-MG,São Paulo,0,0,Tite,Paulo Autuori
+15,28/7/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Paraná,0,2,Muricy Ramalho,Lori Sandri
+15,28/7/2005,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Coritiba,0,0,Zé Mário,Cuca
+15,28/7/2005,20:30,Raulino de Oliveira - Volta Redonda,Flamengo,Palmeiras,0,0,Celso Roth,Emerson Leão
+15,28/7/2005,20:30,Boca do Jacaré - Taguatinga,Brasiliense-DF,Paysandu-PA,0,0,Joel Santana,Gílson Kleina
+16,30/7/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Fortaleza,3,0,Paulo César Gusmão,Hélio dos Anjos
+16,30/7/2005,16:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,3,1,Geninho,Tite
+16,30/7/2005,16:00,São Januário - Rio De Janeiro,Vasco,São Caetano,3,2,Renato Gaúcho,Levir Culpi
+16,31/7/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,1,1,Zé Mário,Abel Braga
+16,31/7/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Internacional,1,1,Nenê Santana,Muricy Ramalho
+16,31/7/2005,16:00,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Flamengo,0,2,Péricles Chamusca,Celso Roth
+16,31/7/2005,16:00,Couto Pereira - Curitiba,Coritiba,Brasiliense-DF,1,1,Cuca,Joel Santana
+16,31/7/2005,18:10,Mangueirão - Belém,Paysandu-PA,Paraná,3,4,Gílson Kleina,Lori Sandri
+16,31/7/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,São Paulo,2,1,Valteir Gomes Franco,Paulo Autuori
+16,31/7/2005,18:10,Pacaembu - São Paulo,Palmeiras,Atlético-PR,1,1,Emerson Leão,Antonio Lopes
+17,03/8/2005,19:30,Boca do Jacaré - Taguatinga,Brasiliense-DF,Cruzeiro,1,2,Joel Santana,Paulo César Gusmão
+17,03/8/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Juventude,1,1,Levir Culpi,Sebastião Lazaroni
+17,03/8/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Goiás,1,0,Antonio Lopes,Geninho
+17,03/8/2005,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paysandu-PA,2,2,Tite,Gílson Kleina
+17,03/8/2005,20:30,Pacaembu - São Paulo,Corinthians,Coritiba,3,0,Márcio Bittencourt,Cuca
+17,03/8/2005,21:45,Beira-Rio - Porto Alegre,Internacional,Santos,0,1,Muricy Ramalho,Gallo
+17,03/8/2005,21:45,Pinheirão - Curitiba,Paraná,Botafogo-RJ,2,0,Lori Sandri,Péricles Chamusca
+17,03/8/2005,21:45,Luso Brasileiro - Rio de Janeiro,Flamengo,Ponte Preta,1,0,Celso Roth,Nenê Santana
+17,04/8/2005,20:30,Morumbi - São Paulo,São Paulo,Palmeiras,3,3,Paulo Autuori,Emerson Leão
+17,04/8/2005,20:30,Castelão - Fortaleza,Fortaleza,Figueirense,5,2,Hélio dos Anjos,Zé Mário
+17,04/8/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Vasco,3,2,Abel Braga,Renato Gaúcho
+18,06/8/2005,16:00,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Paysandu-PA,2,0,Péricles Chamusca,Gílson Kleina
+18,06/8/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,5,4,Antônio Lopes,Paulo César Gusmão
+18,06/8/2005,16:00,Pacaembu - São Paulo,Corinthians,São Caetano,0,2,Márcio Bittencourt,Levir Culpi
+18,07/8/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Palmeiras,1,2,Sebastião Lazaroni,Emerson Leão
+18,07/8/2005,16:00,Willie Davis - Maringá,Paraná,Santos,1,1,Lori Sandri,Gallo
+18,07/8/2005,16:00,Castelão - Fortaleza,Fortaleza,Flamengo,2,1,Hélio dos Anjos,Celso Roth
+18,07/8/2005,18:10,Morumbi - São Paulo,São Paulo,Goiás,0,1,Paulo Autuori,Geninho
+18,07/8/2005,18:10,Boca do Jacaré - Taguatinga,Brasiliense-DF,Internacional,0,0,Joel Santana,Muricy Ramalho
+18,07/8/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Coritiba,0,3,Zetti,Cuca
+18,07/8/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,1,2,Marco Aurélio,Abel Braga
+19,10/8/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Atlético-PR,3,2,Levir Culpi,Antonio Lopes
+19,10/8/2005,20:30,Mangueirão - Belém,Paysandu-PA,Vasco,0,2,Gílson Kleina,Renato Gaúcho
+19,10/8/2005,20:30,Couto Pereira - Curitiba,Coritiba,Atlético-MG,1,0,Cuca,Marco Aurélio
+19,10/8/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Ponte Preta,2,1,Emerson Leão,Zetti
+19,10/8/2005,21:45,Beira-Rio - Porto Alegre,Internacional,Corinthians,0,0,Muricy Ramalho,Márcio Bittencourt
+19,10/8/2005,21:45,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,3,1,Zé Mário,Paulo Autuori
+19,11/8/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Fortaleza,2,0,Abel Braga,Hélio dos Anjos
+19,11/8/2005,20:30,Vila Belmiro - Santos,Santos,Brasiliense-DF,1,1,Gallo,Joel Santana
+19,11/8/2005,20:30,Luso Brasileiro - Rio de Janeiro,Flamengo,Paraná,1,1,Celso Roth,Lori Sandri
+19,11/8/2005,20:30,Serra Dourada - Goiânia,Goiás,Juventude,1,0,Geninho,Sebastião Lazaroni
+20,13/8/2005,16:00,Couto Pereira - Curitiba,Coritiba,São Caetano,2,2,Cuca,Levir Culpi
+20,13/8/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Internacional,3,2,Emerson Leão,Muricy Ramalho
+20,13/8/2005,18:10,Mangueirão - Belém,Paysandu-PA,Atlético-PR,2,1,Gilson Kleina,Antonio Lopes
+20,14/8/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Brasiliense-DF,2,2,Zé Mário,Joel Santana
+20,14/8/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Corinthians,3,5,Zetti,Márcio Bittencourt
+20,14/8/2005,16:00,São Januário - Rio De Janeiro,Vasco,Atlético-MG,2,1,Renato Gaúcho,Marco Aurélio
+20,14/8/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Paraná,0,1,Paulo César Gusmão,Lori Sandri
+20,14/8/2005,16:00,Serra Dourada - Goiânia,Goiás,Flamengo,2,0,Geninho,Celso Roth
+20,14/8/2005,18:10,Morumbi - São Paulo,São Paulo,Fortaleza,3,2,Paulo Autuori,Hélio dos Anjos
+20,14/8/2005,18:10,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Santos,3,3,Péricles Chamusca,Gallo
+21,20/8/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Juventude,2,1,Marco Aurélio,Sebastião Lazaroni
+21,20/8/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Cruzeiro,0,1,Levir Culpi,Paulo César Gusmão
+21,20/8/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,4,2,Antônio Lopes,Paulo Autuori
+21,21/8/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Ponte Preta,4,0,Joel Santana,Zetti
+21,21/8/2005,16:00,Pinheirão - Curitiba,Paraná,Vasco,0,0,Lori Sandri,Renato Gaúcho
+21,21/8/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Palmeiras,2,2,Abel Braga,Emerson Leão
+21,21/8/2005,16:00,Pacaembu - São Paulo,Corinthians,Goiás,1,1,Márcio Bittencourt,Geninho
+21,21/8/2005,18:10,Luso Brasileiro - Rio de Janeiro,Flamengo,Paysandu-PA,2,1,Andrade,Gílson Kleina
+21,21/8/2005,18:10,Vila Belmiro - Santos,Santos,Figueirense,4,3,Gallo,Adilson Batista
+21,21/8/2005,18:10,Castelão - Fortaleza,Fortaleza,Botafogo-RJ,3,1,Hélio dos Anjos,Péricles Chamusca
+22,24/8/2005,19:30,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-PR,0,2,Nenê Santana,Antônio Lopes
+22,24/8/2005,19:30,Parque Antarctica - São Paulo,Palmeiras,São Caetano,2,1,Emerson Leão,Levir Culpi
+22,24/8/2005,20:30,São Januário - Rio De Janeiro,Vasco,Brasiliense-DF,1,0,Renato Gaúcho,Joel Santana
+22,24/8/2005,20:30,Serra Dourada - Goiânia,Goiás,Paraná,1,1,Geninho,Lori Sandri
+22,24/8/2005,21:45,Morumbi - São Paulo,São Paulo,Fluminense,1,1,Paulo Autuori,Abel Braga
+22,24/8/2005,21:45,Alfredo Jaconi - Caxias Do Sul,Juventude,Corinthians,1,0,Sebastião Lazaroni,Márcio Bittencourt
+22,24/8/2005,21:45,Mangueirão - Belém,Paysandu-PA,Santos,2,3,Gílson Kleina,Gallo
+22,24/8/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,0,0,Paulo César Gusmão,Andrade
+22,25/8/2005,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-MG,0,1,Adílson Batista,Marco Aurélio
+22,25/8/2005,20:30,Couto Pereira - Curitiba,Coritiba,Fortaleza,2,0,Cuca,Hélio dos Anjos
+22,25/8/2005,20:30,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Internacional,0,1,Péricles Chamusca,Muricy Ramalho
+23,27/8/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Goiás,0,1,Levir Culpi,Geninho
+23,27/8/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Juventude,2,2,Antonio Lopes,Sebastião Lazaroni
+23,27/8/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Palmeiras,3,2,Joel Santana,Emerson Leão
+23,28/8/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,4,1,Muricy Ramalho,Paulo César Gusmão
+23,28/8/2005,16:00,Willie Davis - Maringá,Paraná,São Paulo,0,4,Lori Sandri,Paulo Autuori
+23,28/8/2005,16:00,Luso Brasileiro - Rio de Janeiro,Flamengo,Figueirense,2,2,Andrade,Adílson Batista
+23,28/8/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Ponte Preta,1,0,Marco Aurélio,Estevam Soares
+23,28/8/2005,16:00,Pacaembu - São Paulo,Corinthians,Botafogo-RJ,3,3,Márcio Bittencourt,Acácio
+23,28/8/2005,18:10,Vila Belmiro - Santos,Santos,Coritiba,2,0,Gallo,Cuca
+23,28/8/2005,18:10,Castelão - Fortaleza,Fortaleza,Vasco,4,2,Hélio dos Anjos,Renato Gaúcho
+23,28/8/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Paysandu-PA,5,2,Abel Braga,Gilson Kleyna
+24,07/9/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,3,0,Adilson Batista,Geninho
+24,07/9/2005,16:00,Castelão - Fortaleza,Fortaleza,São Caetano,5,2,Hélio dos Anjos,Levir Culpi
+24,07/9/2005,16:00,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Vasco,2,2,Celso Roth,Renato Gaúcho
+24,07/9/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Atlético-MG,1,2,Joel Santana,Marco Aurélio
+24,07/9/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Paraná,2,0,Sebastião Lazaroni,Luiz Carlos Barbieri
+24,07/9/2005,21:45,Mangueirão - Belém,Paysandu-PA,Ponte Preta,2,2,Gílson Kleina,Estevam Soares
+24,07/9/2005,21:45,Arena da Baixada - Curitiba,Atlético-PR,Santos,3,3,Antonio Lopes,Alexandre Gallo
+24,07/9/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,6,Paulo César Gusmão,Abel Braga
+24,08/9/2005,20:30,Luso-Brasileiro - Rio De Janeiro,Flamengo,Internacional,1,1,Andrade,Muricy Ramalho
+24,08/9/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Coritiba,1,1,Emerson Leão,Cuca
+25,10/9/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Paysandu-PA,1,2,Dino Camargo,Gílson Kleina
+25,10/9/2005,16:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,1,0,Geninho,Paulo César Gusmão
+25,11/9/2005,16:00,Vila Belmiro - Santos,Santos,Flamengo,0,0,Alexandre Gallo,Andrade
+25,11/9/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Figueirense,3,0,Muricy Ramalho,Adílson Batista
+25,11/9/2005,16:00,Willie Davis - Maringá,Paraná,Palmeiras,1,3,Luiz Carlos Barbieri,Emerson Leão
+25,11/9/2005,16:00,São Januário - Rio De Janeiro,Vasco,Juventude,5,2,Renato Gaúcho,Sebastião Lazaroni
+25,11/9/2005,16:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,2,0,Márcio Bittencourt,Antônio Lopes
+25,11/9/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Fortaleza,2,1,Estevam Soares,Hélio dos Anjos
+25,11/9/2005,18:10,Couto Pereira - Curitiba,Coritiba,São Paulo,1,4,Cuca,Paulo Autuori
+25,11/9/2005,18:10,Independência - Belo Horizonte,Atlético-MG,Botafogo-RJ,0,2,Renato Gaúcho,Celso Roth
+26,17/9/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Paraná,1,0,Estevam Soares,Luiz Carlos Barbieri
+26,17/9/2005,17:00,Mangueirão - Belém,Paysandu-PA,Juventude,3,0,Gilson Kleina,Sebastião Lazaroni
+26,17/9/2005,18:10,Luso Brasileiro - Rio De Janeiro,Flamengo,São Caetano,2,0,Andrade,Jair Picerni
+26,17/9/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,2,1,Emerson Leão,Paulo César Gusmão
+26,18/9/2005,16:00,Morumbi - São Paulo,São Paulo,Vasco,4,2,Paulo Autuori,Renato Gaúcho
+26,18/9/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,3,2,Muricy Ramalho,Antônio Lopes
+26,18/9/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,2,3,Adílson Batista,Márcio Bittencourt
+26,18/9/2005,16:00,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Goiás,3,1,Celso Roth,Geninho
+26,18/9/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Fortaleza,0,2,Joel Santana,Hélio dos Anjos
+26,18/9/2005,18:10,Couto Pereira - Curitiba,Coritiba,Fluminense,0,0,Cuca,Abel Braga
+26,18/9/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Santos,3,0,Marco Aurélio,Gallo
+27,21/9/2005,19:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Figueirense,0,1,Jair Picerni,Adílson Batista
+27,21/9/2005,19:30,Castelão - Fortaleza,Fortaleza,Internacional,1,2,Hélio dos Anjos,Muricy Ramalho
+27,21/9/2005,20:30,Pinheirão - Curitiba,Paraná,Brasiliense-DF,4,1,Luiz Carlos Barbieri,Joel Santana
+27,21/9/2005,20:30,Serra Dourada - Goiânia,Goiás,Paysandu-PA,4,1,Geninho,Gílson Kleina
+27,21/9/2005,21:45,Vila Belmiro - Santos,Santos,Palmeiras,2,1,Gallo,Emerson Leão
+27,21/9/2005,21:45,Raulino de Oliveira - Volta Redonda,Fluminense,Flamengo,2,2,Abel Braga,Andrade
+27,21/9/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,2,3,Paulo César Gusmão,Paulo Autuori
+27,22/9/2005,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Coritiba,0,0,Sebastião Lazaroni,Cuca
+27,22/9/2005,20:30,São Januário - Rio De Janeiro,Vasco,Ponte Preta,0,0,Renato Gaúcho,Estevam Soares
+27,22/9/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Botafogo-RJ,2,0,Antônio Lopes,Celso Roth
+27,22/9/2005,20:30,Pacaembu - São Paulo,Corinthians,Atlético-MG,1,1,Márcio Bittencourt,Marco Aurélio
+28,24/9/2005,16:00,Morumbi - São Paulo,São Paulo,Paysandu-PA,4,1,Paulo Autuori,Gílson Kleina
+28,24/9/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,São Caetano,1,1,Joel Santana,Jair Picerni
+28,24/9/2005,17:00,Castelão - Fortaleza,Fortaleza,Paraná,2,2,Hélio dos Anjos,Luiz Carlos Barbieri
+28,25/9/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Botafogo-RJ,0,0,Sebastião Lazaroni,Celso Roth
+28,25/9/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,2,0,Adilson Batista,Antonio Lopes
+28,25/9/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Cruzeiro,2,3,Paulo César Gusmão,Estevam Soares
+28,25/9/2005,16:00,Luso Brasileiro - Rio De Janeiro,Flamengo,Corinthians,1,3,Andrade,Márcio Bittencourt
+28,25/9/2005,16:00,Couto Pereira - Curitiba,Coritiba,Vasco,2,0,Cuca,Renato Gaúcho
+28,25/9/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Santos,4,3,Abel Braga,Gallo
+28,25/9/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Internacional,1,1,Marco Aurélio,Muricy Ramalho
+28,25/9/2005,18:10,Parque Antarctica - São Paulo,Palmeiras,Goiás,3,1,Emerson Leão,Geninho
+3,19/10/2005,20:30,São Januário - Rio de Janeiro,Vasco,Botafogo-RJ,1,0,Renato Gaúcho,Celso Roth
+10,19/10/2005,21:50,Moisés Lucarelli - Campinas,Ponte Preta,São Paulo,2,0,Estevam Soares,Paulo Autuori
+12,19/10/2005,21:50,Mangueirão - Belém,Paysandu-PA,Cruzeiro,4,1,Carlos Alberto Torres,Paulo César Gusmão
+14,19/10/2005,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Figueirense,2,2,Hélio dos Anjos,Adílson Batista
+16,13/10/2005,20:30,Vila Belmiro - Santos,Santos,Corinthians,2,3,Nelsinho Baptista,Antônio Lopes
+18,12/10/2005,16:00,São Januário - Rio De Janeiro,Vasco,Figueirense,3,3,Renato Gaúcho,Adilson Batista
+19,12/10/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,Botafogo-RJ,2,2,Paulo César Gusmão,Celso Roth
+20,12/10/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Fluminense,3,4,Valteir Gomes,Abel Braga
+21,28/10/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Coritiba,3,2,Muricy Ramalho,Cláudio Marques
+24,24/10/2005,20:30,Morumbi - São Paulo,São Paulo,Corinthians,1,1,Paulo Autuori,Antônio Lopes
+25,24/10/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Brasiliense-DF,1,1,Abel Braga,Márcio Bittencourt
+29,01/10/2005,16:00,Pinheirão - Curitiba,Paraná,Coritiba,3,2,Luiz Carlos Barbieri,Cuca
+29,01/10/2005,16:00,Independência - Belo Horizonte,Cruzeiro,Juventude,2,0,Paulo César Gusmão,Sebastião Lazaroni
+29,01/10/2005,16:00,Serra Dourada - Goiânia,Goiás,Ponte Preta,4,1,Geninho,Estevam Soares
+29,01/10/2005,17:00,Mangueirão - Belém,Paysandu-PA,Figueirense,3,1,Gílson Kleina,Adílson Batista
+29,01/10/2005,18:10,Vila Belmiro - Santos,Santos,Fortaleza,0,0,Nelsinho Baptista,Hélio dos Anjos
+29,01/10/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,Atlético-MG,3,1,Jair Picerni,Marco Aurélio
+29,02/10/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,2,2,Muricy Ramalho,Abel Braga
+29,02/10/2005,16:00,São Januário - Rio De Janeiro,Vasco,Palmeiras,0,0,Renato Gaúcho,Émerson Leão
+29,02/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Brasiliense-DF,3,2,Antônio Lopes,Joel Santana
+29,02/10/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,2,0,Evaristo de Macedo,Andrade
+29,02/10/2005,18:10,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,São Paulo,1,1,Celso Roth,Paulo Autuori
+30,04/10/2005,20:30,Vila Belmiro - Santos,Santos,São Caetano,2,0,Nelsinho Baptista,Jair Picerni
+30,04/10/2005,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Juventude,3,2,Estevam Soares,Sebastião Lazaroni
+30,04/10/2005,20:30,Couto Pereira - Curitiba,Coritiba,Goiás,0,2,Cuca,Geninho
+30,04/10/2005,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paraná,0,1,Marco Aurélio,Luiz Carlos Barbieri
+30,05/10/2005,19:30,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo-RJ,1,0,Adilson Batista,Celso Roth
+30,05/10/2005,20:30,Castelão - Fortaleza,Fortaleza,Atlético-PR,1,4,Hélio dos Anjos,Evaristo de Macedo
+30,05/10/2005,20:30,São Januário - Rio De Janeiro,Vasco,Cruzeiro,3,3,Renato Gaúcho,Paulo César Gusmão
+30,05/10/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Paysandu-PA,5,3,Emerson Leão,Gílson Kleina
+30,05/10/2005,21:50,Beira-Rio - Porto Alegre,Internacional,São Paulo,3,0,Muricy Ramalho,Paulo Autuori
+30,05/10/2005,21:50,Raulino de Oliveira - Volta Redonda,Fluminense,Corinthians,0,2,Abel Braga,Antônio Lopes
+30,05/10/2005,21:50,Boca do Jacaré - Taguatinga,Brasiliense-DF,Flamengo,2,3,Joel Santana,Andrade
+31,08/10/2005,16:00,Pinheirão - Curitiba,Paraná,Fluminense,6,1,Luiz Carlos Barbieri,Abel Braga
+31,08/10/2005,16:00,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Palmeiras,1,2,Celso Roth,Emerson Leão
+31,08/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Fortaleza,3,0,Antônio Lopes,Hélio dos Anjos
+31,08/10/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Santos,3,1,Valteir Gomes (interino),Nelsinho Baptista
+31,08/10/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,4,0,Paulo César Gusmão,Adílson Batista
+31,08/10/2005,18:10,Serra Dourada - Goiânia,Goiás,Vasco,4,3,Geninho,Renato Gaúcho
+31,11/10/2005,20:30,Morumbi - São Paulo,São Paulo,Ponte Preta,3,2,Paulo Autuori,Estevam Soares
+31,11/10/2005,20:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Internacional,1,1,Jair Picerni,Muricy Ramalho
+31,11/10/2005,20:30,Leônidas Castro - Belém,Paysandu-PA,Coritiba,2,1,Carlos Alberto Torres,Cuca
+31,11/10/2005,20:30,Luso Brasileiro - Rio De Janeiro,Flamengo,Atlético-MG,1,2,Andrade,Marco Aurélio
+31,11/10/2005,20:30,Arena da Baixada - Curitiba,Atlético-PR,Brasiliense-DF,4,0,Evaristo de Macedo,Joel Santana
+32,15/10/2005,16:00,Castelão - Fortaleza,Fortaleza,Paysandu-PA,1,2,Hélio dos Anjos,Carlos Alberto Torres
+32,15/10/2005,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Botafogo-RJ,3,2,Abel Braga,Celso Roth
+32,15/10/2005,16:00,Boca do Jacaré - Taguatinga,Brasiliense-DF,Juventude,1,0,Joel Santana,Valteir Gomes
+32,15/10/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Paraná,2,0,Adílson Batista,Luiz Carlos Barbieri
+32,15/10/2005,18:10,Couto Pereira - Curitiba,Coritiba,Atlético-PR,1,2,Antônio Lopes Júnior,Evaristo de Macedo
+32,16/10/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,3,1,Muricy Ramalho,Renato Gaúcho
+32,16/10/2005,16:00,Luso Brasileiro - Rio De Janeiro,Flamengo,São Paulo,1,6,Andrade,Paulo Autuori
+32,16/10/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,0,1,Marco Aurélio,Paulo César Gusmão
+32,16/10/2005,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,1,1,Emerson Leão,Antônio Lopes
+32,16/10/2005,18:10,Vila Belmiro - Santos,Santos,Goiás,1,1,Nelsinho Baptista,Geninho
+32,16/10/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,São Caetano,1,2,Estevam Soares,Jair Picerni
+33,21/10/2005,20:30,Anacleto Campanella - S. Caetano Sul,São Caetano,Fluminense,2,2,Jair Picerni,Abel Braga
+33,21/10/2005,20:30,Boca do Jacaré - Taguatinga,Brasiliense-DF,Goiás,1,2,Joel Santana,Geninho
+33,22/10/2005,16:00,Castelão - Fortaleza,Fortaleza,Palmeiras,1,1,Valdir Espinosa,Emerson Leão
+33,22/10/2005,16:00,São Januário - Rio De Janeiro,Vasco,Flamengo,2,1,Renato Gaúcho,Andrade
+33,22/10/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,2,0,Evaristo de Macedo,Marco Aurélio
+33,22/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Paraná,1,0,Antônio Lopes,Luiz Carlos Barbieri
+33,22/10/2005,18:10,Alfredo Jaconi - Caxias Do Sul,Juventude,Internacional,2,1,Hélio dos Anjos,Muricy Ramalho
+33,22/10/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Ponte Preta,4,0,Adílson Batista,Estevam Soares
+33,22/10/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Paysandu-PA,4,3,Paulo César Gusmão,Carlos Alberto Torres
+33,22/10/2005,20:30,Morumbi - São Paulo,São Paulo,Santos,1,2,Paulo Autuori,Nelsinho Baptista
+33,22/10/2005,20:30,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Coritiba,2,0,Celso Roth,Antônio Lopes Júnior
+34,25/10/2005,20:30,Couto Pereira - Curitiba,Coritiba,Cruzeiro,0,3,Antônio Lopes Júnior,Paulo César Gusmão
+34,25/10/2005,20:30,Serra Dourada - Goiânia,Goiás,Internacional,0,1,Geninho,Muricy Ramalho
+34,26/10/2005,20:30,Mineirão - Belo Horizonte,Atlético-MG,Fortaleza,2,3,Marco Aurélio,Valdyr Espinosa
+34,26/10/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,2,2,Emerson Leão,Adílson Batista
+34,26/10/2005,21:45,Alfredo Jaconi - Caxias Do Sul,Juventude,Flamengo,2,2,Hélio dos Anjos,Joel Santana
+34,26/10/2005,21:45,São Januário - Rio De Janeiro,Vasco,Santos,1,3,Renato Gaúcho,Nelsinho Baptista
+34,27/10/2005,20:30,Morumbi - São Paulo,São Paulo,Brasiliense-DF,1,2,Paulo Autuori,Márcio Bittencourt
+34,27/10/2005,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Botafogo-RJ,0,1,Estevam Soares,Celso Roth
+34,27/10/2005,20:30,Mangueirão - Belém,Paysandu-PA,Corinthians,0,2,Carlos Alberto Torres,Antônio Lopes
+34,27/10/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Atlético-PR,4,1,Abel Braga,Evaristo de Macedo
+34,28/10/2005,16:00,Pinheirão - Curitiba,Paraná,São Caetano,1,3,Luiz Carlos Barbieri,Jair Picerni
+35,29/10/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,4,3,Adilson Batista,Hélio dos Anjos
+35,29/10/2005,17:00,Castelão - Fortaleza,Fortaleza,Goiás,1,1,Valdir Espinosa,Geninho
+35,30/10/2005,16:00,Parque Antarctica - São Paulo,Santos,Cruzeiro,1,2,Nelsinho Baptista,Paulo César Gusmão
+35,30/10/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paraná,2,1,Evaristo de Macedo,Luiz Carlos Barbieri
+35,30/10/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,3,Lori Sandri,Emerson Leão
+35,30/10/2005,16:00,Pacaembu - São Paulo,Corinthians,Vasco,1,1,Antônio Lopes,Renato Gaúcho
+35,30/10/2005,18:10,Anacleto Campanella - S. Caetano Sul,São Caetano,São Paulo,0,1,Jair Picerni,Paulo Autuori
+35,30/10/2005,18:10,Raulino de Oliveira - Volta Redonda,Fluminense,Ponte Preta,4,3,Abel Braga,Estevam Soares
+35,30/10/2005,18:10,Mané Garrincha - Brasília,Brasiliense-DF,Botafogo-RJ,0,0,Márcio Bittencourt,Paulo Celso Roth
+35,31/10/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Paysandu-PA,1,0,Muricy Ramalho,Carlos Alberto Torres
+35,31/10/2005,20:30,Luso Brasileiro - Rio de Janeiro,Flamengo,Coritiba,2,1,Joel Santana,Márcio Araújo
+36,02/11/2005,20:30,Morumbi - São Paulo,São Paulo,Atlético-MG,2,2,Paulo Autuori,Lori Sandri
+36,02/11/2005,20:30,Alfredo Jaconi - Caxias Do Sul,Juventude,Fortaleza,2,0,Hélio dos Anjos,Valdir Espinosa
+36,02/11/2005,21:45,Moisés Lucarelli - Campinas,Ponte Preta,Santos,2,1,Estevam Soares,Nelsinho Baptista
+36,02/11/2005,21:45,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,2,1,Paulo César Gusmão,Antônio Lopes
+36,02/11/2005,21:45,Serra Dourada - Goiânia,Goiás,Fluminense,1,2,Geninho,Abel Braga
+36,03/11/2005,19:30,Couto Pereira - Curitiba,Coritiba,Figueirense,4,1,Márcio Araújo,Adilson Batista
+36,03/11/2005,20:30,Olímpico Regional - Cascavel,Paraná,Internacional,3,1,Luiz Carlos Barbieri,Muricy Ramalho
+36,03/11/2005,20:30,São Januário - Rio De Janeiro,Vasco,Atlético-PR,2,1,Renato Gaúcho,Evaristo de Macedo
+36,03/11/2005,20:30,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,São Caetano,1,0,Celso Roth,Jair Picerni
+36,03/11/2005,20:30,Parque Antarctica - São Paulo,Palmeiras,Flamengo,0,1,Emerson Leão,Joel Santana
+36,03/11/2005,21:30,Mangueirão - Belém,Paysandu-PA,Brasiliense-DF,2,1,Carlos Alberto Torres,Márcio Bittencourt
+37,05/11/2005,16:00,Morumbi - São Paulo,São Paulo,Juventude,3,1,Paulo Autuori,Hélio dos Anjos
+37,05/11/2005,18:10,Castelão - Fortaleza,Fortaleza,Cruzeiro,3,1,Valdir Espinosa,Paulo César Gusmão
+37,06/11/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Ponte Preta,2,1,Muricy Ramalho,Estevam Soares
+37,06/11/2005,16:00,Pinheirão - Curitiba,Paraná,Paysandu-PA,2,0,Luiz Carlos Barbieri,Carlos Alberto Torres
+37,06/11/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Vasco,1,2,Jair Picerni,Renato Gaúcho
+37,06/11/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Botafogo-RJ,3,1,Joel Santana,Celso Roth
+37,06/11/2005,16:00,Pacaembu - São Paulo,Corinthians,Santos,7,1,Antônio Lopes,Nelsinho Baptista
+37,06/11/2005,18:10,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,4,0,Evaristo de Macedo,Emerson Leão
+37,06/11/2005,18:10,São Januário - Rio De Janeiro,Fluminense,Figueirense,2,0,Abel Braga,Adilson Batista
+37,06/11/2005,18:10,Mineirão - Belo Horizonte,Atlético-MG,Goiás,1,2,Lori Sandri,Geninho
+37,06/11/2005,18:10,Serejão - Brasília,Brasiliense-DF,Coritiba,1,1,Márcio Bittencourt,Márcio Araújo
+38,12/11/2005,18:10,Orlando Scarpelli - Florianópolis,Figueirense,Fortaleza,1,0,Adílson Batista,Valdir Espinosa
+38,12/11/2005,18:10,Mangueirão - Belém,Paysandu-PA,Atlético-MG,0,2,Carlos Alberto Torres,Lori Sandri
+38,12/11/2005,18:10,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Paraná,2,0,Celso Roth,Luís Carlos Barbieri
+38,12/11/2005,18:10,Pacaembu - São Paulo,Palmeiras,São Paulo,2,1,Emerson Leão,Paulo Autuori
+38,13/11/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Flamengo,2,2,Estevam Soares,Joel Santana
+38,13/11/2005,16:00,Couto Pereira - Curitiba,Coritiba,Corinthians,0,1,Márcio Araújo,Antônio Lopes
+38,13/11/2005,16:00,Serra Dourada - Goiânia,Goiás,Atlético-PR,4,2,Geninho,Evaristo de Macedo
+38,13/11/2005,18:10,Anacleto Campanella - São Caetano do Sul,Santos,Internacional,0,4,Nelsinho Baptista,Muricy Ramalho
+38,13/11/2005,18:10,Centenário de Caxias - Caxias Do Sul,Juventude,São Caetano,3,1,Hélio dos Anjos,Cuca
+38,13/11/2005,18:10,São Januário - Rio De Janeiro,Vasco,Fluminense,2,0,Renato Gaúcho,Abel Braga
+38,13/11/2005,18:10,Mineirão - Belo Horizonte,Cruzeiro,Brasiliense-DF,1,0,Paulo César Gusmão,Márcio Bittencourt
+39,16/11/2005,19:30,Luso Brasileiro - Rio De Janeiro,Flamengo,Fortaleza,3,0,Joel Santana,Valdir Espinosa
+39,16/11/2005,19:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,3,2,Leão,Hélio dos Anjos
+39,16/11/2005,20:30,Beira-Rio - Porto Alegre,Internacional,Brasiliense-DF,1,0,Muricy Ramalho,Márcio Bittencourt
+39,16/11/2005,20:30,Serra Dourada - Goiânia,Goiás,São Paulo,3,0,Geninho,Paulo Autuori
+39,16/11/2005,21:45,Pacaembu - São Paulo,Santos,Paraná,0,0,Nelsinho Baptista,Luiz Carlos Barbieri
+39,16/11/2005,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,5,1,Adílson Batista,Renato Gaúcho
+39,16/11/2005,21:45,Anacleto Campanella - S. Caetano Sul,São Caetano,Corinthians,1,0,Cuca,Antônio Lopes
+39,17/11/2005,20:30,Couto Pereira - Curitiba,Coritiba,Ponte Preta,2,1,Márcio Araújo,Estevam Soares
+39,17/11/2005,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Atlético-MG,0,2,Abel Braga,Lori Sandri
+39,17/11/2005,20:30,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,1,2,Paulo César Gusmão,Evaristo de Macedo
+39,17/11/2005,21:30,Mangueirão - Belém,Paysandu-PA,Botafogo-RJ,2,0,Carlos Alberto Torres,Celso Roth
+40,19/11/2005,16:00,Morumbi - São Paulo,São Paulo,Figueirense,4,2,Paulo Autuori,Adilson Batista
+40,19/11/2005,16:00,Centenário de Caxias - Caxias Do Sul,Juventude,Goiás,2,1,Hélio dos Anjos,Geninho
+40,19/11/2005,18:10,Boca do Jacaré - Brasília,Brasiliense-DF,Santos,1,0,Márcio Bittencourt,Nelsinho Baptista
+40,20/11/2005,16:00,Pinheirão - Curitiba,Paraná,Flamengo,0,1,Lori Sandri,Joel Santana
+40,20/11/2005,16:00,São Januário - Rio De Janeiro,Vasco,Paysandu-PA,4,0,Renato Gaúcho,Carlos Alberto Torres
+40,20/11/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Caetano,2,2,Evaristo de Macedo,Cuca
+40,20/11/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Coritiba,1,0,Lori Sandri,Márcio Araújo
+40,20/11/2005,16:00,Pacaembu - São Paulo,Corinthians,Internacional,1,1,Antônio Lopes,Muricy Ramalho
+40,20/11/2005,18:10,Moisés Lucarelli - Campinas,Ponte Preta,Palmeiras,2,6,Estevam Soares,Emerson Leão
+40,20/11/2005,18:10,Castelão - Fortaleza,Fortaleza,Fluminense,5,1,Valdir Espinosa,Abel Braga
+40,20/11/2005,18:10,Luso Brasileiro - Rio De Janeiro,Botafogo-RJ,Cruzeiro,2,1,Celso Roth,Paulo César Gusmão
+41,27/11/2005,16:00,Vila Belmiro - Santos,Santos,Botafogo-RJ,2,1,Serginho Chulapa,Celso Roth
+41,27/11/2005,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,2,1,Muricy Ramalho,Emerson Leão
+41,27/11/2005,16:00,Pinheirão - Curitiba,Paraná,Cruzeiro,2,0,Luiz Carlos Barbieri,Paulo César Gusmão
+41,27/11/2005,16:00,Anacleto Campanella - S. Caetano Sul,São Caetano,Coritiba,1,1,Cuca,Márcio Araújo
+41,27/11/2005,16:00,Castelão - Fortaleza,Fortaleza,São Paulo,1,0,Valdir Espinosa,Paulo Autuori
+41,27/11/2005,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Goiás,0,0,Joel Santana,Geninho
+41,27/11/2005,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paysandu-PA,3,2,Evaristo de Macedo,Carlos Alberto Torres
+41,27/11/2005,16:00,São Januário - Rio de Janeiro,Fluminense,Juventude,1,2,Abel Braga,Hélio dos Anjos
+41,27/11/2005,16:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,0,0,Lori Sandri,Renato Gaúcho
+41,27/11/2005,16:00,Morumbi - São Paulo,Corinthians,Ponte Preta,3,1,Antônio Lopes,Nenê Santana
+41,27/11/2005,16:00,Boca do Jacaré - Brasília,Brasiliense-DF,Figueirense,0,2,Márcio Bittencourt,Adílson Batista
+42,04/12/2005,16:00,Morumbi - São Paulo,São Paulo,Atlético-PR,3,1,Paulo Autuori,Evaristo de Macedo
+42,04/12/2005,16:00,Alfredo Jaconi - Caxias Do Sul,Juventude,Atlético-MG,1,3,Hélio dos Anjos,Lori Sandri
+42,04/12/2005,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Santos,3,1,Adílson Batista,Serginho Chulapa (interino)
+42,04/12/2005,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Brasiliense-DF,3,1,Nenê Santana,Márcio Bittencourt
+42,04/12/2005,16:00,Mangueirão - Belém,Paysandu-PA,Flamengo,1,4,Carlos Alberto Torres,Joel Santana
+42,04/12/2005,16:00,São Januário - Rio De Janeiro,Vasco,Paraná,3,1,Renato Gaúcho,Luiz Carlos Barbieri
+42,04/12/2005,16:00,Couto Pereira - Curitiba,Coritiba,Internacional,1,0,Márcio Araújo,Muricy Ramalho
+42,04/12/2005,16:00,Luso Brasileiro - Rio de Janeiro,Botafogo-RJ,Fortaleza,2,0,Celso Roth,Valdir Espinosa
+42,04/12/2005,16:00,Mineirão - Belo Horizonte,Cruzeiro,São Caetano,1,3,Paulo César Gusmão,Cuca
+42,04/12/2005,16:00,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,2,Emerson Leão,Abel Braga
+42,04/12/2005,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,3,2,Geninho,Antônio Lopes

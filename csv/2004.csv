@@ -1,553 +1,553 @@
-rodada,data,hora,local,casa,fora,gols_casa,gols_fora
-1,21/4/2004,16:00,Caio Martins - Niterói,Botafogo,Goiás,1,4
-1,21/4/2004,16:00,Orlando Scarpelli - Florianopólis,Figueirense,Internacional,1,0
-1,21/4/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Vitória,1,0
-1,21/4/2004,18:00,Mineirão - Ipatinga,Cruzeiro,Juventude,2,1
-1,21/4/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-MG,0,0
-1,21/4/2004,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,0,0
-1,21/4/2004,21:45,Moisés Lucarelli - São Paulo,Ponte Preta,Corinthians,3,2
-1,21/4/2004,21:45,Pinheirão - Curitiba,Paraná,Santos,3,2
-1,22/4/2004,20:30,Couto Pereira - Curitiba,Coritiba,Guarani,1,0
-1,22/4/2004,20:30,São Januário - Rio de Janeiro,Vasco,Criciúma,0,1
-1,22/4/2004,20:30,Mangueirão - Belém,Paysandu-PA,Fluminense,3,3
-1,22/4/2004,20:30,Morumbi - São Paulo,São Paulo,Atlético-PR,1,0
-2,24/4/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Ponte Preta,0,0
-2,24/4/2004,16:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,2,2
-2,24/4/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Grêmio,1,1
-2,25/4/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,1,0
-2,25/4/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,1,1
-2,25/4/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Coritiba,1,1
-2,25/4/2004,16:00,Pacaembu - São Paulo,Corinthians,Paysandu-PA,2,1
-2,25/4/2004,16:00,Brinco de Ouro - Campinas,Guarani,São Caetano,1,1
-2,25/4/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,0,3
-2,25/4/2004,17:00,Barradão - Salvador,Vitória,Paraná,6,1
-2,25/4/2004,18:00,Heriberto Hülse - Criciúma,Criciúma,São Paulo,1,1
-2,25/4/2004,18:00,Vila Belmiro - Santos,Santos,Botafogo-RJ,2,0
-3,28/4/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Atlético-MG,2,2
-3,28/4/2004,20:30,Couto Pereira - Curitiba,Coritiba,Internacional,1,1
-3,28/4/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Criciúma,2,2
-3,28/4/2004,20:30,Mangueirão - Belém,Paysandu-PA,Atlético-PR,0,3
-3,28/4/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Goiás,2,0
-3,28/4/2004,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Santos,2,1
-3,28/4/2004,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,4,0
-3,28/4/2004,21:45,Morumbi - São Paulo,São Paulo,Fluminense,1,0
-3,29/4/2004,20:30,São Januário - Rio de Janeiro,Vasco,Guarani,0,1
-3,29/4/2004,20:30,Pinheirão - Curitiba,Paraná,Flamengo,2,1
-3,29/4/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Vitória,2,2
-4,01/5/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Paysandu-PA,1,0
-4,01/5/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Botafogo-RJ,1,0
-4,01/5/2004,18:00,Serra Dourada - Goiânia,Goiás,Grêmio,4,0
-4,01/5/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Ponte Preta,1,2
-4,02/5/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,São Caetano,1,1
-4,02/5/2004,16:00,Vila Belmiro - Santos,Santos,Cruzeiro,1,3
-4,02/5/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Vasco,1,0
-4,02/5/2004,16:00,Morumbi - São Paulo,Corinthians,Palmeiras,0,4
-4,02/5/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Paraná,4,0
-4,02/5/2004,17:00,Barradão - Salvador,Vitória,Figueirense,3,1
-4,02/5/2004,18:00,Brinco de Ouro - Campinas,Guarani,São Paulo,2,3
-4,02/5/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,1,1
-5,08/5/2004,16:00,Brinco de Ouro - Campinas,Guarani,Atlético-PR,0,0
-5,08/5/2004,16:00,Pinheirão - Curitiba,Paraná,Cruzeiro,2,0
-5,08/5/2004,16:00,Vila Belmiro - Santos,Santos,Juventude,2,1
-5,08/5/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Criciúma,5,0
-5,08/5/2004,18:00,São Januário - Rio de Janeiro,Vasco,Grêmio,1,1
-5,08/5/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Ponte Preta,3,0
-5,09/5/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,0,0
-5,09/5/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Corinthians,2,2
-5,09/5/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Paysandu-PA,2,2
-5,09/5/2004,17:00,Serra Dourada - Goiânia,Goiás,Figueirense,1,0
-5,09/5/2004,18:00,Barradão - Salvador,Vitória,Flamengo,5,1
-5,09/5/2004,18:00,Couto Pereira - Curitiba,Coritiba,São Paulo,1,2
-6,15/5/2004,18:00,Mangueirão - Belém,Paysandu-PA,Vasco,1,2
-6,15/5/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Santos,1,0
-6,16/5/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,2,1
-6,16/5/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Internacional,1,2
-6,16/5/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Atlético-MG,1,1
-6,16/5/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,São Caetano,1,0
-6,16/5/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Goiás,7,2
-6,16/5/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Coritiba,0,0
-6,16/5/2004,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo-RJ,2,2
-6,16/5/2004,18:00,Morumbi - São Paulo,São Paulo,Paraná,2,2
-6,16/5/2004,18:30,Maracanã - Rio de Janeiro,Fluminense,Vitória,1,0
-6,16/5/2004,19:00,Pacaembu - São Paulo,Corinthians,Guarani,1,0
-7,22/5/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Figueirense,1,1
-7,22/5/2004,16:00,Mangueirão - Belém,Paysandu-PA,Grêmio,1,3
-7,22/5/2004,18:00,Beira-Rio - Porto Alegre,Internacional,Goiás,1,0
-7,22/5/2004,18:00,Couto Pereira - Curitiba,Coritiba,Atlético-MG,0,1
-7,23/5/2004,16:00,Anacleto Campanella - São Paulo,São Caetano,Vasco,3,2
-7,23/5/2004,16:00,Vila Belmiro - Santos,Santos,Palmeiras,0,4
-7,23/5/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Fluminense,1,2
-7,23/5/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Vitória,2,0
-7,23/5/2004,16:00,Pinheirão - Curitiba,Paraná,Ponte Preta,0,1
-7,23/5/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Guarani,2,0
-7,23/5/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,2,1
-7,23/5/2004,18:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,0,5
-8,29/5/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Criciúma,1,1
-8,29/5/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Juventude,0,1
-8,29/5/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Paysandu-PA,1,1
-8,29/5/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Coritiba,2,0
-8,29/5/2004,18:00,Barradão - Salvador,Vitória,Internacional,2,1
-8,30/5/2004,16:00,Morumbi - São Paulo,São Paulo,Corinthians,1,1
-8,30/5/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Santos,3,3
-8,30/5/2004,16:00,Brinco de Ouro - Campinas,Guarani,Paraná,1,0
-8,30/5/2004,16:00,Maracanã - Rio de Janeiro,Vasco,Botafogo-RJ,4,0
-8,30/5/2004,16:00,Serra Dourada - Goiânia,Goiás,Flamengo,2,2
-8,30/5/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,São Caetano,1,2
-8,30/5/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,3,1
-9,12/6/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Guarani,1,1
-9,12/6/2004,16:00,Pinheirão - Curitiba,Paraná,Botafogo-RJ,1,1
-9,12/6/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,4,1
-9,12/6/2004,18:00,Morumbi - São Paulo,São Paulo,Grêmio,3,2
-9,13/6/2004,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,1,1
-9,13/6/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Vasco,2,2
-9,13/6/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Paysandu-PA,1,0
-9,13/6/2004,16:00,Couto Pereira - Curititba,Coritiba,São Caetano,1,0
-9,13/6/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Juventude,2,0
-9,13/6/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Figueirense,0,2
-9,13/6/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Atlético-PR,3,0
-9,13/6/2004,18:00,Barradão - Salvador,Vitória,Santos,1,2
-10,19/6/2004,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Coritiba,1,1
-10,19/6/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Vitória,1,3
-10,19/6/2004,16:00,São Januário - Rio de Janeiro,Vasco,Paraná,0,0
-10,19/6/2004,18:00,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,0,0
-10,20/6/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Palmeiras,1,1
-10,20/6/2004,16:00,Limeirão - Limeira,Corinthians,Flamengo,1,1
-10,20/6/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Ponte Preta,0,1
-10,20/6/2004,16:00,Mangueirão - Belém,Paysandu-PA,São Paulo,1,0
-10,20/6/2004,16:00,Brinco de Ouro - Campinas,Guarani,Criciúma,2,1
-10,20/6/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Goiás,1,1
-10,20/6/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,2,1
-10,20/6/2004,18:00,Vila Belmiro - Santos,Santos,Internacional,3,0
-3,24/6/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Juventude,1,0
-11,26/6/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Grêmio,1,2
-11,26/6/2004,16:00,Couto Pereira - Curirtiba,Coritiba,Paraná,1,1
-11,26/6/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Figueirense,0,3
-11,26/6/2004,18:00,Pacaembu - São Paulo,Santos,Guarani,2,1>
-11,27/6/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,1,3
-11,27/6/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Corinthians,1,0
-11,27/6/2004,16:00,Mangueirão - Belém,Paysandu-PA,Vitória,4,2
-11,27/6/2004,16:00,Maracanã - Rio de Janeiro,Botafogo-RJ,Fluminense,3,3
-11,27/6/2004,16:00,Morumbi - São Paulo,Palmeiras,São Paulo,2,1
-11,27/6/2004,17:00,Serra Dourada - Goiânia,Goiás,São Caetano,3,2
-11,27/6/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,Cruzeiro,1,0
-11,27/6/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,0,1
-12,03/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Criciúma,3,0
-12,03/7/2004,16:00,Morumbi - São Paulo,São Paulo,Ponte Preta,2,0
-12,03/7/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,2,2
-12,03/7/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Juventude,4,1
-12,03/7/2004,17:00,Barradão - Salvador,Vitória,Goiás,0,0
-12,03/7/2004,18:00,Brinco de Ouro - Campinas,Guarani,Atlético-MG,1,1
-12,03/7/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Grêmio,2,0
-12,04/7/2004,16:00,Pinheirão - Curititba,Paraná,Palmeiras,1,2
-12,04/7/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Botafogo-RJ,1,2
-12,04/7/2004,16:00,Pacaembu - São Paulo,Corinthians,Santos,2,3
-12,04/7/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Paysandu-PA,4,1
-12,04/7/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Coritiba,0,3
-13,06/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Vitória,3,1
-13,06/7/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,2,2
-13,06/7/2004,20:30,Serra Dourada - Goiânia,Goiás,Fluminense,4,0
-13,06/7/2004,20:30,Morumbi - São paulo,São Paulo,Atlético-MG,1,0
-13,07/7/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Internacional,5,1
-13,07/7/2004,20:30,Pinheirão - Curitiba,Paraná,Atlético-PR,1,0
-13,07/7/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Guarani,2,0
-13,07/7/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,4,1
-13,07/7/2004,20:30,Mangueirão - Belém,Paysandu-PA,São Caetano,0,0
-13,07/7/2004,21:45,Heriberto Hülse - Criciúma,Criciúma,Flamengo,1,1
-13,07/7/2004,21:45,Moisés Lucarelli - Campinas,Ponte Preta,Santos,0,4
-13,07/7/2004,21:45,Couto Pereira - Curitiba,Coritiba,Corinthians,1,2
-14,10/7/2004,16:00,Barradão - Salvador,Vitória,Botafogo-RJ,1,0
-14,10/7/2004,16:00,Vila Belmiro - Santos,Santos,São Paulo,2,1
-14,10/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Grêmio,2,0
-14,10/7/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Vasco,0,1
-14,10/7/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Coritiba,1,0
-14,10/7/2004,17:00,Serra Dourada - Goiânia,Goiás,Paysandu-PA,3,2
-14,10/7/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,0,0
-14,10/7/2004,18:00,Pacaembu - São Paulo,Corinthians,Paraná,1,0
-14,10/7/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Guarani,3,1
-14,10/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,2,0
-14,10/7/2004,20:30,Edson Passos - Edson Passos,Fluminense,São Caetano,1,0
-14,10/7/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Criciúma,2,0
-15,13/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Vitória,1,1
-15,13/7/2004,20:30,Pacaembu - São Paulo,Corinthians,Criciúma,1,0
-15,13/7/2004,20:30,Alfredo Jaconi - Caxias do Sul,Juventude,Fluminense,2,1
-15,13/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Coritiba,2,3
-15,13/7/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,2,3
-15,13/7/2004,20:30,Brinco de Ouro - Campinas,Guarani,Internacional,2,1
-15,13/7/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Paraná,0,0
-15,13/7/2004,20:30,Mangueirão - São Paulo,Paysandu-PA,Ponte Preta,3,0
-15,13/7/2004,20:30,Arena da Baixada - Curitiba,Atlético-PR,Goiás,6,0
-15,13/7/2004,20:30,Anacleto Campanella - São Paulo,São Caetano,São Paulo,0,0
-15,13/7/2004,21:40,Caio Martins - Niterói,Botafogo-RJ,Palmeiras,1,1
-15,13/7/2004,21:40,Vila Belmiro - Santos,Santos,Flamengo,2,0
-16,17/7/2004,16:00,Barradão - Salvador,Vitória,Corinthians,1,1
-16,17/7/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Botafogo-RJ,3,2
-16,17/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,6,0
-16,17/7/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Grêmio,2,0
-16,17/7/2004,16:00,Pinheirão - Curitiba,Paraná,São Caetano,0,1
-16,17/7/2004,17:00,Serra Dourada - Goiânia,Goiás,Guarani,2,0
-16,17/7/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Juventude,0,1
-16,17/7/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Santos,1,0
-16,17/7/2004,20:30,Morumbi - São Paulo,São Paulo,Figueirense,2,1
-16,17/7/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,Atlético-MG,4,2
-16,17/7/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Vasco,3,2
-16,17/7/2004,20:30,Couto Pereira - Coritiba,Coritiba,Paysandu-PA,1,1
-17,20/7/2004,19:00,Olímpico Monumental - Porto Alegre,Grêmio,Paraná,4,0
-17,20/7/2004,20:30,Mangueirão - Belém,Paysandu-PA,Palmeiras,1,0
-17,20/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Goiás,0,2
-17,20/7/2004,20:30,Brinco de Ouro - Campinas,Guarani,Flamengo,0,1
-17,20/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Cruzeiro,3,2
-17,20/7/2004,20:30,Pacaembu - São Paulo,Corinthians,Internacional,0,0
-17,20/7/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Coritiba,1,1
-17,20/7/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Ponte Preta,0,1
-17,20/7/2004,20:30,Alfredo Jaconi - Caxias do Sul,Juventude,Vitória,3,2
-17,20/7/2004,21:40,Caio Martins - Niterói,Botafogo-RJ,São Paulo,1,0
-17,20/7/2004,21:45,Vila Belmiro - Santos,Santos,Criciúma,5,2
-17,20/7/2004,21:45,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,4,1
-18,24/7/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Corinthians,2,0
-18,24/7/2004,16:00,Morumbi - São Paulo,São Paulo,Vasco,1,0
-18,24/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Juventude,1,2
-18,24/7/2004,16:00,Couto Pereira - Curitiba,Coritiba,Botafogo-RJ,1,0
-18,24/7/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Atlético-PR,4,1
-18,24/7/2004,17:00,Barradão - Salvador,Vitória,Guarani,3,2
-18,24/7/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Atlético-MG,0,0
-18,24/7/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,São Caetano,0,1
-18,24/7/2004,20:30,Serra Dourada - Goiânia,Goiás,Santos,3,3
-18,24/7/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,0,0
-18,24/7/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Grêmio,1,0
-18,24/7/2004,20:30,Pinheirão - Curitiba,Paraná,Paysandu-PA,2,0
-19,28/7/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Vitória,4,0
-19,28/7/2004,20:30,Maracanã - Rio de Janeiro,Botafogo-RJ,Flamengo,0,0
-19,28/7/2004,20:30,Mangueirão - Belém,Paysandu-PA,Criciúma,2,2
-19,28/7/2004,20:30,Arena da Baixada - Curitiba,Atlético-PR,Ponte Preta,4,0
-19,28/7/2004,20:30,Pacaembu - São Paulo,Corinthians,Cruzeiro,1,0
-19,28/7/2004,21:45,Brinco de Ouro - Campinas,Guarani,Palmeiras,1,0
-19,28/7/2004,21:45,Alfredo Jaconi - Caxias do Sul,Juventude,São Paulo,1,2
-19,28/7/2004,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,2,1
-19,29/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Goiás,3,1
-19,29/7/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Internacional,2,0
-19,29/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paraná,4,1
-19,29/7/2004,20:30,Vila Belmiro - Santos,Santos,Coritiba,4,2
-20,31/7/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,0,0
-20,31/7/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Cruzeiro,0,0
-20,01/8/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Palmeiras,0,1
-20,01/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Vasco,1,1
-20,01/8/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Figueirense,3,1
-20,01/8/2004,16:00,Pacaembu - São Paulo,Corinthians,São Caetano,2,0
-20,01/8/2004,16:00,Vila Belmiro - Santos,Santos,Paysandu-PA,6,0
-20,01/8/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Ponte Preta,3,1
-20,01/8/2004,17:00,Barradão - Salvador,Vitória,Coritiba,2,2
-20,01/8/2004,17:00,Serra Dourada - Goiânia,Goiás,Paraná,3,0
-20,01/8/2004,18:00,Beira-Rio - Porto Alegre,Internacional,São Paulo,1,1
-20,01/8/2004,18:00,Brinco de Ouro - Campinas,Guarani,Botafogo-RJ,0,2
-21,04/8/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Fluminense,3,2
-21,04/8/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Goiás,0,3
-21,04/8/2004,20:30,Mangueirão - Belém,Paysandu-PA,Atlético-MG,2,1
-21,04/8/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Guarani,1,1
-21,04/8/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Atlético-PR,0,3
-21,04/8/2004,20:30,Pinheirão - Curitiba,Paraná,Criciúma,0,3
-21,04/8/2004,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Santos,3,1
-21,04/8/2004,21:45,São Januário - Rio de Janeiro,Vasco,Corinthians,1,3
-21,04/8/2004,21:45,Couto Pereira - Curitiba,Coritiba,Flamengo,1,0
-21,05/8/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Juventude,0,1
-21,05/8/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Internacional,2,0
-21,05/8/2004,20:30,Morumbi - São Paulo,São Paulo,Vitória,2,1
-22,07/8/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Paraná,3,1
-22,07/8/2004,16:00,Vila Belmiro - Santos,Santos,São Caetano,0,1
-22,07/8/2004,16:00,Serra Dourada - Goiânia,Goiás,Coritiba,1,2
-22,07/8/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Grêmio,3,0
-22,08/8/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,São Paulo,1,0
-22,08/8/2004,16:00,Pacaembu - São Paulo,Corinthians,Botafogo-RJ,2,2
-22,08/8/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Ponte Preta,1,2
-22,08/8/2004,16:00,Barradão - Salvador,Vitória,Cruzeiro,3,2
-22,08/8/2004,16:00,Brinco de Ouro - Campinas,Guarani,Paysandu-PA,0,0
-22,08/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Figueirense,0,0
-22,08/8/2004,18:00,Heriberto Hülse - Criciúma,Criciúma,Palmeiras,1,2
-22,08/8/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Vasco,2,0
-23,11/8/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Vitória,1,0
-23,11/8/2004,20:30,Mangueirão - Belém,Paysandu-PA,Juventude,0,1
-23,11/8/2004,20:30,Pinheirão - Curitiba,Paraná,Internacional,1,2
-23,11/8/2004,20:30,Morumbi - São Paulo,São Paulo,Goiás,4,0
-23,11/8/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Guarani,1,1
-23,11/8/2004,21:45,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,2,0
-23,11/8/2004,21:45,São Januário - Rio de Janeiro,Vasco,Santos,2,3
-23,11/8/2004,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,0,1
-23,12/8/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,2
-23,12/8/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Atlético-MG,1,1
-23,12/8/2004,20:30,Couto Pereira - Curitiba,Coritiba,Criciúma,1,0
-23,12/8/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Atlético-PR,1,1
-24,14/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Cruzeiro,1,0
-24,14/8/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Figueirense,4,0
-24,14/8/2004,18:00,Pacaembu - São Paulo,Corinthians,Ponte Preta,2,0
-24,14/8/2004,18:00,Maracanã - Rio de Janeiro,Flamengo,Grêmio,3,0
-24,15/8/2004,16:00,Brinco de Ouro - Campinas,Guarani,Coritiba,0,0
-24,15/8/2004,16:00,Serra Dourada - Goiânia,Goiás,Botafogo-RJ,3,1
-24,15/8/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Paysandu-PA,1,1
-24,15/8/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,2
-24,15/8/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Vasco,1,0
-24,15/8/2004,17:00,Barradão - Salvador,Vitória,São Caetano,1,2
-24,15/8/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,1,0
-24,15/8/2004,18:00,Vila Belmiro - Santos,Santos,Paraná,5,1
-25,18/8/2004,20:30,Pinheirão - Curitiba,Paraná,Vitória,4,1
-25,18/8/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Internacional,3,1
-25,18/8/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Goiás,1,3
-25,18/8/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Guarani,3,0
-25,18/8/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Juventude,2,4
-25,18/8/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,1,1
-25,18/8/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,Flamengo,1,0
-25,18/8/2004,21:50,Mangueirão - Belém,Paysandu-PA,Corinthians,2,1
-25,18/8/2004,21:50,Caio Martins - Niterói,Botafogo-RJ,Santos,2,0
-25,19/8/2004,20:30,Couto Pereira - Curitiba,Coritiba,Fluminense,2,0
-25,19/8/2004,20:30,Morumbi - São Paulo,São Paulo,Criciúma,2,0
-25,19/8/2004,20:30,São Januário - Rio de Janeiro,Vasco,Atlético-MG,3,0
-26,21/8/2004,16:00,Pacaembu - São Paulo,Corinthians,Grêmio,1,1
-26,21/8/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Paraná,2,1
-26,22/8/2004,15:30,Romildão - Mogi Mirim,Santos,Figueirense,4,1
-26,22/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,São Caetano,2,2
-26,22/8/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paysandu-PA,2,0
-26,22/8/2004,16:00,Serra Dourada - Goiânia,Goiás,Ponte Preta,5,0
-26,22/8/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Coritiba,1,1
-26,22/8/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Cruzeiro,1,2
-26,22/8/2004,16:00,Brinco de Ouro - Campinas,Guarani,Vasco,1,1
-26,22/8/2004,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,São Paulo,1,0
-26,22/8/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Botafogo-RJ,1,1
-26,22/8/2004,18:00,Barradão - Salvador,Vitória,Palmeiras,2,2
-27,28/8/2004,16:00,Morumbi - São Paulo,São Paulo,Guarani,3,3
-27,28/8/2004,16:00,Pinheirão - Curitiba,Paraná,Juventude,1,2
-27,28/8/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Criciúma,1,1
-27,28/8/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,1,1
-27,28/8/2004,18:00,Mangueirão - Belém,Paysandu-PA,Internacional,2,1
-27,29/8/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vitória,2,1
-27,29/8/2004,16:00,Couto Pereira - Curitiba,Coritiba,Atlético-PR,1,2
-27,29/8/2004,16:00,Maracanã - Rio de Janeiro,Vasco,Fluminense,1,1
-27,29/8/2004,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,0,1
-27,29/8/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Flamengo,0,1
-27,29/8/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Santos,4,4
-27,29/8/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-MG,1,1
-28,01/9/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Paraná,1,4
-28,01/9/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,São Caetano,0,4
-28,01/9/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,3,2
-28,01/9/2004,20:30,Morumbi - São Paulo,São Paulo,Coritiba,2,3
-28,01/9/2004,20:30,Maracanã - Rio de Janeiro,Fluminense,Internacional,3,1
-28,01/9/2004,21:50,Pacaembu - São Paulo,Corinthians,Atlético-MG,1,0
-28,01/9/2004,21:50,Alfredo Jaconi - Caxias do Sul,Juventude,Santos,1,2
-28,01/9/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,Palmeiras,0,0
-28,02/9/2004,20:30,Arena da Baixada - Curitiba,Atlético-PR,Guarani,2,0
-28,02/9/2004,20:30,Raulino de Oliveira - Volta Redonda,Flamengo,Vitória,2,0
-28,02/9/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,1,2
-28,02/9/2004,20:30,Mangueirão - Belém,Paysandu-PA,Botafogo-RJ,2,0
-29,07/9/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,1,3
-29,07/9/2004,16:00,São Januário - Rio de Janeiro,Vasco,Paysandu-PA,0,1
-29,08/9/2004,20:30,Serra Dourada - Goiânia,Goiás,Criciúma,2,1
-29,08/9/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Figueirense,1,0
-29,08/9/2004,20:30,Pinheirão - Curitiba,Paraná,São Paulo,0,2
-29,08/9/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Juventude,1,1
-29,08/9/2004,21:50,Brinco de Ouro - Campinas,Guarani,Corinthians,0,1
-29,08/9/2004,21:50,Beira-Rio - Porto Alegre,Internacional,Flamengo,0,0
-29,08/9/2004,21:50,Vila Belmiro - Santos,Santos,Atlético-PR,1,1
-29,09/9/2004,20:30,Couto Pereira - Curitiba,Coritiba,Ponte Preta,2,0
-29,09/9/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Grêmio,2,1
-29,09/9/2004,20:30,Barradão - Salvador,Vitória,Fluminense,2,3
-30,11/9/2004,16:00,Brinco de Ouro - Campinas,Guarani,Juventude,3,1
-30,11/9/2004,16:00,São Januário - Rio de Janeiro,Vasco,São Caetano,1,2
-30,11/9/2004,16:00,Pacaembu - São Paulo,São Paulo,Cruzeiro,0,0
-30,11/9/2004,18:00,Serra Dourada - Goiânia,Goiás,Internacional,1,0
-30,12/9/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Paraná,0,2
-30,12/9/2004,16:00,Pacaembu - São Paulo,Palmeiras,Santos,1,2
-30,12/9/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Flamengo,2,1
-30,12/9/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,3,1
-30,12/9/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo-RJ,3,1
-30,12/9/2004,17:00,Barradão - Salvador,Vitória,Criciúma,1,0
-30,12/9/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Coritiba,2,1
-30,12/9/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,Paysandu-PA,1,1
-31,18/9/2004,16:00,Pinheirão - Curitiba,Paraná,Guarani,0,0
-31,18/9/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Grêmio,2,0
-31,18/9/2004,18:00,Heriberto Hülse - Criciúma,Criciúma,Fluminense,0,2
-31,18/9/2004,18:00,Vila Belmiro - Santos,Santos,Atlético-MG,2,0
-31,19/9/2004,16:00,Mangueirão - Belém,Paysandu-PA,Figueirense,3,1
-31,19/9/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Ponte Preta,1,2
-31,19/9/2004,16:00,Maracanã - Rio de Janeiro,Botafogo-RJ,Vasco,2,2
-31,19/9/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Vitória,2,1
-31,19/9/2004,16:00,Morumbi - São Paulo,Corinthians,São Paulo,0,0
-31,19/9/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Goiás,4,0
-31,19/9/2004,18:00,Couto Pereira - Curitiba,Coritiba,Palmeiras,0,0
-31,19/9/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,2,4
-32,24/9/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Ponte Preta,0,1
-32,25/9/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Coritiba,1,0
-32,25/9/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Internacional,1,1
-32,25/9/2004,16:00,Mangueirão - Belém,Paysandu-PA,Cruzeiro,3,1
-32,25/9/2004,18:00,Brinco de Ouro - Campinas,Guarani,Fluminense,1,1
-32,25/9/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,2,1
-32,26/9/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Criciúma,1,0
-32,26/9/2004,16:00,Pacaembu - São Paulo,Corinthians,Goiás,1,0
-32,26/9/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,2,1
-32,26/9/2004,16:00,São Januário - Rio de Janeiro,Vasco,Palmeiras,2,5
-32,26/9/2004,18:00,Vila Belmiro - Santos,Santos,Vitória,4,1
-32,26/9/2004,18:00,Caio Martins - Niterói,Botafogo-RJ,Paraná,4,3
-33,28/9/2004,20:30,Maracanã - Rio de Janeiro,Fluminense,Atlético-MG,1,1
-33,28/9/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,3,3
-33,28/9/2004,20:30,Morumbi - São Paulo,São Paulo,Paysandu-PA,7,0
-33,28/9/2004,20:30,Couto Pereira - Curitiba,Coritiba,Grêmio,2,1
-33,29/9/2004,20:30,Serra Dourada - Goiânia,Goiás,Juventude,1,2
-33,29/9/2004,20:30,Barradão - Salvador,Vitória,Atlético-PR,2,3
-33,29/9/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,Guarani,1,1
-33,29/9/2004,20:30,Fernando Charbub Farah - Curitiba,Paraná,Vasco,2,1
-33,29/9/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,São Caetano,3,1
-33,29/9/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,Botafogo-RJ,1,1
-33,29/9/2004,21:50,Maracanã - Rio de Janeiro,Flamengo,Corinthians,0,0
-33,29/9/2004,21:50,Beira-Rio - Porto Alegre,Internacional,Santos,2,1
-34,02/10/2004,15:30,São Januário - Rio de Janeiro,Vasco,Internacional,2,0
-34,02/10/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Goiás,2,0
-34,02/10/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,5,0
-34,02/10/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Botafogo-RJ,1,4
-34,02/10/2004,16:00,Morumbi - São Paulo,São Paulo,Palmeiras,2,1
-34,02/10/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,3,2
-34,02/10/2004,17:00,Barradão - Salvador,Vitória,Paysandu-PA,4,1
-34,02/10/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Ponte Preta,5,0
-34,02/10/2004,18:00,Brinco de Ouro - Campinas,Guarani,Santos,0,1
-34,02/10/2004,20:30,Pinheirão - Curitiba,Paraná,Coritiba,1,0
-34,02/10/2004,20:30,Pacaembu - São Paulo,Corinthians,Juventude,1,2
-34,02/10/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Criciúma,2,0
-35,06/10/2004,20:30,Couto Pereira - Curitiba,Coritiba,Cruzeiro,1,1
-35,06/10/2004,20:30,Serra Dourada - Goiânia,Goiás,Vitória,4,0
-35,06/10/2004,20:30,São Januário - Rio de Janeiro,Vasco,Figueirense,1,0
-35,06/10/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,Internacional,2,1
-35,06/10/2004,21:50,Vila Belmiro - Santos,Santos,Corinthians,1,1
-35,06/10/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,São Paulo,0,1
-35,06/10/2004,21:50,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,2,3
-35,07/10/2004,20:30,Alfredo Jaconi - Caxias do Sul,Juventude,Atlético-PR,3,3
-35,07/10/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Paraná,1,1
-35,07/10/2004,20:30,Independência - Belo Horizonte,Atlético-MG,Guarani,3,2
-35,07/10/2004,20:30,Mangueirão - Belém,Paysandu-PA,Flamengo,2,2
-35,07/10/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,São Caetano,1,1
-36,16/10/2004,16:00,Pacaembu - São Paulo,Corinthians,Coritiba,0,0
-36,16/10/2004,16:00,Barradão - Salvador,Vitória,Vasco,4,1
-36,16/10/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,2,0
-36,16/10/2004,18:00,Vila Belmiro - Santos,Santos,Ponte Preta,4,0
-36,16/10/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Goiás,1,4
-36,17/10/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paraná,1,1
-36,17/10/2004,16:00,Independência - Belo Horizonte,Atlético-MG,São Paulo,0,5
-36,17/10/2004,16:00,Brinco de Ouro - Campinas,Guarani,Cruzeiro,2,0
-36,17/10/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Paysandu-PA,3,0
-36,17/10/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Botafogo-RJ,3,1
-36,17/10/2004,18:00,Alfredo Jaconi - Caxias do Sul,Juventude,Palmeiras,0,2
-36,17/10/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Criciúma,3,1
-37,23/10/2004,16:00,Couto Pereira - Curitiba,Coritiba,Juventude,2,3
-37,23/10/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,0,3
-37,23/10/2004,16:00,Mangueirão - Belém,Paysandu-PA,Goiás,4,2
-37,23/10/2004,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,1,3
-37,23/10/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-PR,3,1
-37,23/10/2004,18:00,Mário Helênio - Niterói,Botafogo-RJ,Vitória,1,1
-37,24/10/2004,16:00,Morumbi - São Paulo,São Paulo,Santos,1,0
-37,24/10/2004,16:00,Anacleto Campanella - Sâo Caetano do Sul,São Caetano,Fluminense,2,0
-37,24/10/2004,16:00,Maracanã - Rio de Janeiro,Vasco,Flamengo,1,0
-37,24/10/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Figueirense,2,1
-37,24/10/2004,18:00,Pinheirão - Curitiba,Paraná,Corinthians,1,2
-37,24/10/2004,18:00,Brinco de Ouro - Campinas,Guarani,Ponte Preta,0,0
-38,26/10/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Botafogo-RJ,2,1
-38,26/10/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,2,0
-38,26/10/2004,20:30,Serra Dourada - Goiânia,Goiás,Atlético-PR,2,0
-38,26/10/2004,20:30,Barradão - Salvador,Vitória,Atlético-MG,2,1
-38,27/10/2004,20:30,Pinheirão - Curitiba,Paraná,Figueirense,2,1
-38,27/10/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Paysandu-PA,3,0
-38,27/10/2004,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Juventude,7,1
-38,27/10/2004,20:30,Beira-Rio - Porto Alegre,Internacional,Guarani,1,3
-38,27/10/2004,21:50,Couto Pereira - Curitiba,Coritiba,Vasco,0,1
-38,27/10/2004,21:50,Maracanã - Rio de Janeiro,Flamengo,Santos,1,1
-38,27/10/2004,21:50,Heriberto Hülse - Criciúma,Criciúma,Corinthians,1,1
-39,30/10/2004,16:00,Teixeirão - São José do Rio Preto,Santos,Fluminense,5,0
-39,30/10/2004,16:00,Brinco de Ouro - Campinas,Guarani,Goiás,1,1
-39,30/10/2004,16:00,Mangueirão - Belém,Paysandu-PA,Coritiba,0,0
-39,30/10/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Cruzeiro,2,1
-39,30/10/2004,18:10,Alfredo Jaconi - Caxias do Sul,Juventude,Flamengo,1,0
-39,30/10/2004,18:10,Bento Freitas - Pelotas,Grêmio,Palmeiras,2,3
-39,30/10/2004,20:30,Pacaembu - São Paulo,Corinthians,Vitória,1,0
-39,30/10/2004,20:30,Serra Dourada - Goiânia,Atlético-PR,Internacional,2,1
-39,30/10/2004,20:30,Morumbi - São Paulo,Atlético-MG,Criciúma,2,2
-39,30/10/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,1,0
-39,31/10/2004,16:00,São Januário - Rio de Janeiro,Vasco,Ponte Preta,2,2
-38,03/11/2004,20:30,Morumbi - São Paulo,São Paulo,São Caetano,4,2
-40,06/11/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Paysandu-PA,1,0
-40,06/11/2004,17:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,1,0
-40,06/11/2004,18:10,Pinheirão - Curitiba,Paraná,Grêmio,1,0
-40,06/11/2004,18:10,Maracanã - Volta Redonda,Flamengo,Guarani,1,0
-40,07/11/2004,16:00,Couto Pereira - Curitiba,Coritiba,Figueirense,2,0
-40,07/11/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Vasco,3,2
-40,07/11/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Atlético-PR,1,2
-40,07/11/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Corinthians,3,0
-40,07/11/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Santos,1,1
-40,07/11/2004,17:00,Barradão - Salvador,Vitória,Juventude,1,1
-40,07/11/2004,18:00,Morumbi - São Paulo,São Paulo,Botafogo-RJ,5,2
-40,07/11/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,São Caetano,0,3
-39,10/11/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Paraná,2,1
-41,13/11/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Cruzeiro,4,1
-41,13/11/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Coritiba,4,1
-41,13/11/2004,18:10,Pacaembu - São Paulo,Corinthians,Fluminense,1,1
-41,13/11/2004,18:10,Bento Freitas - Pelotas,Grêmio,Ponte Preta,6,1
-41,14/11/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Criciúma,6,1
-41,14/11/2004,16:00,Eduardo José Farah - Presidente Prudente,Santos,Goiás,2,1
-41,14/11/2004,16:00,Ipatingão - Ipatinga,Atlético-MG,Flamengo,6,1
-41,14/11/2004,16:00,Brinco de Ouro - Campinas,Guarani,Vitória,0,0
-41,14/11/2004,16:00,São Januário - Rio de Janeiro,Vasco,São Paulo,0,0
-41,14/11/2004,17:00,Mangueirão - Belém,Paysandu-PA,Paraná,1,1
-41,14/11/2004,18:00,Colosso da Lagoa - Caxias do Sul,Juventude,Internacional,2,3
-41,14/11/2004,18:00,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,0,1
-42,20/11/2004,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Figueirense,0,2
-42,20/11/2004,16:00,Pinheirão - Curitiba,Paraná,Atlético-MG,1,0
-42,20/11/2004,18:10,Barradão - Salvador,Vitória,Grêmio,2,0
-42,20/11/2004,18:10,Parque Antarctica - São Paulo,Palmeiras,Guarani,0,2
-42,21/11/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Paysandu-PA,1,0
-42,21/11/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Botafogo-RJ,0,0
-42,21/11/2004,16:00,Serra Dourada - Goiânia,Goiás,Vasco,3,2
-42,21/11/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-PR,2,3
-42,21/11/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,0,1
-42,21/11/2004,16:00,Couto Pereira - Curitiba,Coritiba,Santos,0,1
-42,21/11/2004,18:00,Beira-Rio - Porto Alegre,Internacional,São Caetano,1,0
-42,21/11/2004,18:00,Morumbi - São Paulo,São Paulo,Juventude,4,0
-43,27/11/2004,16:00,Santa Cruz - Ribeirão Preto,Figueirense,Atlético-MG,2,1
-43,27/11/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Guarani,1,0
-43,27/11/2004,16:00,Pinheirão - Curitiba,Paraná,Goiás,2,1
-43,27/11/2004,18:10,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,3
-43,27/11/2004,18:10,Morumbi - São Paulo,São Paulo,Internacional,2,1
-43,28/11/2004,16:00,Mangueirão - Belém,Paysandu-PA,Santos,1,1
-43,28/11/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Corinthians,2,1
-43,28/11/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Criciúma,1,0
-43,28/11/2004,16:00,Couto Pereira - Curitiba,Coritiba,Vitória,5,1
-43,28/11/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Flamengo,1,2
-43,28/11/2004,18:00,Colosso da Lagoa - Erechim,Grêmio,Atlético-PR,3,3
-43,28/11/2004,18:00,São Januário - Rio de Janeiro,Vasco,Juventude,1,1
-44,04/12/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Paraná,1,2
-44,04/12/2004,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Ponte Preta,1,0
-44,04/12/2004,16:00,Brinco de Ouro - Campinas,Guarani,Figueirense,2,1
-44,04/12/2004,16:00,Ipatingão - Belo Horizonte,Atlético-MG,Paysandu-PA,0,0
-44,04/12/2004,18:10,Serra Dourada - Goiânia,Goiás,Palmeiras,0,0
-44,04/12/2004,18:10,Pacaembu - São Paulo,Corinthians,Vasco,3,1
-44,05/12/2004,16:00,Barradão - Salvador,Vitória,São Paulo,1,4
-44,05/12/2004,16:00,Teixeirão - São José do Rio Preto,Santos,Grêmio,5,1
-44,05/12/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Caetano,5,2
-44,05/12/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Botafogo-RJ,1,0
-44,05/12/2004,18:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,2,0
-44,05/12/2004,18:00,Maracanã - Rio de Janeiro,Flamengo,Coritiba,0,0
-45,11/12/2004,16:00,Colosso da Lagoa - Porto Alegre,Grêmio,Atlético-MG,0,1
-45,11/12/2004,17:00,Mangueirão - Belém,Paysandu-PA,Guarani,4,2
-45,11/12/2004,18:10,Parque Antarctica - São Paulo,Palmeiras,Criciúma,3,2
-45,11/12/2004,18:10,Pinheirão - Curitiba,Paraná,Fluminense,0,1
-45,12/12/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,1,0
-45,12/12/2004,16:00,São Januário - Rio de Janeiro,Vasco,Atlético-PR,1,0
-45,12/12/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Corinthians,1,2
-45,12/12/2004,16:00,Anacleto Campanella - S. Caetano Do Sul,São Caetano,Santos,0,3
-45,12/12/2004,16:00,Morumbi - São Paulo,São Paulo,Flamengo,1,1
-45,12/12/2004,16:00,Couto Pereira - Curitiba,Coritiba,Goiás,1,0
-45,12/12/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,Internacional,1,2
-45,12/12/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Vitória,4,0
-46,19/12/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Coritiba,3,3
-46,19/12/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Paraná,2,1
-46,19/12/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Cruzeiro,6,2
-46,19/12/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Palmeiras,1,1
-46,19/12/2004,16:00,Barradão - Salvador,Vitória,Ponte Preta,1,2
-46,19/12/2004,16:00,Serra Dourada - Goiânia,Goiás,São Paulo,2,0
-46,19/12/2004,16:00,Brinco de Ouro - Campinas,Guarani,Grêmio,2,0
-46,19/12/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,São Caetano,3,0
-46,19/12/2004,16:00,Teixeirão - São José do Rio Preto,Santos,Vasco,2,1
-46,19/12/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Botafogo-RJ,1,1
-46,19/12/2004,16:00,Pacaembu - São Paulo,Corinthians,Figueirense,5,2
-46,19/12/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Paysandu-PA,1,2
+rodada,data,hora,local,casa,fora,gols_casa,gols_fora,tecnico_casa,tecnico_fora
+1,21/4/2004,16:00,Caio Martins - Niterói,Botafogo,Goiás,1,4,Levir Culpi,Celso Roth
+1,21/4/2004,16:00,Orlando Scarpelli - Florianopólis,Figueirense,Internacional,1,0,Dorival Júnior,Lori Sandri
+1,21/4/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Vitória,1,0,Muricy Ramalho,Agnaldo Liz
+1,21/4/2004,18:00,Mineirão - Ipatinga,Cruzeiro,Juventude,2,1,Paulo César Gusmão,Ivo Wortmann
+1,21/4/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-MG,0,0,Jair Picerni,Paulo Bonamigo
+1,21/4/2004,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Flamengo,0,0,Adilson Batista,N/A
+1,21/4/2004,21:45,Moisés Lucarelli - São Paulo,Ponte Preta,Corinthians,3,2,Estevam Soares,Oswaldo de Oliveira
+1,21/4/2004,21:45,Pinheirão - Curitiba,Paraná,Santos,3,2,Paulo Campos,Emerson Leão
+1,22/4/2004,20:30,Couto Pereira - Curitiba,Coritiba,Guarani,1,0,Antônio Lopes,Joel Santana
+1,22/4/2004,20:30,São Januário - Rio de Janeiro,Vasco,Criciúma,0,1,GENINHO,Vagner Benazzi
+1,22/4/2004,20:30,Mangueirão - Belém,Paysandu-PA,Fluminense,3,3,Arthur Neto,Ricardo Gomes
+1,22/4/2004,20:30,Morumbi - São Paulo,São Paulo,Atlético-PR,1,0,Cuca,Júlio Piza
+2,24/4/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Ponte Preta,0,0,Abel Braga,Estevam Soares
+2,24/4/2004,16:00,Serra Dourada - Goiânia,Goiás,Cruzeiro,2,2,Celso Roth,Paulo César Gusmão
+2,24/4/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Grêmio,1,1,Ivo Wortmann,Adilson Batista
+2,25/4/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Palmeiras,1,0,Jair Picerni,Lori Sandri
+2,25/4/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Vasco,1,1,Paulo Bonamigo,Geninho
+2,25/4/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Coritiba,1,1,Ricardo Gomes,Antônio Lopes
+2,25/4/2004,16:00,Pacaembu - São Paulo,Corinthians,Paysandu-PA,2,1,Oswaldo de Oliveira,Arthur Neto
+2,25/4/2004,16:00,Brinco de Ouro - Campinas,Guarani,São Caetano,1,1,N/A,N/A
+2,25/4/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Figueirense,0,3,Júlio Piza,Dorival Júnior
+2,25/4/2004,17:00,Barradão - Salvador,Vitória,Paraná,6,1,Agnaldo Liz,Paulo Campos
+2,25/4/2004,18:00,Heriberto Hülse - Criciúma,Criciúma,São Paulo,1,1,Vagner Benazzi,Cuca
+2,25/4/2004,18:00,Vila Belmiro - Santos,Santos,Botafogo-RJ,2,0,Emerson Leão,Levir Culpi
+3,28/4/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Atlético-MG,2,2,Luiz Matter,Paulo Bonamigo
+3,28/4/2004,20:30,Couto Pereira - Curitiba,Coritiba,Internacional,1,1,Antônio Lopes,Lori Sandri
+3,28/4/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Criciúma,2,2,Paulo César Gusmão,Vagner Benazzi
+3,28/4/2004,20:30,Mangueirão - Belém,Paysandu-PA,Atlético-PR,0,3,Artur Neto,Lio Evaristo
+3,28/4/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Goiás,2,0,Estevam Soares,Celso Roth
+3,28/4/2004,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Santos,2,1,Dorival Júnior,Emerson Leão
+3,28/4/2004,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Corinthians,4,0,Adilson Batista,Oswaldo de Oliveira
+3,28/4/2004,21:45,Morumbi - São Paulo,São Paulo,Fluminense,1,0,Cuca,Ricardo Gomes
+3,29/4/2004,20:30,São Januário - Rio de Janeiro,Vasco,Guarani,0,1,Geninho,Joel Santana
+3,29/4/2004,20:30,Pinheirão - Curitiba,Paraná,Flamengo,2,1,Paulo Campos,Abel Braga
+3,29/4/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Vitória,2,2,Jair Picerni,Agnaldo Liz
+4,01/5/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Paysandu-PA,1,0,Lori Sandri,Nildo
+4,01/5/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Botafogo-RJ,1,0,Vagner Benazzi,Luiz Matter
+4,01/5/2004,18:00,Serra Dourada - Goiânia,Goiás,Grêmio,4,0,Celso Roth,Adílson Batista
+4,01/5/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Ponte Preta,1,2,Paulo Bonamigo,Estevam Soares
+4,02/5/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,São Caetano,1,1,Abel Braga,Muricy Ramalho
+4,02/5/2004,16:00,Vila Belmiro - Santos,Santos,Cruzeiro,1,3,Emerson Leão,Paulo César Gusmão
+4,02/5/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Vasco,1,0,Ricardo Gomes,Geninho
+4,02/5/2004,16:00,Morumbi - São Paulo,Corinthians,Palmeiras,0,4,Oswaldo de Oliveira,Jair Picerni
+4,02/5/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Paraná,4,0,Ivo Wortmann,Paulo Campos
+4,02/5/2004,17:00,Barradão - Salvador,Vitória,Figueirense,3,1,Agnaldo Liz,Dorival Júnior
+4,02/5/2004,18:00,Brinco de Ouro - Campinas,Guarani,São Paulo,2,3,Joel Santana,Cuca
+4,02/5/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Coritiba,1,1,Levir Culpi,Antônio Lopes
+5,08/5/2004,16:00,Brinco de Ouro - Campinas,Guarani,Atlético-PR,0,0,Joel Santana,Levir Culpi
+5,08/5/2004,16:00,Pinheirão - Curitiba,Paraná,Cruzeiro,2,0,Paulo Campos,Paulo César Gusmão
+5,08/5/2004,16:00,Vila Belmiro - Santos,Santos,Juventude,2,1,Márcio Fernandes (interino),Ivo Wortmann
+5,08/5/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Criciúma,5,0,Muricy Ramalho,Vagner Benazzi
+5,08/5/2004,18:00,São Januário - Rio de Janeiro,Vasco,Grêmio,1,1,Geninho,Adílson Batista
+5,08/5/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Ponte Preta,3,0,Jair Picerni,Estevam Soares
+5,09/5/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Fluminense,0,0,Lori Sandri,Ricardo Gomes
+5,09/5/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Corinthians,2,2,Paulo Bonamigo,Oswaldo de Oliveira
+5,09/5/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Paysandu-PA,2,2,Luiz Matter (interino),Givanildo de Oliveira
+5,09/5/2004,17:00,Serra Dourada - Goiânia,Goiás,Figueirense,1,0,Celso Roth,Dorival Júnior
+5,09/5/2004,18:00,Barradão - Salvador,Vitória,Flamengo,5,1,Agnaldo Liz,Abel Braga
+5,09/5/2004,18:00,Couto Pereira - Curitiba,Coritiba,São Paulo,1,2,Antônio Lopes,Cuca
+6,15/5/2004,18:00,Mangueirão - Belém,Paysandu-PA,Vasco,1,2,Givanildo Oliveira,Geninho
+6,15/5/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Santos,1,0,Levir Culpi,Vanderlei Luxemburgo
+6,16/5/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Palmeiras,2,1,Paulo César Gusmão,Jair Picerni
+6,16/5/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Internacional,1,2,Abel Braga,Lori Sandri
+6,16/5/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Atlético-MG,1,1,Ivo Wortmann,Paulo Bonamigo
+6,16/5/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,São Caetano,1,0,Dorival Junior,Muricy Ramalho
+6,16/5/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Goiás,7,2,Vágner Benazzi,Celso Roth
+6,16/5/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Coritiba,0,0,Estevam Soares,Antônio Lopes
+6,16/5/2004,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Botafogo-RJ,2,2,Adilson Batista,Luiz Matter
+6,16/5/2004,18:00,Morumbi - São Paulo,São Paulo,Paraná,2,2,Cuca,Paulo Campos
+6,16/5/2004,18:30,Maracanã - Rio de Janeiro,Fluminense,Vitória,1,0,Ricardo Gomes,Agnaldo Liz
+6,16/5/2004,19:00,Pacaembu - São Paulo,Corinthians,Guarani,1,0,Oswaldo de Oliveira,Lino Fachini Junior
+7,22/5/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Figueirense,1,1,Mauro Galvão,Dorival Júnior
+7,22/5/2004,16:00,Mangueirão - Belém,Paysandu-PA,Grêmio,1,3,Givanildo de Oliveira,Adílson Batista
+7,22/5/2004,18:00,Beira-Rio - Porto Alegre,Internacional,Goiás,1,0,Lori Sandri,Celso Roth
+7,22/5/2004,18:00,Couto Pereira - Curitiba,Coritiba,Atlético-MG,0,1,Antônio Lopes,Paulo Bonamigo
+7,23/5/2004,16:00,Anacleto Campanella - São Paulo,São Caetano,Vasco,3,2,Muricy Ramalho,Geninho
+7,23/5/2004,16:00,Vila Belmiro - Santos,Santos,Palmeiras,0,4,Wanderley Luxemburgo,Wilson Coimbra (interino)
+7,23/5/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Fluminense,1,2,Abel Braga,Ricardo Gomes
+7,23/5/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Vitória,2,0,Vagner Benazzi,Agnaldo Liz
+7,23/5/2004,16:00,Pinheirão - Curitiba,Paraná,Ponte Preta,0,1,Paulo Campos,Estevam Soares
+7,23/5/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Guarani,2,0,Ivo Wortmann,Zetti
+7,23/5/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,São Paulo,2,1,Emerson Leão,Cuca
+7,23/5/2004,18:00,Pacaembu - São Paulo,Corinthians,Atlético-PR,0,5,Oswaldo de Oliveira,Levir Culpi
+8,29/5/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Criciúma,1,1,Ricardo Gomes,Wagner Benazzi
+8,29/5/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Juventude,0,1,Ronaldão,Ivo Wortmann
+8,29/5/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Paysandu-PA,1,1,Dorival Junior,Givanildo Oliveira
+8,29/5/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Coritiba,2,0,Estevam Soares,Antonio Lopes
+8,29/5/2004,18:00,Barradão - Salvador,Vitória,Internacional,2,1,Agnaldo Liz,Lori Sandri
+8,30/5/2004,16:00,Morumbi - São Paulo,São Paulo,Corinthians,1,1,Cuca,Tite
+8,30/5/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Santos,3,3,Paulo Bonamigo,Vanderlei Luxemburgo
+8,30/5/2004,16:00,Brinco de Ouro - Campinas,Guarani,Paraná,1,0,Zetti,Paulo Campos
+8,30/5/2004,16:00,Maracanã - Rio de Janeiro,Vasco,Botafogo-RJ,4,0,Geninho.,Mauro Galvão.
+8,30/5/2004,16:00,Serra Dourada - Goiânia,Goiás,Flamengo,2,2,Celso Roth.,Abel Braga.
+8,30/5/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,São Caetano,1,2,Adilson Batista.,Muricy Ramalho.
+8,30/5/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Cruzeiro,3,1,Levir Culpi.,Emerson Leão
+9,12/6/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Guarani,1,1,Ricardo Gomes,Zetti
+9,12/6/2004,16:00,Pinheirão - Curitiba,Paraná,Botafogo-RJ,1,1,Paulo Campos,Mauro Galvão
+9,12/6/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-MG,4,1,Lori Sandri,Paulo Afonso Bonamigo
+9,12/6/2004,18:00,Morumbi - São Paulo,São Paulo,Grêmio,3,2,Cuca,José Luiz Plein
+9,13/6/2004,16:00,Serra Dourada - Goiânia,Goiás,Corinthians,1,1,Celso Roth,Tite
+9,13/6/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Vasco,2,2,Estevam Soares,Geninho
+9,13/6/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Paysandu-PA,1,0,Leão,Givanildo de Oliveira
+9,13/6/2004,16:00,Couto Pereira - Curititba,Coritiba,São Caetano,1,0,Antonio Lopes,Muricy Ramalho
+9,13/6/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Juventude,2,0,Vagner Benazzi,Ivo Wortmann
+9,13/6/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Figueirense,0,2,Marco Aurélio,Dorival Júnior
+9,13/6/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Atlético-PR,3,0,N/A,N/A
+9,13/6/2004,18:00,Barradão - Salvador,Vitória,Santos,1,2,Agnaldo Liz,Wanderley Luxemburgo
+10,19/6/2004,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Coritiba,1,1,José Luiz Plein.,Antônio Lopes.
+10,19/6/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Vitória,1,3,Levir Culpi,Agnaldo Liz
+10,19/6/2004,16:00,São Januário - Rio de Janeiro,Vasco,Paraná,0,0,Geninho.,Paulo Campos.
+10,19/6/2004,18:00,Orlando Scarpelli - Florianópolis,Figueirense,Cruzeiro,0,0,Dorival Junior,Emerson Leão
+10,20/6/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Palmeiras,1,1,Muricy Ramalho,Estevam Soares
+10,20/6/2004,16:00,Limeirão - Limeira,Corinthians,Flamengo,1,1,Tite,Abel Braga
+10,20/6/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Ponte Preta,0,1,Mauro Galvão,Marco Aurélio
+10,20/6/2004,16:00,Mangueirão - Belém,Paysandu-PA,São Paulo,1,0,Givanildo Oliveira,Cuca
+10,20/6/2004,16:00,Brinco de Ouro - Campinas,Guarani,Criciúma,2,1,Zetti,Vágner Benazzi
+10,20/6/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Goiás,1,1,Ivo Wortmann,Celso Roth
+10,20/6/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Fluminense,2,1,Paulo Bonamigo,Ricardo Gomes
+10,20/6/2004,18:00,Vila Belmiro - Santos,Santos,Internacional,3,0,Wanderley Luxemburgo,Lori Sandri
+3,24/6/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Juventude,1,0,Muricy Ramalho,Ivo Wortmann
+11,26/6/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Grêmio,1,2,Wagner Benazzi,José Luiz Plein
+11,26/6/2004,16:00,Couto Pereira - Curirtiba,Coritiba,Paraná,1,1,Antonio Lopes,Paulo Campos
+11,26/6/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Figueirense,0,3,Abel Braga,Dorival Júnior
+11,26/6/2004,18:00,Pacaembu - São Paulo,Santos,Guarani,2,1>,Vanderlei Luxemburgo,Zetti
+11,27/6/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Vasco,1,3,Lori Sandri,Geninho
+11,27/6/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Corinthians,1,0,Ivo Wortmann,Tite
+11,27/6/2004,16:00,Mangueirão - Belém,Paysandu-PA,Vitória,4,2,Givanildo Oliveira,Agnaldo Liz
+11,27/6/2004,16:00,Maracanã - Rio de Janeiro,Botafogo-RJ,Fluminense,3,3,Mauro Galvão,Ricardo Gomes
+11,27/6/2004,16:00,Morumbi - São Paulo,Palmeiras,São Paulo,2,1,Estevam Soares,Cuca
+11,27/6/2004,17:00,Serra Dourada - Goiânia,Goiás,São Caetano,3,2,Celso Roth,Muricy Ramalho
+11,27/6/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,Cruzeiro,1,0,Marco Aurélio,Emerson Leão
+11,27/6/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Atlético-PR,0,1,Paulo Bonamigo,Levir Culpi
+12,03/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Criciúma,3,0,Leandro Machado (interino),Wagner Benazzi
+12,03/7/2004,16:00,Morumbi - São Paulo,São Paulo,Ponte Preta,2,0,Cuca,Marco Aurélio
+12,03/7/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vasco,2,2,Dorival Júnior,Geninho
+12,03/7/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Juventude,4,1,Levir Culpi,Ivo Wortmann
+12,03/7/2004,17:00,Barradão - Salvador,Vitória,Goiás,0,0,Oswaldo de Oliveira,Celso Roth
+12,03/7/2004,18:00,Brinco de Ouro - Campinas,Guarani,Atlético-MG,1,1,Zetti,Paulo Bonamigo
+12,03/7/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Grêmio,2,0,Ricardo Gomes,José Luiz Plein
+12,04/7/2004,16:00,Pinheirão - Curititba,Paraná,Palmeiras,1,2,Gilson Kleina,Estevam Soares
+12,04/7/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Botafogo-RJ,1,2,Muricy Ramalho,Mauro Galvão
+12,04/7/2004,16:00,Pacaembu - São Paulo,Corinthians,Santos,2,3,Tite,Wanderley Luxemburgo
+12,04/7/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Paysandu-PA,4,1,Abel Braga,Givanildo Oliveira
+12,04/7/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Coritiba,0,3,Emerson Leão,Antônio Lopes
+13,06/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Vitória,3,1,Geninho,Oswaldo de Oliveira
+13,06/7/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Figueirense,2,2,José Luiz Plein,Dorival Júnior
+13,06/7/2004,20:30,Serra Dourada - Goiânia,Goiás,Fluminense,4,0,Celso Roth,Ricardo Gomes
+13,06/7/2004,20:30,Morumbi - São paulo,São Paulo,Atlético-MG,1,0,Cuca,Paulo Bonamigo
+13,07/7/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Internacional,5,1,Mauro Galvão,Joel Santana
+13,07/7/2004,20:30,Pinheirão - Curitiba,Paraná,Atlético-PR,1,0,Gilson Kleina,Levir Culpi
+13,07/7/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Guarani,2,0,Emerson Leão,Zetti
+13,07/7/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Juventude,4,1,Estevam Soares,Ivo Wortmann
+13,07/7/2004,20:30,Mangueirão - Belém,Paysandu-PA,São Caetano,0,0,Givanildo Oliveira,Muricy Ramalho
+13,07/7/2004,21:45,Heriberto Hülse - Criciúma,Criciúma,Flamengo,1,1,Vagner Benazzi,Abel Braga
+13,07/7/2004,21:45,Moisés Lucarelli - Campinas,Ponte Preta,Santos,0,4,Marco Aurélio,Vanderlei Luxemburgo
+13,07/7/2004,21:45,Couto Pereira - Curitiba,Coritiba,Corinthians,1,2,Antônio Lopes,Tite
+14,10/7/2004,16:00,Barradão - Salvador,Vitória,Botafogo-RJ,1,0,Oswaldo de Oliveira,Mauro Galvão
+14,10/7/2004,16:00,Vila Belmiro - Santos,Santos,São Paulo,2,1,Vanderlei Luxemburgo,Cuca
+14,10/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Grêmio,2,0,Joel Santana,José Luiz Plein
+14,10/7/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Vasco,0,1,Abel Braga,Geninho
+14,10/7/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Coritiba,1,0,Ivo Wortmann,Antonio Lopes
+14,10/7/2004,17:00,Serra Dourada - Goiânia,Goiás,Paysandu-PA,3,2,Celso Roth,Givanildo Oliveira
+14,10/7/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Palmeiras,0,0,Levir Culpi,Estevam Soares
+14,10/7/2004,18:00,Pacaembu - São Paulo,Corinthians,Paraná,1,0,Tite,Gilson Kleina
+14,10/7/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Guarani,3,1,Marco Aurélio,Zetti
+14,10/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Cruzeiro,2,0,Paulo Bonamigo,Emerson Leão
+14,10/7/2004,20:30,Edson Passos - Edson Passos,Fluminense,São Caetano,1,0,Ricardo Gomes,Muricy Ramalho
+14,10/7/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Criciúma,2,0,Dorival Junior,Vágner Benazzi
+15,13/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Vitória,1,1,Paulo Bonamigo,Oswaldo de Oliveira
+15,13/7/2004,20:30,Pacaembu - São Paulo,Corinthians,Criciúma,1,0,Tite,Vágner Benazzi
+15,13/7/2004,20:30,Alfredo Jaconi - Caxias do Sul,Juventude,Fluminense,2,1,Ivo Wortmann,Ricardo Gomes
+15,13/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Coritiba,2,3,Geninho,Antonio Lopes
+15,13/7/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Cruzeiro,2,3,José Luiz Plein,Emerson Leão
+15,13/7/2004,20:30,Brinco de Ouro - Campinas,Guarani,Internacional,2,1,N/A,N/A
+15,13/7/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Paraná,0,0,Dorival Junior,Gilson Kleina
+15,13/7/2004,20:30,Mangueirão - São Paulo,Paysandu-PA,Ponte Preta,3,0,Givanildo Oliveira,Marco Aurélio
+15,13/7/2004,20:30,Arena da Baixada - Curitiba,Atlético-PR,Goiás,6,0,Levir Culpi,Celso Roth
+15,13/7/2004,20:30,Anacleto Campanella - São Paulo,São Caetano,São Paulo,0,0,Muricy Ramalho,Cuca
+15,13/7/2004,21:40,Caio Martins - Niterói,Botafogo-RJ,Palmeiras,1,1,Mauro Galvão,Estevam Soares
+15,13/7/2004,21:40,Vila Belmiro - Santos,Santos,Flamengo,2,0,Vanderlei Luxemburgo,Abel Braga
+16,17/7/2004,16:00,Barradão - Salvador,Vitória,Corinthians,1,1,Oswaldo de Oliveira,Tite
+16,17/7/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Botafogo-RJ,3,2,Emerson Leão,Mauro Galvão
+16,17/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Atlético-PR,6,0,Joel Santana,Levir Culpi
+16,17/7/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Grêmio,2,0,Estevam Soares,José Luís Plein
+16,17/7/2004,16:00,Pinheirão - Curitiba,Paraná,São Caetano,0,1,Gilson Kleina,Muricy Ramalho
+16,17/7/2004,17:00,Serra Dourada - Goiânia,Goiás,Guarani,2,0,Celso Roth,Zetti
+16,17/7/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Juventude,0,1,Abel Braga,Ivo Worthman
+16,17/7/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Santos,1,0,Ricardo Gomes,Vanderlei Luxemburgo
+16,17/7/2004,20:30,Morumbi - São Paulo,São Paulo,Figueirense,2,1,Cuca,Dorival Júnior
+16,17/7/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,Atlético-MG,4,2,Vagner Benazzi,Paulo Bonamigo
+16,17/7/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Vasco,3,2,Marco Aurélio,Geninho
+16,17/7/2004,20:30,Couto Pereira - Coritiba,Coritiba,Paysandu-PA,1,1,Antônio Lopes,Givanildo Oliveira
+17,20/7/2004,19:00,Olímpico Monumental - Porto Alegre,Grêmio,Paraná,4,0,José Luiz Plein,Gilson Kleina
+17,20/7/2004,20:30,Mangueirão - Belém,Paysandu-PA,Palmeiras,1,0,Givanildo Oliveira,Estevam Soares
+17,20/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Goiás,0,2,Jair Picerni,Celso Roth
+17,20/7/2004,20:30,Brinco de Ouro - Campinas,Guarani,Flamengo,0,1,Zetti,Andrade
+17,20/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Cruzeiro,3,2,Geninho,Emerson Leão
+17,20/7/2004,20:30,Pacaembu - São Paulo,Corinthians,Internacional,0,0,Tite,Joel Santana
+17,20/7/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Coritiba,1,1,Dorival Junior,Antonio Lopes
+17,20/7/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Ponte Preta,0,1,Muricy Ramalho,Marco Aurélio
+17,20/7/2004,20:30,Alfredo Jaconi - Caxias do Sul,Juventude,Vitória,3,2,Ivo Wortmann,Oswaldo de Oliveira
+17,20/7/2004,21:40,Caio Martins - Niterói,Botafogo-RJ,São Paulo,1,0,Mauro Galvão,Cuca
+17,20/7/2004,21:45,Vila Belmiro - Santos,Santos,Criciúma,5,2,Vanderlei Luxemburgo,Vagner Benazzi
+17,20/7/2004,21:45,Arena da Baixada - Curitiba,Atlético-PR,Fluminense,4,1,Levir Culpi,Ricardo Gomes
+18,24/7/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Corinthians,2,0,Ricardo Gomes,Tite
+18,24/7/2004,16:00,Morumbi - São Paulo,São Paulo,Vasco,1,0,Cuca,Geninho
+18,24/7/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Juventude,1,2,Joel Santana,Ivo Wortmann
+18,24/7/2004,16:00,Couto Pereira - Curitiba,Coritiba,Botafogo-RJ,1,0,Antonio Lopes,Mauro Galvão
+18,24/7/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Atlético-PR,4,1,Vágner Benazzi,Levir Culpi
+18,24/7/2004,17:00,Barradão - Salvador,Vitória,Guarani,3,2,Oswaldo de Oliveira,Zetti
+18,24/7/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Atlético-MG,0,0,Andrade,Jair Picerni
+18,24/7/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,São Caetano,0,1,Emerson Leão,Candinho
+18,24/7/2004,20:30,Serra Dourada - Goiânia,Goiás,Santos,3,3,Celso Roth,Wanderley Luxemburgo
+18,24/7/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Figueirense,0,0,Estevam Soares,Dorival Junior
+18,24/7/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Grêmio,1,0,Marco Aurélio,José Luiz Plein
+18,24/7/2004,20:30,Pinheirão - Curitiba,Paraná,Paysandu-PA,2,0,Gilson Kleina,Givanildo Oliveira
+19,28/7/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Vitória,4,0,José Luiz Plein,Oswaldo de Oliveira
+19,28/7/2004,20:30,Maracanã - Rio de Janeiro,Botafogo-RJ,Flamengo,0,0,Mauro Galvão,Andrade
+19,28/7/2004,20:30,Mangueirão - Belém,Paysandu-PA,Criciúma,2,2,Givanildo de Oliveira,Vágner Benazzi
+19,28/7/2004,20:30,Arena da Baixada - Curitiba,Atlético-PR,Ponte Preta,4,0,Levir Culpi,Marco Aurélio
+19,28/7/2004,20:30,Pacaembu - São Paulo,Corinthians,Cruzeiro,1,0,Tite,Emerson Leão
+19,28/7/2004,21:45,Brinco de Ouro - Campinas,Guarani,Palmeiras,1,0,Lori Sandri,Estevam Soares
+19,28/7/2004,21:45,Alfredo Jaconi - Caxias do Sul,Juventude,São Paulo,1,2,Ivo Wortmann,Cuca
+19,28/7/2004,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Fluminense,2,1,Dorival Júnior,Ricardo Gomes
+19,29/7/2004,20:30,São Januário - Rio de Janeiro,Vasco,Goiás,3,1,Geninho,Celso Roth
+19,29/7/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Internacional,2,0,Péricles Chamusca,Joel Santana
+19,29/7/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Paraná,4,1,Jair Picerni,Gilson Kleina
+19,29/7/2004,20:30,Vila Belmiro - Santos,Santos,Coritiba,4,2,Wanderley Luxemburgo,Antonio Lopes
+20,31/7/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Grêmio,0,0,Levir Culpi,José Luiz Plein
+20,31/7/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Cruzeiro,0,0,Ricardo Gomes,Ney Franco
+20,01/8/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Palmeiras,0,1,Paulo César Gusmão,Estevam Soares
+20,01/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Vasco,1,1,Ivo Wortmann,Geninho
+20,01/8/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Figueirense,3,1,Jair Picerni,Dorival Júnior
+20,01/8/2004,16:00,Pacaembu - São Paulo,Corinthians,São Caetano,2,0,Tite,Péricles Chamusca
+20,01/8/2004,16:00,Vila Belmiro - Santos,Santos,Paysandu-PA,6,0,Vanderlei Luxemburgo,Givanildo Oliveira
+20,01/8/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Ponte Preta,3,1,Vagner Benazzi,Marco Aurélio
+20,01/8/2004,17:00,Barradão - Salvador,Vitória,Coritiba,2,2,Oswaldo de Oliveira,Antonio Lopes
+20,01/8/2004,17:00,Serra Dourada - Goiânia,Goiás,Paraná,3,0,Celso Roth,Gilson Kleina
+20,01/8/2004,18:00,Beira-Rio - Porto Alegre,Internacional,São Paulo,1,1,Joel Santana,Cuca
+20,01/8/2004,18:00,Brinco de Ouro - Campinas,Guarani,Botafogo-RJ,0,2,Lori Sandri,Mauro Galvão
+21,04/8/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Fluminense,3,2,Nenê Santana,Ricardo Gomes
+21,04/8/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Goiás,0,3,Estevam Soares,Celso Roth
+21,04/8/2004,20:30,Mangueirão - Belém,Paysandu-PA,Atlético-MG,2,1,Givanildo Oliveira,Jair Picerni
+21,04/8/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Guarani,1,1,Dorival Junior,Lori Sandri
+21,04/8/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Atlético-PR,0,3,Péricles Chamusca,Levir Culpi
+21,04/8/2004,20:30,Pinheirão - Curitiba,Paraná,Criciúma,0,3,Gilson Kleina,Vágner Benazzi
+21,04/8/2004,21:45,Olímpico Monumental - Porto Alegre,Grêmio,Santos,3,1,José Luiz Plein,Wanderley Luxemburgo
+21,04/8/2004,21:45,São Januário - Rio de Janeiro,Vasco,Corinthians,1,3,Geninho,Tite
+21,04/8/2004,21:45,Couto Pereira - Curitiba,Coritiba,Flamengo,1,0,Antonio Lopes,Paulo César Gusmão
+21,05/8/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Juventude,0,1,Mauro Galvão,Ivo Wortmann
+21,05/8/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Internacional,2,0,Ney Franco,Joel Santana
+21,05/8/2004,20:30,Morumbi - São Paulo,São Paulo,Vitória,2,1,Cuca,Oswaldo de Oliveira
+22,07/8/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Paraná,3,1,Ricardo Gomes,Gilson Kleina
+22,07/8/2004,16:00,Vila Belmiro - Santos,Santos,São Caetano,0,1,Wanderley Luxemburgo,Péricles Chamusca
+22,07/8/2004,16:00,Serra Dourada - Goiânia,Goiás,Coritiba,1,2,Celso Roth,Antonio Lopes
+22,07/8/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Grêmio,3,0,Jair Picerni,José Luiz Plein
+22,08/8/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,São Paulo,1,0,Paulo César Gusmão,Cuca
+22,08/8/2004,16:00,Pacaembu - São Paulo,Corinthians,Botafogo-RJ,2,2,Tite,Mauro Galvão
+22,08/8/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Ponte Preta,1,2,Joel Santana,Nenê Santana
+22,08/8/2004,16:00,Barradão - Salvador,Vitória,Cruzeiro,3,2,Oswaldo de Oliveira,Marco Aurélio
+22,08/8/2004,16:00,Brinco de Ouro - Campinas,Guarani,Paysandu-PA,0,0,Lori Sandri,Givanildo de Oliveira
+22,08/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Figueirense,0,0,Ivo Wortmann,Dorival Junior
+22,08/8/2004,18:00,Heriberto Hülse - Criciúma,Criciúma,Palmeiras,1,2,Vágner Benazzi,Estevam Soares
+22,08/8/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,Vasco,2,0,Levir Culpi,Geninho
+23,11/8/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Vitória,1,0,Nenê Santana,Oswaldo de Oliveira
+23,11/8/2004,20:30,Mangueirão - Belém,Paysandu-PA,Juventude,0,1,Givanildo Oliveira,Ivo Wortmann
+23,11/8/2004,20:30,Pinheirão - Curitiba,Paraná,Internacional,1,2,Gílson Kleina,Joel Santana
+23,11/8/2004,20:30,Morumbi - São Paulo,São Paulo,Goiás,4,0,Cuca,Celso Roth
+23,11/8/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Guarani,1,1,José Luiz Plein,Lori Sandri
+23,11/8/2004,21:45,Mineirão - Belo Horizonte,Cruzeiro,Flamengo,2,0,Marco Aurélio,Paulo César Gusmão
+23,11/8/2004,21:45,São Januário - Rio de Janeiro,Vasco,Santos,2,3,Geninho,Wanderley Luxemburgo
+23,11/8/2004,21:45,Orlando Scarpelli - Florianópolis,Figueirense,Corinthians,0,1,Dorival Junior,Tite
+23,12/8/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Fluminense,3,2,Estevam Soares,Ricardo Gomes
+23,12/8/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Atlético-MG,1,1,Mauro Galvão,Levir Culpi
+23,12/8/2004,20:30,Couto Pereira - Curitiba,Coritiba,Criciúma,1,0,Antonio Lopes,Vágner Benazzi
+23,12/8/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Atlético-PR,1,1,Mauro Galvão,Levir Culpi
+24,14/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Cruzeiro,1,0,Ivo Wortmann,Marco Aurélio
+24,14/8/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Figueirense,4,0,Joel Santana,Dorival Júnior
+24,14/8/2004,18:00,Pacaembu - São Paulo,Corinthians,Ponte Preta,2,0,Tite,Nenê Santana
+24,14/8/2004,18:00,Maracanã - Rio de Janeiro,Flamengo,Grêmio,3,0,Paulo César Gusmão,José Luiz Plein
+24,15/8/2004,16:00,Brinco de Ouro - Campinas,Guarani,Coritiba,0,0,Lori Sandri,Antônio Lopes
+24,15/8/2004,16:00,Serra Dourada - Goiânia,Goiás,Botafogo-RJ,3,1,Celso Roth,Mauro Galvão
+24,15/8/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Paysandu-PA,1,1,Ricardo Gomes,Adilson Baptista
+24,15/8/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Palmeiras,1,2,Jair Picerni,Estevam Soares
+24,15/8/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Vasco,1,0,Wagner Benazzi,Geninho
+24,15/8/2004,17:00,Barradão - Salvador,Vitória,São Caetano,1,2,Oswaldo de Oliveira,Péricles Chamusca
+24,15/8/2004,18:00,Arena da Baixada - Curitiba,Atlético-PR,São Paulo,1,0,Levir Culpi,Cuca
+24,15/8/2004,18:00,Vila Belmiro - Santos,Santos,Paraná,5,1,Wanderley Luxemburgo,Gilson Kleina
+25,18/8/2004,20:30,Pinheirão - Curitiba,Paraná,Vitória,4,1,Gilson Kleina,Oswaldo de Oliveira
+25,18/8/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Internacional,3,1,Estevam Soares,Joel Santana
+25,18/8/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Goiás,1,3,Marco Aurélio,Celso Roth
+25,18/8/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Guarani,3,0,Péricles Chamusca,Lori Sandri
+25,18/8/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Juventude,2,4,José Luiz Plein,Ivo Wortmann
+25,18/8/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Atlético-PR,1,1,Dorival Junior,Levir Culpi
+25,18/8/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,Flamengo,1,0,Nenê Santana,Andrade
+25,18/8/2004,21:50,Mangueirão - Belém,Paysandu-PA,Corinthians,2,1,Adílson Baptista,Tite
+25,18/8/2004,21:50,Caio Martins - Niterói,Botafogo-RJ,Santos,2,0,Paulo Bonamigo,Wanderley Luxemburgo
+25,19/8/2004,20:30,Couto Pereira - Curitiba,Coritiba,Fluminense,2,0,Antonio Lopes,Alexandre Gama (interino)
+25,19/8/2004,20:30,Morumbi - São Paulo,São Paulo,Criciúma,2,0,Cuca,Vágner Benazzi
+25,19/8/2004,20:30,São Januário - Rio de Janeiro,Vasco,Atlético-MG,3,0,Geninho,Jair Picerni
+26,21/8/2004,16:00,Pacaembu - São Paulo,Corinthians,Grêmio,1,1,Tite,José Luiz Plein
+26,21/8/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Paraná,2,1,Andrade,Gilson Kleina
+26,22/8/2004,15:30,Romildão - Mogi Mirim,Santos,Figueirense,4,1,Wanderley Luxemburgo,Dorival Junior
+26,22/8/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,São Caetano,2,2,Ivo Wortmann,Péricles Chamusca
+26,22/8/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paysandu-PA,2,0,Levir Culpi,Adilson Baptista
+26,22/8/2004,16:00,Serra Dourada - Goiânia,Goiás,Ponte Preta,5,0,Celso Roth,Nenê Santana
+26,22/8/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Coritiba,1,1,Joel Santana,Antônio Lopes
+26,22/8/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Cruzeiro,1,2,Vágner Benazzi,Marco Aurélio
+26,22/8/2004,16:00,Brinco de Ouro - Campinas,Guarani,Vasco,1,1,Lori Sandri,Geninho
+26,22/8/2004,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,São Paulo,1,0,Alexandre Gama,Cuca
+26,22/8/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Botafogo-RJ,1,1,Jair Picerni,Paulo Bonamigo
+26,22/8/2004,18:00,Barradão - Salvador,Vitória,Palmeiras,2,2,Hélio dos Anjos,Estevam Soares
+27,28/8/2004,16:00,Morumbi - São Paulo,São Paulo,Guarani,3,3,Cuca,Agnaldo Liz
+27,28/8/2004,16:00,Pinheirão - Curitiba,Paraná,Juventude,1,2,Gilson Kleina,Ivo Wortmann
+27,28/8/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Criciúma,1,1,Bonamigo,Vágner Benazzi
+27,28/8/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,Goiás,1,1,José Luís Pleinn,Celso Roth
+27,28/8/2004,18:00,Mangueirão - Belém,Paysandu-PA,Internacional,2,1,Adilson Baptista,Joel Santana
+27,29/8/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Vitória,2,1,Dorival Júnior,Hélio dos Anjos
+27,29/8/2004,16:00,Couto Pereira - Curitiba,Coritiba,Atlético-PR,1,2,Antonio Lopes,Levir Culpi
+27,29/8/2004,16:00,Maracanã - Rio de Janeiro,Vasco,Fluminense,1,1,Geninho,Alexandre Gama
+27,29/8/2004,16:00,Morumbi - São Paulo,Palmeiras,Corinthians,0,1,Tite,Estevam Soares
+27,29/8/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Flamengo,0,1,Péricles Chamusca,Ricardo Gomes
+27,29/8/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Santos,4,4,Marco Aurélio,Vanderlei Luxemburgo
+27,29/8/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-MG,1,1,Nenê Santana,Jair Picerni
+28,01/9/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Paraná,1,4,Marco Aurélio,Paulo Campos
+28,01/9/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,São Caetano,0,4,Vágner Benazzi,Péricles Chamusca
+28,01/9/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Goiás,3,2,Dorival Junior,Celso Roth
+28,01/9/2004,20:30,Morumbi - São Paulo,São Paulo,Coritiba,2,3,Cuca,Antonio Lopes
+28,01/9/2004,20:30,Maracanã - Rio de Janeiro,Fluminense,Internacional,3,1,Alexandre Gama,Joel Santana
+28,01/9/2004,21:50,Pacaembu - São Paulo,Corinthians,Atlético-MG,1,0,Tite,Jair Picerni
+28,01/9/2004,21:50,Alfredo Jaconi - Caxias do Sul,Juventude,Santos,1,2,Ivo Wortmann,Vanderlei Luxemburgo
+28,01/9/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,Palmeiras,0,0,Nenê Santana,Estevam Soares
+28,02/9/2004,20:30,Arena da Baixada - Curitiba,Atlético-PR,Guarani,2,0,Levir Culpi,Agnaldo Liz
+28,02/9/2004,20:30,Raulino de Oliveira - Volta Redonda,Flamengo,Vitória,2,0,Ricardo Gomes,Hélio dos Anjos
+28,02/9/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Vasco,1,2,José Luiz Plein,Geninho
+28,02/9/2004,20:30,Mangueirão - Belém,Paysandu-PA,Botafogo-RJ,2,0,Adilson Baptista,Paulo Bonamigo
+29,07/9/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Cruzeiro,1,3,Estevam Soares,Marco Aurélio
+29,07/9/2004,16:00,São Januário - Rio de Janeiro,Vasco,Paysandu-PA,0,1,Geninho,Adilson Batista
+29,08/9/2004,20:30,Serra Dourada - Goiânia,Goiás,Criciúma,2,1,Celso Roth,Lori Sandri
+29,08/9/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Figueirense,1,0,Péricles Chamusca,Dorival Junior
+29,08/9/2004,20:30,Pinheirão - Curitiba,Paraná,São Paulo,0,2,Paulo Campos,Emerson Leão
+29,08/9/2004,20:30,Mineirão - Belo Horizonte,Atlético-MG,Juventude,1,1,Jair Picerni,Ivo Wortmann
+29,08/9/2004,21:50,Brinco de Ouro - Campinas,Guarani,Corinthians,0,1,Agnaldo Liz,Tite
+29,08/9/2004,21:50,Beira-Rio - Porto Alegre,Internacional,Flamengo,0,0,Muricy Ramalho,Ricardo Gomes
+29,08/9/2004,21:50,Vila Belmiro - Santos,Santos,Atlético-PR,1,1,Wanderley Luxemburgo,Levir Culpi
+29,09/9/2004,20:30,Couto Pereira - Curitiba,Coritiba,Ponte Preta,2,0,Antonio Lopes,Nenê Santana
+29,09/9/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,Grêmio,2,1,Paulo Bonamigo,José Luiz Plein
+29,09/9/2004,20:30,Barradão - Salvador,Vitória,Fluminense,2,3,Hélio dos Anjos,Alexandre Gama
+30,11/9/2004,16:00,Brinco de Ouro - Campinas,Guarani,Juventude,3,1,Agnaldo Liz,Ivo Wortmann
+30,11/9/2004,16:00,São Januário - Rio de Janeiro,Vasco,São Caetano,1,2,Geninho,Péricles Chamusca
+30,11/9/2004,16:00,Pacaembu - São Paulo,São Paulo,Cruzeiro,0,0,Emerson Leão,Marco Aurélio
+30,11/9/2004,18:00,Serra Dourada - Goiânia,Goiás,Internacional,1,0,Celso Roth,Muricy Ramalho
+30,12/9/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Paraná,0,2,Nenê Santana,Paulo Campos
+30,12/9/2004,16:00,Pacaembu - São Paulo,Palmeiras,Santos,1,2,Estevam Soares,Wanderley Luxemburgo
+30,12/9/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Flamengo,2,1,Alexandre Gama,Ricardo Gomes
+30,12/9/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Corinthians,3,1,Levir Culpi,Tite
+30,12/9/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Botafogo-RJ,3,1,Dorival Júnior,Bonamigo
+30,12/9/2004,17:00,Barradão - Salvador,Vitória,Criciúma,1,0,Hélio dos Anjos,Lori Sandri
+30,12/9/2004,18:00,Mineirão - Belo Horizonte,Atlético-MG,Coritiba,2,1,Jair Picerni,Antônio Lopes
+30,12/9/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,Paysandu-PA,1,1,Cuca,Adílson Baptista
+31,18/9/2004,16:00,Pinheirão - Curitiba,Paraná,Guarani,0,0,Paulo Campos,Agnaldo Liz
+31,18/9/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Grêmio,2,0,Péricles Chamusca,Cuca
+31,18/9/2004,18:00,Heriberto Hülse - Criciúma,Criciúma,Fluminense,0,2,Lori Sandri,Alexandre Gama
+31,18/9/2004,18:00,Vila Belmiro - Santos,Santos,Atlético-MG,2,0,Wanderley Luxemburgo,Jair Picerni
+31,19/9/2004,16:00,Mangueirão - Belém,Paysandu-PA,Figueirense,3,1,Adilson Batista,Dorival Júnior
+31,19/9/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Ponte Preta,1,2,Ivo Wortmann,Nenê Santana
+31,19/9/2004,16:00,Maracanã - Rio de Janeiro,Botafogo-RJ,Vasco,2,2,Paulo Bonamigo,Geninho
+31,19/9/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Vitória,2,1,Muricy Ramalho,Hélio dos Anjos
+31,19/9/2004,16:00,Morumbi - São Paulo,Corinthians,São Paulo,0,0,Tite,Emerson Leão
+31,19/9/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Goiás,4,0,Ricardo Gomes,Celso Roth
+31,19/9/2004,18:00,Couto Pereira - Curitiba,Coritiba,Palmeiras,0,0,Antonio Lopes,Estevam Soares
+31,19/9/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-PR,2,4,Marco Aurélio,Levir Culpi
+32,24/9/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,Ponte Preta,0,1,Dorival Júnior,Nenê Santana
+32,25/9/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Coritiba,1,0,Péricles Chamusca,Antônio Lopes
+32,25/9/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,Internacional,1,1,Jair Picerni,Muricy Ramalho
+32,25/9/2004,16:00,Mangueirão - Belém,Paysandu-PA,Cruzeiro,3,1,Adílson Batista,Marco Aurélio
+32,25/9/2004,18:00,Brinco de Ouro - Campinas,Guarani,Fluminense,1,1,Alexandre Gama,Agnaldo Liz
+32,25/9/2004,18:00,Olímpico Monumental - Porto Alegre,Grêmio,São Paulo,2,1,Cuca,Emerson Leão
+32,26/9/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Criciúma,1,0,Ivo Wortmann,Lori Sandri
+32,26/9/2004,16:00,Pacaembu - São Paulo,Corinthians,Goiás,1,0,Tite,Celso Roth
+32,26/9/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Flamengo,2,1,Levir Culpi,Ricardo Gomes
+32,26/9/2004,16:00,São Januário - Rio de Janeiro,Vasco,Palmeiras,2,5,Geninho,Estevam Soares
+32,26/9/2004,18:00,Vila Belmiro - Santos,Santos,Vitória,4,1,Vanderlei Luxemburgo,Hélio dos Anjos
+32,26/9/2004,18:00,Caio Martins - Niterói,Botafogo-RJ,Paraná,4,3,Paulo Bonamigo,Paulo Campos
+33,28/9/2004,20:30,Maracanã - Rio de Janeiro,Fluminense,Atlético-MG,1,1,Alexandre Gama,Jair Picerni
+33,28/9/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Figueirense,3,3,Marco Aurélio,Dorival Junior
+33,28/9/2004,20:30,Morumbi - São Paulo,São Paulo,Paysandu-PA,7,0,Emerson Leão,Adilson Batista
+33,28/9/2004,20:30,Couto Pereira - Curitiba,Coritiba,Grêmio,2,1,Antonio Lopes,Cuca
+33,29/9/2004,20:30,Serra Dourada - Goiânia,Goiás,Juventude,1,2,Celso Roth,Ivo Wortmann
+33,29/9/2004,20:30,Barradão - Salvador,Vitória,Atlético-PR,2,3,Hélio dos Anjos,Levir Culpi
+33,29/9/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,Guarani,1,1,Lori Sandri,Agnaldo Liz
+33,29/9/2004,20:30,Fernando Charbub Farah - Curitiba,Paraná,Vasco,2,1,Paulo Campos,Joel Santana
+33,29/9/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,São Caetano,3,1,Estevam Soares,Péricles Chamusca
+33,29/9/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,Botafogo-RJ,1,1,Nenê Santana,Paulo Bonamigo
+33,29/9/2004,21:50,Maracanã - Rio de Janeiro,Flamengo,Corinthians,0,0,Ricardo Gomes,Tite
+33,29/9/2004,21:50,Beira-Rio - Porto Alegre,Internacional,Santos,2,1,Muricy Ramalho,Wanderley Luxemburgo
+34,02/10/2004,15:30,São Januário - Rio de Janeiro,Vasco,Internacional,2,0,Joel Santana,Muricy Ramalho
+34,02/10/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Goiás,2,0,Péricles Chamusca,Celso Roth
+34,02/10/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Atlético-MG,5,0,Levir Culpi,Jair Picerni
+34,02/10/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Botafogo-RJ,1,4,Alexandre Gama,Paulo Bonamigo
+34,02/10/2004,16:00,Morumbi - São Paulo,São Paulo,Palmeiras,2,1,Emerson Leão,Estevam Soares
+34,02/10/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Flamengo,3,2,Dorival Junior,Ricardo Gomes
+34,02/10/2004,17:00,Barradão - Salvador,Vitória,Paysandu-PA,4,1,Evaristo de Macedo,Adilson Batista
+34,02/10/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Ponte Preta,5,0,Marco Aurélio,Nenê Santana
+34,02/10/2004,18:00,Brinco de Ouro - Campinas,Guarani,Santos,0,1,Agnaldo Liz,Wanderley Luxemburgo
+34,02/10/2004,20:30,Pinheirão - Curitiba,Paraná,Coritiba,1,0,Paulo Campos,Antonio Lopes
+34,02/10/2004,20:30,Pacaembu - São Paulo,Corinthians,Juventude,1,2,Tite,Ivo Wortmann
+34,02/10/2004,20:30,Olímpico Monumental - Porto Alegre,Grêmio,Criciúma,2,0,Cuca,Lori Sandri
+35,06/10/2004,20:30,Couto Pereira - Curitiba,Coritiba,Cruzeiro,1,1,Antonio Lopes,Marco Aurélio
+35,06/10/2004,20:30,Serra Dourada - Goiânia,Goiás,Vitória,4,0,Celso Roth,Evaristo de Macedo
+35,06/10/2004,20:30,São Januário - Rio de Janeiro,Vasco,Figueirense,1,0,Joel Santana,Dorival Júnior
+35,06/10/2004,20:30,Heriberto Hülse - Criciúma,Criciúma,Internacional,2,1,Lori Sandri,Muricy Ramalho
+35,06/10/2004,21:50,Vila Belmiro - Santos,Santos,Corinthians,1,1,Wanderley Luxemburgo,Tite
+35,06/10/2004,21:50,Moisés Lucarelli - Campinas,Ponte Preta,São Paulo,0,1,Nenê Santana,Emerson Leão
+35,06/10/2004,21:50,Olímpico Monumental - Porto Alegre,Grêmio,Fluminense,2,3,Cuca,Alexandre Gama
+35,07/10/2004,20:30,Alfredo Jaconi - Caxias do Sul,Juventude,Atlético-PR,3,3,Ivo Wortmann,Levir Culpi
+35,07/10/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Paraná,1,1,Estevam Soares,Paulo Campos
+35,07/10/2004,20:30,Independência - Belo Horizonte,Atlético-MG,Guarani,3,2,Mário Sérgio,Renato Frederico
+35,07/10/2004,20:30,Mangueirão - Belém,Paysandu-PA,Flamengo,2,2,Adilson Batista,Ricardo Gomes
+35,07/10/2004,20:30,Caio Martins - Niterói,Botafogo-RJ,São Caetano,1,1,Paulo Bonamigo,Péricles Chamusca
+36,16/10/2004,16:00,Pacaembu - São Paulo,Corinthians,Coritiba,0,0,Tite,Antonio Lopes
+36,16/10/2004,16:00,Barradão - Salvador,Vitória,Vasco,4,1,Evaristo de Macedo,Joel Santana
+36,16/10/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Grêmio,2,0,Dorival Júnior,Cuca
+36,16/10/2004,18:00,Vila Belmiro - Santos,Santos,Ponte Preta,4,0,Wanderley Luxemburgo,Nenê Santana
+36,16/10/2004,18:00,Maracanã - Rio de Janeiro,Fluminense,Goiás,1,4,Alexandre Gama,Celso Roth
+36,17/10/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Paraná,1,1,Levir Culpi,Paulo Campos
+36,17/10/2004,16:00,Independência - Belo Horizonte,Atlético-MG,São Paulo,0,5,Mário Sérgio,Emerson Leão
+36,17/10/2004,16:00,Brinco de Ouro - Campinas,Guarani,Cruzeiro,2,0,Jair Picerni,Marco Aurélio
+36,17/10/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Paysandu-PA,3,0,Péricles Chamusca,Adilson Batista
+36,17/10/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Botafogo-RJ,3,1,Muricy Ramalho,Paulo Bonamigo
+36,17/10/2004,18:00,Alfredo Jaconi - Caxias do Sul,Juventude,Palmeiras,0,2,Ivo Wortmann,Estevam Soares
+36,17/10/2004,18:00,Raulino de Oliveira - Volta Redonda,Flamengo,Criciúma,3,1,Ricardo Gomes,Lori Sandri
+37,23/10/2004,16:00,Couto Pereira - Curitiba,Coritiba,Juventude,2,3,Antônio Lopes,Ivo Wortmann
+37,23/10/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Atlético-MG,0,3,Marco Aurélio,Mário Sérgio
+37,23/10/2004,16:00,Mangueirão - Belém,Paysandu-PA,Goiás,4,2,Adilson Batista,Celso Roth
+37,23/10/2004,16:00,Olímpico Monumental - Porto Alegre,Grêmio,Internacional,1,3,Cuca,Muricy Ramalho
+37,23/10/2004,18:00,Parque Antarctica - São Paulo,Palmeiras,Atlético-PR,3,1,Estevam Soares,Levir Culpi
+37,23/10/2004,18:00,Mário Helênio - Niterói,Botafogo-RJ,Vitória,1,1,Bonamigo,Evaristo de Macedo
+37,24/10/2004,16:00,Morumbi - São Paulo,São Paulo,Santos,1,0,Emerson Leão,Wanderley Luxemburgo
+37,24/10/2004,16:00,Anacleto Campanella - Sâo Caetano do Sul,São Caetano,Fluminense,2,0,Péricles Chamusca,Alexandre Gama
+37,24/10/2004,16:00,Maracanã - Rio de Janeiro,Vasco,Flamengo,1,0,Joel Santana,Ricardo Gomes
+37,24/10/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Figueirense,2,1,Lori Sandri.,Dorival Júnior
+37,24/10/2004,18:00,Pinheirão - Curitiba,Paraná,Corinthians,1,2,Paulo Campos,Tite
+37,24/10/2004,18:00,Brinco de Ouro - Campinas,Guarani,Ponte Preta,0,0,Jair Picerni,Nenê Santana
+38,26/10/2004,20:30,Parque Antarctica - São Paulo,Palmeiras,Botafogo-RJ,2,1,Estevam Soares,Paulo Bonamigo
+38,26/10/2004,20:30,Mineirão - Belo Horizonte,Cruzeiro,Grêmio,2,0,Marco Aurélio,Cuca
+38,26/10/2004,20:30,Serra Dourada - Goiânia,Goiás,Atlético-PR,2,0,Celso Roth,Levir Culpi
+38,26/10/2004,20:30,Barradão - Salvador,Vitória,Atlético-MG,2,1,Evaristo de Macedo,Mário Sérgio
+38,27/10/2004,20:30,Pinheirão - Curitiba,Paraná,Figueirense,2,1,Paulo Campos,Dorival Junior
+38,27/10/2004,20:30,Moisés Lucarelli - Campinas,Ponte Preta,Paysandu-PA,3,0,Nenê Santana,Adilson Batista
+38,27/10/2004,20:30,Raulino de Oliveira - Volta Redonda,Fluminense,Juventude,7,1,Alexandre Gama,Ivo Wortmann
+38,27/10/2004,20:30,Beira-Rio - Porto Alegre,Internacional,Guarani,1,3,Muricy Ramalho,Jair Picerni
+38,27/10/2004,21:50,Couto Pereira - Curitiba,Coritiba,Vasco,0,1,Antonio Lopes,Joel Santana
+38,27/10/2004,21:50,Maracanã - Rio de Janeiro,Flamengo,Santos,1,1,Ricardo Gomes,Vanderlei Luxemburgo
+38,27/10/2004,21:50,Heriberto Hülse - Criciúma,Criciúma,Corinthians,1,1,Lori Sandri,Tite
+39,30/10/2004,16:00,Teixeirão - São José do Rio Preto,Santos,Fluminense,5,0,Wanderley Luxemburgo,Alexandre Gama
+39,30/10/2004,16:00,Brinco de Ouro - Campinas,Guarani,Goiás,1,1,Jair Picerni,Celso Roth
+39,30/10/2004,16:00,Mangueirão - Belém,Paysandu-PA,Coritiba,0,0,Adilson Batista,Antonio Lopes
+39,30/10/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Cruzeiro,2,1,Paulo Bonamigo,Marco Aurélio
+39,30/10/2004,18:10,Alfredo Jaconi - Caxias do Sul,Juventude,Flamengo,1,0,Ivo Wortmann,Ricardo Gomes
+39,30/10/2004,18:10,Bento Freitas - Pelotas,Grêmio,Palmeiras,2,3,Cláudio Duarte,Estevam Soares
+39,30/10/2004,20:30,Pacaembu - São Paulo,Corinthians,Vitória,1,0,Tite,Evaristo de Macedo
+39,30/10/2004,20:30,Serra Dourada - Goiânia,Atlético-PR,Internacional,2,1,Levir Culpi,Muricy Ramalho
+39,30/10/2004,20:30,Morumbi - São Paulo,Atlético-MG,Criciúma,2,2,Mário Sérgio,Lori Sandri
+39,30/10/2004,20:30,Orlando Scarpelli - Florianópolis,Figueirense,São Paulo,1,0,Dorival Junior,Emerson Leão
+39,31/10/2004,16:00,São Januário - Rio de Janeiro,Vasco,Ponte Preta,2,2,Joel Santana,Nenê Santana
+38,03/11/2004,20:30,Morumbi - São Paulo,São Paulo,São Caetano,4,2,Emerson Leão,Péricles Chamusca
+40,06/11/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Paysandu-PA,1,0,N/A,N/A
+40,06/11/2004,17:00,Serra Dourada - Goiânia,Goiás,Atlético-MG,1,0,Celso Roth,Mário Sérgio
+40,06/11/2004,18:10,Pinheirão - Curitiba,Paraná,Grêmio,1,0,Paulo Campos,Cláudio Duarte
+40,06/11/2004,18:10,Maracanã - Volta Redonda,Flamengo,Guarani,1,0,Andrade,Jair Picerni
+40,07/11/2004,16:00,Couto Pereira - Curitiba,Coritiba,Figueirense,2,0,Antônio Lopes,Dourival Júnior
+40,07/11/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Vasco,3,2,Marco Aurélio,Joel Santana
+40,07/11/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Atlético-PR,1,2,Alexandre Gama,Levir Culpi
+40,07/11/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Corinthians,3,0,Muricy Ramalho,Tite
+40,07/11/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Santos,1,1,Lori Sandri,Wanderley Luxemburgo
+40,07/11/2004,17:00,Barradão - Salvador,Vitória,Juventude,1,1,Evaristo de Macedo,Ivo Wortmann
+40,07/11/2004,18:00,Morumbi - São Paulo,São Paulo,Botafogo-RJ,5,2,Leão,Paulo Bonamigo
+40,07/11/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,São Caetano,0,3,Nenê Santana,Péricles Chamusca
+39,10/11/2004,20:30,Anacleto Campanella - São Caetano do Sul,São Caetano,Paraná,2,1,Paulo Campos,Péricles Chamusca
+41,13/11/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Cruzeiro,4,1,Péricles Chamusca,Marco Aurélio
+41,13/11/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Coritiba,4,1,Paulo Bonamigo,Antônio Lopes
+41,13/11/2004,18:10,Pacaembu - São Paulo,Corinthians,Fluminense,1,1,Tite,Alexandre Gama
+41,13/11/2004,18:10,Bento Freitas - Pelotas,Grêmio,Ponte Preta,6,1,Cláudio Duarte,Nenê Santana
+41,14/11/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Criciúma,6,1,Levir Culpi,Lori Sandri
+41,14/11/2004,16:00,Eduardo José Farah - Presidente Prudente,Santos,Goiás,2,1,Wanderley Luxemburgo,Celso Roth
+41,14/11/2004,16:00,Ipatingão - Ipatinga,Atlético-MG,Flamengo,6,1,Mário Sérgio,Andrade
+41,14/11/2004,16:00,Brinco de Ouro - Campinas,Guarani,Vitória,0,0,Jair Picerni,Evaristo de Macedo
+41,14/11/2004,16:00,São Januário - Rio de Janeiro,Vasco,São Paulo,0,0,Joel Santana,Leão
+41,14/11/2004,17:00,Mangueirão - Belém,Paysandu-PA,Paraná,1,1,Adilson Batista,Paulo Campos
+41,14/11/2004,18:00,Colosso da Lagoa - Caxias do Sul,Juventude,Internacional,2,3,Ivo Wortmann,Muricy Ramalho
+41,14/11/2004,18:00,Orlando Scarpelli - Florianópolis,Figueirense,Palmeiras,0,1,Dorival Júnior,Estevam Soares
+42,20/11/2004,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Figueirense,0,2,Alexandre Gama,Dorival Junior
+42,20/11/2004,16:00,Pinheirão - Curitiba,Paraná,Atlético-MG,1,0,Paulo Campos,Mário Sérgio
+42,20/11/2004,18:10,Barradão - Salvador,Vitória,Grêmio,2,0,Evaristo de Macedo,Cláudio Duarte
+42,20/11/2004,18:10,Parque Antarctica - São Paulo,Palmeiras,Guarani,0,2,Estevam Soares,Jair Picerni
+42,21/11/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Paysandu-PA,1,0,Lori Sandri,Vágner Benazzi
+42,21/11/2004,16:00,Maracanã - Rio de Janeiro,Flamengo,Botafogo-RJ,0,0,Andrade,Paulo Bonamigo
+42,21/11/2004,16:00,Serra Dourada - Goiânia,Goiás,Vasco,3,2,Celso Roth,Joel Santana
+42,21/11/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Atlético-PR,2,3,Nenê Santana,Levir Culpi
+42,21/11/2004,16:00,Mineirão - Belo Horizonte,Cruzeiro,Corinthians,0,1,Ney Franco (interino),Tite
+42,21/11/2004,16:00,Couto Pereira - Curitiba,Coritiba,Santos,0,1,Antônio Lopes,Wanderley Luxemburgo
+42,21/11/2004,18:00,Beira-Rio - Porto Alegre,Internacional,São Caetano,1,0,Muricy Ramalho,Péricles Chamusca
+42,21/11/2004,18:00,Morumbi - São Paulo,São Paulo,Juventude,4,0,Emerson Leão,Ivo Wortmann
+43,27/11/2004,16:00,Santa Cruz - Ribeirão Preto,Figueirense,Atlético-MG,2,1,Dorival Júnior,Mário Sérgio
+43,27/11/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Guarani,1,0,Paulo Bonamigo,Jair Picerni
+43,27/11/2004,16:00,Pinheirão - Curitiba,Paraná,Goiás,2,1,Paulo Campos,Celso Roth
+43,27/11/2004,18:10,Mineirão - Belo Horizonte,Cruzeiro,Fluminense,2,3,Nei Franco,Alexandre Gama
+43,27/11/2004,18:10,Morumbi - São Paulo,São Paulo,Internacional,2,1,Emerson Leão,Muricy Ramalho
+43,28/11/2004,16:00,Mangueirão - Belém,Paysandu-PA,Santos,1,1,Vágner Benazzi,Wanderley Luxemburgo
+43,28/11/2004,16:00,Anacleto Campanella - São Caetano do Sul,São Caetano,Corinthians,2,1,Péricles Chamusca,Tite
+43,28/11/2004,16:00,Moisés Lucarelli - Campinas,Ponte Preta,Criciúma,1,0,Nenê Santana,Lori Sandri
+43,28/11/2004,16:00,Couto Pereira - Curitiba,Coritiba,Vitória,5,1,Antonio Lopes,Evaristo de Macedo
+43,28/11/2004,16:00,Parque Antarctica - São Paulo,Palmeiras,Flamengo,1,2,Estevam Soares,Andrade
+43,28/11/2004,18:00,Colosso da Lagoa - Erechim,Grêmio,Atlético-PR,3,3,Cláudio Duarte,Levir Culpi
+43,28/11/2004,18:00,São Januário - Rio de Janeiro,Vasco,Juventude,1,1,Joel Santana,Ivo Wortmann
+44,04/12/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Paraná,1,2,Lori Sandri,Paulo Campos
+44,04/12/2004,16:00,Raulino de Oliveira - Volta Redonda,Fluminense,Ponte Preta,1,0,Alexandre Gama,Nenê Santana
+44,04/12/2004,16:00,Brinco de Ouro - Campinas,Guarani,Figueirense,2,1,Jair Picerni,Dorival Júnior
+44,04/12/2004,16:00,Ipatingão - Belo Horizonte,Atlético-MG,Paysandu-PA,0,0,Procópio Cardoso,Wagner Benazzi
+44,04/12/2004,18:10,Serra Dourada - Goiânia,Goiás,Palmeiras,0,0,Celso Roth,Estevam Soares
+44,04/12/2004,18:10,Pacaembu - São Paulo,Corinthians,Vasco,3,1,Tite,Joel Santana
+44,05/12/2004,16:00,Barradão - Salvador,Vitória,São Paulo,1,4,Evaristo de Macedo,Emerson Leão
+44,05/12/2004,16:00,Teixeirão - São José do Rio Preto,Santos,Grêmio,5,1,Vanderlei Luxemburgo,Claudio Duarte
+44,05/12/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,São Caetano,5,2,Levir Culpi,Péricles Chamusca
+44,05/12/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Botafogo-RJ,1,0,Ivo Wortmann,Paulo Bonamigo
+44,05/12/2004,18:00,Beira-Rio - Porto Alegre,Internacional,Cruzeiro,2,0,Muricy Ramalho,Ney Franco
+44,05/12/2004,18:00,Maracanã - Rio de Janeiro,Flamengo,Coritiba,0,0,Andrade,Antônio Lopes
+45,11/12/2004,16:00,Colosso da Lagoa - Porto Alegre,Grêmio,Atlético-MG,0,1,Cláudio Soares,Procópio Cardoso
+45,11/12/2004,17:00,Mangueirão - Belém,Paysandu-PA,Guarani,4,2,Vágner Benazzi,Jair Picerni
+45,11/12/2004,18:10,Parque Antarctica - São Paulo,Palmeiras,Criciúma,3,2,Estevam Soares,Lori Sandri
+45,11/12/2004,18:10,Pinheirão - Curitiba,Paraná,Fluminense,0,1,Paulo Campos,Alexandre Gama
+45,12/12/2004,16:00,Orlando Scarpelli - Florianópolis,Figueirense,Juventude,1,0,Dorival Junior,Ivo Wortmann
+45,12/12/2004,16:00,São Januário - Rio de Janeiro,Vasco,Atlético-PR,1,0,Joel Santana,Levir Culpi
+45,12/12/2004,16:00,Caio Martins - Niterói,Botafogo-RJ,Corinthians,1,2,Paulo Bonamigo,Tite
+45,12/12/2004,16:00,Anacleto Campanella - S. Caetano Do Sul,São Caetano,Santos,0,3,Péricles Chamusca,Wanderley Luxemburgo
+45,12/12/2004,16:00,Morumbi - São Paulo,São Paulo,Flamengo,1,1,Emerson Leão,Andrade
+45,12/12/2004,16:00,Couto Pereira - Curitiba,Coritiba,Goiás,1,0,Antonio Lopes,Celso Roth
+45,12/12/2004,18:00,Moisés Lucarelli - Campinas,Ponte Preta,Internacional,1,2,Nenê Santana,Muricy Ramalho
+45,12/12/2004,18:00,Mineirão - Belo Horizonte,Cruzeiro,Vitória,4,0,Ney Franco,Evaristo de Macedo
+46,19/12/2004,16:00,Heriberto Hülse - Criciúma,Criciúma,Coritiba,3,3,Lori Sandri,Antonio Lopes
+46,19/12/2004,16:00,Beira-Rio - Porto Alegre,Internacional,Paraná,2,1,Muricy Ramalho,Paulo Campos
+46,19/12/2004,16:00,Raulino de Oliveira - Volta Redonda,Flamengo,Cruzeiro,6,2,Andrade,Ney Franco
+46,19/12/2004,16:00,Maracanã - Rio de Janeiro,Fluminense,Palmeiras,1,1,Alexandre Gama,Estevam Soares
+46,19/12/2004,16:00,Barradão - Salvador,Vitória,Ponte Preta,1,2,Evaristo de Macedo,Nenê Santana
+46,19/12/2004,16:00,Serra Dourada - Goiânia,Goiás,São Paulo,2,0,Celso Roth,Emerson Leão
+46,19/12/2004,16:00,Brinco de Ouro - Campinas,Guarani,Grêmio,2,0,Cláudio Duarte,N/A
+46,19/12/2004,16:00,Mineirão - Belo Horizonte,Atlético-MG,São Caetano,3,0,Procópio Cardoso,Péricles Chamusca
+46,19/12/2004,16:00,Teixeirão - São José do Rio Preto,Santos,Vasco,2,1,Wanderley Luxemburgo,Joel Santana
+46,19/12/2004,16:00,Arena da Baixada - Curitiba,Atlético-PR,Botafogo-RJ,1,1,Levir Culpi,Paulo Bonamigo
+46,19/12/2004,16:00,Pacaembu - São Paulo,Corinthians,Figueirense,5,2,Tite,Ivan Izzo
+46,19/12/2004,16:00,Alfredo Jaconi - Caxias do Sul,Juventude,Paysandu-PA,1,2,Naves,Ivo Wortmannh
